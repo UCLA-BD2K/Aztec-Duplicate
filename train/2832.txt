@@ -1,0 +1,1 @@
+SIGNOR (SIGnaling Network Open Resource) collects manually-annotated logic relationships between molecules that participate in signal transduction

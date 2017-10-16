@@ -1,0 +1,1 @@
+Generates column string for input to Cut Columns tool

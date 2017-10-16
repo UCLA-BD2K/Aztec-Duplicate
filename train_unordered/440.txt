@@ -1,0 +1,1 @@
+MyGene.info provides simple-to-use REST web services to query/retrieve gene annotation data. It’s designed with simplicity and performance emphasized. A typical use case is to use it to power a web application which requires querying genes and obtaining common gene annotations.

@@ -1,0 +1,1 @@
+Retrieves all sequence of an ENSEMBL homology.

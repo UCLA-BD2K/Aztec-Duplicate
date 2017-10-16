@@ -1,0 +1,1 @@
+This tool aims to measure the enrichment of annotated repeat types in ChIP-seq data. A more detailed description of the method and an application to the repetitive elements associated with histone modifications in human and mouse cells can be found in the primary publication.

@@ -1,0 +1,5 @@
+
+
+Implementation of a long-step path-following method for determinant maximization problems. Includes full C-source (with calls to LAPACK), which can be used directly or via matlab mex file interfaces, matlab examples, and documentation.
+
+Released May 1996, MAXDET was the first publicly available code for determinant maximization problems. The general purpose convex optimization package CVX currently supports maximization of the determinant of a positive definite matrix to the 1/n power (using the function det_rootn()) so it can be used for many determinant maximization problems.

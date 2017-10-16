@@ -1,0 +1,1 @@
+ImLib3D is an open source C++ library for 3D (volumetric) image processing. Includes image processing algorithms and an optional viewer. GUI or command line capable. Alternative to ITK or Matlab.

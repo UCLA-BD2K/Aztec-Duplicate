@@ -1,0 +1,1 @@
+installs ucsc application faToTwoBit for running a blat service

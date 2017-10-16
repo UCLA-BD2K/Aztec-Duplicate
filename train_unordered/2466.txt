@@ -1,0 +1,1 @@
+A comprehensive IUBMB approved classification system for membrane transport proteins known as the Transporter Classification (TC) system. The TC system is analogous to the Enzyme Commission (EC) system for classification of enzymes, but incorporates phylogenetic information additionally.

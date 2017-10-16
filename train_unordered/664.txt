@@ -1,0 +1,1 @@
+Authority: cgl.imim.es  -  Returns all the amino acid sequences corresponding to the protein Id that contains the weighted object

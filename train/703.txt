@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Retrieves an aminoacid sequence from an aminoacid database.

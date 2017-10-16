@@ -1,0 +1,1 @@
+Retrieves a GO Term from the Gene Ontology database.

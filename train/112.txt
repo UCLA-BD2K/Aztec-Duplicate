@@ -1,0 +1,2 @@
+SAS is a tool for applying structural information to a given protein sequence. It uses FASTA to scan a given protein sequence against all the proteins of known 3D structure in the Protein Data Bank and provides functional residue annotation based on data from the Catalytic Site Atlas and PDBsum.
+The web service is aimed to facilitate the use of the SAS tool when having a huge number of queries. Currently, the web service provides annotation for binding sites (to ligand, metal or nucleic acid), catalytic residues and amino acids related to protein-protein interactions.

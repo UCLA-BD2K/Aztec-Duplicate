@@ -1,0 +1,1 @@
+ClustalW  finds the best global alignment for a set of input sequences (nucleic acid or protein)

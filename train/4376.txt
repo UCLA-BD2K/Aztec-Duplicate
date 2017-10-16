@@ -1,0 +1,1 @@
+Convert Kraken output to Galaxy taxonomy data.

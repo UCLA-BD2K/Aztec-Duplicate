@@ -1,0 +1,1 @@
+Authority: cnio.es  -  PRANK (http://www.ebi.ac.uk/goldman-srv/prank/) is a probabilistic multiple alignment program for DNA, codon and amino-acid sequences. It is developed by 'Goldman Group' (EMBL - European Bioinformatics Institute).

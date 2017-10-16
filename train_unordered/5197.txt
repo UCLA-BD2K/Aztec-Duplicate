@@ -1,0 +1,1 @@
+permutation test for spatial proximity of intervals 

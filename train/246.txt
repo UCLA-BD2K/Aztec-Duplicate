@@ -1,0 +1,1 @@
+Global Biodiversity Information Facility web service for data provider networks known by the global GBIF data portal.

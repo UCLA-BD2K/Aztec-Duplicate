@@ -1,0 +1,1 @@
+A comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database.

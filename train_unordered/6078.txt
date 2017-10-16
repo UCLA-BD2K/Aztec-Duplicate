@@ -1,0 +1,1 @@
+An alpha version of a computational tool to predict a peptide’s proteotypic propensity based on its physico-chemical properties

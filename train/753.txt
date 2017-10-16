@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Retrieves the Gene Ontology graph from a term.

@@ -1,0 +1,3 @@
+Calculate distance to sheet axis from protein structures 
+          given in a PDB file format or from model protein structures to evaluate 
+          their likelihood

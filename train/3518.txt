@@ -1,0 +1,1 @@
+Gapped-read mapper for RNA-seq data.

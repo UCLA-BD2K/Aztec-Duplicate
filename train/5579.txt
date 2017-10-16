@@ -1,0 +1,1 @@
+Finds paths, filters them based on node and edge attributes and saves them.

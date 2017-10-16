@@ -1,0 +1,1 @@
+Multiple sequence alignment that combines several alignment methods

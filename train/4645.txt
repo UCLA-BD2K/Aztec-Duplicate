@@ -1,0 +1,1 @@
+FuMa: reporting overlap in RNA-seq detected fusion genes

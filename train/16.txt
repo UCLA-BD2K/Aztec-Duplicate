@@ -1,0 +1,1 @@
+Readseq reads and converts biosequences between a selection of common biological sequence formats, including EMBL, GenBank and fasta sequence formats.

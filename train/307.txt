@@ -1,0 +1,1 @@
+Pepinfo detects and displays various useful metrics about a protein sequence.

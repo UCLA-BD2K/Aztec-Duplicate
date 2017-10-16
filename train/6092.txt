@@ -1,0 +1,1 @@
+Rhea is a reaction database, where all reaction participants are linked to the ChEBI database (Chemical Entities of Biological Interest). Rhea provides built-in validations that ensure both mass and charge balance of the reactions.

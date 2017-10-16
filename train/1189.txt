@@ -1,0 +1,1 @@
+Analysis and plotting of array CGH data. Allows usage of Circular Binary Segementation, wavelet-based smoothing (both as in Liu et al., and HaarSeg as in Ben-Yaacov and Eldar), HMM, BioHMM, GLAD, CGHseg. Most computations are parallelized (either via forking or with clusters, including MPI and sockets clusters) and use ff for storing data.

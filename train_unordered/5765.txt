@@ -1,0 +1,1 @@
+CreaTools comprise a development environment and prepared applications for medical image visualization and processing (filtering, contouring, etc.). CreaTools contains high-level (pipeline scripting) and low-level (C++ programming) libraries for students and researchers to create applications based on the existing components.

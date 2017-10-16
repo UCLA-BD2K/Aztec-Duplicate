@@ -1,0 +1,5 @@
+abiview reads in an ABI sequence trace file and graphically displays the results.
+
+The data for each nucleotide is plotted and the assigned nucleotide (G, A, T, C or N) in the ABI file is overlayed on the graphs.
+
+It also writes out the sequence to an output sequence file. 

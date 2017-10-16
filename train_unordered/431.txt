@@ -1,0 +1,1 @@
+Kalign is a fast and accurate multiple sequence alignment algorithm for DNA and protein sequences. 

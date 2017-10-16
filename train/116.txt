@@ -1,0 +1,1 @@
+Keio Bioinformatics Web Service (KBWS) is an EMBASSY (EMBOSS associated software) package for accessing popular bioinformatics web services. A list of supported services is available at http://www.g-language.org/kbws/#block-list

@@ -1,0 +1,15 @@
+Copy-number variants (CNVs) are a major form of
+genetic variation and a risk factor for various human
+diseases, so it is crucial to accurately detect
+and characterize them. It is conceivable that allelespecific
+reads from high-throughput sequencing
+data could be leveraged to both enhance CNV detection
+and produce allele-specific copy number (ASCN)
+calls. Although statistical methods have been developed
+to detect CNVs using whole-genome sequence
+(WGS) and/or whole-exome sequence (WES)
+data, information from allele-specific read counts
+has not yet been adequately exploited. ASGENSENG
+incorporates allele-specific read
+counts in CNV detection and estimates ASCN using
+either WGS or WES data.

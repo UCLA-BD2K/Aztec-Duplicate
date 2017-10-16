@@ -1,0 +1,1 @@
+Search for MIRIAM URNs that can be used for annotation. Return formats are human, json and xml. Please read our API documentation for more information.

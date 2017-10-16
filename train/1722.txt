@@ -1,0 +1,1 @@
+This package uses functions of various other packages together with other functions in a coordinated way to handle and analyse cDNA microarray data

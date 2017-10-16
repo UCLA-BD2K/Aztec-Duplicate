@@ -1,0 +1,1 @@
+Galaxy wrapper for the CLC Assembly Cell suite from CLCBio

@@ -1,0 +1,1 @@
+Convert from pgSnp to gd_snp

@@ -1,0 +1,1 @@
+Data Manager for building bowtie2 indexes

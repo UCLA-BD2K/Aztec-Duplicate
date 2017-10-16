@@ -1,0 +1,1 @@
+Authority: cgl.imim.es  -  Retrieves all the log info for the asked time interval

@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  Extracts all kind of analysis from a PCASuite compressed trajectory, and returns it as a PCZ_Report

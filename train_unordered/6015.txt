@@ -1,0 +1,1 @@
+Tea (TE analyzer) is a computational method that detects the exact position and mechanism of TE insertions from paired-end whole-genome sequencing data with high accuracy.

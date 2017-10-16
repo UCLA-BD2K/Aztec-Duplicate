@@ -1,0 +1,1 @@
+Parses the FeatureeAASequence having the input article.

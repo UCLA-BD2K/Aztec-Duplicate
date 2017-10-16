@@ -1,0 +1,3 @@
+
+These web services provide access to methods for prediction of chemical sub-groups by means of user submitted mass spectra.
+Please send all feedback to hummel@mpimp-golm.mpg.de

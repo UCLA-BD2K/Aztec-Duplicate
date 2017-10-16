@@ -1,0 +1,6 @@
+REST services for MIRIAM Resources.
+Allows you to:
+- retrieve the list of all available MIRIAM datatypes
+- retrieve information about a given datatype
+- resolve a given MIRIAM URN (for example: urn:miriam:uniprot:P62158 into physical locations
+- ...

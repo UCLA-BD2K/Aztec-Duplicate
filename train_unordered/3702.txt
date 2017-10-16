@@ -1,0 +1,1 @@
+High-performance, full-featured text searches across all EMBL-EBI databases or in selected databases available from EMBL-EBI.

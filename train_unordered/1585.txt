@@ -1,0 +1,1 @@
+Helps to easily submit a microarray dataset and the associated sample information to GEO by preparing a single file for upload (direct deposit).

@@ -1,0 +1,4 @@
+
+			INTRODUCTION
+
+			This Web Service implements NetGlycate 1.0

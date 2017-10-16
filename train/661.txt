@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  compares a protein sequence to a genomic DNA sequence, allowing for introns and frameshifting errors.

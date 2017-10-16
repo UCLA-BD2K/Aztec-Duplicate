@@ -1,0 +1,1 @@
+showalign displays an aligned set of protein or a nucleic acid sequences in a style suitable for publication.

@@ -1,0 +1,1 @@
+GlobPlot performs intrinsic protein disorder, domain and globularity prediction.

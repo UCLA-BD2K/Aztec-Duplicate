@@ -1,0 +1,1 @@
+Get flanks returns flanking region/s for every gene

@@ -1,0 +1,1 @@
+Standards compliant, public data repository for proteomics data, protein and peptide identifications together with the evidence supporting these identifications.

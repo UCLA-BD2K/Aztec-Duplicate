@@ -1,0 +1,1 @@
+search for occurrences of a short motif, allowing mismatches

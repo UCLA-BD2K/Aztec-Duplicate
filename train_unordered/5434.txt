@@ -1,0 +1,1 @@
+Uses affinity propagation described in Frey BJ and Duec D (2007) to perform clustering.

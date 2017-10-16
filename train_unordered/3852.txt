@@ -1,0 +1,1 @@
+abiview reads in an ABI sequence trace file and graphically displays the results.

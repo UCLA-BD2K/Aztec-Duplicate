@@ -1,0 +1,1 @@
+ANTs is useful for managing, interpreting and visualizing multidimensional data. ANTs is popularly considered a state-of-the-art medical image registration and segmentation toolkit

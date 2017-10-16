@@ -1,0 +1,1 @@
+Proteomics database for streptomyces and caulobacter and neisseria. Unique database in the field, containing knowledge based data of time series of protein expression for various stages of development of the given species.

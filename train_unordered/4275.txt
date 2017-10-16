@@ -1,0 +1,1 @@
+Fetch closest non-overlapping feature for every interval

@@ -1,0 +1,1 @@
+Equicktandem scans a sequence for potential tandem repeats up to a specified size The results can be used to run etandem on the

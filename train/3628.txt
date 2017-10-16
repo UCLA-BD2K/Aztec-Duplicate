@@ -1,0 +1,1 @@
+EMBOSS pepstats calculates statistics for a protein such as molecular weight and isoelectric point.

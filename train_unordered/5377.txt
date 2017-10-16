@@ -1,0 +1,1 @@
+Extract flanking sequences for each VCF record

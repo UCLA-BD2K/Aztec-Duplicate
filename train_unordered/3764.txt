@@ -1,0 +1,1 @@
+The DIP database catalogs experimentally determined interactions between proteins. It combines information from a variety of sources to create a single, consistent set of protein-protein interactions. Search DIP using a protein id.

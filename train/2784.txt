@@ -1,0 +1,1 @@
+NeEMO - NEtwork Enthalpic MOdelling - is a tool for the evaluation of stability changes in proteins caused by amino-acid (AA) mutations.

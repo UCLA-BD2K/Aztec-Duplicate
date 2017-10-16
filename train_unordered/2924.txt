@@ -1,0 +1,1 @@
+The output provides info about ligand interactions, PROSITE patterns and small 3D structure motifs. The interface provides an ability to form a search criteria for similar sites/motifs

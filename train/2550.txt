@@ -1,0 +1,1 @@
+Pre-calculated protein similarities. It contains published protein sequences and is continuously updated.

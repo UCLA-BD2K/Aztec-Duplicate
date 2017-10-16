@@ -1,0 +1,1 @@
+Auto optimise a denovo RNA-seq Oases/Velvet assembly

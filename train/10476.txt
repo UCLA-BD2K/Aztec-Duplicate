@@ -1,0 +1,1 @@
+GSearcher provides a highly interactive user experience in navigating attribute data associated with large and complex biological networks. The user may either perform a quick search using keywords, phrases or regular expressions, or build a complex query with a group of filters for efficient and flexible exploration of large datasets.

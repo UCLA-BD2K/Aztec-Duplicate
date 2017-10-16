@@ -1,0 +1,1 @@
+Compare two DNA sequences allowing for inversions and translocations, ideal for promoters

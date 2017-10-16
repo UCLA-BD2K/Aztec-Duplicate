@@ -1,0 +1,1 @@
+FireDB is a curated inventory of catalytic and biologically relevant small ligand-binding residues culled from the protein structures in the Protein Data Bank plus  an extensive list of manually curated biologically relevant compounds. FireDB provides cross-references to the annotations from publicly available biological, chemical and pharmacological compound databases.

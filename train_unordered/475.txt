@@ -1,0 +1,4 @@
+The FASTA (pronounced FAST-Aye) suite of programs includes three specialist programs for searching databases with a set of sequence fragments, as may be obtained from protein mass spec. or Edman protein sequencing: 
+* FASTF - Compares an ordered peptide mixture, as would be obtained by Edman degradation of a CNBr cleavage of a protein, against a protein database. 
+* FASTM - Compares an ordered set of peptides to a protein sequence database or an ordered set of oligonucleotides to a nucleotide sequence database. 
+* FASTS - Compares a set of short peptide fragments, as would be obtained from mass-spec. analysis of a protein, against a protein database.

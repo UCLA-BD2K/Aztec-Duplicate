@@ -1,0 +1,1 @@
+HPIDB is a host-pathogen protein-protein intteraction (PPI) database, which serves as a unified resource for host-pathogen interactions. HPIDB integrates experimental PPIs from several public databases into a single, non-redundant web accessible resource. 

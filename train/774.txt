@@ -1,0 +1,1 @@
+Authority: cnio.es  -  It looks for iHOP protein or gene symbols related to the input (free text is an ID living under Global_Keyword or Global namespaces), and it returns an iHOPfoundSymbols object with the result

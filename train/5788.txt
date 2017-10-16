@@ -1,0 +1,1 @@
+DICOM viewer from a spin-off of the University of Witten/Herdecke. Runs on Windows, Mac, and Linux, and features a full set of viewing options. Supplied with a 60-page manual in German and English. Can only read limited number of files due to licensing restriction.

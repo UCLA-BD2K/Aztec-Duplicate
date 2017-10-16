@@ -1,0 +1,1 @@
+to an annotated HGVS table

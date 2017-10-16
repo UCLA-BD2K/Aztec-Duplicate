@@ -1,0 +1,1 @@
+A resource for genomic sequence data and gene and protein information for Candida albicans.

@@ -1,0 +1,1 @@
+ITSx -- Identifies ITS sequences and extracts the ITS region

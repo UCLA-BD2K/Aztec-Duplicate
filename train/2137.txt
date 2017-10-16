@@ -1,0 +1,1 @@
+R package providing functions to assess and to compare the performance of risk prediction (survival) models.

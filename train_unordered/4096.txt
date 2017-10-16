@@ -1,0 +1,1 @@
+BAM coverage statistics using samtools idxstats and depth

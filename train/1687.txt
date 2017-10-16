@@ -1,0 +1,1 @@
+A Method to normalize of Affymetrix GeneChip Human Mapping 100K and 500K set

@@ -1,0 +1,1 @@
+This package creates a HTML format QC report for MS/MS-based proteomics data. The report is intended to allow the user to quickly assess the quality of proteomics data.

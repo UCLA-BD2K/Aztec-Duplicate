@@ -1,0 +1,1 @@
+Tool dependency definition for ngs-tools version 0.1.7.

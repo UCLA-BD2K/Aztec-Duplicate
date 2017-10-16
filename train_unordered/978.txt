@@ -1,0 +1,1 @@
+STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is a database of known and predicted protein-protein interactions. The database contains information from numerous sources, including experimental repositories, computational prediction 

@@ -1,0 +1,1 @@
+installs ucsc applications: blat,gfServer, gfClient faToTwoBit for running a blat service

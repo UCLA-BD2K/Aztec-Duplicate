@@ -1,0 +1,1 @@
+Find microsatellite repeat elements sequencing reads and design PCR primers to amplify them 

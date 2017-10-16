@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Reads a CDS sequence and calculates a codon frequency table.

@@ -1,0 +1,1 @@
+This package provides functionalities for the fitting of cell population growth models on experimental OD curves.

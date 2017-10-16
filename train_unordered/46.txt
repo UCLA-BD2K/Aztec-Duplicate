@@ -1,0 +1,1 @@
+GeneCruiser is a web service allowing users to annotate their genomic data by mapping microarray feature identifiers to gene identifiers from databases, such as UniGene, while providing links to web resources, such as the UCSC Genome Browser. 

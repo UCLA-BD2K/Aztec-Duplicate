@@ -1,0 +1,1 @@
+MolRep is program for automated molecular replacement in the case where a homologous structure has already been identified.

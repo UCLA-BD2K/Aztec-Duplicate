@@ -1,0 +1,5 @@
+Authority: mmb.pcb.ub.es  -  
+            
+                    Run a Brownian Molecular Dynamic Simulation. Returns a MD_TrajectoryCRD.
+            
+    

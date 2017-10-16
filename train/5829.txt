@@ -1,0 +1,1 @@
+Navegatium is a Dicom viewer with a touchscreen-oriented user interface and PACS client (C-FIND, C-MOVE, WADO) capability. MPR and MIP projections may be displayed along with planar views. Annotations, measurements and reports are included features. Can parse and input images from local files, PACS, or the Navegatium Knowledge Base of sample data.

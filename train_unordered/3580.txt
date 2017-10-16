@@ -1,0 +1,1 @@
+Get the flanking regions of a set of reference.

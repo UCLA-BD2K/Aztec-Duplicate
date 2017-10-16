@@ -1,0 +1,1 @@
+Phobius is a server for prediction of transmembrane topology and signal peptides from the amino acid sequence of a protein.

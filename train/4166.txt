@@ -1,0 +1,1 @@
+Tool wrapper that downloads compressed fastq, unzips, trims and aligns to a reference

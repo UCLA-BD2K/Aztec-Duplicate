@@ -1,0 +1,1 @@
+MIRIAM ( (Minimal Information Requested In the Annotation of Models) Web Services provide generation and resolving facilities for MIRIAM Annotations. 

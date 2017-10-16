@@ -1,0 +1,1 @@
+A simple and straightforward Windows application to view DICOM files. Features multimodality viewer, DICOMDIR browser, save to CD, cine, header data view, multiframe and cine mode.

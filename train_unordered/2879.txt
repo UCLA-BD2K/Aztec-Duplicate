@@ -1,0 +1,1 @@
+MView reformats the results of a sequence database search (BLAST, FASTA) or a multiple alignment adding optional HTML markup to control colouring and web page layout

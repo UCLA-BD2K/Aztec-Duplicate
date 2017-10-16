@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Retrieves objects with the identifier supplied as input that appear in some namespace.

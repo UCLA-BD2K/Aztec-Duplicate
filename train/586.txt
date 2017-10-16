@@ -1,0 +1,3 @@
+Authority: mmb.pcb.ub.es  -  
+		Given a Ligand code, returns all the PDB codes that contain this ligand
+	

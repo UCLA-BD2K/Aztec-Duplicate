@@ -1,0 +1,1 @@
+DICOMscope is a free DICOM viewer which can display uncompressed, monochrome DICOM images from all modalities and which supports monitor calibration according to DICOM part 14 as well as presentation states. DICOMscope offers a print client (DICOM Basic Grayscale Print Management) which also implements the optional Presentation LUT SOP Class.

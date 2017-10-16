@@ -1,0 +1,1 @@
+A Web Service that exposes methods of the Strain Manager class of the DiaComp Object Model

@@ -1,0 +1,1 @@
+Various wrapper functions that have been written to streamline the more common analyses that a core Biostatistician might see.

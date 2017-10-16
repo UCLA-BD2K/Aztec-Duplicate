@@ -1,0 +1,1 @@
+Spatial Kappa is a simulator of models written in a variant of the rule-based stochastic modelling language Kappa, with spatial extensions. Availability: The spatial kappa simulator is an open-source project licensed under the LGPLv3, with Java source, binaries and manual available at

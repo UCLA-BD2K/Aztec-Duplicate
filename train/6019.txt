@@ -1,0 +1,1 @@
+LEVER is for lineage editing and validation. LEVER segments, tracks and lineages time lapse microscopy image sequences of live stem cells.

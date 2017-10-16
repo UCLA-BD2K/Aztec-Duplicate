@@ -1,0 +1,1 @@
+OpenSim is a freely available software system that allows you to build, exchange, and analyze musuloskeletal models and dynamic simulations of movement.

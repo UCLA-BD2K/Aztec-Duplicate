@@ -1,0 +1,1 @@
+PROLIFIC (protein-literature investigation for interacting compounds) provides a one-step solution to investigate available information on given protein names, sequences, similar proteins or sequences on the gene level.

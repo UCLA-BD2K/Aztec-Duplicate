@@ -1,0 +1,1 @@
+Clusters a given network based on topology to find densely connected regions.

@@ -1,0 +1,1 @@
+Neural network predictions of C-mannosylation sites in mammalian proteins

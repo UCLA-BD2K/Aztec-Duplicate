@@ -1,0 +1,1 @@
+Concatenation of sequences from two fasta files with exactly the same sequence identifiers

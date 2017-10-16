@@ -1,0 +1,1 @@
+Authority: pdg.cnb.uam.es  -  It returns the interaction method's description

@@ -1,0 +1,1 @@
+ImageMagick is free software to create, edit, and compose bitmap images in many formats from the commandline or via programming interfaces. Images can be cropped, resized, and combined, effects can be applied, and text, polygons, and curves can be added.

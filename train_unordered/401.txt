@@ -1,0 +1,1 @@
+Scan a protein sequence for the occurrence of a pattern.

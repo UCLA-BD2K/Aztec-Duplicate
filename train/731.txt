@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Parses a molecular weight array.

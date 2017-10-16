@@ -1,0 +1,12 @@
+This web service gives programmatic access to all of the publications and related information in Europe PubMed Central (Europe PMC). The following is included:
+
+1. Over 30 million abstracts from CiteXplore, including PubMed, Agricola, and international
+Patents from the European Patent Office. Section 3 provides background information about
+the data sources.
+2. Over 3 million full text articles from PubMed Central, of which 900 thousand are open
+access.
+3. Database crosslinks to a number of public biomolecular databases, including UniProt,
+European Nucleotide Archive (EMBL), Protein Data Bank (PDBe), InterPro and others listed in the Reference Guide.
+4. Reference lists from full text articles
+5. Citing articles (i.e. articles that cited a given article)
+6. Terms that have been text mined from full text articles. These include: genes/proteins, diseases, Gene Ontology terms, organisms, database Accession Numbers, and chemicals.

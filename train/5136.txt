@@ -1,0 +1,1 @@
+shuffle sequence, preserving dinucleotide frequency

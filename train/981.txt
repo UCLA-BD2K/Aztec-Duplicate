@@ -1,0 +1,1 @@
+A Web Service that exposes methods of the Experiment Manager class of the DCC Object Model

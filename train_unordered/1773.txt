@@ -1,0 +1,1 @@
+Package for noise-robust soft clustering of gene expression time-series data (including a graphical user interface)

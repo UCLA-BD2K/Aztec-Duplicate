@@ -1,0 +1,3 @@
+Calculate angles in beta-strands from protein or model
+        protein structures given in a PDB file format: a protein structure
+        analysis program

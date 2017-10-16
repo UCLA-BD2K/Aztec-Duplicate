@@ -1,0 +1,1 @@
+Retrieves a hierarchical non domain entry from SCOP database given a PDB identifier.

@@ -1,0 +1,1 @@
+ProTag is a Smart Tag and Add-In solution for Microsoft Office applications and allows querying the ProThesaurus Web Service from within an Office application while typing your documents. 

@@ -1,0 +1,1 @@
+Outputs a report of simple protein sequence information.

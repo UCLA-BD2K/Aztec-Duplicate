@@ -1,0 +1,1 @@
+Gets the contents of a file in format mmCIF from PDB given an PDB ID.

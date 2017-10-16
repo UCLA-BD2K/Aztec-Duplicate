@@ -1,0 +1,1 @@
+Provides a framework for allelic specific expression investigation using RNA-seq data.

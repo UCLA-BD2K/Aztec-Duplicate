@@ -1,0 +1,1 @@
+FastqMcf from ea-utils: remove barcodes and primers,filter and clip

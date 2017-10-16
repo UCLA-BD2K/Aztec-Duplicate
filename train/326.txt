@@ -1,0 +1,1 @@
+Retrieves an URL according provided object namespce and identifier.

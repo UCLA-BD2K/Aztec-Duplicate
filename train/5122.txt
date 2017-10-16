@@ -1,0 +1,1 @@
+RNA-Folding including predefined segments including K-turns

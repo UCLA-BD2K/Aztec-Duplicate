@@ -1,0 +1,1 @@
+HapCluster is a software package for association mapping

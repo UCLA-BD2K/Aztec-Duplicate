@@ -1,0 +1,1 @@
+3D Realtime Simulation der Evolution des Lebens. Frei erweiterbares Gen/Mutations-System mit Direct3D-Engine. <b>Wichtig ".NET 2.0 beta"-basierent !</b> Also wird zumindest ein Visual Basic 2005 Express Beta benötigt.

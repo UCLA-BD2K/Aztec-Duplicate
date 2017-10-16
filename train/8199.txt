@@ -1,0 +1,1 @@
+The SMARTCyp server is the first web application for site of metabolism prediction of cytochrome P450-mediated drug metabolism. Availability: The SMARTCyp server is freely available for use on the web at www.farma.ku.dk/smartcyp where the SMARTCyp Java program and source code is also available for download.

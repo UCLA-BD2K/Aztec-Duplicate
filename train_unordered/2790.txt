@@ -1,0 +1,1 @@
+MMsDusty is an alternative web-oriented InChI-based normalization tool developed with the specific aim to efficiently analyze and remove chemical redundancy, minimizing all problems that might affect the performance and the usability of any chemical database.

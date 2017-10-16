@@ -1,0 +1,1 @@
+Takes UniProtKB:Swiss-Prot identifier and a BLAST E-value as input. Retrieves similar sequences from UniProtKB:Swiss-Prot and creates a protein family report.

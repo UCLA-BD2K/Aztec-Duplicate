@@ -1,0 +1,1 @@
+"MBAT provides a workflow environment bringing together online resources, a user's image data and biological atlases in a concise, unified and intuitive workspace. MBAT is written in java so it is platform independent and is extensible through its plugin architecture."

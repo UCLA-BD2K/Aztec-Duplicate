@@ -1,0 +1,1 @@
+Generates hit count lists from bowtie sequence read alignments.

@@ -1,0 +1,1 @@
+Even in the simplified two-dimensional hydrophobic/polar (HP) model the protein folding problem is NP-complete. Here we implement a brute-force algorithm for solving short input sequences (0-1 bit string) for protein folding.

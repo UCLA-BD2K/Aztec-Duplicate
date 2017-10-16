@@ -1,0 +1,1 @@
+GutenTag is software to identify peptides by the sequence tagging technique. SEQUEST searches a sequence database by mass, but GutenTag searches with short sequences derived directly from the spectrum.

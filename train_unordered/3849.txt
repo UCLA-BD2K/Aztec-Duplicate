@@ -1,0 +1,1 @@
+prettyplot reads in a set of aligned DNA or protein sequences. It displays them graphically, with conserved regions highlighted in various ways.

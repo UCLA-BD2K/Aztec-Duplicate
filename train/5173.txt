@@ -1,0 +1,1 @@
+snpeff v4.0 from VCF, fasta reference and GFF files

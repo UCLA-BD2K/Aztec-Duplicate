@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads and compiles version 0.14.x of the scikit-learn package with Atlas support

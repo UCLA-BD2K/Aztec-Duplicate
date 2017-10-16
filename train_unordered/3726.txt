@@ -1,0 +1,1 @@
+RNAalifold predicts a consensus secondary structure of a set of aligned sequences.

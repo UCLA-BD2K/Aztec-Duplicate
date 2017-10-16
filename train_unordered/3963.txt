@@ -1,0 +1,1 @@
+barrnap is a ribosomal RNA finder for Bacterial genome sequences. GVL

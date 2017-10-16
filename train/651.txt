@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Compares a protein or dna sequence against a protein or dna database and calculates the statistical significance of matches using the Basic Local Alignment Tool (BLAST).

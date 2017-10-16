@@ -1,0 +1,1 @@
+There is a strong and growing need in the biology research community for accurate, automated image analysis. Here, we describe CellProfiler 2.0, which has been engineered to meet the needs of its growing user base. It is more robust and user friendly, with new algorithms and features to facilitate high-throughput work. ImageJ plugins can now be run within a CellProfiler pipeline.

@@ -1,0 +1,1 @@
+Provides an R package to interact with the Google Genomics API.

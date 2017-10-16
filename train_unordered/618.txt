@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  Extracts amino acid sequence that corresponds to structure in PDB

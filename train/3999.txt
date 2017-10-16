@@ -1,0 +1,1 @@
+Workflow to count species of top nr BLASTX hits of a transcriptome

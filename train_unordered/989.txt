@@ -1,0 +1,4 @@
+Fast and accurate multiple sequence alignment method.
+
+INPUT: &nbsp;set of unaligned sequences
+OUTPUT: multiple sequence alignment

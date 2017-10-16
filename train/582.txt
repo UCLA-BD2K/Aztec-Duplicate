@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  It calculates the isoelectric point of a protein from its amino acid composition assuming that no electrostatic interactions change the propensity for ionization.

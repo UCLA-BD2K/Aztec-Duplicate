@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Analysis of genomic regions containing completely or partially duplicated genes: it all high scoring pairwise alignments (HSPs) and provides the disposition of all independent copies along the genomic fragment from a BLAST report.

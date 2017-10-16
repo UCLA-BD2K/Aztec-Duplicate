@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  Searching for a pattern of a given record, in a PDB formatted file

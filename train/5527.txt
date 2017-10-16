@@ -1,0 +1,1 @@
+Enables user to define groups of nodes and display information about groups.

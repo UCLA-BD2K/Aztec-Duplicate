@@ -1,0 +1,3 @@
+Authority: mmb.pcb.ub.es  -  
+		Parses accessibility from a PHD report, where: b = 0-9%, i = 9-36%, e = 36-100%
+	

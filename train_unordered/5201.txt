@@ -1,0 +1,1 @@
+Split a multi-sequence fasta file into files containing single sequences

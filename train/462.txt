@@ -1,0 +1,1 @@
+Create Neighbor-joining or UPGMA phylogentic trees from a multiple sequence alignment using ClustalW. This service separates the phylogeny features of ClustalW from the multiple sequence alignment functionality (http://www.biocatalogue.org/services/2182).

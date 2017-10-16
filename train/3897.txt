@@ -1,0 +1,1 @@
+REST Web service to get parents, children or siblings of an ontology term from a BioPortal ontology.

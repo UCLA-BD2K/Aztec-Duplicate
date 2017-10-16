@@ -1,0 +1,1 @@
+This package provides an interface to simulate metabolic reconstruction from the BiGG database(http://bigg.ucsd.edu/) and other metabolic reconstruction databases. The package facilitates flux balance analysis (FBA) and the sampling of feasible flux distributions. Metabolic networks and estimated fluxes can be visualized with hypergraphs.

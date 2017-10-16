@@ -1,0 +1,1 @@
+Add new sequences to an existing alignment.

@@ -1,0 +1,1 @@
+Neural network predictions for serine, threonine and tyrosine phosphorylation sites in eukaryotic proteins

@@ -1,0 +1,1 @@
+Pita is a program which tries to suggest the most likely biological unit for a given X-ray crystal structure of a protein based on the crystal symmetry operators and a method of scoring each trial protein-protein interface

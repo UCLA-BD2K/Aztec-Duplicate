@@ -1,0 +1,1 @@
+I2D integrates known, experimental and predicted PPIs for five model organisms and human. It combines the literature-derived human PPIs from BIND, HPRD and MINT, with predictions made from Saccharomyces cerevisiae, Caenorhabditis elegans, Drosophila melanogaster and Mus musculus.

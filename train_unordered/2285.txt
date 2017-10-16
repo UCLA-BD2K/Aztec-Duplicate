@@ -1,0 +1,1 @@
+For retrieving article metadata from Europe PMC (http://www.europepmc.org). Covers all of PubMed (updated daily) and 3 million full text articles and other sources. A single article or list view can be returned.

@@ -1,0 +1,4 @@
+
+  SIDDbase-WS is a SOAP based Web Service created in a collaboration between the
+  Comparative Microbial Genomics Group at CBS, The Technical University of Denmark and
+  Prof

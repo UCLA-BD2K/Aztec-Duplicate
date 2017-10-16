@@ -1,0 +1,1 @@
+Retrieves an entry from a FSSP database.

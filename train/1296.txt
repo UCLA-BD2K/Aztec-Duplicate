@@ -1,0 +1,1 @@
+A BrowserViz subclassing example, xy plotting in the browser using d3

@@ -1,0 +1,1 @@
+tool for copy number variation (CNV) detection for targeted resequencing data such as those from whole-exome capture data. GVL. PeterMac

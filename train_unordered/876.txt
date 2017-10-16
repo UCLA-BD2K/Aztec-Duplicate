@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Plots a collection of ArrayXYData

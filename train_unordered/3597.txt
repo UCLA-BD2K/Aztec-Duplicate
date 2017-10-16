@@ -1,0 +1,1 @@
+BARNACLE is a Python library for RNA 3D structure prediction. It can be used for probabilistic sampling of RNA structures that are compatible with a given nucleotide sequence and that are RNA like on a local length scale.

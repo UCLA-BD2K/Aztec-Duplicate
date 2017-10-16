@@ -1,0 +1,1 @@
+Class definitions for two-color spotted microarray data. Fuctions for data input, diagnostic plots, normalization and quality checking.

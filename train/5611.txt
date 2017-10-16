@@ -1,0 +1,1 @@
+Summarizes how individuals are connected by building networks where nodes represent authors and edges represent publications.

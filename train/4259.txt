@@ -1,0 +1,1 @@
+Extract sequences from a FASTA file based on a list of IDs

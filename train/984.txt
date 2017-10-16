@@ -1,0 +1,1 @@
+This call enables the download of a specific version of an ontology from BioPortal. The full parameterized URL is http://rest.bioontology.org/bioportal/ontologies/download/39002, where 39002 is the ontology version id. 

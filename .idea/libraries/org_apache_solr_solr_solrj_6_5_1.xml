@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="org.apache.solr:solr-solrj:6.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/solr-solrj-6.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpmime-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zookeeper-3.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-asl-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/noggit-0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

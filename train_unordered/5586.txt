@@ -1,0 +1,1 @@
+Integrates phosphorylation-related information into the network.

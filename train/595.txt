@@ -1,0 +1,4 @@
+LoCo (Low-Complexity Web Service) 
+The LoCo (Low-Complexity) web-service allows to search Low-complexity regions and tandem repeats in UniProt sequences.
+There are three available methods: LCRegSearch, RepRegSearch, and RepSearch.
+LCRegSearch returns UniP

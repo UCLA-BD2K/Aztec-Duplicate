@@ -1,0 +1,1 @@
+Assemble 2 allows you to construct your RNA 3D model interactively, starting from a solved tertiary structure and the orthologous sequence to model. But you can also use Assemble2 for more simple tasks: the prediction and manipulation of a secondary structure, the annotation and exploration of a solved tertiary structure.

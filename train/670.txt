@@ -1,0 +1,1 @@
+Authority: cgl.imim.es  -  Retrieves all the Pdb identifiers that match with the ProteinId

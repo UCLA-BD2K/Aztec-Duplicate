@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Search your query sequence for protein motifs, rapidly compare your query protein sequence against all patterns stored in the PROSITE pattern database.

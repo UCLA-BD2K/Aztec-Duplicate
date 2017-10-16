@@ -1,0 +1,1 @@
+Discover patterns in unaligned protein sequences

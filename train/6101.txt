@@ -1,0 +1,1 @@
+Visual Basic application to convert data from a SCIEX/ABI Q-STAR instrument into mzXML format.

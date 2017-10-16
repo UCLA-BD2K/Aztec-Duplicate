@@ -1,0 +1,1 @@
+Generate HTML reports to explore a set of regions such as the results from annotation-agnostic expression analysis of RNA-seq data at base-pair resolution performed by derfinder.

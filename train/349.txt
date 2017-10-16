@@ -1,0 +1,1 @@
+Parses sequence IDs from the hits of a blast report.

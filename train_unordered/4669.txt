@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads and compiles version 1.3 of the the GraphicsMagick Image Processing System.

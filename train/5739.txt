@@ -1,0 +1,1 @@
+BD2KPubMed is a software tool that employs publicly available data to analyze scientific trends and research directions in a particular field of interest. 

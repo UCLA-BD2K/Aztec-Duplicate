@@ -1,0 +1,1 @@
+We present a method to identify approximately independent blocks of linkage disequi-librium in the human genome. These blocks enable automated analysis of multiple genome-wide association studies. Availability and implementation: code: http://bitbucket.org/nygcresearch/ldetect; data: http://bit-bucket.org/nygcresearch/ldetect-data.

@@ -1,0 +1,1 @@
+SPADE, or Spanning tree Progression of Density normalized Events, is an analysis and visualization tool for high dimensional flow cytometry data that organizes cells into hierarchies of related phenotypes.

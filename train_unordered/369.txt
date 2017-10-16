@@ -1,0 +1,1 @@
+Translate a PDB text format to NDB text format.

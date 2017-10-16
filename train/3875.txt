@@ -1,0 +1,1 @@
+This service provides access to Chado XML for all data objects that exist in the FlyBase database

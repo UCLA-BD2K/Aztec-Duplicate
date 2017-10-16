@@ -1,0 +1,1 @@
+Search against small molecules stored in GPCR SARfari database

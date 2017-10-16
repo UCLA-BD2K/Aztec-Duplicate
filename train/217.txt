@@ -1,0 +1,1 @@
+EMBOSS pepinfo creates a variety of plots that display different amino acid properties, such as hydropathy or charged residues, and their position.

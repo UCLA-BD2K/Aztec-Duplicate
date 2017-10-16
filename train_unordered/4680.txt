@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads and compiles version 3.1b1 of the HMMER software

@@ -1,0 +1,1 @@
+Pattern discovery in sets of unaligned protein sequences

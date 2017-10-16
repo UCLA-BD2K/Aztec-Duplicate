@@ -1,0 +1,1 @@
+Retrieves an EMBL entry given an object with id and namespace.

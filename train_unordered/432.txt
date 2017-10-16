@@ -1,0 +1,1 @@
+DbClustal is a ClustalW based alignment workflow for sequences identified by a protein BLAST (NCBI BLAST or WU-BLAST) search. Unlike MView the multiple sequence alignment created by DbClustal has the complete sequence of the hits found by BLAST, but with 

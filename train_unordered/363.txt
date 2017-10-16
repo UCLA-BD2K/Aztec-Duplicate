@@ -1,0 +1,1 @@
+Search a protein database for matches with the mass spectrometry data.

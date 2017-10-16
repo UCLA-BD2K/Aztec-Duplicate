@@ -1,0 +1,1 @@
+Remove adapter sequences from Fastq/Fasta.

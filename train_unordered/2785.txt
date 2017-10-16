@@ -1,0 +1,1 @@
+A framework for blood type prediction from genotype data.

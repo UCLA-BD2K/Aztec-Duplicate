@@ -1,0 +1,1 @@
+This WSDL file describes a simple Echo Service that echoes a string sendt to it. This service is intended primarily for testing purposes.

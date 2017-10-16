@@ -1,0 +1,1 @@
+Probabilistic inference of ChIP-Seq using an empirical Bayes mixture model approach.

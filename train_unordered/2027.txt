@@ -1,0 +1,1 @@
+This package implements the QUBIC algorithm introduced by Li et al. for the qualitative biclustering with gene expression data.

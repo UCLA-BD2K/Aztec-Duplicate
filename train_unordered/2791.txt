@@ -1,0 +1,1 @@
+MMsSimility is web-oriented tool developed with the specific aim to calculate chemical similarity indexes between a query structure and a chemical database.

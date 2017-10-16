@@ -1,0 +1,1 @@
+This service provides access to Chado XML for all data objects that exist in the FlyBase database.  Chado XML (http://gmod.org/wiki/Chado_XML) is an XML representation of data from a Chado (http://gmod.org/wiki/Chado) database.  Using this service you can

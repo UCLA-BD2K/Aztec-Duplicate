@@ -1,0 +1,1 @@
+This package is an implementation of data analysis for the long-range interactions from 3C-seq assay.

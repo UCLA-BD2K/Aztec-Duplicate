@@ -1,0 +1,1 @@
+Node.js module for working with the NCBI API (aka e-utils) using Streams.

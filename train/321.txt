@@ -1,0 +1,1 @@
+Retrieves GO Terms related to a product.

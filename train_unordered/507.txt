@@ -1,0 +1,6 @@
+InterProScan
+    
+usage: iprscan [-appl &lt;name&gt; ...] [-nocrc] [-seqtype p|n] [-trlen &lt;N&gt;] [-trtable &lt;table&gt;]
+ [-iprlookup] [-goterms] -i &lt;seqfile&gt; [-o &lt;output file&gt;]
+
+ -i &lt;seqfile&gt;      Your sequence file (mandatory

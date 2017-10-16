@@ -1,0 +1,1 @@
+Compare and search the exon-intron structure of existing gene annotations.

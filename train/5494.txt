@@ -1,0 +1,1 @@
+Retrieves attributes from SQL databases by invoking query command.

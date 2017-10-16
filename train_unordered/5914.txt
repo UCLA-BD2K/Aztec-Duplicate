@@ -1,0 +1,1 @@
+ITK-SNAP is a software application used to segment structures in 3D medical images

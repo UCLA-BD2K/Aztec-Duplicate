@@ -1,0 +1,1 @@
+display summary statistics for a profile file

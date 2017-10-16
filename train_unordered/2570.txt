@@ -1,0 +1,1 @@
+Section of the UniProt knowledgebase, containing computationally analysed records waiting for full manual annotation

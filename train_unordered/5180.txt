@@ -1,0 +1,1 @@
+Galaxy applicable data formats for SnpSift snpsift_dbnsfp tool

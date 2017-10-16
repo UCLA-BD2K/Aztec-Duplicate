@@ -1,0 +1,1 @@
+Transmembrane Domain Count is a web service that retrieves all genes having number of predicted transmembrane domains in a range that user specify.

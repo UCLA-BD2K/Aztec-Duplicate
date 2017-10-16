@@ -1,0 +1,1 @@
+Dbfetch is an acronym for "database fetch". Dbfetch provides an easy way to retrieve entries from various databases available at EMBL-EBI in a consistent manner. It can be used from any browser, via a web-aware scripting tool (e.g. curl, lynx, elinks or w

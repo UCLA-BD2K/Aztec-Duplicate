@@ -1,0 +1,1 @@
+MEDISP is a program for displaying Dicom files in many transfer syntaxes and modalities. It has flexible image processing abilities and is particularly designed for educational use.

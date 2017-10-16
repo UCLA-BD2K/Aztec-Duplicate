@@ -1,0 +1,1 @@
+An OsiriX plugin for calculation of perfusion parameters on the basis of 4-dimensional datasets.

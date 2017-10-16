@@ -1,0 +1,1 @@
+The ontoCAT R package provides a simple interface to ontologies described in widely used standard formats, stored locally in the filesystem or accessible online.

@@ -1,0 +1,1 @@
+Each major protein database uses its own conventions when assigning protein identifiers. Resolving the various, potentially unstable, identifiers that refer to identical proteins is a major challenge. This is a common problem when attempting to unify data

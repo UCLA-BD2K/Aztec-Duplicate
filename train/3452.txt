@@ -1,0 +1,1 @@
+Large collection of protein families, each represented by multiple sequence alignments and hidden Markov models (HMMs).

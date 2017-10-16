@@ -1,0 +1,1 @@
+Saves Cytoscape session in Web format.

@@ -1,0 +1,1 @@
+Infrastructure shared by all the Biostrings-based genome data packages

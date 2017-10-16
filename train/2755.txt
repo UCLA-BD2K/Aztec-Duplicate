@@ -1,0 +1,1 @@
+BAR+ is a server for the structural and functional annotation of protein sequences

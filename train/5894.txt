@@ -1,0 +1,1 @@
+"The Surface Warping protocol warps a collection of shapes to an atlas, using sets of sulcal contours to guide the warp. The atlas is computed from the contours provided by the user, and the resulting shapes will have anatomically homologous vertices."

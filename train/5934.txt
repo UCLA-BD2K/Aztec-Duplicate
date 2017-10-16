@@ -1,0 +1,1 @@
+Toppcat is used to process T1-weighted Dynamic Contrast Enhanced (DCE) MRI.

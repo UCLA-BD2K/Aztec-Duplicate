@@ -1,0 +1,1 @@
+The TFmodeller program scans a protein sequence P against a library of protein-DNA complexes and builds comparative models of P if good templates are found.

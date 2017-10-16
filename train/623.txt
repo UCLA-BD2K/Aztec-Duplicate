@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  Produces full amino acid sequence that corresponds to a PDB entry

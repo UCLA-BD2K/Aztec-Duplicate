@@ -1,0 +1,1 @@
+Brainstorm is a collaborative, open-source application dedicated to MEG/EEG/sEEG/ECoG data analysis (visualization, processing and advanced source modeling).

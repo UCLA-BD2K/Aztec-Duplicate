@@ -1,0 +1,1 @@
+Information on all of the publicly available, complete prokaryotic genomes.  Common data types across all genomes in the CMR make searches more meaningful, and cross genome analysis highlight differences and similarities between the genomes.

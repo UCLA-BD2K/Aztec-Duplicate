@@ -1,0 +1,1 @@
+a highly sensitive software tool to detect degenerated homology relations within and between different genomes

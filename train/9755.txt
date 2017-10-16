@@ -1,0 +1,1 @@
+Motivation: High-throughput sequencing technologies provide access to an increasing number of bacterial genomes. Today, many analyses involve the comparison of biological properties among many strains of a given species, or among species of a particular genus. Tools that can help the microbiologist with these tasks become increasingly important.

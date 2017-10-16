@@ -1,0 +1,1 @@
+[W4M][GC-MS] CAMERA R Package - Annotation - Returns annotation results (isotope peaks, adducts and fragments)

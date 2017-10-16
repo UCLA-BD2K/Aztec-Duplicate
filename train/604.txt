@@ -1,0 +1,1 @@
+Authority: cnio.es  -  S3det is based on a vectorial representation of the MSA in a high dimensional space. A reduction of this space by Multiple Correspondence Analysis (Greenacre, 1984) produces a low dimensional space preserving most of the original information but filtering main sources of noise.

@@ -1,0 +1,1 @@
+This tool enables retrieval of FASTA format databases (by date or version id) that can be set up in a number of archive formats.  As well one can trigger workflows like makeblastdb to generate BLAST databases.  Results can be cached for reuse by other users who make the same requests. 

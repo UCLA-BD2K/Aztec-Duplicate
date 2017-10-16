@@ -1,0 +1,1 @@
+Combine FASTA and QUAL into FASTQ.

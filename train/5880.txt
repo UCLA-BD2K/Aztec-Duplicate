@@ -1,0 +1,1 @@
+NiftyRec is a software for tomographic reconstruction, providing the fastest GPU-accelerated reconstruction tools for emission and transmission computed tomography.

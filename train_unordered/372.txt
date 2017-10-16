@@ -1,0 +1,1 @@
+Returns all accessions of a Uniprot entry identified by the input id.

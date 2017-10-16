@@ -1,0 +1,1 @@
+is a protein multiple sequence alignment algorithm based on pair hidden Markov models and partition function posterior probabilities

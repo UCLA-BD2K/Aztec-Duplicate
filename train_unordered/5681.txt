@@ -1,0 +1,1 @@
+A tool developed for migrating existing SEQUEST results to the new unified file format. 

@@ -1,0 +1,1 @@
+This package provides classes and methods to support Gene Set Enrichment Analysis (GSEA).

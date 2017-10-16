@@ -1,0 +1,1 @@
+DICOM file viewer with PACS client abilities, and internal relational database to permit local storage of received DICOM files. Can act as Storage Service Provider. Supports measurement of lengths and areas within images, creation of DICOMDIR, CD burning, AVI file export, printing. Can be run from a USB drive.

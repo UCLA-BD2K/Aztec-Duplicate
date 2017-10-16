@@ -1,0 +1,1 @@
+MOSAiCS: MOdel-based one and two Sample Analysis and inference for ChIP-Seq Data

@@ -1,0 +1,3 @@
+Authority: mmb.pcb.ub.es  -  
+		Run a Discrete Molecular Dynamic Simulation. Returns a MD_TrajectoryCRD.
+	

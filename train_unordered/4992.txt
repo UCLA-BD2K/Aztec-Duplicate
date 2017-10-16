@@ -1,0 +1,1 @@
+Filter pileup on coverage and SNPs

@@ -1,0 +1,1 @@
+Pipit is a gene-centric interactive visualization tool designed to study structural genomic variations. Through focusing on individual genes as the functional unit, researchers are able to study and generate hypotheses on the biological impact of different structural variations, for instance, the deletion of dosage-sensitive genes or the formation of fusion genes.

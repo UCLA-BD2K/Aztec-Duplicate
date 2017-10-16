@@ -1,0 +1,1 @@
+Client library that interfaces the neXtProt REST API (https://api.nextprot.org) which contains a comprehensive set of human proteins

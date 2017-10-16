@@ -1,0 +1,3 @@
+Provides and RDF model of the specified PDB record.
+
+It takes the latest PDBML document for the record and converts to RDF using the PDB2RDF software (http://pdb2rdf.googlecode.com).

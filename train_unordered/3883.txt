@@ -1,0 +1,1 @@
+DDBJ GetEntry web service wrapped by TogoWS (Towards an integrated web service in life science). GetEntry is a database search and entry retrieval by accession number against DDBJ and other biological molecular database.

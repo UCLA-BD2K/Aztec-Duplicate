@@ -1,0 +1,1 @@
+Authority: genome.imim.es  -  Converts a generic sequence into a FASTA sequence

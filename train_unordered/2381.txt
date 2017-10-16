@@ -1,0 +1,1 @@
+Database of defects in the Bruton tyrosine kinase (BTK) gene causing agammaglobulinemia. Agammaglobulinemia is characterized by failure to produce mature B lymphocyte cells and is associated with a failure of Ig heavy chain rearrangement.

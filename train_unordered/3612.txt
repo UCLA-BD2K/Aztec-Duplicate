@@ -1,0 +1,1 @@
+Webserver for Aligning non-coding RNAs. WAR is an easy-to-use webserver that makes it possible to simultaneously use the best methods for aligning and predicting the consensus secondary structure for a set of non-coding RNA sequences.

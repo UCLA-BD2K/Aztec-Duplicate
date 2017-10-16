@@ -1,0 +1,1 @@
+Sage Bionetworks has developed Synapse as an informatics platform dedicated to supporting the large-scale pooling of data, knowledge, and expertise across institutional boundaries to solve some of the most challenge problems in biomedical research.

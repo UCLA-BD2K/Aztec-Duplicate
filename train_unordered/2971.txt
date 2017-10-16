@@ -1,0 +1,1 @@
+Find regions of sequence similarity quickly, with minimum loss of sensitivity, using programs from the WU-BLAST suite (e.g. blastn, blastp, blastx, etc.)

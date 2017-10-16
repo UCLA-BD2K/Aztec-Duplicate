@@ -1,0 +1,2 @@
+Blast service.
+See http://banks.genouest.org/BmajWatcher/ for the list of available banks.

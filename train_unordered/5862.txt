@@ -1,0 +1,1 @@
+Diffusion Toolkit is a set of command-line tools with a GUI frontend that performs data reconstruction and fiber tracking on diffusion MR images

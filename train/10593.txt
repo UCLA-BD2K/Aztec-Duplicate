@@ -1,0 +1,1 @@
+KASpOD is a web service dedicated to the design of signature sequences using a k-mer–based algorithm. Such highly specific and explorative oligonucleotides are then suitable for various goals, including Phylogenetic Oligonucleotide Arrays.

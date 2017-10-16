@@ -1,0 +1,1 @@
+CATH (Class, Architecture, Topology, Homology) contains data on protein domains, homologous superfamilies and fold groups. The CATH database is a hierarchical classification of protein domain structures, using manual curation aided by a variety of classification and prediction algorithms.

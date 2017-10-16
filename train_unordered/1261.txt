@@ -1,0 +1,1 @@
+Bayesian integrated analysis of Affymetrix GeneChips

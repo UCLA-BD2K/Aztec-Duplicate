@@ -1,0 +1,10 @@
+This toolbox can be used to estimate the hemodynamic response function using:
+
+SPMs canonical HRF
+Canonical HRF + temporal derivative
+Canonical HRF + temporal derivative + dispersion derivative
+Finite Impulse Response (FIR) model
+Smooth FIR model
+Inverse logit model
+
+It also contains a diagnostic component which checks the residuals for model misspecification.

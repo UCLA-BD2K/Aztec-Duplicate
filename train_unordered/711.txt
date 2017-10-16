@@ -1,0 +1,1 @@
+This is a web service implementation of the WHAT IF tools ( http://swift.cmbi.ru.nl/whatif/ ). WHAT IF is a versatile molecular modelling package that is specialized on working with proteins and the molecules in their environment like water, ligands, nucl

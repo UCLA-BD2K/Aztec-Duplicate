@@ -1,0 +1,1 @@
+We present Rust-Bio, the first general purpose bioinformatics library for the innovative Rust programming language. Rust-Bio leverages the unique combination of speed, memory safety and high-level syntax offered by Rust to provide a fast and safe set of bioinformatics algorithms and data structures with a focus on sequence analysis.

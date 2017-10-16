@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  Given an MD compressed trajectory and a property sequence, the service calculates Lindemann coefficients for every property

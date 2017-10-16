@@ -1,0 +1,1 @@
+Allows to query, visualize and reason on ontologies represented in OWL or RDF within Cytoscape.

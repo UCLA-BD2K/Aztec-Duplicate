@@ -1,0 +1,1 @@
+Barcode quality index (B) is a novel, unified measure of sequence quality and contig overlap tailored to the needs of DNA barcoding. Re-analysis of published data demonstrates the utility of B.

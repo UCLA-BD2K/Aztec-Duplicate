@@ -1,0 +1,1 @@
+Scan the PROSITE (http://prosite.expasy.org/) database of protein profiles and patterns with a protein sequence.

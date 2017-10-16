@@ -1,0 +1,1 @@
+Get the exons of a set of transcripts.

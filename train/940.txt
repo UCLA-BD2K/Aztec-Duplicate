@@ -1,0 +1,1 @@
+IceLogo generates sequence logos to visualize conserved patterns in nucleotide and protein sequences. A sequence logo is a histogram-like presentation in which bars are vertical stacks of symbols, the stack height reflects the level of conservation and th

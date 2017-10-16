@@ -1,0 +1,7 @@
+Geneslico SOAP service for protein sequence analysis, which involve
+- secondary structure prediction
+- domain prediction
+- disorder prediction
+- dna and rna binding sites prediction
+- transmembrane helices prediction
+Exposed operations are part of G

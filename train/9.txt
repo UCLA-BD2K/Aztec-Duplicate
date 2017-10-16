@@ -1,0 +1,1 @@
+EMBOSS sixpack reads a DNA sequence and outputs the three forward and (optionally) three reverse translations in a visual manner.

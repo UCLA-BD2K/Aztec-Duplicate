@@ -1,0 +1,1 @@
+This package provides easy, fast functions for the extraction and annotation of individual probes from Affymetrix tiling arrays.

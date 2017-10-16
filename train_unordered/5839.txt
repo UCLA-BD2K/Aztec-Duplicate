@@ -1,0 +1,1 @@
+Advanced Normalization Tools (ANTs) extracts information from complex datasets that include imaging. ANTs development is led by Brian Avants and supported by other researchers and developers at PICSL and other institutions.

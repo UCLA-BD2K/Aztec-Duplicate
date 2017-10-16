@@ -1,0 +1,1 @@
+Benchmark CCSD(T)/ complete basis set limit calculations were collected into a database named BEGDB - Benchmark Energy and Geometry DataBase.

@@ -1,0 +1,1 @@
+from MiSeq paired-end FASTQ files

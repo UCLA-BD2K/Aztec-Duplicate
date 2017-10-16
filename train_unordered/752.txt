@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Retrieves an ENSEMBL sequence by its region.

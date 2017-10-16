@@ -1,0 +1,1 @@
+SpectraST (short for "Spectra Search Tool" and rhymes with "contrast") is a spectral library building and searching tool designed primarily for shotgun proteomics applications. It is developed at the Institute for Systems Biology (ISB), in the research group of Professor Ruedi Aebersold.

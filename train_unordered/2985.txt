@@ -1,0 +1,1 @@
+Search PomBase protein set for a given motif

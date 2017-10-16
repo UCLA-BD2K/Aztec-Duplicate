@@ -1,0 +1,1 @@
+Retrieve information from ProDom, a comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database

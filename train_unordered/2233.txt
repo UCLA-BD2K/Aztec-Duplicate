@@ -1,0 +1,1 @@
+A BioJS component for human genetic variation viewer(protein variants).

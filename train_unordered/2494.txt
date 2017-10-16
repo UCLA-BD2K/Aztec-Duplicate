@@ -1,0 +1,1 @@
+CATdb contains data on 105 Arabidopsis transcriptome projects (3262 hybridized samples) in public access out of a total of 172 projects (~6440 hybridized samples). The data are released one year after their production.

@@ -1,0 +1,1 @@
+Multivariate correlation estimation and statistical inference. See package vignette.

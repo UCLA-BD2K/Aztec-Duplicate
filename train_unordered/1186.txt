@@ -1,0 +1,1 @@
+Inferring differential expression genes by absolute expression differences between two groups, utilizing generalized Poisson model to account for over-dispersion across samples and heterogeneity of differential expression across genes.

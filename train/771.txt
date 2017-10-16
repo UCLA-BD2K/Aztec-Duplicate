@@ -1,0 +1,1 @@
+Authority: cnio.es  -  It returns all the iHOP gene or protein symbol information related to the input

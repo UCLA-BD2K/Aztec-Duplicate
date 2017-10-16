@@ -1,0 +1,1 @@
+Uses Gene Ontology (GO) categories to direct the network graph layout process and to emphasize nodes biological function.

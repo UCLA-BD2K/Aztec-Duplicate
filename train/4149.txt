@@ -1,0 +1,1 @@
+A Galaxy wrapper for DESeq version 1.12, DESeq2 version 1.0.19 and DEXSeq version 1.6

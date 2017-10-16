@@ -1,0 +1,1 @@
+Seqcksum generates checksums for a sequence using a range of checksum/digest methods. These checksums can be used to identify potentially identical sequences by searching the corresponding checksum field in sequence databases such as those available from ENA and UniProt.

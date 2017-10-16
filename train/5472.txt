@@ -1,0 +1,1 @@
+Infers gene regulatory networks from expression measurements using Bayesian Model Averaging.

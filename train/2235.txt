@@ -1,0 +1,1 @@
+Displays the information available in the Open PHACTS Linked Data cache about a compound.

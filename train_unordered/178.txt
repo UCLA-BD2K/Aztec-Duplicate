@@ -1,0 +1,1 @@
+InteroPorc is an automatic prediction tool to infer protein-protein interaction networks. It is applicable for lots of species using orthology and known interactions. The interoPORC method is based on the interolog concept and combines source interaction datasets from public databases as well as clusters of orthologous proteins (PORC) available on Integr8.

@@ -1,0 +1,1 @@
+Motivation: Over the past decade, deciphering the roles of microRNAs (miRNAs) has relied heavily upon the identification of their targets. Most of the targets that were computationally and experimentally characterized were evolutionarily conserved 'seed'

@@ -1,0 +1,1 @@
+nordicICE couples a perfusion package and a permeability analysis package. With these modules a large range of physiologically relevant parameters related to tissue perfusion and capillary permeability can be addressed both qualitatively and semi-quantitatively using state-of-the-art methods.

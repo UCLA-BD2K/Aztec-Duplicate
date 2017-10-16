@@ -1,0 +1,1 @@
+Predicts protein subcellular localization sites from their amino acid sequence

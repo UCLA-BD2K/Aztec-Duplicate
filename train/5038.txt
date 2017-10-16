@@ -1,0 +1,1 @@
+Rarefaction calculation based on mothur's rarefaction.single command - GVL

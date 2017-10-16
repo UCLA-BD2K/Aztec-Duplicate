@@ -1,0 +1,1 @@
+Annotates the prosite motifs of a structure.

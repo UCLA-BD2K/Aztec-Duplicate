@@ -1,0 +1,5 @@
+STRING is a database of known and predicted protein interactions. The interactions include direct (physical) and indirect (functional) associations; they are derived from four sources:
+Genomic Context
+High-throughput Experiments
+(Conserved) Coexpression
+Previous Knowledge	 

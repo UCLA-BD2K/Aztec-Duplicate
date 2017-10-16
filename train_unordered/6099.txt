@@ -1,0 +1,1 @@
+ConPath was primarily developed as an independent tool, coupled to other Quantum Chemical codes, in order to explore the hyper-surfaces of conically intersecting geometries (equivalently the Intersection Space).

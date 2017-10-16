@@ -1,0 +1,1 @@
+Imaging platform for multi-centre clinical studies, hosted by CTMM TraIT. The platform is based on the open source XNAT software and the RSNA CTP software.

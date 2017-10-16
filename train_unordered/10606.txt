@@ -1,0 +1,1 @@
+CHOYCE is a web server for homology modelling of protein components and the fitting of those components into cryo electron microscopy (cryoEM) maps of their assemblies. It provides an interactive approach to improving the selection of models based on the quality of their fit into the EM map.

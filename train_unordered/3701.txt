@@ -1,0 +1,1 @@
+Search globally across all EMBL-EBI databases.

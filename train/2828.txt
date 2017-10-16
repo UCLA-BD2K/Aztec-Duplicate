@@ -1,0 +1,1 @@
+VirusMINT aims at collecting and annotating in a structured format all the interactions between human and viral proteins and to integrate this information in the human protein interaction network.

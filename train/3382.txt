@@ -1,0 +1,1 @@
+The Small Angle Scattering ToolBox (SASTBX) is a set of software routines that can be used to analyze SAXS data, build molecular shapes from SAXS data and further refine existing atomic models.

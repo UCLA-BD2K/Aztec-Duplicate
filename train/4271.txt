@@ -1,0 +1,1 @@
+Searches for a subsequence in a larger sequence. For example to get all restriction enzymes for BamH1.

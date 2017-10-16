@@ -1,0 +1,1 @@
+Pepwindowall produces a set of superimposed Kyte and Doolittle hydropathy plots from an aligned set of protein sequences.

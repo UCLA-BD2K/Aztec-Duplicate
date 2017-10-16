@@ -1,0 +1,1 @@
+This package was developed to simplify the use of Bioconductor tools for beginners having limited or no experience in writing R code. This library provides a graphical interface for microarray gene and exon level analysis as well as miRNA/mRNA-seq data analysis

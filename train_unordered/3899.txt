@@ -1,0 +1,1 @@
+PRECIS is an automated annotation system which generates protein reports from sets of related SWISS-PROT entries

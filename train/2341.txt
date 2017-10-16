@@ -1,0 +1,1 @@
+Prediction of bacterial species using a fast K-mer algorithm

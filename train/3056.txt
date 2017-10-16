@@ -1,0 +1,3 @@
+Calculate Sequences with Optimal Folding properties (SOF) 
+        from protein sequences given in a PDB file format 
+        for 3D structure information predictions

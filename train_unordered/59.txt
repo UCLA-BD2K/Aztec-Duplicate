@@ -1,0 +1,1 @@
+targetHub is a CouchDB database of miRNA-gene interactions.

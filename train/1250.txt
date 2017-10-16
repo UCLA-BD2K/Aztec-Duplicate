@@ -1,0 +1,1 @@
+This package is an implementation of the BayesPeak algorithm for peak-calling in ChIP-seq data.

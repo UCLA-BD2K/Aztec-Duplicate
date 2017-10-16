@@ -1,0 +1,1 @@
+A Node.js wrapper for the Burrow-Wheeler Aligner (BWA).

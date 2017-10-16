@@ -1,0 +1,1 @@
+Sequence similarity search with peptide fragment searches using the FASTF, FASTM or FASTS programs from the FASTA suite

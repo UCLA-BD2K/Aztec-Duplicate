@@ -1,0 +1,1 @@
+HMMER hmmscan searches a database of Hidden Markov Model (HMM) protein signatures with a protein sequence.

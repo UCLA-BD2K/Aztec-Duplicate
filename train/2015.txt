@@ -1,0 +1,1 @@
+RnBeads facilitates comprehensive analysis of various types of DNA methylation data at the genome scale.

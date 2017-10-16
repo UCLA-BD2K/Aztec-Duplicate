@@ -1,0 +1,1 @@
+Aspic predicts the gene structure by aligning ESTs against a genomic region

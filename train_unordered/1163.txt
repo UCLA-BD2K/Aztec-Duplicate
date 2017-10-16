@@ -1,0 +1,1 @@
+GASH (Genetic-algorithm ASH[Alignment of Structural Homologs]) generates very accurate alignments in about twice the time as RASH (Rapid ASH). GASH is the best choice if the structures are only partially similar or if multiple solutions are required. 

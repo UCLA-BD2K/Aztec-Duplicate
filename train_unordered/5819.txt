@@ -1,0 +1,1 @@
+MITK 3M3 is a 3D image analysis and visualisation program based on the open source MITK toolkit. It has a range of image analysis tools that include time-seriies data volumes, data fusion and registration, vessel analysis, and GPU volume visualisation.

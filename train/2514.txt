@@ -1,0 +1,1 @@
+CTD includes manually curated data describing cross-species chemicalÃ¢â‚¬â€œgene/protein interactions and chemicalÃ¢â‚¬â€œ and geneÃ¢â‚¬â€œdisease relationships to illuminate molecular mechanisms underlying variable susceptibility and environmentally influenced diseases.

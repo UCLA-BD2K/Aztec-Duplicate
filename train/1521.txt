@@ -1,0 +1,1 @@
+flowQB is a fully automated R Bioconductor package to calculate automatically the detector efficiency (Q), optical background (B) and intrinsic CV of the beads.

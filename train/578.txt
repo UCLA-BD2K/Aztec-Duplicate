@@ -1,0 +1,1 @@
+Model similarity search based on MIRIAM annotations. The result are BioModels similar the inserted BioModel id or the lists of lists of MIRIAM URNs. For further information please read our API documentation.

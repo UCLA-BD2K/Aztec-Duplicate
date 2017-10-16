@@ -1,0 +1,1 @@
+This package fits heterogeneous error models for analysis of microarray data

@@ -1,0 +1,1 @@
+Predict the X-ray solution scattering curve of a known structure, given the atomic coordinates in a PDB file, and fit to an experimental scattering curve.

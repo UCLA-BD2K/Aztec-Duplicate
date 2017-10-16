@@ -1,0 +1,1 @@
+MASTR performs multiple alignment and secondary structure prediction on a set of structural RNA sequences.

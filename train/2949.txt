@@ -1,0 +1,1 @@
+Find internal duplications by calculating non-intersecting local sequence alignments

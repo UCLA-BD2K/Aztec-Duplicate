@@ -1,0 +1,1 @@
+Call SNPS with Freebayes

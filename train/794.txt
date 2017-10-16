@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  get accessible surface area from a PDB file. The user can choose if relative (default) or absolute accessibility will be calculated.

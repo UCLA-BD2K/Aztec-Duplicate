@@ -1,0 +1,12 @@
+This service retrieves data per NIF source in xml; note, the sources are called by NIF Registry identifier. To find an id, access this service:
+http://nif-services.neuinfo.org/servicesv1/v1/federation/data/nlx_144509-1?q=data%20federation
+Grab the <value> parameter from <name>Resource ID</name>
+* you will need to parse the html out.
+
+Data sources in the "data federation", (currently at about 200 sources) can be found by ID.
+http://nif-services.neuinfo.org/servicesv1/v1/federation/data/nif-0000-00007-1?q=purkinje
+
+The -1 at the end denotes view id. 
+
+All data from in services is accessed by our web pages, below is the example of the same service result, rendered in html.
+https://neuinfo.org/mynif/search.php?q=purkinje&t=indexable&nif=nif-0000-00007-1

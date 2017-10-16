@@ -1,0 +1,1 @@
+Merge the overlapping intervals of a dataset

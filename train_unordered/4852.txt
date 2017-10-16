@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads version 3.11.0 of edgeR, a Bioconductor package for differential expression analysis of digital gene expression data.

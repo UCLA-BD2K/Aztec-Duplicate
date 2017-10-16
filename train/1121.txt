@@ -1,0 +1,4 @@
+Map accession numbers between databases. It will also retrieve the UPI(UniProt Archive (UniParc) identifier of the given accession number. 
+Parameters:
+    -accession - the accession to map [required]
+    -version - the version of accession to map [opt

@@ -1,0 +1,1 @@
+Identification and comparison of similar proteins based on secondary structure

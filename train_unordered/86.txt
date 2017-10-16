@@ -1,0 +1,1 @@
+AlignmentML is a format describing (multiple) alignment information any alignment program can produce. Similar to SequenceML different sequence types (nucleic, amino acid and free) are supported.

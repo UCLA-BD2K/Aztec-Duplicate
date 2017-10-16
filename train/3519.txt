@@ -1,0 +1,1 @@
+Shrink or extend the sets of genomic coordinates to get the information between starts of reads and starts of genes.

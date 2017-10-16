@@ -1,0 +1,3 @@
+iHOP web services were created as a computational API for the functionalities provided by iHOP end user web server (http://www.ihop-net.org/). 
+
+All the iHOP web services share the same XML Schema for the outputs. The documentation of this XML Schema is a

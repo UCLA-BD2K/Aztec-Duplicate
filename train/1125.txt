@@ -1,0 +1,3 @@
+Performs a recursive psi-blast against the ProDom database. 
+
+ProDom database website: http://prodom.prabi.fr/prodom/current/html/home.php 

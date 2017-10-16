@@ -1,0 +1,1 @@
+Convert InChIs to spectral hashkeys.

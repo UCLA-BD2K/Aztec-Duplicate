@@ -1,0 +1,1 @@
+Generate protein backbone and side chain co-ordinates from a C(alpha) trace

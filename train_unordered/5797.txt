@@ -1,0 +1,1 @@
+Simple DICOM viewer offering the most useful viewing functions. Fast and efficient, supports zoom, contrast and intensity, drag and drop image opening and batch conversion.

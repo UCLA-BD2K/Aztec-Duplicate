@@ -1,0 +1,1 @@
+EMBOSS transeq translates nucleic acid sequences to their corresponding peptide sequences. It can translate to the three forward and three reverse frames, and output multiple frame translations at once.

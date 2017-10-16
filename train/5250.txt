@@ -1,0 +1,1 @@
+Annotate a VCF file using ANNOVAR annotations to produce a tabular file that can be filtered

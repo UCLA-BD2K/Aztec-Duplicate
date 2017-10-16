@@ -1,0 +1,1 @@
+Authority: www.bioinfo.uma.es  -  Retrieves an AminoAcidSequence collection from an Object (id=ID or AC / namespace=database) collection

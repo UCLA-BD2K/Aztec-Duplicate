@@ -1,0 +1,1 @@
+A PyMOL plugin for identification and analysis of tunnels and channels in static protein structures.

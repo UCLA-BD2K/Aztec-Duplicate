@@ -1,0 +1,1 @@
+Retrieves information from the database of protein subcellular localization (DBSubLoc). This database contains proteins from primary protein database such as SWISS-PROT and PIR. By collecting the subcellular localization annotation, these information are 

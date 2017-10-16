@@ -1,0 +1,1 @@
+A specialist database for sequences of the human major histocompatibility complex (HLA) and includes the official sequences for the WHO Nomenclature Committee For Factors of the HLA System.

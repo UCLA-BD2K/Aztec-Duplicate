@@ -1,0 +1,1 @@
+Charges is a software application for simple and straightforward calculation of partial atomic charges in biomacromolecules and proteins via Electronegativity Equalization Method.

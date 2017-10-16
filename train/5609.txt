@@ -1,0 +1,1 @@
+SimBoolNet is a plugin for simulating the dynamics of signaling transduction using Boolean networks

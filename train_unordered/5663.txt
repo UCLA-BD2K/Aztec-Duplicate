@@ -1,0 +1,1 @@
+Genome and Transcriptome Free Analysis of RNA (GT-FAR). RNA seq pipeline that allows users to do  Alignment, Quantification, Differential Expression, and Variant Calling

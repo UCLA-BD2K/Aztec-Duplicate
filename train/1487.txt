@@ -1,0 +1,1 @@
+explore and analyze *omics data with R and GGobi

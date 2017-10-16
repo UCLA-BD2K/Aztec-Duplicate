@@ -1,0 +1,7 @@
+This service provides methods to validate simulation descriptions encoded in the SED-ML standard format (http://sed-ml.org).  The service  provides 4 operations:
+
+
+String sayHello();  A test for connection
+
+
+String applyChanges(String modelID, Strin

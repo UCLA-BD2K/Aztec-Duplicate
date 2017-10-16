@@ -1,0 +1,1 @@
+MIRIAM Web Services provide generation and resolving facilities for MIRIAM Annotations. These services have been developed to support MIRIAM (Minimal Information Requested In the Annotation of Models), a standard for the curation and the annotation of mod

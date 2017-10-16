@@ -1,0 +1,1 @@
+Calculate secondary structures for a set of aligned RNAs

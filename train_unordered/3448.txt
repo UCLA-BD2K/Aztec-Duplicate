@@ -1,0 +1,1 @@
+CoNet is a tool that detects significant non-random patterns of co-occurrence (copresence and mutual exclusion) in incidence and abundance data.

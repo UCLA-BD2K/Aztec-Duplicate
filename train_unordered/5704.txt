@@ -1,0 +1,1 @@
+Network2Canvas (N2C) is a web application that provides an alternative way to view networks. N2C visualizes networks by placing nodes on a square toroidal canvas. The network nodes are clustered on the canvas using simulated annealing to maximize local connections where a node's brightness is made proportional to its local fitness.

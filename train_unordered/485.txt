@@ -1,0 +1,1 @@
+collect profile HMM score distributions on random sequences

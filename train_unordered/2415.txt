@@ -1,0 +1,1 @@
+An annotated non-redundant collection of eukaryotic POL II promoters, for which the transcription start site has been determined experimentally.

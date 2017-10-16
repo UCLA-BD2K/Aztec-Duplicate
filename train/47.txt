@@ -1,0 +1,1 @@
+The EMMA 2 software has been designed to resolve shortcomings with respect to full MAGE-ML and ontology support and makes use of modern data integration techniques. It features comprehensive data analysis functions for spotted arrays, and for the most common synthesized oligo arrays such as Agilent, Affymetrix and NimbleGen. 

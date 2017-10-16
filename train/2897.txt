@@ -1,0 +1,1 @@
+Identify variation patterns in a chromosomal region of interest for different individuals

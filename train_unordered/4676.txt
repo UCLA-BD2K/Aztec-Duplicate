@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads and installs version 0.1.6 of hisat.

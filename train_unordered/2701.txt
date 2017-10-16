@@ -1,0 +1,1 @@
+EEM Solver is a program for calculation of partial atomic charges for small organic molecules (drug-like molecules) via the Electronegativity Equalization Method (EEM). The calculation of charges is very fast and their accuracy is comparable with ab-initio quantum mechanical methods.

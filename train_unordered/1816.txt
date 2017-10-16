@@ -1,0 +1,1 @@
+Estimates gene expressions from several laser scans of the same microarray

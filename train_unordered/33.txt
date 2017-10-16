@@ -1,0 +1,1 @@
+EB-eye is a high-performance, full-featured text search engine using Apache Lucene technology to index EMBL-EBI databases in various formats (e.g. flat-files, XML dumps, OBO format, etc.) and provides very fast access to the EMBL-EBI's data resources. The system allows the user to search globally across all EMBL-EBI databases.

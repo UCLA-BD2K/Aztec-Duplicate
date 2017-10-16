@@ -1,0 +1,1 @@
+This service provides various ways to retrieve information from The Nuclear Protein Database, a database with information on nuclear proteins curated by Wendy Bickmore from Edinburgh, an acknowledged expert in the field of chromatin research (http://www.h

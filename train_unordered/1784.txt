@@ -1,0 +1,1 @@
+The package contains functions for inferece of target gene regulation by miRNA, based on only target gene expression profile.

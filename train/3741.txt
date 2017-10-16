@@ -1,0 +1,1 @@
+GWASdb is a one stop shop which combines collections of GVs from GWAS and their comprehensive functional annotations, as well as disease classifications.

@@ -1,0 +1,1 @@
+Trim Galore adaptive quality and adapter trimmer

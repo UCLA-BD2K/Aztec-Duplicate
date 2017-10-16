@@ -1,0 +1,1 @@
+NetPhosBac 1.0 server predicts serine and threonine phosphorylation sites in bacterial proteins. This service is closely related to NetPhos, NetPhosK and NetPhosYeast.

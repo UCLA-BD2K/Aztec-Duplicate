@@ -1,0 +1,3 @@
+Authority: mmb.pcb.ub.es  -  
+		Given a PDB code and a PDB Ligand code, returns the PDB-text of the ligand into this PDB structure
+	

@@ -1,0 +1,1 @@
+This package provides functions to identify genomic regions of interests based on segmented copy number data from multiple samples.

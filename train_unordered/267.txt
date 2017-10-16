@@ -1,0 +1,1 @@
+Retrieves an entry from OMIM, Online Mendelian Inheritance in Man, database.

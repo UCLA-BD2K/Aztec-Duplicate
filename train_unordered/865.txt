@@ -1,0 +1,1 @@
+Authority: genome.imim.es  -  Runs RepeatMasker to mask repeat sequences a set of DNA sequences

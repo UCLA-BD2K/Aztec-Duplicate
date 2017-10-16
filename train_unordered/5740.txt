@@ -1,0 +1,1 @@
+Beagle, a 150 teraflops, 18,000-core Cray XE6 supercomputer that will support computation, simulation and data analysis for the biomedical research community.

@@ -1,0 +1,1 @@
+Authority: genome.imim.es  -  Converts aminoacid FASTA sequences into a collection of aminoacid sequences

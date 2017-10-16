@@ -1,0 +1,4 @@
+
+			INTRODUCTION
+
+			This Web Service implements NetNGlyc 1.0b

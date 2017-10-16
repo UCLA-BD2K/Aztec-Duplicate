@@ -1,0 +1,1 @@
+Mango – short for Multi-image Analysis GUI – is a viewer for medical research images. It provides analysis tools and a user interface to navigate image volumes.

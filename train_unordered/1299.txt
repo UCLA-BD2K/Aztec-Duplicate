@@ -1,0 +1,1 @@
+BubbleTree utilizes homogenous pertinent somatic copy number alterations (SCNAs) as markers of tumor clones to extract estimates of tumor ploidy, purity and clonality.

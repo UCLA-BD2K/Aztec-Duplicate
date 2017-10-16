@@ -1,0 +1,1 @@
+Code base for open source 2D imaging workstation with PACS client and server capabilities. Based on the ClearCanvas SDK (also available). Has an explorer-type layout with tabbed pages, each with customizable window layout. User interface has intuitive controls and drag-and-drop capabilities.

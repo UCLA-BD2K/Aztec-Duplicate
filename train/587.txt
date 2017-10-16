@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  Predicts sequence positions (Hot Spots) that would produce pathological behaviour when mutated. Trained with human pathological mutations

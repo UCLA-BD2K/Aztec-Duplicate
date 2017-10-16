@@ -1,0 +1,1 @@
+This package implements different analytic/direct and iterative reconstruction methods of Peter Toft. It also offer the possibility to simulate PET data.

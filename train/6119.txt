@@ -1,0 +1,1 @@
+The robust regression toolbox is a tool for analyzing group activation data (mainly). It replaces the “2nd level analysis” in SPM. It can model both group results and group differences and/or brain-behavior correlations in the same model.

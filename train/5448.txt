@@ -1,0 +1,1 @@
+Retrieves interactions associated with input IDs. Sophisticated UI gives links to GO, KEGG, etc.

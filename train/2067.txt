@@ -1,0 +1,1 @@
+Copy number analysis of high-throughput sequencing cancer data with fast summarization, extensive filtering and improved normalization

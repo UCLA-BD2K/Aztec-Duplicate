@@ -1,0 +1,1 @@
+Radscaper is a powerful Java applet based DICOM web viewer with a thin footprint. It requires no installation or configuration. It can read DICOM images and header information from any PACS system that provides a Web interface. It is extremely easy to use and runs on any platform.

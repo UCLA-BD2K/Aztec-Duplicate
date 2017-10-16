@@ -1,0 +1,1 @@
+Paints bar, line or pie graphs onto nodes.

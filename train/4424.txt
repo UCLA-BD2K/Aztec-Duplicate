@@ -1,0 +1,1 @@
+This repository contains a tool wrapper for the TINT MGF formatter. 

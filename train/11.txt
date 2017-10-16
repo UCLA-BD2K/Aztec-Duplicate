@@ -1,0 +1,1 @@
+SAPS (Statistical Analysis of Protein Sequences) evaluates a wide variety of protein sequence properties using statistics.

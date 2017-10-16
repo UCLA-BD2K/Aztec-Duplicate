@@ -1,0 +1,1 @@
+Neural network predictions for GlcNAc O-glycosylation sites in Dictyostelium discoideum proteins

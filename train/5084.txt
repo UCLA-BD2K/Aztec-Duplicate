@@ -1,0 +1,1 @@
+Takes SAM files and outputs a table of counts that can be used with edgeR.

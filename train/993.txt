@@ -1,0 +1,1 @@
+HOGENOM is a database of homologous genes from fully sequenced organisms, structured under ACNUC sequence database management system. It allows to select sets of homologous genes among species,

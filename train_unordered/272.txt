@@ -1,0 +1,1 @@
+Loads a persistent object and returns its reference.

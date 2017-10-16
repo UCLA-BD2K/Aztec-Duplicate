@@ -1,0 +1,1 @@
+"Brain Parser software segments regions of interest based on a training set of data and generates 3D MRI volumes. The software comes pre-trained on a provided data set but can be retrained to work with your desired regions of interest."

@@ -1,0 +1,1 @@
+Send UnifiedGenotyper VCF to a VariantDB instance

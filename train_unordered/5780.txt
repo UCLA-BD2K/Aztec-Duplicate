@@ -1,0 +1,1 @@
+Interactive software for evaluation and analysis of contast enhanced dynamic CT perfusion imaging. Uses established SVD algorithms for the deconvolution of the arterial input function with the pixel based intensity time curves. Contains inbuilt DICOM receiver.

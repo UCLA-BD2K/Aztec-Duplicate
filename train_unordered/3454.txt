@@ -1,0 +1,1 @@
+A repository for all types of genotype experiments, including case control, population, and family studies, including SNP and CNV genotypes from array based methods and genotyping done with re-sequencing methods.

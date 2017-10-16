@@ -1,0 +1,1 @@
+Megablast compare short reads against htgs, nt, and wgs databases

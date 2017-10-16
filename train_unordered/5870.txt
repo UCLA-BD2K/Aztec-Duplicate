@@ -1,0 +1,1 @@
+A fully automatic algorithm for anterior and posterior commisures (AC/PC) detection on MRI scans

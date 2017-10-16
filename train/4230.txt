@@ -1,0 +1,1 @@
+FASTQSOLEXA-to-FASTA-QUAL extracts sequences and quality scores from FASTQSOLEXA data

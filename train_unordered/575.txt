@@ -1,0 +1,1 @@
+Access the seed database maintained by the Fellowship for the Interpretation of Genomes and Argonne National Laboratory. A database of complete microbial genomes.

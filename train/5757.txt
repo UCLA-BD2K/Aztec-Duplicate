@@ -1,0 +1,1 @@
+FP Image DICOM Browser, has ability to organize a database of files on local file system. Has DICOM browser, cine player/creator, multiple formats including user defined, image manipulation, conversion and processing.

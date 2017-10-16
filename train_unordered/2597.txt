@@ -1,0 +1,1 @@
+TakeABreak is a tool that can detect inversion breakpoints directly from raw NGS reads

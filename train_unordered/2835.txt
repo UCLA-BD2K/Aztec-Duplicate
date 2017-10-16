@@ -1,0 +1,1 @@
+a web server for the identification of nucleotide-binding sites in protein structures

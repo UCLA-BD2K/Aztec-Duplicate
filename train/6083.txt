@@ -1,0 +1,1 @@
+Libra is a module within the trans-proteomic pipeline to perform quantification on MS/MS spectra that have isobaric multi-reagent labeled peptides.

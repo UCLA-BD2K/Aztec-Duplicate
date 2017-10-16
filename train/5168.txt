@@ -1,0 +1,1 @@
+Calculate and annotate variants (SNPs, MNPs and InDels). 

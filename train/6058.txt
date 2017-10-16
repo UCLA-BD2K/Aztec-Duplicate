@@ -1,0 +1,1 @@
+Proximal Graph Solver (POGS) is a solver for convex optimization problems in graph form using Alternating Direction Method of Multipliers (ADMM).

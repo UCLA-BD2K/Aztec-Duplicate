@@ -1,0 +1,1 @@
+Collects genome sequencing project data from NCBI

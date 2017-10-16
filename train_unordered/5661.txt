@@ -1,0 +1,1 @@
+A fast and lightweight python-based linear mixed-model solver for use in genome-wide association studies.

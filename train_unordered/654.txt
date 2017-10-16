@@ -1,0 +1,1 @@
+Authority: cnio.es  -  A sequence similitary search (NCBI Blast) is carried out to find proteins related to the query sequence

@@ -1,0 +1,1 @@
+Library for very fast likelihood computations for hidden Markov models

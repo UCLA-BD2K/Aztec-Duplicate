@@ -1,0 +1,1 @@
+Draw nucleotides distribution chart

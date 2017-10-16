@@ -1,0 +1,1 @@
+Retrieve a FASTA file and populate the all_fasta.loc data table.

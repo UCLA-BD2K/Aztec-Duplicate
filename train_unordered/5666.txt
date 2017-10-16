@@ -1,0 +1,2 @@
+To handle the increasing volume of next generation sequencing and genotyping data, we created and developed software pipelines called Genomes on the Cloud (GotCloud).
+GotCloud contains Mapping & Variant Calling Pipelines.

@@ -1,0 +1,1 @@
+ggtree extends the ggplot2 plotting system which implemented the grammar of graphics. ggtree is designed for visualizing phylogenetic tree and different types of associated annotation data.

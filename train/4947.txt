@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads and installs UCSC tools.

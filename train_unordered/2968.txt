@@ -1,0 +1,1 @@
+Find regions of sequence similarity and alignments between a query sequence and database sequences, using programs from the NCBI BLAST suite (e.g. blastn, blastp, blastx, etc.)

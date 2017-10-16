@@ -1,0 +1,1 @@
+The package contains the function for filtering genes by the proportion of variation accounted for by the first principal component (PVAC).

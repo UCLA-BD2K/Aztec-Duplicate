@@ -1,0 +1,1 @@
+The Europe PMC RESTful Web Service gives you access to all of the publications and related information held in the Europe PMC database.

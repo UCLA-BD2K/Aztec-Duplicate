@@ -1,0 +1,1 @@
+A protein sequence viewer written in javascript

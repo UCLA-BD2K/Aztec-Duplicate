@@ -1,0 +1,1 @@
+Finds candidate genes in a network that are associated with user-defined target GO terms.

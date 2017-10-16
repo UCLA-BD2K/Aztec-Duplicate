@@ -1,0 +1,1 @@
+Sequence similarity searching against genomic, cds, cdna and protein sequence. BLAT is available for genomic sequence and WU-Blast is used for BLASTing

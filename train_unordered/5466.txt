@@ -1,0 +1,1 @@
+A diagnostics tool for collecting information about Cytoscape 3 performance. Requires Cy3 beta2-SNAPSHOT or later. Doesn&apos;t work with beta1.

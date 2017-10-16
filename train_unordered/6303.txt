@@ -1,0 +1,1 @@
+Computational gene function prediction can serve to focus experimental resources on high-priority experimental tasks. FuncBase is a web resource for viewing quantitative machine learning-based gene function annotations. Quantitative annotations of genes, including fungal and mammalian genes, with Gene Ontology terms are accompanied by a community feedback system.

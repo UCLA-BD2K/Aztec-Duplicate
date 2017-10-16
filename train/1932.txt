@@ -1,0 +1,1 @@
+PSICQUIC is a project within the HUPO Proteomics Standard Initiative (HUPO-PSI).  It standardises programmatic access to molecular interaction databases.

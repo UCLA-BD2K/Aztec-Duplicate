@@ -1,0 +1,1 @@
+Visualizes domain-domain interactions which connect pairs of interacting proteins.

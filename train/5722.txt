@@ -1,0 +1,1 @@
+Spotlite is a web application for predicting co-complexed proteins from affinity purification-mass spectrometry data.

@@ -1,0 +1,1 @@
+Gene3D structural and functional annotation of protein families incorporates several different sources including CATH, DRUGBANK, PFAM etc.

@@ -1,0 +1,5 @@
+Authority: mmb.pcb.ub.es  -  
+		
+			Returns a 2D graphic from a FeatureAASequence (png image)
+		
+	

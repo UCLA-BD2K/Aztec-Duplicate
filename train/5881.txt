@@ -1,0 +1,1 @@
+DTI-TK is a spatial normalization and atlas construction toolkit optimized for examining white matter morphometry using DTI data.

@@ -1,0 +1,1 @@
+We present a software tool called GenomeLaser that determines the haplotypes of each person from unphased high-throughput genotypes in family pedigrees. This method features high accuracy, chromosome-range phasing distance, linear computing, flexible pedigree types and flexible genetic marker types. Availability and implementation:

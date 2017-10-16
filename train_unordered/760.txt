@@ -1,0 +1,1 @@
+Authority: cnio.es  -  CExonic compares the conservation of exon structure between humans and other species. The method is applicable to any sequenced eukaryotic genome. At the moment, it details the human-mouse comparison.

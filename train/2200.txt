@@ -1,0 +1,1 @@
+Memory efficient S4 classes for storing sequences "externally" (behind an R external pointer, or on disk).

@@ -1,0 +1,1 @@
+This package defines methods for visualizing high-throughput genomic data

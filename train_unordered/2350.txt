@@ -1,0 +1,1 @@
+ViralZone is a web resource for all viral genus and families, providing general molecular and epidemiological informations, along with virion and genome figures. Each virus or family page gives an easy access to UniProtKB/Swiss-Prot viral protein entries.

@@ -1,0 +1,1 @@
+Identify the closest matching sequence motif fingerprints in the PRINTS database (http://www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/) which appear in a protein sequence.

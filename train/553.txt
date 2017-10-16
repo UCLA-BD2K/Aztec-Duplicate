@@ -1,0 +1,8 @@
+
+WSDbfetch: entry retrieval using entry identifiers or accession numbers for 
+various biological databases, including EMBL-Bank, InterPro, MEDLINE, Patent 
+Proteins, PDB, RefSeq, UniParc, UniProtKB and UniRef.
+
+Note: this is a document/literal wrapped SOAP interface to the WSDbfetch service, for 
+other interfaces please see the documentation 
+(http://www.ebi.ac.uk/Tools/webservices/services/dbfetch).  

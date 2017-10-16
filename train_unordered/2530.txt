@@ -1,0 +1,1 @@
+Protein families based on hidden Markov models (HMMs).

@@ -1,0 +1,1 @@
+Searches a sequence database with a HMM profile.

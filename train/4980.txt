@@ -1,0 +1,1 @@
+This repository contains a tool that wraps SearchGUI and PeptideShaker. 

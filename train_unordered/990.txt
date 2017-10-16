@@ -1,0 +1,2 @@
+megaBLAST finds regions of high similarity between a nucleotide query sequence and a nucleotide sequence database.
+Computations are done on the Vital-IT cluster (

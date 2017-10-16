@@ -1,0 +1,3 @@
+*** Please note that the service is running, although Biocatalogue states the opposite due to their inability to run the test script from within the EBI ***
+
+Mutalyzer is a tool to check if descriptions of sequence variants comply to the standard human sequence variant nomenclature of the Human Genome Sequence Variation Society (HGVS) (For an overview, visit http://www.hgvs.org/mutnomen/)

@@ -1,0 +1,1 @@
+show_viterbi implements the viterbi algorithm to find the most probable hidden path given the observed sequence (segmentation). The Hidden Markov Model parameters can first be learned with show_emfit.

@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Compares a protein sequence against another protein sequence (used as a database) using the Basic Local Alignment Tool (BLAST).

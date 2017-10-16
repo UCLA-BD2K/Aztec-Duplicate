@@ -1,0 +1,1 @@
+Bayesian haplotype-based polymorphism discovery and genotyping

@@ -1,0 +1,1 @@
+Predicts the site of cleavage between a signal sequence and the mature exported protein.

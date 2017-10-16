@@ -1,0 +1,1 @@
+High speed multiple sequence alignment using Fast Fourier Transform and capable of handling large sequences

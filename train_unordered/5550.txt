@@ -1,0 +1,1 @@
+Provides network interface to MiSink-enabled Web sites, including DIP.

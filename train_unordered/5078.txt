@@ -1,0 +1,1 @@
+an RNA-seq quality control package

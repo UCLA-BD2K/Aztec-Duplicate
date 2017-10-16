@@ -1,0 +1,1 @@
+workflow to detect and select SNP for the rapsodyn project

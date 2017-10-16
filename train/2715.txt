@@ -1,0 +1,1 @@
+SeaView is a multiplatform graphical user interface designed to facilitate alignment and phylogenic tree building from molecular sequences.

@@ -1,0 +1,1 @@
+A curated repository of more than 34469 regulatory associations between transcription factors (TF) and target genes in Saccharomyces cerevisiae, based on more than 1000 bibliographic references. It also includes the description of 291 specific DNA binding sites for more than a hundred characterized TFs.

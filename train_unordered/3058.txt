@@ -1,0 +1,1 @@
+Retrieve sequences in databases from list of identifier (USA list)

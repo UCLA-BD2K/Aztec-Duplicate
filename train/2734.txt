@@ -1,0 +1,1 @@
+ImageJ is a public domain Java image processing program inspired by NIH Image for the Macintosh. ImageJ was designed with an open architecture that provides extensibility via Java plugins.

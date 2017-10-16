@@ -1,0 +1,1 @@
+AFNI (which might be an acronym for Analysis of Functional NeuroImages) is a set of C programs for processing, analyzing, and displaying functional MRI (FMRI) data - a technique for mapping human brain activity. 

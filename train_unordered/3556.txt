@@ -1,0 +1,1 @@
+Detects SNPs effect on transcripts. Compatible with Genbank files.

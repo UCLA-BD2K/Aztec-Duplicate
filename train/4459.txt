@@ -1,0 +1,1 @@
+Galaxy applicable data formats for Multiple Sequence Alignments.

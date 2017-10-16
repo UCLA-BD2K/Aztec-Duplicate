@@ -1,0 +1,1 @@
+fast quantitation of reads mapping to known miRBase precursors

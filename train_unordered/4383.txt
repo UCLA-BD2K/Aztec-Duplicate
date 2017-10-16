@@ -1,0 +1,1 @@
+Galaxy wrapper for the Lastz alignment tool on paired reads

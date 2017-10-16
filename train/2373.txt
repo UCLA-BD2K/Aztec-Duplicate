@@ -1,0 +1,1 @@
+Experimentally verified protein-protein interactions mined from the scientific literature by expert curators.

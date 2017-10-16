@@ -1,0 +1,1 @@
+A suite of classes and functions for randomizing patients in clinical trials.

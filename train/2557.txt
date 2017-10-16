@@ -1,0 +1,1 @@
+Database of the human cDNA project at the Kazusa DNA Research Institute, covering various sets of large human proteins of hitherto unidentified functions.

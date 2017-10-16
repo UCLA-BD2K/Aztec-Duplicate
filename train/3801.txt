@@ -1,0 +1,1 @@
+This service works as a resolver for different chemical structure identifiers and allows one to convert a given structure identifier into another representation or structure identifier.

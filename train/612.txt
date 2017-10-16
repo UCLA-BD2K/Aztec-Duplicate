@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  It compares a nucleotide query sequence against a nucleotide sequence database using the Washington University BLAST algorithm.

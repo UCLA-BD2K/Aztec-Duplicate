@@ -1,0 +1,1 @@
+Clusterizes the reads when their genomic intervals overlap.

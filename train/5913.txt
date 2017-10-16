@@ -1,0 +1,1 @@
+GIMIAS is a workflow-oriented environment for solving advanced biomedical image computing and individualized simulation problems, which is extensible through the development of problem-specific plug-ins.

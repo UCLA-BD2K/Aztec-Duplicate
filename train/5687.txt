@@ -1,0 +1,1 @@
+ProLuCID is a fast and sensitive tandem mass spectra-based protein identification program recently developed in the Yates laboratory at The Scripps Research Institute.

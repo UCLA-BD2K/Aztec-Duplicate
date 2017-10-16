@@ -1,0 +1,1 @@
+Package for kinetic analysis of longitudinal voxel-wise Dynamic Contrast Enhanced MRI data. Includes tools for visualization and exploration of voxel-wise parametric maps

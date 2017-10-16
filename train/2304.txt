@@ -1,0 +1,1 @@
+Prediction of interacting protein residues by identifying co-evolving pairs of aminoacids from an alignment of protein sequences

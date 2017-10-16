@@ -1,0 +1,1 @@
+Homologous genes from fully sequenced organisms. It allows selection of sets of homologous genes among species, and visualisation of multiple alignments and phylogenetic trees. It is useful for comparative sequence analysis, phylogeny, molecular evolution studies and to get a view of what is known about a peculiar gene family.

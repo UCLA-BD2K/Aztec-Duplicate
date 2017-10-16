@@ -1,0 +1,1 @@
+Authority: cnio.es  -  SIAM (Statistical Inferred Annotation Model): Inferring Gene Ontology terms for FunCUT pipeline

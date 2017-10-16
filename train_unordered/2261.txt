@@ -1,0 +1,1 @@
+Parses GenBank flat files

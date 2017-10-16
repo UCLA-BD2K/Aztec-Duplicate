@@ -1,0 +1,1 @@
+Program MOLE 1.4 is a toolkit for location and basic characterization of channels in molecular structures.

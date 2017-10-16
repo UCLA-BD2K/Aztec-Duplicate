@@ -1,0 +1,1 @@
+multi-purpose, ultrafast ChIP-Seq peak caller (peakranger)

@@ -1,0 +1,1 @@
+RNAforester is a command line based tool for comparing RNA secondary structures. It supports the computation of pairwise and multiple alignment of structures based on the tree alignment model (http://bibiserv.techfak.uni-bielefeld.de/rnaforester/diss_hoec

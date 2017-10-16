@@ -1,0 +1,1 @@
+MkDom2 is the program used routinely to build each new release of ProDom. The algorithm relies on the assumption that the shortest amino acid sequence corresponds to a single domain, and may be used as a query to scree

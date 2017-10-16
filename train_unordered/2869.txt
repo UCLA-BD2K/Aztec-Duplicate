@@ -1,0 +1,1 @@
+Online editor of the IntAct database - this tool is aimed at internal and external IntAct curators

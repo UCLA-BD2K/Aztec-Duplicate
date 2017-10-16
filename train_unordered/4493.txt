@@ -1,0 +1,1 @@
+Accurate quantification of transcriptome from RNA-Seq data by effective length normalization

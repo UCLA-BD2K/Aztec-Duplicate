@@ -1,0 +1,1 @@
+QuickVol II is a simple tool designed to enable quick browsing and visualization of MRI and fMRI data, transformation and co-registration of volume data sets, and ad-hoc computations using transformed volumes as inputs, from any Java® enabled platform.

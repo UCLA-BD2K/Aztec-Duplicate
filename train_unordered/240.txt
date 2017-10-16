@@ -1,0 +1,6 @@
+This service will retrieve registry data records from NIF.
+
+The front end at NIF looks like this:
+https://neuinfo.org/mynif/search.php?q=miame&t=registry
+
+Note that miame is the search term, it is the same search term as the service definition

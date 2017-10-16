@@ -1,0 +1,1 @@
+Segment is a comprehensive software package for medical image analysis. Segment is freely available for research purposes provided that you cite relevant publications and the usage of the software in your publications.

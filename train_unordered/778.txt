@@ -1,0 +1,3 @@
+Authority: mmb.pcb.ub.es  -  
+		Runs Leap program from AmberTools package (from a AMBER_MD_Structure). Returns an AMBER_MD_Structure (pdb + topology).
+	

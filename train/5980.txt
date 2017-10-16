@@ -1,0 +1,1 @@
+Package for the analysis of EEG/ERP's in R, which aims to implement a framework to resemble as closely as possible the data.frame centered linear modeling paradigm of the S language. It aims to provide a set of flexible yet intuitive plotting facilities.

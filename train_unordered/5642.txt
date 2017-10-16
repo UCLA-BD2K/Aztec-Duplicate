@@ -1,0 +1,1 @@
+Calculate edge length in the main network view window, and stores them as edge attributes &quot;length&quot;.

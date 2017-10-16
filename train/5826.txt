@@ -1,0 +1,1 @@
+Kradview is a simple DICOM image viewer for Linux. It allows local DICOM files to be individually viewed, and provides for zoom and window level adjustment. It is available through Linux package distributions such as yum.

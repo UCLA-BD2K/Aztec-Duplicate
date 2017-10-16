@@ -1,0 +1,1 @@
+A comprehensive database of sequence tagged sites (STSs) derived from STS-based maps and other experiments. STSs are defined by PCR primer pairs and are associated with additional information such as genomic position, genes, and sequences.

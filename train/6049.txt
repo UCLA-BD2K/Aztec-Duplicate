@@ -1,0 +1,1 @@
+Automatic entity-recognition and typing from massive text data, such as recognizing gene, protein, disease, drug, treatment, organization, location, and time in bio-medical literature. 

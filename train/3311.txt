@@ -1,0 +1,2 @@
+The Orphanet Rare Disease ontology (ORDO) is a structured vocabulary for rare diseases, capturing relationships between diseases, genes and other relevant features which will form a useful resource for the computational analysis of rare diseases.
+It integrates a nosology (classification of rare diseases), relationships (gene-disease relations, epiemological data) and connections with other terminologies (MeSH, UMLS, MedDRA), databases (OMIM, UniProtKB, HGNC, ensembl, Reactome, IUPHAR, Geantlas) and classifications (ICD10).

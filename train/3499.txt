@@ -1,0 +1,1 @@
+NetPhosYeast 1.0 server predicts serine and threonine phosphorylation sites in yeast proteins.

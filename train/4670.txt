@@ -1,0 +1,1 @@
+graphicsmagick updated to 1_3_20

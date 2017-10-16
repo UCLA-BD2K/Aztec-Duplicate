@@ -1,0 +1,1 @@
+The PRIDE PRoteomics IDEntifications database is a centralized, standards compliant, public data repository that provides protein and peptide identifications together with supporting evidence. This collection references experiments and assays.

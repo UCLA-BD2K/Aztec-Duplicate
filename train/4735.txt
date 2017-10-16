@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads version 0.1.6 of minced, a CRISPR finder.

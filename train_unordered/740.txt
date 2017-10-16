@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Retrieves all domain hierarchy codes from a pdb id.

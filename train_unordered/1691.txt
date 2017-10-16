@@ -1,0 +1,1 @@
+jmosaics detects enriched regions of ChIP-seq data sets jointly.

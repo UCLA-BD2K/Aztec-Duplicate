@@ -1,0 +1,1 @@
+Explores biomedical data using decision trees: Rules can encapsulate hypotheses that can be tested with data. They can also be used to make predictions.

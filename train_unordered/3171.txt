@@ -1,0 +1,1 @@
+Compute average pair probabilities for local base pairs in long sequences

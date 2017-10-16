@@ -1,0 +1,1 @@
+GGPLAB is a Matlab-based toolbox for specifying and solving geometric programs (GPs) and generalized geometric programs (GGPs). It is intended to complement the survey paper "A Tutorial on Geometric Programming", and the book "Convex Optimization". 

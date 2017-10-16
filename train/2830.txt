@@ -1,0 +1,1 @@
+Mentha archives evidence collected from different manually curated protein-protein interaction databases that have adhered to the IMEx consortium

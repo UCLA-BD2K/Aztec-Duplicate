@@ -1,0 +1,1 @@
+Prediction of binding of peptides to a number of different HLA alleles using artificial neural networks (ANNs)

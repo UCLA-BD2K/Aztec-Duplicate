@@ -1,0 +1,1 @@
+Authority: mmb.pcb.ub.es  -  Produces a multiple alignment in FASTA format from Blast Hits.

@@ -1,0 +1,1 @@
+An annotated and reviewed database of methylation in cancer. It is based on automated textmining of literature and is afterwards manually curated and annotated.

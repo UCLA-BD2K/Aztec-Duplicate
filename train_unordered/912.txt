@@ -1,0 +1,5 @@
+Authority: mmb.pcb.ub.es  -  Returns PDB data from transcription factors stored in a GFF file. The output data is stored on a personal format:
+
+  
+
+The PDB file is needed in order to analyze the sequence to obtain several data and filter the output.

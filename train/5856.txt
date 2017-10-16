@@ -1,0 +1,1 @@
+A software suit that contains several softwares for providing segmentation, quantification, and analysis of static and gated/ungated myocardial perfusion SPECT scans, gated short axis blood pool SPECT scans, static and gated myocardial perfusion PET

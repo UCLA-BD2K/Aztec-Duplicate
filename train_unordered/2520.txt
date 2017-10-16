@@ -1,0 +1,1 @@
+Clustered sets of sequences from UniProt Knowledgebase (including splice variants and isoforms) and selected UniParc records, in order to obtain complete coverage of sequence space at several resolutions while hiding redundant sequences (but not their descriptions) from view.

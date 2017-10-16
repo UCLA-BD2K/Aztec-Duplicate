@@ -1,0 +1,1 @@
+Constructs a hierarchy of cells using flow cytometry for maximization of an external variable (e.g., a clinical outcome or a cytokine response).

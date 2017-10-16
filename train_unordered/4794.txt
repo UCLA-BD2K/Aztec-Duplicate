@@ -1,0 +1,1 @@
+Contains a tool dependency definition that downloads version 2.2.12 of pkiss of the RNAShapesStudio.

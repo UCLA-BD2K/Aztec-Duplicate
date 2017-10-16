@@ -1,0 +1,1 @@
+The betr package implements the BETR (Bayesian Estimation of Temporal Regulation) algorithm to identify differentially expressed genes in microarray time-course data.

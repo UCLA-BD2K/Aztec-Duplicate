@@ -1,0 +1,1 @@
+An automated program for assessing the agreement between an atomic model and Xray data.

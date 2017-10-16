@@ -1,0 +1,1 @@
+RNAalifold  predicts a consensus secondary structure of a set of aligned sequences. Current limits are 3000 nt and 300 sequences for an alignment.

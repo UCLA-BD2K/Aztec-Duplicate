@@ -1,0 +1,1 @@
+Robust second-level analysis of brain imaging data - includes visualization tools, but requires SPM2/5/8

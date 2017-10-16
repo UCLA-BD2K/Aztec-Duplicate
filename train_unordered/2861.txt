@@ -1,0 +1,1 @@
+BLAST search against structural domains stored in DrugEBIlity database

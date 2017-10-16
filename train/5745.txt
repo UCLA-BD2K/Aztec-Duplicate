@@ -1,0 +1,1 @@
+dcm4che2 is a high performance, open source implementation of the DICOM standard. It is developed in the Java programming language

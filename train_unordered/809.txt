@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Get a molecular weight array from plain text (one weight per line).

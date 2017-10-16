@@ -1,0 +1,1 @@
+Translates files in mmCIF format into files in PDB format.

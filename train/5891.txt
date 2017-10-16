@@ -1,0 +1,1 @@
+"The Debabeler is a robust and extensible tool used to create and customize translations between medical image file formats. Its visual programming environment provides an intuitive and easy way to modify a variety of existing translations to meet researchers' needs."

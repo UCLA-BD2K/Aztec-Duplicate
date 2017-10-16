@@ -1,0 +1,1 @@
+Maps BLAST results to GO annotation terms

@@ -1,0 +1,1 @@
+GeoS is a software tool for the semi-automatic segmentation of 3D medical images such as CT or MR scans.

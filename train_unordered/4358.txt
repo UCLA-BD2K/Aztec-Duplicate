@@ -1,0 +1,1 @@
+Wig math (avg/log/Z-score/etc), NGS processing (ChIP-seq, MNase-seq, FAIRE-seq, DNase-seq), and visualization (heatmaps, clustering)

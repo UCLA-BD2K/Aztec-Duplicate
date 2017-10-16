@@ -1,0 +1,1 @@
+Background: Various processes such as annotation and filtering of variants or comparison of variants in different genomes are required in whole-genome or exome analysis pipelines. However, processing different databases and searching among millions of genomic loci is not trivial.

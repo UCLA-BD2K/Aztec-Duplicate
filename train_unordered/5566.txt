@@ -1,0 +1,1 @@
+Computes basic properties of whole network (degree distribution, clustering coefficients, centrality, etc.)

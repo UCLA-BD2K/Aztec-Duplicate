@@ -1,0 +1,1 @@
+trim Multiplicom primer sequences from paired FastQ files

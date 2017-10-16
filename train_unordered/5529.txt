@@ -1,0 +1,1 @@
+Provides user sliders which can hide nodes whose continuous attribute is below threshold specied by sliders.

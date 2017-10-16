@@ -1,0 +1,3 @@
+ 
+	The EasyGene 1.0 server produces a list of predicted genes given a sequence of prokaryotic 
+	DNA

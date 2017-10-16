@@ -1,0 +1,1 @@
+water uses the Smith-Waterman algorithm (modified for speed enhancements) to calculate the local alignment.

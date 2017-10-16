@@ -1,0 +1,1 @@
+A unification tool which dynamically collects and compiles data from many scientific databases, and thereby attempts to encapsulate the genetics and molecular biology of genes from the genomes of Homo sapiens, Mus musculus, Rattus norvegicus into easy to navigate GeneReports.

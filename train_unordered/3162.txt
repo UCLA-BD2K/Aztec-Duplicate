@@ -1,0 +1,1 @@
+predict O-glycosylation sites in proteins.

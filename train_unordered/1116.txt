@@ -1,0 +1,3 @@
+ 
+			TMHMM is a method for prediction transmembrane helices based on a hidden Markov model and 
+			developed by Anders Krogh and Erik Sonnhammer

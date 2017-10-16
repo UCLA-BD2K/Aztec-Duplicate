@@ -1,0 +1,1 @@
+Authority: bioinfo.cipf.es  -  This service detects blocks of functionally related genes (GO, KEGG, etc.) with significant coordinate (although modest) behaviour across a list of ranked genes using a segment test

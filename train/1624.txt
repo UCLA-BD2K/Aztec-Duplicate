@@ -1,0 +1,1 @@
+A package for gene set analysis based on the variability of expressions. It implements DIfferential RAnk Conservation (DIRAC) and gene set Expression Variation Analysis (EVA) methods.

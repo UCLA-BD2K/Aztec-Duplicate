@@ -1,0 +1,1 @@
+Plots data associated with arbitrary genomic intervals along chromosomal ideogram.

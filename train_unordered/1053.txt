@@ -1,0 +1,13 @@
+
+
+	This  WSDL file describe the phospho.ELM database Web Service. The phospho.ELM database contains descriptions of sets of one or more orthologous proteins that are annotated to be phosphorylated.
+	The orthology grouping allows convenient cross-species comparison.
+	
+	Reference:
+	Phospho.ELM: A database of experimentally verified phosphorylation sites in eukaryotic proteins
+    Francesca Diella, Scott Cameron, Christine Gemuend, Rune Linding, Allegra Via, Bernhard Kuster, Thomas Sicheritz-Ponten, 
+    Nikolaj Blom  and Toby J Gibson  (2004) BMC Bioinformatics, 5:79
+	
+	URL:http://phospho.elm.eu.org
+	
+		

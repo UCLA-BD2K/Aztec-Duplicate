@@ -1,0 +1,1 @@
+In the context of reverse engineering of biological networks, simulators are helpful to test and compare the accuracy of different reverse-engineering approaches in a variety of experimental conditions. Netsim is a gene-network simulator

@@ -1,0 +1,1 @@
+http://liferay.csb.univie.ac.at/portal/web/simap/webservice

@@ -1,0 +1,1 @@
+Provides S4 data structures and basic functions to deal with flow cytometry data.

@@ -1,0 +1,4 @@
+RNAshapes offers three powerful RNA analysis tools
+    * Computation of a small set of representative structures of different shapes, complete in a well-defined sense.
+    * Computation of accumulated shape probabilities.
+    * Comparative prediction o

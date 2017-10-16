@@ -1,0 +1,1 @@
+Colander is a MS/MS data pre-processing program for selecting CID MS/MS spectra generated from phosphopeptides.

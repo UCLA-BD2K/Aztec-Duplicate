@@ -1,0 +1,1 @@
+Multipurpose graphic converter capable of reading 400 file formats and writing 50, including some medical image files. Includes batch conversion of DICOM to TIFF, JPG etc.

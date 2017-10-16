@@ -1,0 +1,3 @@
+ XML based protein structure search engine service. 
+
+New WSDL document: http://service.pdbj.org/SOAP/PDBjSOAPServiceX.wsdl

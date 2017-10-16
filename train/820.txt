@@ -1,0 +1,1 @@
+Authority: inb.bsc.es  -  Searches uniprot entries for a text. The text is searched in: comments and keywords.

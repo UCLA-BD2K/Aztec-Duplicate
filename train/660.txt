@@ -1,0 +1,1 @@
+Authority: cgl.imim.es  -  Returns the list of proteins that share some relationship from the pharmacological point of view with the given one. Id = pdb|sp|uni|trembl, description=name of the protein, weight=

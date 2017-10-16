@@ -1,0 +1,1 @@
+Identifies small molecules likely to bind to given protein

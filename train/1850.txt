@@ -1,0 +1,1 @@
+This package contains class definitions, validity checks, and initialization methods for classes used by the oligo and crlmm packages.

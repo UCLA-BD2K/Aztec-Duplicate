@@ -1,0 +1,1 @@
+Finds overlapping protein complexes in a protein interaction network.
