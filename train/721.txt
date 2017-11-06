@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves a hierarchical non domain entry from SCOP database given a dot separated number list.
+Compares a protein sequence against a nucleotide database translated in three forward and three reverse frames using the FASTA (tfastx) algorithm.

@@ -1,1 +1,1 @@
- Contains a tool dependency definition that downloads and compiles version 35x1 of the the UCSC blat package. 
+Sensitive Structural Varient detection(SV) tool.

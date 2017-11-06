@@ -1,1 +1,1 @@
-Analysis of cell-based RNA interference screens
+Flexible tools for genome arithmetic and NGS analysis.

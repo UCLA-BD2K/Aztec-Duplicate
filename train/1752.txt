@@ -1,1 +1,1 @@
-A set of annotation maps describing the entire MeSH assembled using data from MeSH
+Authority: inb.bsc.es  -  Coiled coil region prediction.

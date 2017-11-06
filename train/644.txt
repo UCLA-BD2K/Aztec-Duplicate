@@ -1,1 +1,4 @@
-Authority: inb.bsc.es  -  Compares an amino acid sequence against the six-frame translations of a nucleotide sequence  database and calculates the statistical significance of matches using the Basic Local Alignment Search Tool (BLAST).
+We developed cyNeo4j, a Cytoscape App to link Cytoscape and Neo4j databases to utilize the performance and storage capacities Neo4j offers. We implemented a Neo4j NetworkAnalyzer, ForceAtlas2 layout and Cypher component to demonstrate the possibilities a distributed setup of Cytoscape and Neo4j have.
+                The app is available from the Cytoscape App Store at http://apps.cytoscape.org/apps/cyneo4j, the Neo4j plugins at www.github.com/gsummer/cyneo4j-parent and the community and commercial editions of Neo4j can be found at http://www.neo4j.com.
+                georg.summer@gmail.com.
+                Â© The Author 2015. Published by Oxford University Press.

@@ -1,1 +1,0 @@
-g:Cocoa performs functional analysis of multiple gene lists. The compact output of g:Cocoa allows a condensed and minimal view of functional enrichments in dozens of gene lists.

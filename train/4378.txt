@@ -1,1 +1,1 @@
-Contains galaxy tool wrapper for kraken-report.
+mzServer enables access to mass spectrometry data

@@ -1,1 +1,0 @@
-Finds a match of a large sequence against one or more sequences

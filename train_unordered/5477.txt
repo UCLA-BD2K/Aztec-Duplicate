@@ -1,1 +1,0 @@
-Spanning tree computation for a given Cytoscape network

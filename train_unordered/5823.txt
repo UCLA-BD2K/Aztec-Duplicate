@@ -1,1 +1,0 @@
-Tools and libraries for handling offline files of DICOM attributes, and conversion of proprietary formats to DICOM. This package is from the authoratative source on DICOM. Includes the programs dciodvfy and dcentvfy, for validating the content of DICOM part 10 files against the DICOM standard.

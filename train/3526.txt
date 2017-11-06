@@ -1,1 +1,1 @@
-Plot some information from a list of transcripts.
+Tool for filtering VCF files

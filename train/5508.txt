@@ -1,1 +1,1 @@
-Searches for differentially altered links in a given network using multiple set of expression data.
+VV is an open-source and cross platform image viewer, designed for fast and simple visualization of spatio-temporal images. It can display 2D and 3D images as a static volume or as a time series. VV is more specifically designed for qualitative evaluation of image registration and deformation field visualization. It contains several tools for superimposing images using complementary colors or transparency, visualizing vector fields and defining landmarks.

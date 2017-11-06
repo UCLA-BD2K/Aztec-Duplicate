@@ -1,1 +1,1 @@
-This suite contains tools for managing ontologies that are represented in the OBO flat file format
+Provides functionality for the compression and decompression of raw bead-level data from the Illumina BeadArray platform

@@ -1,1 +1,1 @@
-Import/export of Graphviz files in Cytoscape
+Prediction of cellular role, enzyme class and Gene Ontology category

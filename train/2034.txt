@@ -1,1 +1,1 @@
-RSVSim is a package for the simulation of deletions, insertions, inversion, tandem-duplications and translocations of various sizes in any genome available as FASTA-file or BSgenome data package. SV breakpoints can be placed uniformly accross the whole genome, with a bias towards repeat regions and regions of high homology (for hg19) or at user-supplied coordinates.
+This package uses Bayesian hidden Ising models to identify IP-enriched genomic regions from ChIP-seq data. It can be used to analyze ChIP-seq data with and without controls and replicates.

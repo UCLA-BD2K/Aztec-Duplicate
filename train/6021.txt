@@ -1,1 +1,1 @@
-PINT, the Proteomics INTegrator, is an online experiment repository for final results comming from different qualitative and/or quantitative proteomics assays. 
+Database of the human cDNA project at the Kazusa DNA Research Institute, covering various sets of large human proteins of hitherto unidentified functions.

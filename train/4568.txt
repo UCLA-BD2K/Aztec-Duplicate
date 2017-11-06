@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.2.4 of the Bowtie package
+mapping statisics from BAM files produced by Tophat

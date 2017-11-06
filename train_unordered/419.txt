@@ -1,3 +1,0 @@
-This Web Service connects to the Rice module of the TropGene database (http://tropgenedb.cirad.fr). 
-We annotated the input and output with ontological terms of the GCP Domain Model Ontology (http://cropontology.org/).
-For given study names (GCP_Study) 

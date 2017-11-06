@@ -1,1 +1,0 @@
-Learning and generation of Bayesian networks.

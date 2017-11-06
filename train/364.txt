@@ -1,1 +1,6 @@
-Compares an amino acid sequence against the six-frame translations of a nucleotide sequence database and calculates the statistical significance of matches using the Basic Local Alignment Search Tool (BLAST).
+Sequencing and microarray samples often are collected or processed in multiple batches or at different times. This often produces technical biases that can lead to incorrect results in the downstream analysis. There are several existing batch adjustment tools for ‘-omics’ data, but they do not indicate a priori whether adjustment needs to be conducted or how correction should be applied. We present a software pipeline, BatchQC, which addresses these issues using interactive visualizations and statistics that evaluate the impact of batch effects in a genomic dataset. BatchQC can also apply existing adjustment tools and allow users to evaluate their benefits interactively. We used the BatchQC pipeline on both simulated and real data to demonstrate the effectiveness of this software toolkit.
+        Availability and Implementation: BatchQC is available through Bioconductor: http://bioconductor.org/packages/BatchQC and GitHub: https://github.com/mani2012/BatchQC.
+        Contact:
+wej@bu.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

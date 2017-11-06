@@ -1,1 +1,0 @@
-Layouts node positions according to reference Cytoscape session file.

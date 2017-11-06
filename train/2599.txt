@@ -1,1 +1,1 @@
-Genomics of two major lepidopteran pests
+Contains a tool dependency definition that downloads and installs version 1.0.4 of StringTie.

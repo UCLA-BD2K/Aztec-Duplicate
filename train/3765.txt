@@ -1,1 +1,1 @@
-Search InnateDB Curated using a protein id.
+Performs ID mapping using BridgeDb and other public or custom database sources.

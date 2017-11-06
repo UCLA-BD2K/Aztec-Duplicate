@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.2.10 of Velvet
+CGHnormaliter is a package for normalization of array comparative genomic hybridization (aCGH) data. It uses an iterative procedure that effectively eliminates the influence of imbalanced copy numbers. This leads to a more reliable assessment of copy number alterations (CNAs). CGHnormaliter is integrated in the Bioconductor environment allowing a smooth link to visualization tools and further data analysis.

@@ -1,1 +1,0 @@
-The phospho.ELM database contains descriptions of sets of one or more orthologous eukaryotic proteins that are annotated to be phosphorylated. The orthology grouping allows convenient cross-species comparison.

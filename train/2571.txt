@@ -1,1 +1,1 @@
-Protein-nucleic acid interactions, with various features of protein-nuleic acid interfaces.
+Annotation tool using Ensembl Variant Effect Predictor for GVL

@@ -1,1 +1,1 @@
-Tools for quantifying DNA binding specificities based on SELEX-seq data
+Dieses Projekt simuliert kÃ¼nstliches Leben in einer Unix-artigen Umgebung. Dieses kÃ¼nstliche Leben sind kleine eigenstÃ¤ndige Programme, die sich fortpflanzen, dabei mutieren und somit den Gesetzen der Evolution unterliegen.

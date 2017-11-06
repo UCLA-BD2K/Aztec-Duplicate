@@ -1,1 +1,1 @@
-Description: MEDME allows the prediction of absolute and relative methylation levels based on measures obtained by MeDIP-microarray experiments
+Plots an ArrayXYData.

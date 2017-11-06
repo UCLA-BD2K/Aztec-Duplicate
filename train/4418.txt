@@ -1,1 +1,1 @@
-Modified merge_columns to allow merging columns separated by a delimiter
+MaZda is a computer program for calculation of texture parameters (features) in digitized images

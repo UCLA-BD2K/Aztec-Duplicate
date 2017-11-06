@@ -1,1 +1,0 @@
-TrackVis is a software tool that can visualize and analyze fiber track data from diffusion MR imaging (DTI/DSI/HARDI/Q-Ball) tractography

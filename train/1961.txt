@@ -1,1 +1,1 @@
-A fairly extensive and comprehensive interface to the graph algorithms contained in the BOOST library.
+A slush generator for BioJS modules

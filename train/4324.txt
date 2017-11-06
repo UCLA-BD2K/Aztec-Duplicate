@@ -1,1 +1,1 @@
-heatmap generator for numeric data
+Parser for annotation files

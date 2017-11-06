@@ -1,1 +1,1 @@
-Authority: cnio.es  -  A utility to translate fasta format sequences.
+a Cytoscape app for analysis and visualization of clusters from network

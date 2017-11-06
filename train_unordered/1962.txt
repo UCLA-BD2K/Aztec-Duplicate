@@ -1,1 +1,0 @@
-Functions and datasets and examples to accompany the monograph R For Bioinformatics.

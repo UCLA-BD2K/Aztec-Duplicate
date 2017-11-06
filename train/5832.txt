@@ -1,1 +1,1 @@
-Mark2Cure works by teaching citizen scientists to precisely identify concepts and concept relationships in biomedical text. This is a task that anyone can learn to do and can perform better than any known computer program. Once these tasks are completed, advanced statistical algorithms take the data provided by the volunteers and use it to provide scientists with new tools for finding the information that they require within the sea of biomedical knowledge.
+Authority: pdg.cnb.uam.es  -  It returns a list with the different interactions where a protein ID is interacting

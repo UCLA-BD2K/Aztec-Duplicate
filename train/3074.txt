@@ -1,1 +1,1 @@
-Draws linear maps of DNA constructs
+This package implements several functions useful for computing similarities between GO terms and gene products based on their GO annotation. Moreover it allows for computing a GO enrichment analysis

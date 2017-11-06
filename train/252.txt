@@ -1,1 +1,6 @@
-Returns a sequence from uniprot annotated with all its features.
+Summary: Branch is a web application that provides users with the ability to interact directly with large biomedical datasets. The interaction is mediated through a collaborative graphical user interface for building and evaluating decision trees. These trees can be used to compose and test sophisticated hypotheses and to develop predictive models. Decision trees are built and evaluated based on a library of imported datasets and can be stored in a collective area for sharing and re-use.
+        Availability and implementation: Branch is hosted at http://biobranch.org/ and the open source code is available at http://bitbucket.org/sulab/biobranch/.
+        Contacts:
+asu@scripps.edu or bgood@scripps.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

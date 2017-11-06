@@ -1,1 +1,4 @@
-Transmembrane topology and signal peptides prediction from the amino acid sequence of a protein using Phobius.
+Summary: Phylowood is a web service that uses JavaScript to generate in-browser animations of biogeographic and phylogeographic histories from annotated phylogenetic input. The animations are interactive, allowing the user to adjust spatial and temporal resolution, and highlight phylogenetic lineages of interest.
+        Availability and implementation: All documentation and source code for Phylowood is freely available at https://github.com/mlandis/phylowood, and a live web application is available at https://mlandis.github.io/phylowood.
+        Contact:
+mlandis@berkeley.edu

@@ -1,1 +1,1 @@
-ENA sequence search is search service against all nucleotide sequences available in the European Nucleotide Archive (ENA), Ensembl and Ensembl Genomes databases.
+A visualisation for variation data

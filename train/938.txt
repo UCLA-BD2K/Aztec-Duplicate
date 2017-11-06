@@ -1,1 +1,1 @@
-Interface to PubChem
+Get Uniprot IDs related to a GO Term.

@@ -1,1 +1,1 @@
-Mycobacterium tuberculosis strain H37Rv genome database
+Waterman-Eggert local alignment of two sequences

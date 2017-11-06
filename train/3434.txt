@@ -1,1 +1,1 @@
-P-type ATPase sequence classifier and database
+Slice BAM by provided regions

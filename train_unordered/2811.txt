@@ -1,1 +1,0 @@
-Assembly-free Genome Comparison based on Next-Generation Sequencing Reads and Variable Length Patterns

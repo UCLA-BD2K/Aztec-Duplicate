@@ -1,1 +1,1 @@
-Finds a match of a large sequence against one or more sequences
+Authority: cnio.es  -  Converts Nucleotide FASTA sequences (FASTA_NA_multi) into a collection of Nucleotide sequences

@@ -1,1 +1,0 @@
-Metarepository for the gops tool suite.

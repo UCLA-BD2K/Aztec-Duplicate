@@ -1,1 +1,1 @@
-MetaPhlAn (Metagenomic Phylogenetic Analysis) is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data
+ANIMO (Analysis of Networks with Interactive MOdeling) lets you model biological networks and compare their dynamics with experimental data.

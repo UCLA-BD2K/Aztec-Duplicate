@@ -1,1 +1,1 @@
-Needleman-Wunsch rapid global alignment of two sequences
+Parses newick and extended newick strings(nhx) into JSON 

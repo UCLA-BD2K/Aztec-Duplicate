@@ -1,1 +1,0 @@
-Continous integration of BioJS components into Galay

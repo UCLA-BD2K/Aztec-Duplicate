@@ -1,1 +1,1 @@
-Scan Nucleotide or Protein Sequences for Matching Patterns
+Tools for analyzing and visualizing Illumina's 450k array data.

@@ -1,1 +1,1 @@
-Provides quality control and quality assessment tools for gated flow cytometry data.
+Technical performance metrics for differential gene expression experiments using External RNA Controls Consortium (ERCC) spike-in ratio mixtures.

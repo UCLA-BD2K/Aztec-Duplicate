@@ -1,1 +1,1 @@
-Finds enriched function based on sum-of-weight scores.
+Find Common Insertion Sites in insertional mutagenesis experiments

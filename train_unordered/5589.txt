@@ -1,1 +1,0 @@
-Identifies subnetworks which can discriminate given conditions according to PPI network and gene expression data

@@ -1,1 +1,1 @@
-Wraper functions for description/comparison of oligo ID list using Gene Ontology database
+cross-correlation analysis package (spp)

@@ -1,1 +1,1 @@
-Draw dotplots for all-against-all comparison of a sequence set
+Searches Ensembl Protists sequences using Exonerate

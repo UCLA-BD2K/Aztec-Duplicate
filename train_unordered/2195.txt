@@ -1,1 +1,0 @@
-This packages contains tools to support the construction of tcltk widgets

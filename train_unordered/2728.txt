@@ -1,1 +1,0 @@
-HMMER is used for searching sequence databases for homologs of protein sequences, and for making protein sequence alignments. It implements methods using probabilistic models called profile hidden Markov models. The new HMMER3 project, HMMER is now as fast as BLAST for protein search.

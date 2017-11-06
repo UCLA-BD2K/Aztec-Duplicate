@@ -1,5 +1,1 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Solvates a Structure (Protein/Nucleic).
-            
-    
+Performs ID mapping using BridgeDb and other public or custom database sources.

@@ -1,1 +1,1 @@
-A protein sequence viewer written in javascript
+This suite contains Roche/454's Newbler and sff-fastq converter

@@ -1,1 +1,0 @@
-Keep the coordinates which are located in a given position.

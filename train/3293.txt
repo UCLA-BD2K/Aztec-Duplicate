@@ -1,1 +1,1 @@
-LIMANI (Leaf Image Analysis Interface) is an on-line framework for the analysis of vascular networks in leaves.
+Logol is a pattern matching grammar language and a set of tools to search a pattern in a sequence (nucleic or proteic).

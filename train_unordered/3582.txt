@@ -1,1 +1,0 @@
-Report overlaps between two feature files.

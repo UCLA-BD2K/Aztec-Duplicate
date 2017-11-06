@@ -1,1 +1,1 @@
-Wavelet variance using Discrete Wavelet Transfoms
+Authority: mmb.pcb.ub.es  -  Takes in input a Distance_Matrix object, representing correlations between couples, and calculates chain correlations

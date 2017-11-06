@@ -1,1 +1,0 @@
-Isoelectric Point is a web service that retrieves all genes whose protein product has an isoelectric point in a range that user specify.

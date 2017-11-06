@@ -1,1 +1,1 @@
-Fetch a database entry
+The Rcpi package offers an R/Bioconductor package emphasizing the comprehensive integration of bioinformatics and chemoinformatics into a molecular informatics platform for drug discovery.

@@ -1,1 +1,1 @@
-Create frequency matrix or profile from a multiple alignment
+Galaxy wrapper for the Lastz alignment tool on paired reads

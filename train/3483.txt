@@ -1,1 +1,1 @@
-Prediction of glycation of amino groups of lysines in mammalian proteins
+ Split a BAM file by read group

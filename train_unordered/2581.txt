@@ -1,1 +1,0 @@
-Mouse genome database including DNA and protein sequences, annotation, gene models and mapping etc.

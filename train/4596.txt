@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 1.0 of the yacca R library.
+Weather prediction service based on you city and country. 

@@ -1,1 +1,1 @@
-X!Tandem Search Engine
+Maps read sequences to OTUs - GVL

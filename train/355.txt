@@ -1,1 +1,5 @@
-Patmatmotifs takes a protein sequence and compares it to the PROSITE database of motifs.
+Summary: CellProfiler Analyst allows the exploration and visualization of image-based data, together with the classification of complex biological phenotypes, via an interactive user interface designed for biologists and data scientists. CellProfiler Analyst 2.0, completely rewritten in Python, builds on these features and adds enhanced supervised machine learning capabilities (Classifier), as well as visualization tools to overview an experiment (Plate Viewer and Image Gallery).
+        Availability and Implementation: CellProfiler Analyst 2.0 is free and open source, available at http://www.cellprofiler.org and from GitHub (https://github.com/CellProfiler/CellProfiler-Analyst) under the BSD license. It is available as a packaged application for Mac OS X and Microsoft Windows and can be compiled for Linux. We implemented an automatic build process that supports nightly updates and regular release cycles for the software.
+        Contact:
+anne@broadinstitute.org
+        Supplementary information: Supplementary data are available at Bioinformatics online.

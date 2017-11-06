@@ -1,0 +1,11 @@
+Abstract
+        
+Summary: MetaboSignal is an R package that allows merging metabolic and signaling pathways reported in the Kyoto Encyclopaedia of Genes and Genomes (KEGG). It is a network-based approach designed to navigate through topological relationships between genes (signaling- or metabolic-genes) and metabolites, representing a powerful tool to investigate the genetic landscape of metabolic phenotypes.
+        
+Availability and Implementation: MetaboSignal is available from Bioconductor: https://bioconductor.org/packages/MetaboSignal/
+        
+Contact:
+m.dumas@imperial.ac.uk.
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

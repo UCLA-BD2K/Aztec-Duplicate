@@ -1,1 +1,1 @@
-Indentify candidate secreted proteins using SignalP and TMHMM
+Extract Orthologous Microsatellites from pair-wise alignments

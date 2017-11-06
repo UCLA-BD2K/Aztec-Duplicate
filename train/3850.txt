@@ -1,1 +1,1 @@
-showalign displays an aligned set of protein or a nucleic acid sequences in a style suitable for publication.
+Proteomics module of Plant Research International's Mass Spectrometry (PRIMS) toolsuite

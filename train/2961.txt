@@ -1,1 +1,1 @@
-Search MEROPS sequences with BLAST
+Authority: inb.bsc.es  -  Run byodyn oed.

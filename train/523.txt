@@ -1,0 +1,3 @@
+BioBlend.objects is a new component of the BioBlend package, adding an object-oriented interface for the Galaxy REST-based application programming interface. It improves support for metacomputing on Galaxy entities by providing higher-level functionality and allowing users to more easily create programs to explore, query and create Galaxy datasets and workflows.
+                BioBlend.objects is available online at https://github.com/afgane/bioblend. The new object-oriented API is implemented by the galaxy/objects subpackage.
+                Â© The Author 2014. Published by Oxford University Press.

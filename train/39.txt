@@ -1,1 +1,7 @@
-This Web service predicts the susceptibility for one or more mutations in HIV protease to seven drugs (amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, and saquinanvir).
+Motivation: The accurate detection of copy number alterations (CNAs) in human genomes is important for understanding susceptibility to cancer and mechanisms of tumor progression. CNA detection in tumors from single nucleotide polymorphism (SNP) genotyping arrays is a challenging problem due to phenomena such as aneuploidy, stromal contamination, genomic waves and intra-tumor heterogeneity, issues that leading methods do not optimally address.
+        Results: Here we introduce methods and software (PennCNV-tumor) for fast and accurate CNA detection using signal intensity data from SNP genotyping arrays. We estimate stromal contamination by applying a maximum likelihood approach over multiple discrete genomic intervals. By conditioning on signal intensity across the genome, our method accounts for both aneuploidy and genomic waves. Finally, our method uses a hidden Markov model to integrate multiple sources of information, including total and allele-specific signal intensity at each SNP, as well as physical maps to make posterior inferences of CNAs. Using real data from cancer cell-lines and patient tumors, we demonstrate substantial improvements in accuracy and computational efficiency compared with existing methods.
+        Availability: Source code, documentation and example datasets are freely available at http://sourceforge.net/projects/penncnv-2.
+        Contact:
+gary.k.chen@usc.edu or kaichop@gmail.com
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,1 @@
-sample sequence(s) from a profile HMM
+Cluster peptide sequences

@@ -1,1 +1,1 @@
-Stepwise normalization functions for cDNA microarray data.
+mapping for Ion Torrent

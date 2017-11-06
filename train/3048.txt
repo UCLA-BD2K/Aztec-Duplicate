@@ -1,1 +1,1 @@
-Create a distance matrix from a multiple sequence alignment
+Workbench for remote access to R/Bioconductor on EBI's cluster

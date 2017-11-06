@@ -1,1 +1,1 @@
-Retrieve information from REBASE restriction enzyme database
+Finds neighbouring pairs of features in sequence(s)

@@ -1,1 +1,7 @@
-AlignmentML is a format describing (multiple) alignment information any alignment program can produce. Similar to SequenceML different sequence types (nucleic, amino acid and free) are supported.
+Summary: Next-generation sequencing technologies produce short reads that are either de novo assembled or mapped to a reference genome. Genotypes and/or single-nucleotide polymorphisms are then determined from the read composition at each site, which become the basis for many downstream analyses. However, for low sequencing depths, e.g. , there is considerable statistical uncertainty in the assignment of genotypes because of random sampling of homologous base pairs in heterozygotes and sequencing or alignment errors. Recently, several probabilistic methods have been proposed to account for this uncertainty and make accurate inferences from low quality and/or coverage sequencing data.
+        We present ngsTools, a collection of programs to perform population genetics analyses from next-generation sequencing data. The methods implemented in these programs do not rely on single-nucleotide polymorphism or genotype calling and are particularly suitable for low sequencing depth data.
+        Availability: Programs included in ngsTools are implemented in C/C++ and are freely available for noncommercial use at https://github.com/mfumagalli/ngsTools.
+        Contact:
+mfumagalli82@gmail.com
+        Supplementary Information:
+Supplementary materials are available at Bioinformatics online.

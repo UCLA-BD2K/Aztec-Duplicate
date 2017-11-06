@@ -1,1 +1,1 @@
-RNA seq pipeline that allows users to do  Alignment, Quantification, Differential Expression, and Variant Calling
+This package facilitates reading, preprocessing and manipulating Codelink microarray data. The raw data must be exported as text file using the Codelink software.

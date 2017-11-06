@@ -1,1 +1,1 @@
-This package detects outliers using quantile regression on the M-A scatterplots of high-throughput data.
+Web services for the Regulatory Sequence Analysis Tools (RSAT). Tools developed by Jacques van Helden (jvanheld@bigre.ulb.ac.be), SOAP/WSDL interface developed by Olivier Sand (oly@bigre.ulb.ac.be).

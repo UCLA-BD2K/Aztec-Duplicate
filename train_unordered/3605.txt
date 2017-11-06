@@ -1,1 +1,0 @@
-Mocapy++ is a Dynamic Bayesian Network toolkit, implemented in C++. It supports discrete, multinomial, Gaussian, Kent, Von Mises and Poisson nodes. Inference and learning is done by Gibbs sampling/Stochastic-EM.

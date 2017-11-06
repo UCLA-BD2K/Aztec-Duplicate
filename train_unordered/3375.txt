@@ -1,1 +1,0 @@
-IMOD is a set of image processing, modelling and display programs used for tomographic reconstruction and for 3D reconstruction of EM serial sections and optical sections.

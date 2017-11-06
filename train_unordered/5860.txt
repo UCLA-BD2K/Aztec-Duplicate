@@ -1,1 +1,0 @@
-Tool to perform deformable registraton in multi-modality via using modality independent neighbourhood descriptor (MIND)

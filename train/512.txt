@@ -1,1 +1,11 @@
-Pathway Commons is a collection of publicly available pathways from multiple organisms. It provides researchers with convenient access to a comprehensive collection of pathways from multiple sources represented in a common language. Access is via a web po
+Summary
+          Automated analysis of flow cytometry (FCM) data is essential for it to become successful as a high throughput technology. We believe that the principles of Trellis graphics can be adapted to provide useful visualizations that can aid such automation. In this article, we describe the R/Bioconductor package flowViz that implements such visualizations.
+        
+        
+          Availability
+          flowViz is available as an R package from the Bioconductor project: http://bioconductor.org
+        
+        
+          Contact
+          
+            dsarkar@fhcrc.org

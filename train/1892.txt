@@ -1,1 +1,1 @@
-PhenoDist is designed for measuring phenotypic distance in image-based high-throughput screening, in order to identify strong phenotypes and to group treatments into functional clusters.
+A graph visualisation tool for PSICQUIC servers

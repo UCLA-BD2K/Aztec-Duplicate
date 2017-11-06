@@ -1,1 +1,0 @@
-Get FASTA from NCBI taxonomy ID

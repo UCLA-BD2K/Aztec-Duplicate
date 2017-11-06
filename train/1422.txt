@@ -1,1 +1,1 @@
-A toolset for deciphering and managing biological sequences.
+Filter reads by kmer abundance.

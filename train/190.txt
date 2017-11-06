@@ -1,1 +1,7 @@
-This web service offers various operations related to the Anni concept profile matching application from the BioSemantics group. It is an update of the now obsolete ConceptRecognizerService which was previously located at: http://ws.biosemantics.org/ConceptRecognizerService.
+Finding one or more cell populations of interest, such as those correlating to a specific disease, is critical when analysing flow cytometry data. However, labelling of cell populations is not well defined, making it difficult to integrate the output of algorithms to external knowledge sources.
+                We developed flowCL, a software package that performs semantic labelling of cell populations based on their surface markers and applied it to labelling of the Federation of Clinical Immunology Societies Human Immunology Project Consortium lyoplate populations as a use case.
+                By providing automated labelling of cell populations based on their immunophenotype, flowCL allows for unambiguous and reproducible identification of standardized cell types.
+                Code, R script and documentation are available under the Artistic 2.0 license through Bioconductor (http://www.bioconductor.org/packages/devel/bioc/html/flowCL.html).
+                rbrinkman@bccrc.ca
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2014. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

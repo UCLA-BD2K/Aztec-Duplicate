@@ -1,1 +1,1 @@
-Whatizit is a text processing system that allows you to do textmining tasks on text. Whatizit is great at identifying molecular biology terms and linking them to publicly available databases
+This package provides easy, fast functions for the extraction and annotation of individual probes from Affymetrix tiling arrays.

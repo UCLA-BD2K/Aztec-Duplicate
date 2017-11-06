@@ -1,1 +1,1 @@
-MUSCLE performs multiple sequence alignments of nucleotide or amino acid sequences.
+PDB interface interactions at atom, residue and domain level. The database contains protein interfaces and residue-residue interactions formed by structural units and interacting solvent.

@@ -1,1 +1,0 @@
-The package is designed to detect marker genes from Microarray gene expression data sets

@@ -1,1 +1,1 @@
-A reference for scientists seeking information about biological samples and data suitable for their research.
+A repository for 3D biological macromolecular structure data.

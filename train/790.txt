@@ -1,5 +1,1 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Runs an Energy Minimization of the Structure (Using Namd program).
-            
-    
+targetHub is a CouchDB database of miRNA-gene interactions.

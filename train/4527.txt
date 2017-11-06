@@ -1,1 +1,1 @@
-bamtools - a collection of utilities for processing of bam files
+This package can be used to classify microarray data using one of three penalized regression methods; partial least squares, principal components regression, or ridge regression.

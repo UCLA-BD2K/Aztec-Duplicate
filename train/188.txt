@@ -1,7 +1,6 @@
-Enables querying of KEGG databases (pathway, ligand, disease, gene, drug etc). 
-Use general form of URL http://rest.kegg.jp/{operation}/{argument}/{argument2 or option}
-where operation is one of info, list, find, get, conv, link
-arguments are  databases or database entries 
-
-Try http://rest.kegg.jp/{operation}/{database}/{term}
-operation = list, database = pathway and term = hsa   
+Expression quantitative trait loci (eQTL) studies have discovered thousands of genetic variants that regulate gene expression, enabling a better understanding of the functional role of non-coding sequences. However, eQTL studies are costly, requiring large sample sizes and genome-wide genotyping of each sample. In contrast, analysis of allele-specific expression (ASE) is becoming a popular approach to detect the effect of genetic variation on gene expression, even within a single individual. This is typically achieved by counting the number of RNA-seq reads matching each allele at heterozygous sites and testing the null hypothesis of a 1:1 allelic ratio. In principle, when genotype information is not readily available, it could be inferred from the RNA-seq reads directly. However, there are currently no existing methods that jointly infer genotypes and conduct ASE inference, while considering uncertainty in the genotype calls.
+                We present QuASAR, quantitative allele-specific analysis of reads, a novel statistical learning method for jointly detecting heterozygous genotypes and inferring ASE. The proposed ASE inference step takes into consideration the uncertainty in the genotype calls, while including parameters that model base-call errors in sequencing and allelic over-dispersion. We validated our method with experimental data for which high-quality genotypes are available. Results for an additional dataset with multiple replicates at different sequencing depths demonstrate that QuASAR is a powerful tool for ASE analysis when genotypes are not available.
+                http://github.com/piquelab/QuASAR.
+                fluca@wayne.edu or rpique@wayne.edu
+                Supplementary Material is available at Bioinformatics online.
+                Â© The Author 2014. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

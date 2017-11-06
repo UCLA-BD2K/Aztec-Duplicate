@@ -1,1 +1,0 @@
-This program identifies structural variations from whole-genome sequencing data using patterns of discordant read clusters

@@ -1,1 +1,1 @@
-X-ray Detector Software for processing single-crystal monochromatic diffraction data recorded by the rotation method.
+GNU Datamash is a grouping and summarizing tool on tabular data files

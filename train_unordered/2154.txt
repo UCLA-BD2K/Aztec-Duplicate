@@ -1,1 +1,0 @@
-Functions for data analysis and graphical displays for developmental microarray time course data.

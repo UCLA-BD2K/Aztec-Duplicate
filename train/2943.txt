@@ -1,1 +1,1 @@
-Smith-Waterman local pairwise alignment of sequences
+Parses the FeatureeAASequence having the input article.

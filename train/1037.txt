@@ -1,1 +1,2 @@
-MirMaid is a data-oriented RESTful web service designed for microRNA research. It reorganizes and extends data from miRBase (the official miRNA sequence repository), making it easily accessible through an intuitive API.
+WS-I compatible BLAST Web Service.
+		

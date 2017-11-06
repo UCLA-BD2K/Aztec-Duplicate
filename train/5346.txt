@@ -1,1 +1,1 @@
-Intersect VCF and BED datasets
+Dsc @ IBCP (http://gbio-pbil.ibcp.fr)

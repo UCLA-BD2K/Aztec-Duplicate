@@ -1,1 +1,0 @@
-TFBSTools is a package for the analysis and manipulation of transcription factor binding sites and transcription factor profile matrices.

@@ -1,1 +1,1 @@
-maximum likelihood based inference of phylogenetic trees
+A program to score residue conservation in a multiple sequence alignment

@@ -1,1 +1,1 @@
-smiRNAdb is a database containing expression information for human, mouse, rat, zebrafish, worm and fruitfly small RNAs (mostly miRNAs).
+Flter BAM/SAM on FLAG,MAPQ,RG,LB or by region and produce a BAM/SAM on demand

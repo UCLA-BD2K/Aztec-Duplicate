@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Parse a pattern from a motif.
+The Ontological Discovery Environment allows users to integrate gene-centered data sets across species, tissue and experimental platform. Sets can be stored, shared and compared privately, among user defined groups of investigators, and across all users. 

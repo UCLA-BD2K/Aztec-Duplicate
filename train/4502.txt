@@ -1,1 +1,1 @@
-Keep zip unzip for multi-files zip
+Authority: cnio.es  -  Retrieves all the INB log info for the asked time interval.

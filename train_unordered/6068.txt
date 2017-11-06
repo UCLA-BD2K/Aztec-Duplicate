@@ -1,1 +1,0 @@
-l1_tf is software for l1 trend filtering as described in the paper l1 Trend Filtering

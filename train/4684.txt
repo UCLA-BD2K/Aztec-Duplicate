@@ -1,1 +1,1 @@
-igvtools dependency package v.2.3.32
+Calculates nucleic acid melting temperature

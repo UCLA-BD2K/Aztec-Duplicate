@@ -1,1 +1,1 @@
-Controlled vocabulary of terms for describing gene product characteristics and gene product annotation data from GO Consortium members. THe aim is to standardize representations of gene and gene product attributes across species and databases.
+On BAM files.

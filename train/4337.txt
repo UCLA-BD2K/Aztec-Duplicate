@@ -1,1 +1,1 @@
-Count aligned reads (SAM/BAM) that overlap genomic features (GFF)
+Gene selection based on a mixture of marginal distributions

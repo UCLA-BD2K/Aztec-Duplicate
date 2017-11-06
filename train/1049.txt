@@ -1,1 +1,1 @@
-Dsc @ IBCP (http://gbio-pbil.ibcp.fr)
+Package definition for SearchGUI

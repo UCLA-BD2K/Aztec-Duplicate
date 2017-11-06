@@ -1,1 +1,1 @@
-PcProf @ IBCP (http://gbio-pbil.ibcp.fr)
+Contains a tool dependency definition that downloads and compiles version 0.12 of the the scipy python library.

@@ -1,1 +1,1 @@
-Downloads PPI data from APID and performs various analyses and visualizations.
+This package contains an implementation of the S-Score algorithm as described by Zhang et al (2002).

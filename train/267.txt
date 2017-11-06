@@ -1,1 +1,7 @@
-Retrieves an entry from OMIM, Online Mendelian Inheritance in Man, database.
+Summary: BFC is a free, fast and easy-to-use sequencing error corrector designed for Illumina short reads. It uses a non-greedy algorithm but still maintains a speed comparable to implementations based on greedy methods. In evaluations on real data, BFC appears to correct more errors with fewer overcorrections in comparison to existing tools. It particularly does well in suppressing systematic sequencing errors, which helps to improve the base accuracy of de novo assemblies.
+        Availability and implementation:
+https://github.com/lh3/bfc
+        Contact:
+hengli@broadinstitute.org
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

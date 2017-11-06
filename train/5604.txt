@@ -1,1 +1,1 @@
-Statistical Tracking of Ontological Phrases
+Retrieves an entry from RefSeq database.

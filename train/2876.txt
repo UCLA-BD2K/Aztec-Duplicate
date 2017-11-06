@@ -1,1 +1,1 @@
-Get a subset of data from a BAM | VCF file
+EnigmaVis is a tool for generating interactive plots that you can use to visualize and navigate datasets from ENIGMA.

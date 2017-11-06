@@ -1,1 +1,1 @@
-Provides S4 data structures and basic functions to deal with flow cytometry data.
+Get the differential expression between 2 conditions using Fisher's exact test, on regions defined by a third file.

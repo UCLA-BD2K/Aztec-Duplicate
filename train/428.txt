@@ -1,1 +1,10 @@
-MView re-formats the results of a sequence database search (BLAST, FASTA, etc) or a multiple alignment (MSF, PIR, CLUSTAL, etc) adding optional HTML markup to control colouring and web page layout.
+Summary: The minfi package is widely used for analyzing Illumina DNA methylation array data. Here we describe modifications to the minfi package required to support the HumanMethylationEPIC (‘EPIC’) array from Illumina. We discuss methods for the joint analysis and normalization of data from the HumanMethylation450 (‘450k’) and EPIC platforms. We introduce the single-sample Noob (ssNoob) method, a normalization procedure suitable for incremental preprocessing of individual methylation arrays and conclude that this method should be used when integrating data from multiple generations of Infinium methylation arrays. We show how to use reference 450k datasets to estimate cell type composition of samples on EPIC arrays. The cumulative effect of these updates is to ensure that minfi provides the tools to best integrate existing and forthcoming Illumina methylation array data.
+        
+Availability and Implementation: The minfi package version 1.19.12 or higher is available for all platforms from the Bioconductor project.
+        
+Contact:
+khansen@jhsph.edu
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

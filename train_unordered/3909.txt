@@ -1,1 +1,0 @@
-MG-RAST is an open source web application server that suggests automatic phylogenetic and functional analysis of metagenomes.

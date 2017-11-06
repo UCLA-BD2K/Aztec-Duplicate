@@ -1,1 +1,0 @@
-RAPID is used to view stroke patient's images, including PWIs and DWIs, RAPID will calculate the mismatch volume in PWI-DWI mismatch

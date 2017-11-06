@@ -1,1 +1,16 @@
-Searches a set of sequences with a HMM profile.
+Summary: Drug versus Disease (DvD) provides a pipeline, available through R
+or Cytoscape, for the comparison of drug and disease gene expression profiles from public
+microarray repositories. Negatively correlated profiles can be used to generate hypotheses
+of drug-repurposing, whereas positively correlated profiles may be used to infer side
+effects of drugs. DvD allows users to compare drug and disease signatures with dynamic
+access to databases Array Express, Gene Expression Omnibus and data from the Connectivity
+Map.
+        Availability and implementation: R package (submitted to Bioconductor) under
+GPL 3 and Cytoscape plug-in freely available for download at www.ebi.ac.uk/saezrodriguez/DVD/.
+        
+Contact:
+saezrodriguez@ebi.ac.uk
+
+        Supplementary information:
+Supplementary data are available at Bioinformatics
+online.

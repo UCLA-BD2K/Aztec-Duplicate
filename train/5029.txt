@@ -1,1 +1,1 @@
-454 sequence cleaning
+Improved version of the Needleman-Wunsch algorithm that allows rapid global alignment of two larger sequences

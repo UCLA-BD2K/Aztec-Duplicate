@@ -1,1 +1,6 @@
-Estimates phylogenies from nucleotide sequences by unrooted parsimony.
+Summary: LongISLND is a software package designed to simulate sequencing data according to the characteristics of third generation, single-molecule sequencing technologies. The general software architecture is easily extendable, as demonstrated by the emulation of Pacific Biosciences (PacBio) multi-pass sequencing with P5 and P6 chemistries, producing data in FASTQ, H5, and the latest PacBio BAM format. We demonstrate its utility by downstream processing with consensus building and variant calling.
+        Availability and Implementation: LongISLND is implemented in Java and available at http://bioinform.github.io/longislnd
+        Contact:
+hugo.lam@roche.com
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

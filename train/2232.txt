@@ -1,1 +1,1 @@
-A Feature viewer
+Provides Gaggle Boss, which routes data from one application to another.

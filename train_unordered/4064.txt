@@ -1,1 +1,0 @@
-Codon based sequence logo generator.

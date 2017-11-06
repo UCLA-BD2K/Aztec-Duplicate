@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.1.x of the the chemfp package.
+Alternating Least Squares (or Multivariate Curve Resolution) for analytical chemical data, in particular hyphenated data where the first direction is a retention time axis, and the second a spectral axis. Package builds on the basic als function from the ALS package and adds functionality for high-throughput analysis, including definition of time windows, clustering of profiles, retention time correction, etcetera.

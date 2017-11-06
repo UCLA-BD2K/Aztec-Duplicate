@@ -1,1 +1,0 @@
-A public repository, standards compliant, for proteomics image data published in the literature.

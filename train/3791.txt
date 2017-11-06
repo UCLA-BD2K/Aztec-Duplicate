@@ -1,1 +1,1 @@
-The EFetch services retrieve records in the requested format from several databases hosted by the NCBI.
+PromoterWise compares two DNA sequences allowing for inversions and translocations, ideal for promoters.

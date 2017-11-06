@@ -1,1 +1,1 @@
-Authority: cnio.es  -  It looks for (if it is not possible, guess) an iHOP protein or gene symbol related to the input, and it is returned as a bare object
+Authority: inb.bsc.es  -  Converts a sequence in Fasta format into a GenericSequence object.

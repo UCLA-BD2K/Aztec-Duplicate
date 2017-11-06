@@ -1,1 +1,1 @@
-Dependencies for FreeBayes and LeftAlign wrappers
+Clustalw @ IBCP (http://gbio-pbil.ibcp.fr)

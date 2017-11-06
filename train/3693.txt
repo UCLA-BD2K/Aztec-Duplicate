@@ -1,1 +1,1 @@
-T-Coffee is a multiple sequence alignment program. Multiple sequence alignment programs are meant to align a set of sequences previously gathered using other programs such as BLAST or FASTA.
+Plot some information from a list of transcripts.

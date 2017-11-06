@@ -1,1 +1,0 @@
-Convert interproscan raw or xml output to an Excel file

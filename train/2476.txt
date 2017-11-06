@@ -1,1 +1,1 @@
-Encyclopedia of genes and genomes.
+Remove duplicated objects.

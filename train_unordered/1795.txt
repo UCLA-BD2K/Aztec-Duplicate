@@ -1,1 +1,0 @@
-R package compendium for the analysis of murine palate miRNA two-color expression data.

@@ -1,1 +1,1 @@
-This program identifies structural variations from whole-genome sequencing data using patterns of discordant read clusters
+Support Vector Machines based Predictor of human Deleterious Single Nucleotide Polymorphisms

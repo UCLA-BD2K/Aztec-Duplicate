@@ -1,1 +1,0 @@
-SBGN aims to be the standard graphical notation for systems biology. This plugin adds the support to Cytoscape to load SBGN-ML networks.

@@ -1,1 +1,0 @@
-PSEA-Quant is a protein set enrichment analysis algorithm for label-free and label-based mass spectrometry-based quantitative proteomics. It identifies protein sets from the Gene Ontology and Molecular Signature databases that are statistically significantly enriched with abundant proteins, which are measured with high reproducibility across a set of replicates. 

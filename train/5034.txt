@@ -1,1 +1,1 @@
-Quality control and analytics of mapped reads
+Scan a protein sequence against PRINTS to identify the closest matching PRINTS sequence motifs/fingerprints

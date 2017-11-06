@@ -1,1 +1,1 @@
-TAP - Structure Validation. TAP serves to validate the local torsion angles of a protein structure.
+Contains a tool dependency definition that downloads and compiles version 2.1 of ruby.

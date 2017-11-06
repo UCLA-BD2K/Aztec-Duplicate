@@ -1,1 +1,1 @@
-This package finds optimal sets of genes that seperate samples into two or more classes.
+Range of bioinformatics tools including Blast, PsiBlast, PhyloTable

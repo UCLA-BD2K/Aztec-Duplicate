@@ -1,1 +1,0 @@
-GIFT is an application developed in Matlab that enables group inferences from fMRI data using Independent Component Analysis (ICA)

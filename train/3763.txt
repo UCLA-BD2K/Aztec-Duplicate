@@ -1,1 +1,1 @@
-Query the Reactome database
+Compute q-values based on multiple simultaneous tests p-values

@@ -1,1 +1,3 @@
-Authority: cnio.es  -  Automatic method for predicting functionally important residues (Mutational Behaviour) in protein sequence alignments (longer than 50 residues and at least 15 sequences), in the MSF text format, as input.
+Authority: mmb.pcb.ub.es  -  
+		Parses accessibility from a PHD report, where: b = 0-9%, i = 9-36%, e = 36-100%
+	

@@ -1,1 +1,0 @@
-Software tool for parameterization of EEM (Electronegativity Equalization Method) for calculation of empirical atomic charges.

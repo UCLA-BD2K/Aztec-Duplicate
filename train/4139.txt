@@ -1,1 +1,1 @@
-using samtools and GATK
+create MEME motif file from multiple aligned sequences

@@ -1,1 +1,0 @@
-Search nucleotide database with nucleotide query sequence(s).

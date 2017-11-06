@@ -1,1 +1,1 @@
-A t-SNE web visualisation for high dimensional data
+Contains a tool dependency definition that downloads and compiles version 3.1.2 of the the R package.

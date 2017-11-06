@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves a GO Term from the Gene Ontology database.
+Contains a tool dependency definition that downloads version 2.2.12 of pkiss of the RNAShapesStudio.

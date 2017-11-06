@@ -1,1 +1,0 @@
-For fast contaminant filtering from nextgen reads.  Note: the executable was renamed "duk"

@@ -1,1 +1,0 @@
-A tool box for segmentation of T1-weighted MR images

@@ -1,1 +1,1 @@
-Filter on ambiguities in polymorphism datasets
+Creates and visualizes a functionally grouped network of terms/pathways

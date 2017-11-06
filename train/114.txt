@@ -1,1 +1,6 @@
-PCISS determines the one dimensional secondary structure of proteins (distinguishing a-helices, ß-strands, and non-regular structures) from primary sequence data which makes use of Parallel Cascade Identification (PCI), a powerful technique from the field of nonlinear system identification.
+Summary: Pipit is a gene-centric interactive visualization tool designed to study structural genomic variations. Through focusing on individual genes as the functional unit, researchers are able to study and generate hypotheses on the biological impact of different structural variations, for instance, the deletion of dosage-sensitive genes or the formation of fusion genes. Pipit is a cross-platform Java application that visualizes structural variation data from Genome Variation Format files.
+        Availability: Executables, source code, sample data, documentation and screencast are available at https://bitbucket.org/biovizleuven/pipit.
+        Contact:
+ryo.sakai@esat.kuleuven.be
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

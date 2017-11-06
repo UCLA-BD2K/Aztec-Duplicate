@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 2.2.26+ of the NCBI BLAST+ package.
+package_ltq_iquant_cli

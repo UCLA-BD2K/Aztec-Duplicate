@@ -1,1 +1,0 @@
-This suite contains Roche/454's Newbler and sff-fastq converter

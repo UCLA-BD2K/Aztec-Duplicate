@@ -1,1 +1,1 @@
-Visualisation of BLAST results
+Functions for plotting genomic data

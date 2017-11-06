@@ -1,1 +1,1 @@
-Finds tandem repeats in a nucleotide sequence
+Smith-Waterman local alignment of sequences

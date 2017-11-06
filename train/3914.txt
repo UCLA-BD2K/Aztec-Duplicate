@@ -1,1 +1,1 @@
-EhecRegNet is the database and analysis platform for pathogenic E. coli transcriptional gene regulatory networks. The database contains the known regulatory network of E. coli K-12 extracted from RegulonDB. In addition, EhecRegNet provides inter-species transferred gene regulatory interactions for 16 pathogenic E. coli strains.
+Tools for design of PCR-based Markers from Variant Data

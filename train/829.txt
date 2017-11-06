@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Makes a profile alignment using Tcoffee.
+Provides the 1.2.x branch of libpng

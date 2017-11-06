@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Parse a matrix from a motif.

@@ -1,1 +1,1 @@
- The software offers a route from 3D image data import to image processing, analysis and model export to CAD packages, CAE solvers and 3D printing processes.
+A web server for detection, extraction and visualization of protein fragments in input sets of proteins. The fragments are described by molecular language, which is calledMotiveQuery. Also protein metadata can be used for determination of fragment properties.

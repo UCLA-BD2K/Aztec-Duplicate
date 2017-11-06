@@ -1,1 +1,0 @@
-RNA seq pipeline that allows users to do  Alignment, Quantification, Differential Expression, and Variant Calling

@@ -1,1 +1,1 @@
-Extend or shrink a list of genomic coordinates.
+Cheminformatics App for Cytoscape

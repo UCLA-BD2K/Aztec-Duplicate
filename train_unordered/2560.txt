@@ -1,1 +1,0 @@
-SILVA provides comprehensive, quality checked and regularly updated databases of aligned small (16S/18S, SSU) and large subunit (23S/28S, LSU) ribosomal RNA (rRNA) sequences for all three domains of life (Bacteria, Archaea and Eukarya).

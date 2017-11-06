@@ -1,1 +1,1 @@
-DNAClust tools for Phylogenetic clustering
+Background: It has recently become possible to rapidly and accurately detect epigenetic signatures in bacterial genomes using third generation sequencing data. Monitoring the speed at which a single polymerase inserts a base in the read strand enables one to infer whether a modification is present at that specific site on the template strand. These sites can be challenging to detect in the absence of high coverage and reliable reference genomes.

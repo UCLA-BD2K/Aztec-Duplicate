@@ -1,1 +1,1 @@
-LONI Inspector is a cross-platform application for examining medical image files, focusing on reading, displaying, searching, comparing, and exporting metadata. This includes subject details, image specifications, scanner and settings, and other technical information stored with the image data. Inspector can export this information in CSV and XTML formats, and can compare multiple files for differing fields.
+Authority: inb.bsc.es  -  Retrieves an entry from GenBank database.

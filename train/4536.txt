@@ -1,1 +1,1 @@
-Tool Dependency for BedTools v2.18.2
+Bayesian integrated analysis of Affymetrix GeneChips

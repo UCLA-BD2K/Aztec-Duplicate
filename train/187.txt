@@ -1,1 +1,5 @@
-The Allen Brain Atlas integrates gene expression data, connectivity data and neuroanatomical information for the adult and developing brain in mouse, human and non-human primate
+Summary: The R/Bioconductor package girafe facilitates the functional exploration of alignments of sequence reads from next-generation sequencing data to a genome. It allows users to investigate the genomic intervals together with the aligned reads and to work with, visualise and export these intervals. Moreover, the package operates within and extends the ever-growing Bioconductor framework and thus enables users to leverage a multitude of methods for their data in order to answer specific research questions.
+        Availability and Implementation: The R package girafe is available from the Bioconductor web site: http://www.bioconductor.org/packages/release/bioc/html/girafe.html
+        An extensive vignette and the Bioconductor mailing lists provide additional documentation and help for using the package.
+        Contact: joern.toedling@curie.fr
+        Supplementary information: Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,0 @@
-This package provide a method for doing gene set analysis based on multiple omics data.

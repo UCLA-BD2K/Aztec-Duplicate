@@ -1,1 +1,0 @@
-Performs stochastic simulation of chemical reaction networks.

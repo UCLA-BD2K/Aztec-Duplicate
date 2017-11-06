@@ -1,1 +1,1 @@
-Purkyne Military Medical Academy 2D-PAGE database
+Enables users to view, manipulate and analyze metabolic models created by the Model SEED.

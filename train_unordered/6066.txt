@@ -1,1 +1,0 @@
-fast_mpc contains two C functions, with MATLAB mex interface, that implement the fast model predictive control methods described in the paper Fast Model Predictive Control Using Online Optimization. See this paper for the precise problem formulation and meanings of the algorithm parameters.

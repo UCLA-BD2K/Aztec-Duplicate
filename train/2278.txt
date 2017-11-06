@@ -1,1 +1,1 @@
-Uniprot text file parser
+Flexible filtering of BAM/SAM

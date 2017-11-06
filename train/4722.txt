@@ -1,1 +1,1 @@
-package_ltq_iquant_cli
+Find differences between nearly identical sequences

@@ -1,1 +1,1 @@
-Bilevel partition
+The SABIO-RK Web Service provides customizable points of entry into the SABIO-RK system in a language independent fashion. Using this Web service, users can write their own clients to customize and automate access to SABIO-RK directly from their simulatio

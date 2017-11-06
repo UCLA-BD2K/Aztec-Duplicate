@@ -1,1 +1,1 @@
-EasyGene is a fully automated gene prediction for prokaryotes. EasyGene produces a list of predicted genes for a chosen prokaryotic genome.
+Parse rules from a motif.

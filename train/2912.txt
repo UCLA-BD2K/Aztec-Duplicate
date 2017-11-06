@@ -1,1 +1,3 @@
-Generate protein backbone and side chain co-ordinates from a C(alpha) trace
+
+			A large-scale, batch service for promoter extraction
+		

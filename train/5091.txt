@@ -1,1 +1,1 @@
-Randomly subsample records.
+Marks up a snpEff output file with matches to a gene candidate list

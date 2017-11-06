@@ -1,1 +1,1 @@
-Filter SAM on bitwise flag values
+A short read mapping tool for bisulfite sequencing reads

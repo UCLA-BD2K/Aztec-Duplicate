@@ -1,1 +1,0 @@
-Reads a protein sequence and calculates the charges of the amino acids within a window of specified length.

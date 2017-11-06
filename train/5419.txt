@@ -1,1 +1,1 @@
-Assign weighted-average of the values of features overlapping an interval
+Biomolecular interactions and cellular processes assembled into human signaling pathways.

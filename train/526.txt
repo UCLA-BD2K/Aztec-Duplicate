@@ -1,0 +1,5 @@
+Motivation: The availability of flexible open source software for the analysis of gene expression raw level data has greatly facilitated the development of widely used preprocessing methods for these technologies. However, the expansion of microarray applications has exposed the limitation of existing tools.
+        Results: We developed the oligo package to provide a more general solution that supports a wide range of applications. The package is based on the BioConductor principles of transparency, reproducibility and efficiency of development. It extends the existing tools and leverages existing code for visualization, accessing data and widely used preprocessing routines. The oligo package implements a unified paradigm for preprocessing data and interfaces with other BioConductor tools for downstream analysis. Our infrastructure is general and can be used by other BioConductor packages.
+        Availability: The oligo package is freely available through BioConductor, http://www.bioconductor.org.
+        Contact: benilton.carvalho@cancer.org.uk; rafa@jhu.edu
+        Supplementary information: Supplementary data are available at Bioinformatics online.

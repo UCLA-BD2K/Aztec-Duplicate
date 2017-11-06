@@ -1,1 +1,0 @@
-Merge FASTA files, keeping only unique sequences

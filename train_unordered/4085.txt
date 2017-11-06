@@ -1,1 +1,0 @@
-Convert delimiters to tab.

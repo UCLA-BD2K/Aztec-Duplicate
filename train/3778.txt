@@ -1,1 +1,1 @@
-Pathbase is a database of histopathology photomicrographs and macroscopic images derived from mutant or genetically manipulated mice.
+A software for neuro oncology and dementia analysis; it provides higher level of diagnostic confidence over visual imaging analysis.

@@ -1,1 +1,1 @@
-Search protein sequences by digest fragment molecular weight
+Downloads PPI data from APID and performs various analyses and visualizations.

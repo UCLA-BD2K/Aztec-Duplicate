@@ -1,1 +1,1 @@
-Predictions of splice sites in Aspergillus fumigatus and other Aspergillus species DNA sequences
+This suite contains Abyss and Abyss-PE config files and wrappers for Galaxy

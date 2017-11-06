@@ -1,1 +1,0 @@
-Results of running an "in silico 2 hybrid system" for all the possible pairs among E. coli proteins.

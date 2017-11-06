@@ -1,1 +1,0 @@
-Pairwise alignment of structures using DaliLite.

@@ -1,1 +1,1 @@
-snpEff SnpSift dbnsfp tool that can use any dbnsfp-like annotation data
+openms application dependency.

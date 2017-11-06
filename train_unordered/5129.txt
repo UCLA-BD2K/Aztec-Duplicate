@@ -1,1 +1,0 @@
-create Markov model from fasta sequence

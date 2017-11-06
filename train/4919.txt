@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.9g of the squid library.
+A set of annotation maps describing the entire MeSH assembled using data from MeSH

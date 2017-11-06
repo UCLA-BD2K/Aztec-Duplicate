@@ -1,1 +1,0 @@
-This service will retrieve registry data records from NIF

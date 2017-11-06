@@ -1,1 +1,13 @@
-Retrieves an entry from RefSeq database.
+Abstract
+        
+Motivation: Many bioinformatics algorithms are designed for the analysis of sequences of some uniform length, conventionally referred to as k-mers. These include de Bruijn graph assembly methods and sequence alignment tools. An efficient algorithm to enumerate the number of unique k-mers, or even better, to build a histogram of k-mer frequencies would be desirable for these tools and their downstream analysis pipelines. Among other applications, estimated frequencies can be used to predict genome sizes, measure sequencing error rates, and tune runtime parameters for analysis tools. However, calculating a k-mer histogram from large volumes of sequencing data is a challenging task.
+        
+Results: Here, we present ntCard, a streaming algorithm for estimating the frequencies of k-mers in genomics datasets. At its core, ntCard uses the ntHash algorithm to efficiently compute hash values for streamed sequences. It then samples the calculated hash values to build a reduced representation multiplicity table describing the sample distribution. Finally, it uses a statistical model to reconstruct the population distribution from the sample distribution. We have compared the performance of ntCard and other cardinality estimation algorithms. We used three datasets of 480 GB, 500 GB and 2.4 TB in size, where the first two representing whole genome shotgun sequencing experiments on the human genome and the last one on the white spruce genome. Results show ntCard estimates k-mer coverage frequencies >15× faster than the state-of-the-art algorithms, using similar amount of memory, and with higher accuracy rates. Thus, our benchmarks demonstrate ntCard as a potentially enabling technology for large-scale genomics applications.
+        
+Availability and Implementation: ntCard is written in C ++ and is released under the GPL license. It is freely available at https://github.com/bcgsc/ntCard.
+        
+Contact:
+hmohamadi@bcgsc.ca or ibirol@bcgsc.ca
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

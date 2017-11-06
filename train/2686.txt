@@ -1,1 +1,1 @@
-A tool for identification and analysis of tunnels and channels in static and dynamic protein structures.
+Finds PEST motifs as potential proteolytic cleavage sites

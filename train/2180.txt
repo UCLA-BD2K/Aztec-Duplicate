@@ -1,1 +1,1 @@
-Hidden Markov Models for characterizing chromosomal alterations in high throughput SNP arrays
+Measures Synonymous Codon Usage Order (SCUO) in a genomic scale allowing to compare codon usage between genes or spices in a consistent way. Comparing the effect of GC content in the sequences or spicies. It lets upload files or just sequences in FASTA format.

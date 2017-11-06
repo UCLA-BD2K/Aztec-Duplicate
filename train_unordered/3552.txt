@@ -1,1 +1,0 @@
-Compute the coverage of a set with respect to another set.

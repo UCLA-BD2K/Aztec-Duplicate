@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves objects related to the input object. The result contains referencing or referenced objects.
+Inference of RNA Alignments

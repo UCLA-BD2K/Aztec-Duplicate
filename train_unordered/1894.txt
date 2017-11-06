@@ -1,1 +1,0 @@
-Package contains methods for statistical analysis of phenotypic data such as Mixed Models and Fisher Exact Test.

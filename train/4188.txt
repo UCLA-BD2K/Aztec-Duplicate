@@ -1,1 +1,3 @@
-Annotation tool using Ensembl Variant Effect Predictor for GVL
+Term management system. 
+Web Interface: http://www.nactem.ac.uk/software/termine/
+      

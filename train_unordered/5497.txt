@@ -1,1 +1,0 @@
-Allows user to query and modify networks through an XML-RPC connection.

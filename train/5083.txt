@@ -1,1 +1,1 @@
-Salmon tool wrapper
+Galaxy wrappers for the BWA short read aligner.

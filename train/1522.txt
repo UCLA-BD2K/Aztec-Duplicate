@@ -1,1 +1,1 @@
-This package provides an interface to search and download data and annotations from FlowRepository (flowrepository.org). It uses the FlowRepository programming interface to communicate with a FlowRepository server.
+Finds a match of a large sequence against one or more sequences

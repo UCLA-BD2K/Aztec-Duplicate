@@ -1,1 +1,8 @@
-Multiple sequence alignment usinf T-coffee.
+Motivation: Many biochemical systems require stochastic descriptions. Unfortunately these can only be solved for the simplest cases and their direct simulation can become prohibitively expensive, precluding thorough analysis. As an alternative, moment closure approximation methods generate equations for the time-evolution of the system’s moments and apply a closure ansatz to obtain a closed set of differential equations; that can become the basis for the deterministic analysis of the moments of the outputs of stochastic systems.
+        Results: We present a free, user-friendly tool implementing an efficient moment expansion approximation with parametric closures that integrates well with the IPython interactive environment. Our package enables the analysis of complex stochastic systems without any constraints on the number of species and moments studied and the type of rate laws in the system. In addition to the approximation method our package provides numerous tools to help non-expert users in stochastic analysis.
+        Availability and implementation:
+https://github.com/theosysbio/means
+        Contacts:
+m.stumpf@imperial.ac.uk or e.lakatos13@imperial.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

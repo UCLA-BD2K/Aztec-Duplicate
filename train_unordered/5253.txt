@@ -1,1 +1,0 @@
-Creates HTML tables from tabular data.

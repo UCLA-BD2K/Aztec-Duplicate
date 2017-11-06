@@ -1,1 +1,1 @@
-bcftools: Utilities for variant calling and manipulating VCFs and BCFs
+More about what it does (maybe more than one line)

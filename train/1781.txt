@@ -1,1 +1,1 @@
-Tools for analyzing and visualizing Illumina's 450k array data.
+Authority: cnio.es  -  firestar predicts functional residues from structural templates and alignment reliability.

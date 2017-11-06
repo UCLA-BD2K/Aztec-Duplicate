@@ -1,1 +1,1 @@
-This package detects statistically significant difference between read enrichment profiles in different ChIP-Seq samples. To take advantage of shape differences it uses Kernel methods (Maximum Mean Discrepancy, MMD).
+The ability to read remains a uniquely human skill. Mark2Cure allows anyone that can read English, regardless of background, to help in the process of biomedical discovery. You can help them by identifying key pieces of information in scientific text to discover cures faster.

@@ -1,1 +1,1 @@
-Caenorhabditis elegans genome database
+Annotate a VCF file (dbSNP, hapmap)

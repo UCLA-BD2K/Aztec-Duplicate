@@ -1,1 +1,1 @@
-Public gene expression data via unique approved gene symbols and which represents heterogeneous expression data produced by different technologies in a way that facilitates joint analysis and cross-dataset comparisons.
+in a BED file by a fixed number of bases

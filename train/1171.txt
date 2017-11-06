@@ -1,1 +1,1 @@
-Get SNPs information given SNP ID list 
+Integrates and visualizes co-expression network and measures centrality.

@@ -1,1 +1,1 @@
-Pycairo is a set of Python bindings for the cairo graphics library.
+Information about the E. coli K-12 genome and proteome sequences, including extensive gene bibliographies.

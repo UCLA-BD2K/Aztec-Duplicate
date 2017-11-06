@@ -1,1 +1,1 @@
-EasyCluster is a python program devised to create gene-oriented clusters of ESTs/FL-cDNAs given a genomic sequence
+Proteomics database for streptomyces and caulobacter and neisseria. Unique database in the field, containing knowledge based data of time series of protein expression for various stages of development of the given species.

@@ -1,1 +1,1 @@
-Launch a search in the ChEBI database of small molecules (also used by RHEA)
+Nucleosome positioning for Tiling Arrays and NGS experiments.

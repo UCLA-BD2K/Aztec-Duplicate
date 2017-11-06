@@ -1,1 +1,0 @@
-Galaxy wrappers for the Cuffdiff tool.

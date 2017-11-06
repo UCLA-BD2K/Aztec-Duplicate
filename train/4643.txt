@@ -1,1 +1,4 @@
-Downloads and compiles version 2.5.2 of the FreeType libraries.
+
+			INTRODUCTION
+
+			This Web Service implements NetOGlyc 3.1d

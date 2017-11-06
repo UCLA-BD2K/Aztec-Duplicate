@@ -1,1 +1,0 @@
-Returns Ensembl cross references from an uniprot entry.

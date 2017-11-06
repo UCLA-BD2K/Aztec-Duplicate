@@ -1,1 +1,1 @@
-Pick fasta sequence with specific header content
+integrated Bayesian Modeling of eQTL data

@@ -1,1 +1,1 @@
-A collection of Semantic Web tools, including a (pure python) SPARQL-to-tabular format tool
+Maximal Information-based Nonparametric Exploration

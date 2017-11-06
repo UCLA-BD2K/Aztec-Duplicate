@@ -1,1 +1,1 @@
-Layouts node positions according to reference Cytoscape session file.
+Align two protein structures or two binding sites defined by their ligands with ProBiS program.

@@ -1,1 +1,14 @@
-Converts a sequence in Fasta format into a CommentedNASequence object.
+Abstract
+        
+Motivation: The simplifying assumptions that are used widely in theoretical population genetics may not always be appropriate for empirical population genetics. General computational approaches that do not require the assumptions of classical theory are therefore quite desirable. One such general approach is provided by the theory of absorbing Markov chains, which can be used to obtain exact results by directly analyzing population genetic Markov models, such as the classic bi-allelic Wright–Fisher model. Although these approaches are sometimes used, they are usually forgone in favor of simulation methods, due to the perception that they are too computationally burdensome. Here we show that, surprisingly, direct analysis of virtually any Markov chain model in population genetics can be made quite efficient by exploiting transition matrix sparsity and by solving restricted systems of linear equations, allowing a wide variety of exact calculations (within machine precision) to be easily and rapidly made on modern workstation computers.
+        
+Results: We introduce Wright–Fisher Exact Solver (WFES), a fast and scalable method for direct analysis of Markov chain models in population genetics. WFES can rapidly solve for both long-term and transient behaviours including fixation and extinction probabilities, expected times to fixation or extinction, sojourn times, expected allele age and variance, and others. Our implementation requires only seconds to minutes of runtime on modern workstations and scales to biological population sizes ranging from humans to model organisms.
+        
+Availability and Implementation: The code is available at https://github.com/dekoning-lab/wfes
+        
+Contact:
+jason.dekoning@ucalgary.ca
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

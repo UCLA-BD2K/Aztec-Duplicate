@@ -1,1 +1,0 @@
-Context-aware Synonym Suggestion System (CS3) learns synonyms from text by using our NLP-based text mining framework SemScape, and also from existing evidence in the current knowledge bases. Using CS3 and our knowledge extraction system IBminer, we integrate some of the publicly available knowledge bases into one of the superior quality and coverage, called IKBstore.

@@ -1,1 +1,0 @@
-mapping statisics from BAM files produced by Tophat

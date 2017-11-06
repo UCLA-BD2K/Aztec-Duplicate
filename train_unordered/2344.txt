@@ -1,1 +1,0 @@
-The tool predicts whether a single non-synonymous SNP causes a disease or is invariant

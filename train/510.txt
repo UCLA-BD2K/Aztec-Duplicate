@@ -1,2 +1,14 @@
-RESTful interface to search and retrieve data from the Protein Data Bank (PDB). The Protein Data Bank is the single worldwide repository of information about the 3D structures of large biological molecules, including proteins and nucleic acids.
-website: 
+Abstract
+        
+Motivation: Short Interspersed Nuclear Elements (SINEs) are transposable elements (TEs) that amplify through a copy-and-paste mode via RNA intermediates. The computational identification of new SINEs are challenging because of their weak structural signals and rapid diversification in sequences.
+        
+Results: Here we report SINE_Scan, a highly efficient program to predict SINE elements in genomic DNA sequences. SINE_Scan integrates hallmark of SINE transposition, copy number and structural signals to identify a SINE element. SINE_Scan outperforms the previously published de novo SINE discovery program. It shows high sensitivity and specificity in 19 plant and animal genome assemblies, of which sizes vary from 120 Mb to 3.5 Gb. It identifies numerous new families and substantially increases the estimation of the abundance of SINEs in these genomes.
+        
+Availability and Implementation: The code of SINE_Scan is freely available at http://github.com/maohlzj/SINE_Scan, implemented in PERL and supported on Linux.
+        
+Contact:
+wangh8@fudan.edu.cn
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

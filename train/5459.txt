@@ -1,1 +1,1 @@
-Finds overlapping protein complexes in a protein interaction network.
+GeneAnswers provides an integrated tool for biological or medical interpretation of the given one or more groups of genes by means of statistical test.

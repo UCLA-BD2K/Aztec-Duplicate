@@ -1,1 +1,0 @@
-The source code for Algorithmic Information Theoretic Prediction and Discovery from Cohen et al., Computational prediction of neural progenitor cell fates, Nature Methods, 2010.  

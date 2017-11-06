@@ -1,1 +1,0 @@
-RMAP for Solexa Short Reads Alignment

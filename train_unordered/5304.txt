@@ -1,1 +1,0 @@
-TRTR Trim Reads of Tandem Repeats. Recommended before calling SNPs.

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 3_11 of the python library PyYAML
+Windows-only, Visual C++ program to convert MassLynx native acquisition files to mzXML. The program requires Waters' MassLynx software to be installed on the same machine as wolf.exe. Wolf relies on the DAC library, which is installed along with the MassLynx software suite; we cannot distribute this library.

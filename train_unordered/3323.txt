@@ -1,1 +1,0 @@
-For biologists MOLGENIS is a suite of web databases for genotype, phenotype, QTL and analysis pipelines. For bioinformaticians MOLGENIS is software generator to rapidly build web databases that make your biologists happy.

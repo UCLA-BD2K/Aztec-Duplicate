@@ -1,1 +1,0 @@
-Contains tools for reading, normalizing, and plotting HiC and 5C chromatin interaction data

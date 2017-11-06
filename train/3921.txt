@@ -1,1 +1,1 @@
-Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler
+Remove lines from the beginning of a file.

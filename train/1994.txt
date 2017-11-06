@@ -1,1 +1,1 @@
-This package makes GREAT (Genomic Regions Enrichment of Annotations Tool) analysis automatic by constructing a HTTP POST request according to user's input and automatically retrieving results from GREAT web server.
+A simple perl program that allows the user to compare QC filtered fastq files

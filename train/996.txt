@@ -1,2 +1,1 @@
-This  WSDL file describe the GlobPlot Web Service. It performs intrinsic protein disorder, domain and globularity prediction.
-	
+GlobPlot allows the user to plot the tendency within the query protein for order/globularity and disorder.

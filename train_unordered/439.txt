@@ -1,1 +1,0 @@
-This REST service allows you to serve up ChEBI structures directly to your content using a few parameters in your URL.

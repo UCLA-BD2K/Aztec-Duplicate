@@ -1,1 +1,0 @@
-COM components which provides scalable implementation of real-time volume rendering intended for server-based GPUs. It could also be accessed from .Net clients using the provided Runtime Callable Wrapper (RCW)

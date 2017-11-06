@@ -1,1 +1,1 @@
-Small RNA sequencing viewer
+Output records belonging to samples commong between two datasets.

@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  Get structure from MD_Compressed_Trajectory
+Contains a tool dependency definition that downloads and compiles version 2.1.0 of the GD library.

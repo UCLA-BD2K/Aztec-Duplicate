@@ -1,1 +1,0 @@
-GWASrap systematically supports genetic variant representation, annotation and prioritization for data generated from GWAS and NGS

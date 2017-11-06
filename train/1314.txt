@@ -1,1 +1,1 @@
-A collection of tools for performing category analysis.
+antaRNA uses ant colony optimization to solve the inverse folding problem in RNA research .

@@ -1,1 +1,1 @@
-Find significantly enriched gene classifications in a list of functionally undescribed genes based on their InterPro domain structure.
+Detection and visualizations of gross chromosomal aberrations using Affymetrix expression microarrays as input

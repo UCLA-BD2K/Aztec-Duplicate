@@ -1,1 +1,0 @@
-FASTQ splitter on joined paired end reads

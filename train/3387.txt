@@ -1,1 +1,1 @@
-The MuD server for predicting the affect of missense mutations on protein function using sequence and structural features
+Contains a tool dependency definition that downloads and compiles version 1.4.2 of the ruby package protk.

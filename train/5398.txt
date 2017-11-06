@@ -1,1 +1,1 @@
-Velvet assembler (a different version than in galaxy-central)
+Scans a nucleotide sequence for regions with higher than expected frequencies of the dinucleotide CG.

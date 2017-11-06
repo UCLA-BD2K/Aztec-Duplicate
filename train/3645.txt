@@ -1,1 +1,1 @@
-FingerPRINTScan identifies the closest matching PRINTS sequence motif fingerprints in a protein sequence.
+CytoHiC: Visual Comparison of Hi-C Networks

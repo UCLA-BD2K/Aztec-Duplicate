@@ -1,1 +1,1 @@
-SPIDER (System for Processing Image Data from Electron microscopy and Related fields) is an image processing system for electron microscopy.
+Contains a tool dependency definition that downloads and compiles version 0.6.6 of the pybedtools package.

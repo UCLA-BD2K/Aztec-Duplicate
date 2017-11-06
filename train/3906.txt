@@ -1,1 +1,1 @@
-This service converts genome coordinates and genome annotation files between assemblies.
+Contains a tool dependency definition that installs version 3.2 SnpEff, a variant annotation and effect prediction tool.

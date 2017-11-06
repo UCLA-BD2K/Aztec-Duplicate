@@ -1,1 +1,1 @@
-Complete Genomics cgatools for MacOSX
+Contains a tool dependency definition that downloads and compiles version 1.11 of gdbm.

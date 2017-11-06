@@ -1,1 +1,1 @@
-Tools for the analysis of protein interaction data.
+Interactive web heatmap viewer built with JavaScript

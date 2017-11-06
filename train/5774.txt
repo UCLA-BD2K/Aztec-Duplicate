@@ -1,1 +1,1 @@
-A popular, fast image viewing program for Windows. Geared towards flat image files but can read some medical formats including DICOM.
+This package does optimisation of boolean logic networks of signalling pathways based on a previous knowledge network and a set of data upon perturbation of the nodes in the network.

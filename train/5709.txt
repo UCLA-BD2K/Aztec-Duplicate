@@ -1,1 +1,1 @@
-OLEA SPHERE is an image processing software package intended for picture archive, post-processing and communication. It standardizes across vendors both viewing and analysis capabilities of conventional and dynamic MRI and CT imaging datasets.
+Tools for finding bumps in genomic data

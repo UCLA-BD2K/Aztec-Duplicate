@@ -1,1 +1,1 @@
-maSigPro is a regression based approach to find genes for which there are significant gene expression profile differences between experimental groups in time course microarray experiments.
+A curated, comprehensive and non-redundant sequence representation of all public mRNA sequences (mRNAs from GenBank or RefSeq, and single pass cDNA sequences from dbEST and Trace).

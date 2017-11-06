@@ -1,1 +1,1 @@
-NCBI BLAST+ 2.2.31 (binaries only) 
+softsearch tool dependencies file

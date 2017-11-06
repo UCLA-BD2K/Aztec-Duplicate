@@ -1,1 +1,0 @@
-The Peptide Match service is designed to quickly retrieve all occurrences of a given query peptide from UniProt Knowledgebase (UniProtKB) with isoforms.

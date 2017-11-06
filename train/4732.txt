@@ -1,1 +1,1 @@
-package_mgf_formatter
+Generates column string for input to Cut Columns tool

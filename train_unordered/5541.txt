@@ -1,1 +1,0 @@
-Detects highly-connected sub-networks where most genes show similar expression behavior.

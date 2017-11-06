@@ -1,1 +1,1 @@
-Automated Affymetrix Array Analysis Umbrella Package
+CoNet is a Cytoscape plugin that detects significant associations in presence/absence and abundance matrices.

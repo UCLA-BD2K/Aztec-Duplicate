@@ -1,1 +1,1 @@
-A package to analyze oligonucleotide arrays (expression/SNP/tiling/exon) at probe-level. It currently supports Affymetrix (CEL files) and NimbleGen arrays (XYS files).
+Compares a nucleotide sequence to a nucleotide sequence database and calculates the statistical significance of matches using the Basic Local Alignment Search Tool (BLAST).

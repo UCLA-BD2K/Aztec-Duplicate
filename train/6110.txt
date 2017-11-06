@@ -1,1 +1,1 @@
-Dieses Projekt simuliert künstliches Leben in einer Unix-artigen Umgebung. Dieses künstliche Leben sind kleine eigenständige Programme, die sich fortpflanzen, dabei mutieren und somit den Gesetzen der Evolution unterliegen.
+Fast search for RNA-RNA interactions

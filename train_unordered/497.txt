@@ -1,3 +1,0 @@
-Signature: ./ontologies/detail/{OntologyName}
-Return: one ontology entry.
-Example link: http://nif-services.neuinfo.org/ontoquest/ontologies/detail/NIF

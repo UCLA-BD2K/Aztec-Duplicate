@@ -1,1 +1,1 @@
-Software suite for Macromolecular X-Ray Crystallography
+Contains a tool dependency definition that downloads and compiles version 1.0 of the SAMTools package.

@@ -1,1 +1,1 @@
-A package that implements some simple graph handling capabilities.
+Builds and installs cd-hit-auxtools including cd-hit-dup, cd-hit-lap, and read-linker.

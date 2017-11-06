@@ -1,1 +1,0 @@
-Protein similarity network generation method for Cytoscape.

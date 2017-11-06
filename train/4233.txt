@@ -1,1 +1,1 @@
-FASTQ to FASTA converter
+Thread nucleotides onto a protein alignment (back-translation) 

@@ -27,26 +27,28 @@ public class Main {
             JSONArray docs = (JSONArray) response.get("docs");
 
             BaseCases bc = new BaseCases(docs);
-//            HashSet<List<Integer>> doi = bc.findDOISimilarities();
-//            HashSet<List<Integer>> name = bc.findNameSimilarities();
-//            HashSet<List<Integer>> author = bc.findAuthorSimilarities();
-//            HashSet<List<Integer>> inst = bc.findInstitutionSimilarities();
-//            HashSet<List<Integer>> link = bc.findLinkSimilarities();
+            HashSet<List<Integer>> doi = bc.findDOISimilarities();
+            HashSet<List<Integer>> name = bc.findNameSimilarities();
+            HashSet<List<Integer>> author = bc.findAuthorSimilarities();
+            HashSet<List<Integer>> inst = bc.findInstitutionSimilarities();
+            HashSet<List<Integer>> link = bc.findLinkSimilarities();
+            System.out.println("base cases done");
 
+            printSet(doi, "similar_doi.csv");
+            printSet(name, "similar_name.csv");
+            printSet(author, "similar_author.csv");
+            printSet(inst, "similar_institution.csv");
+            printSet(link, "similar_link.csv");
+            bc.convertToFiles();
+            System.out.println("converting done");
 
-//            printSet(doi, "similar_doi.csv");
-//            printSet(name, "similar_name.csv");
-//            printSet(author, "similar_author.csv");
-//            printSet(inst, "similar_institution.csv");
-//            printSet(link, "similar_link.csv");
-//            bc.convertToFiles();
-
-
-//            HashSet<List<Integer>> matches = bc.checkNameSimilarities("similar_name.csv", "similar_doi.csv", "similar_author.csv", "similar_institution.csv");
-//            matches = bc.clusterMatches(matches);
-//            printSet(matches, "matched.csv");
-//            printSet(bc.clusterMatches(bc.readFile("similar_name.csv")), "all_name_matched.csv");
+            // Currently matching on names; update if different criteria wanted.
+            HashSet<List<Integer>> matches = bc.checkNameSimilarities("similar_name.csv", "similar_doi.csv", "similar_author.csv", "similar_institution.csv");
+            matches = bc.clusterMatches(matches);
+            printSet(matches, "matched.csv");
+            printSet(bc.clusterMatches(bc.readFile("similar_name.csv")), "all_name_matched.csv");
             bc.combine("all_name_matched.csv", "all_name_mapping.csv", "all_name_combined_tools.json");
+            System.out.println("combining done");
         } catch (Exception e) {
             e.printStackTrace();
         }

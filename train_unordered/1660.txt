@@ -1,1 +1,0 @@
-Many functions for computing the NPMLE for censored and truncated data.

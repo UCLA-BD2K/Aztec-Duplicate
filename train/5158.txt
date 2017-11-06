@@ -1,1 +1,1 @@
-Translate Nucleotides to Protein
+Search a sequence database with a profile HMM

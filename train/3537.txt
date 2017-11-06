@@ -1,1 +1,1 @@
-Calculate distribution for each nucleotide per position for all short reads (S-MART).
+Contains a tool dependency definition that downloads and installs version 1.4 of GATK.

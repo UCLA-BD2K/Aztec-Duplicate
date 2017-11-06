@@ -1,1 +1,7 @@
-Transeq translates nucleic acid sequences to the corresponding peptide sequences.
+Motivation: Computational prediction of transcription factor (TF) binding sites in the genome remains a challenging task. Here, we present Romulus, a novel computational method for identifying individual TF binding sites from genome sequence information and cell-type–specific experimental data, such as DNase-seq. It combines the strengths of previous approaches, and improves robustness by reducing the number of free parameters in the model by an order of magnitude.
+        Results: We show that Romulus significantly outperforms existing methods across three sources of DNase-seq data, by assessing the performance of these tools against ChIP-seq profiles. The difference was particularly significant when applied to binding site prediction for low-information-content motifs. Our method is capable of inferring multiple binding modes for a single TF, which differ in their DNase I cut profile. Finally, using the model learned by Romulus and ChIP-seq data, we introduce Binding in Closed Chromatin (BCC) as a quantitative measure of TF pioneer factor activity. Uniquely, our measure quantifies a defining feature of pioneer factors, namely their ability to bind closed chromatin.
+        Availability and Implementation: Romulus is freely available as an R package at http://github.com/ajank/Romulus.
+        Contact:
+ajank@mimuw.edu.pl
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

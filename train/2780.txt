@@ -1,1 +1,1 @@
-RUBI - Rapid UBIquitination sequence detection. RUBI is a new web server to detect regions of proteins which are thought to contain ubiquitinated lysines.
+Contains a tool dependency definition that downloads and compiles version 2.2 of ruby.

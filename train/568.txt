@@ -1,6 +1,4 @@
-Tuiuiu removes from a sequence or from a set of sequences areas as large as possible that do not contain researched repeats.
-
-Tuiuiu is used as a preliminary step before applying a multiple local aligner tool.
-
-OPTIONS:
---excellent|--good : algorithm
+Summary: The survcomp package provides functions to assess and statistically compare the performance of survival/risk prediction models. It implements state-of-the-art statistics to (i) measure the performance of risk prediction models; (ii) combine these statistical estimates from multiple datasets using a meta-analytical framework; and (iii) statistically compare the performance of competitive models.
+        Availability: The R/Bioconductor package survcomp is provided open source under the Artistic-2.0 License with a user manual containing installation, operating instructions and use case scenarios on real datasets. survcomp requires R version 2.13.0 or higher. http://bioconductor.org/packages/release/bioc/html/survcomp.html
+        Contact: bhaibeka@jimmy.harvard.edu; mschroed@jimmy.harvard.edu
+        Supplementary Information: Supplementary data are available at Bioinformatics online.

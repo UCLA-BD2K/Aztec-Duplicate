@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Retrieves a domain entry from CATH.

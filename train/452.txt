@@ -1,12 +1,7 @@
-This service retrieves data per NIF source in xml; note, the sources are called by NIF Registry identifier. To find an id, access this service:
-http://nif-services.neuinfo.org/servicesv1/v1/federation/data/nlx_144509-1?q=data%20federation
-Grab the <value> parameter from <name>Resource ID</name>
-* you will need to parse the html out.
-
-Data sources in the "data federation", (currently at about 200 sources) can be found by ID.
-http://nif-services.neuinfo.org/servicesv1/v1/federation/data/nif-0000-00007-1?q=purkinje
-
-The -1 at the end denotes view id. 
-
-All data from in services is accessed by our web pages, below is the example of the same service result, rendered in html.
-https://neuinfo.org/mynif/search.php?q=purkinje&t=indexable&nif=nif-0000-00007-1
+Motivation: Current advances in DNA synthesis, cloning and sequencing technologies afford high-throughput implementation of artificial sequences into living cells. However, flexible computational tools for multi-objective sequence design are lacking, limiting the potential of these technologies.
+        Results: We developed DNA-Tailor (D-Tailor), a fully extendable software framework, for property-based design of synthetic DNA sequences. D-Tailor permits the seamless integration of multiple sequence analysis tools into a generic Monte Carlo simulation that evolves sequences toward any combination of rationally defined properties. As proof of principle, we show that D-Tailor is capable of designing sequence libraries comprising all possible combinations among three different sequence properties influencing translation efficiency in Escherichia coli. The capacity to design artificial sequences that systematically sample any given parameter space should support the implementation of more rigorous experimental designs.
+        Availability: Source code is available for download at https://sourceforge.net/projects/dtailor/
+        Contact:
+aparkin@lbl.gov or cambray.guillaume@gmail.com
+        Supplementary information:
+Supplementary data are available at Bioinformatics online (D-Tailor Tutorial).

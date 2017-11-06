@@ -1,1 +1,0 @@
-FingerPRINTScan identifies the closest matching PRINTS sequence motif fingerprints in a protein sequence.

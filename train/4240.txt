@@ -1,1 +1,1 @@
-Remove sequencing artifacts
+Represents structural protein families and their homologs by graph on Cytoscape.

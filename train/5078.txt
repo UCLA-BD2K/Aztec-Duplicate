@@ -1,1 +1,1 @@
-an RNA-seq quality control package
+Kazusa Molecular Formula Searcher (MFSearcher) is a RESTful web service for high-throughput prediction of elemental compositions from accurate mass values detected by high-resolution mass spectrometers.

@@ -1,1 +1,1 @@
-Tools for parsing Illuminas microarray output files, including IDAT.
+datatypes for common video formats

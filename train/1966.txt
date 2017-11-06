@@ -1,1 +1,1 @@
-This package selects genes associated with survival.
+Map your data to the current assembly

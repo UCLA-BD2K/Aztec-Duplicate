@@ -1,1 +1,0 @@
-Pick fasta sequence with specific header content

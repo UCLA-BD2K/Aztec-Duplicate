@@ -1,1 +1,1 @@
-PyProphet - compute false discovery rate
+Search of Rfam's CM collection

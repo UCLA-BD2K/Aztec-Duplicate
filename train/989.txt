@@ -1,4 +1,1 @@
-Fast and accurate multiple sequence alignment method.
-
-INPUT: &nbsp;set of unaligned sequences
-OUTPUT: multiple sequence alignment
+Contains a tool dependency definition that downloads and compiles version 0.14 of the python library pandas.

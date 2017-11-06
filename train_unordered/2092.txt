@@ -1,1 +1,0 @@
-An interface from R to Java to create and call Java objects and methods.

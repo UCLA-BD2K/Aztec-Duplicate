@@ -1,1 +1,1 @@
-genbank parser for genbank files
+Clustering based on QCUT, HQCUT, MCL, MCODE.

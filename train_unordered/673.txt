@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Transeq translates nucleic acid sequences to the corresponding peptide sequences.

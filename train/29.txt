@@ -1,1 +1,4 @@
-HMMER hmmscan searches a database of Hidden Markov Model (HMM) protein signatures with a protein sequence.
+AmiGO is a web application that allows users to query, browse and visualize ontologies and related gene product annotation (association) data. AmiGO can be used online at the Gene Ontology (GO) website to access the data provided by the GO Consortium1; it can also be downloaded and installed to browse local ontologies and annotations.2 AmiGO is free open source software developed and maintained by the GO Consortium.
+        Availability: http://amigo.geneontology.org
+        Download: http://sourceforge.net/projects/geneontology/
+        Contact: sjcarbon@berkeleybop.org

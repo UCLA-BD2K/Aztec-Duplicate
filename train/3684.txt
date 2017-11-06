@@ -1,1 +1,1 @@
-Local pairwise sequence alignment of DNA or protein sequences using lalign, part of the FASTA suite.
+A suite of image processing programs

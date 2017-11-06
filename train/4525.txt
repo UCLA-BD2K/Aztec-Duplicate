@@ -1,1 +1,1 @@
-BamTools - a collection of utilities for processing of bam files - for all architectures
+This package provides a GUI interface for rTANDEM. The GUI is primarily designed to visualize rTANDEM result object or result xml files. But it will also provides an interface for creating parameter objects, launching searches or performing conversions between R objects and xml files.

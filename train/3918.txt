@@ -1,1 +1,1 @@
-BiCluE is a bi-clustering software for solving the weighted/unweighted bi-cluster editing problem. It provides exact as well as heuristic algorithms.
+Convert various alignment formats

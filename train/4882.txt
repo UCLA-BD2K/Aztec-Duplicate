@@ -1,1 +1,1 @@
-custom compilation of samtools 0.1.19 using -fPIC flag
+Toppcat is used to process T1-weighted Dynamic Contrast Enhanced (DCE) MRI.

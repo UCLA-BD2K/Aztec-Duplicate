@@ -1,1 +1,1 @@
-SVDetect: a tool to detect genomic structural variations from paired-end and mate-pair sequencing data
+Neural network predictions of splice sites in human, C. elegans and A. thaliana DNA

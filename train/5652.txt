@@ -1,1 +1,1 @@
-Enables user to traverse from biological networks to detailed view of their structures.
+Protein Surface Accessibility and Secondary Structure Predictions

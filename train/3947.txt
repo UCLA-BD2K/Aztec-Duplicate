@@ -1,1 +1,1 @@
-Simulator for Illumina, 454, and SOLiD sequencing data
+create HTML reports for Galaxy workflows

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 3.0 of libffi.
+A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood

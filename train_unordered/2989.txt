@@ -1,1 +1,0 @@
-Scan a protein against PROSITE or HAMAP patterns and profiles

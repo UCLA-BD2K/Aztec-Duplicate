@@ -1,1 +1,0 @@
-Plotting tool for multiple series and graph types

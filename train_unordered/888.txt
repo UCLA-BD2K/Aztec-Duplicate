@@ -1,1 +1,0 @@
-Authority: www.cnb.uam.es  -  Converts a EMBL id in a MGI id.

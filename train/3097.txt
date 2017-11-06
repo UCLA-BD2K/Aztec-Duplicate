@@ -1,1 +1,1 @@
-Removes a section from a sequence
+Find the most important nodes in a network, calculating centrality parameters for each node.

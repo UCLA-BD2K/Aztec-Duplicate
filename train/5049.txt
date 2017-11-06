@@ -1,1 +1,1 @@
-Remove exact duplicate reads from paired-end fastq files
+Fitch-Margoliash and Least-Squares Distance Methods

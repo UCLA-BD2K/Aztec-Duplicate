@@ -1,1 +1,1 @@
-Global multiple sequence alignment using anchor regions from BLAST results
+A genome/transcriptome database containing gene annotation and high-density oligonucleotide microarray expression data for protein-coding genes from Ashbya gossypii and the model organism Saccharomyces cerevisiae. It also provides access to comparative genomics data from those two fungi as well as Schizosaccharomyces pombe and Neurospora crassa.

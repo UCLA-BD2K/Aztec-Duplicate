@@ -1,1 +1,0 @@
-A Graphical User Interface for affy analysis using the limma Microarray package

@@ -1,1 +1,0 @@
-Seg3D is a free volume segmentation and processing tool. It combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit. Users can explore and label image volumes using volume rendering and orthogonal slice view windows.

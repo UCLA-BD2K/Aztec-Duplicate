@@ -1,1 +1,0 @@
-ACPYPE stands for AnteChamber PYthon Parser interfacE and is pronounced "ace + pipe".

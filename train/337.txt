@@ -1,1 +1,5 @@
-Compares a protein sequence against a protein database and calculates the statistical significance of matches using the Basic Local Alignment Tool (BLAST).
+Summary: ImgLib2 is an open-source Java library for n-dimensional data representation and manipulation with focus on image processing. It aims at minimizing code duplication by cleanly separating pixel-algebra, data access and data representation in memory. Algorithms can be implemented for classes of pixel types and generic access patterns by which they become independent of the specific dimensionality, pixel type and data representation. ImgLib2 illustrates that an elegant high-level programming interface can be achieved without sacrificing performance. It provides efficient implementations of common data types, storage layouts and algorithms. It is the data model underlying ImageJ2, the KNIME Image Processing toolbox and an increasing number of Fiji-Plugins.
+        Availability: ImgLib2 is licensed under BSD. Documentation and source code are available at http://imglib2.net and in a public repository at https://github.com/imagej/imglib.
+        Supplementary Information:
+Supplementary data are available at Bioinformatics Online.
+        Contact: saalfeld@mpi-cbg.de

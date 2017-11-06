@@ -1,1 +1,0 @@
-Generate BigWig coverage files from BAM files. Allows gapped reads to be split (useful for RNA-Seq).

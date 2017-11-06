@@ -1,1 +1,1 @@
-Genome assembler for regular and single-cell projects
+Contains a tool dependency definition that downloads and compiles version 2.24 of bedtools.

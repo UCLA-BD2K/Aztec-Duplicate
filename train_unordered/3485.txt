@@ -1,1 +1,0 @@
-Prediction of Coronavirus 3CL Proteinase cleavage sites on amino acid sequences

@@ -1,1 +1,0 @@
-bwa new version 0.7.5, nomore bwa aln, bwa same/sampe.  BWA-MEM only for this integration version.

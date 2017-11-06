@@ -1,1 +1,0 @@
-A framework for promoter analysis based on a fast search engine using enhanced suffix arrays. The framework includes several statistics for calculating over-representation of motifs in a set of promoters from co-regulated genes compared to a background set.

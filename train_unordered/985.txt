@@ -1,1 +1,0 @@
-This call lists the latest version of all ontologies in BioPortal. 

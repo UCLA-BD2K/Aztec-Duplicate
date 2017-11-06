@@ -1,1 +1,1 @@
-Power computation for ChIP-Seq data based on Bayesian estimation for local poisson counting process.
+Draw Stacked Bar Plots for different categories and different criteria

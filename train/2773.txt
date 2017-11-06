@@ -1,1 +1,1 @@
-LOBO (LOop Build-up and Optimization) is a loop modelling server for protein structures.
+Contains a tool dependency definition that downloads and compiles version 0.0.13 of the fastx toolkit.

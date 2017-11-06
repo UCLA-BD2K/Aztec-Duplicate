@@ -1,1 +1,1 @@
-Tuiuiu removes from a sequence or from a set of sequences areas as large as possible that do not contain researched repeats.
+This package facilitates the characterisation of fusion products events. It allows to import fusion data results from the following fusion finders: chimeraScan, bellerophontes, deFuse, FusionFinder, FusionHunter, mapSplice, tophat-fusion, FusionMap, STAR, Rsubread, fusionCatcher.

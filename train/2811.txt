@@ -1,1 +1,1 @@
-Assembly-free Genome Comparison based on Next-Generation Sequencing Reads and Variable Length Patterns
+Predicts gene regulatory network from biological annotations and expression data.

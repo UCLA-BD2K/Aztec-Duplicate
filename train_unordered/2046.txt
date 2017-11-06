@@ -1,1 +1,0 @@
-This package provides mechanisms for automatic function prototyping and exposure of R functionality in a web services environment.

@@ -1,1 +1,1 @@
-Protein Analysis THrough Evolutionary Relationships (PANTHER) is a comprehensive software system for inferring the functions of genes based on their evolutionary relationships.
+Finds the best local alignments between two sequences. It compares two sequences looking for local sequence similarities using a rigorous algorithm. 

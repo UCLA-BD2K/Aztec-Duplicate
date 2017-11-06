@@ -1,1 +1,1 @@
-Graph-based clustering and characterization of repetitive sequences.
+Create random nucleotide sequences

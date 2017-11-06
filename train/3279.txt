@@ -1,1 +1,1 @@
-Comparison between two sequences with Blast (NCBI)
+Genomic-scale dataset associated with the eukaryotic pathogens Cryptosporidium.

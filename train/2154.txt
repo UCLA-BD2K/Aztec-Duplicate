@@ -1,1 +1,1 @@
-Functions for data analysis and graphical displays for developmental microarray time course data.
+Verify that the reference allele matches the reference genome

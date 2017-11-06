@@ -1,1 +1,1 @@
-A collection of domain-domain interactions in proteins for which high-resolution three-dimensional structures are known.
+Systematic conformation generator

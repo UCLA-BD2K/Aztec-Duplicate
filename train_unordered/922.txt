@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Retrieves all the log info for the asked time interval

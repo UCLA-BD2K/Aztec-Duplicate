@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Search for patterns conserved in a set of protein sequences.

@@ -1,1 +1,0 @@
-Protein and nucleotide sequence repeat identification and masking.  Screens query sequences against a reference collection of repeats and "censors" (masks) homologous portions with masking symbols, as well as generating a report classifying all found repeats

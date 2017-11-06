@@ -1,1 +1,1 @@
-Identification of differentially expressed genes and estimation of the False Discovery Rate (FDR) using both the Significance Analysis of Microarrays (SAM) and the Empirical Bayes Analyses of Microarrays (EBAM).
+Authority: inb.bsc.es  -  Compares a nucleotide sequence (it is translated with frameshifts) against a protein database using the FASTA (fastx) algorithm.

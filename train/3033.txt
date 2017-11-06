@@ -1,1 +1,1 @@
-Merge two overlapping sequences
+Prediction of substrates of N-acetyltransferase A (NatA)

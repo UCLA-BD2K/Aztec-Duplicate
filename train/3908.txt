@@ -1,1 +1,1 @@
-Assemble2 allows you to design your RNA 2D structure interactively and to create and assemble the corresponding RNA 3D modules directly in UCSF Chimera
+Contains a tool dependency definition that installs version 3.5 SnpEff, a variant annotation and effect prediction tool.

@@ -1,1 +1,1 @@
-Search for patterns in nucleotide sequences
+Analyse your own variants and predict the functional consequences of known and unknown variants

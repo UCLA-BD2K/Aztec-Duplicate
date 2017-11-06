@@ -1,1 +1,1 @@
-Multiple sequence alignment using  guide trees and HMM profile-profile techniques
+Genomic-scale datasets for the eukaryotic pathogen Giardia.

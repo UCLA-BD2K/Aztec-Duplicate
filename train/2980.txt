@@ -1,1 +1,1 @@
-Searches Ensembl Bacteria sequences using WU-BLAST
+Mitochondrial targeting peptide prediction

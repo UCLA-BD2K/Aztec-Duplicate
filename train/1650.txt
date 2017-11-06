@@ -1,1 +1,1 @@
-Libraries to perform NGS analysis.
+Authority: cnio.es  -  Analyzes the key functional annotations of the neighbor sequences related to the query sequence and makes the transference of the annotations, from clustering result (NCut) and sequence similitary search (ISSComplete, NCBI Blast)

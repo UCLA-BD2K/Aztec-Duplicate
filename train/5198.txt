@@ -1,1 +1,1 @@
-Convert InChIs to spectral hashkeys.
+Contains a tool dependency definition that downloads and compiles version 0.9.6 of FreeBayes.

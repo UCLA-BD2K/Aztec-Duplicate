@@ -1,1 +1,0 @@
-MRI Studio is a Windows-based program for DTI analysis.

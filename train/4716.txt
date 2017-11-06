@@ -1,1 +1,1 @@
-Downloads and compiles the Gnome XML libraries.
+Get taxonomy information given taxonomy ID

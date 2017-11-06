@@ -1,1 +1,0 @@
-Multiple alignment program for amino acid or nucleotide sequences

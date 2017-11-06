@@ -1,1 +1,1 @@
-Map your data to the current assembly
+Authority: inb.bsc.es  -  Plots CpG rich areas.

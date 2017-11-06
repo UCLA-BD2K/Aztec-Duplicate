@@ -1,1 +1,1 @@
-The software for quantitative medical image analysis and visualisation. 
+SETTER is a novel algorithm for an RNA structural comparison. The algorithm presented is both accurate and fast and does not impose limits on the size of aligned RNA structures.

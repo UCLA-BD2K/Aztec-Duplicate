@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles the 0.7.x version of bx-python.
+Parses BioPAX files and represents them in R, at the moment BioPAX level 2 and level 3 are supported.

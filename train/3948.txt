@@ -1,1 +1,1 @@
-Automated Randomization of multiple Traits for Study design
+ITSx -- Identifies ITS sequences and extracts the ITS region

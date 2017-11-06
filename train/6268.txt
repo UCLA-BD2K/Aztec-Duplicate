@@ -1,1 +1,15 @@
-Motivation: The prediction of RNA 3D structures from its sequence only is a milestone to RNA function analysis and prediction. In recent years, many methods addressed this challenge, ranging from cycle decomposition and fragment assembly to molecular dynamics simulations. However, their predictions remain fragile and limited to small RNAs. To expand the range and accuracy of these techniques, we need to develop algorithms that will enable to use all the structural information available. In particular, the energetic contribution of secondary structure interactions is now well documented, but the quantification of non-canonical interactions—those shaping the tertiary structure—is poorly understood. Nonetheless, even if a complete RNA tertiary structure energy model is currently unavailable, we now have catalogues of local 3D structural motifs including non-canonical base pairings. A practical objective is thus to develop techniques enabling us to use this knowledge for robust RNA tertiary structure predictors. Results: In this work, we introduce RNA-MoIP, a program that benefits from the progresses made over the last 30 years in the field of RNA secondary structure prediction and expands these methods to incorporate the novel local motif information available in databases. Using an integer programming framework, our method refines predicted secondary structures (i.e. removes incorrect canonical base pairs) to accommodate the insertion of RNA 3D motifs (i.e. hairpins, internal loops and k-way junctions). Then, we use predictions as templates to generate complete 3D structures with the MC-Sym program. We benchmarked RNA-MoIP on a set of 9 RNAs with sizes varying from 53 to 128 nucleotides. We show that our approach (i) improves the accuracy of canonical base pair predictions; (ii) identifies the best secondary structures in a pool of suboptimal structures; and (iii) predicts accurate 3D structures of large RNA molecules. Availability: RNA-MoIP is publicly available at: http:// csb.cs.mcgill.ca/RNAMoIP.
+Copy-number variants (CNVs) are a major form of
+genetic variation and a risk factor for various human
+diseases, so it is crucial to accurately detect
+and characterize them. It is conceivable that allelespecific
+reads from high-throughput sequencing
+data could be leveraged to both enhance CNV detection
+and produce allele-specific copy number (ASCN)
+calls. Although statistical methods have been developed
+to detect CNVs using whole-genome sequence
+(WGS) and/or whole-exome sequence (WES)
+data, information from allele-specific read counts
+has not yet been adequately exploited. ASGENSENG
+incorporates allele-specific read
+counts in CNV detection and estimates ASCN using
+either WGS or WES data.

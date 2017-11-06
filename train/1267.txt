@@ -1,1 +1,1 @@
-Functions that are needed by many other packages or which replace R functions.
+A collection of adapters to combine the MSA and Tree component

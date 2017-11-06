@@ -1,1 +1,1 @@
-Fault Tolerance Reconstruction of 3D Structure from Protein Contact Maps
+Contains a tool dependency definition that downloads and compiles version 0.7.7 of pysam.

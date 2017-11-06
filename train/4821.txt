@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 3.1.44 of the python library reportlab.
+A program that creates subset databases, reverse databases, and prints database statistics from an FASTA formatted sequence database. Command line options available for inclusion and exclusion terms, case sensitivity, etc.

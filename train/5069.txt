@@ -1,1 +1,1 @@
-Analyze the protein coding potential in MSA
+Extend or shrink a list of genomic coordinates.

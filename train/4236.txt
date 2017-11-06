@@ -1,1 +1,1 @@
-FASTQ Trimmer by quality
+A javascript library to parse simple interaction file (SIF) files.

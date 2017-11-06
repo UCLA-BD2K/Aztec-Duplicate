@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.4.0 of tophat.
+Authority: mmb.pcb.ub.es  -  Returns collectivity indexes of principal components 

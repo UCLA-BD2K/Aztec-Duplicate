@@ -1,1 +1,1 @@
-Removal of duplicate sequences - GVL
+The dbfetch services provide access to entries from various up-to-date biological databases using entry identifiers or accession numbers.

@@ -1,1 +1,10 @@
-Interrogating protein complexes and pathways in an evolutionary context provides insights into the formation of the basic functional components of the cell. We developed two independent Cytoscape plugins that can be cooperatively used to map evolving protein interaction networks at the module level. The APCluster plugin implements a recent affinity propagation (AP) algorithm for graph clustering and can be applied to decompose networks into coherent modules. The NetworkEvolution plugin provides the capability to visualize selected modules in consecutive evolutionary stages. Availability: The plugins, input data and usage scenarios are freely available from the project web site:
+
+
+WSDbfetch: entry retrieval using entry identifiers or accession numbers for 
+various biological databases, including EMBL-Bank, InterPro, MEDLINE, Patent 
+Proteins, PDB, RefSeq, UniParc, UniProtKB and UniRef.
+
+Note: this is an RPC/encoded SOAP interface to the WSDbfetch service, for 
+other interfaces please see the documentation 
+(http://www.ebi.ac.uk/Tools/webservices/services/dbfetch).
+    

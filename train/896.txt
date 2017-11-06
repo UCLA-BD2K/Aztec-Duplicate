@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  This is a utility to retrieve a codon table from EMBOSS data files.
+A_purva is a Contact Map Overlap maximization (CMO) solver. Given two protein structures represented by two contact maps, A_purva computes the amino-acid  alignment which maximize the number of common contacts.

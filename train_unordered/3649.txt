@@ -1,1 +1,0 @@
-The OLS provides a web service interface to query multiple ontologies from a single location with a unified output format.The OLS can integrate any ontology available in the Open Biomedical Ontology (OBO) format.

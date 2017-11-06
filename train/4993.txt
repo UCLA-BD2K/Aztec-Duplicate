@@ -1,1 +1,1 @@
-convert a samtools mpileup pileup to vcf
+Automated Affymetrix Array Analysis Reporting Package

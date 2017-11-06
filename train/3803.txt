@@ -1,1 +1,1 @@
-MyGene.info provides simple-to-use REST web services to query/retrieve gene annotation data.
+Fast and accurate multiple sequence alignment method.

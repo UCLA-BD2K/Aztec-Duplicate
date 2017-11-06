@@ -1,1 +1,1 @@
-Access expert curated and normalized microarray eSet datasets from the InSilico Database.
+This package can be used to compute associations among genes (gene-networks) or between genes and some external traits (i.e. clinical).

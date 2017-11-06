@@ -1,1 +1,0 @@
-dbEST is a division of GenBank that contains sequence data and other information on "single-pass" cDNA sequences, or "Expressed Sequence Tags", from a number of organisms.

@@ -1,1 +1,1 @@
-This is a legacy for old BioJS 0.1 components. DO NOT USE!
+package_admixture_1_23

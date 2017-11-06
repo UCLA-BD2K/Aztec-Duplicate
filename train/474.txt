@@ -1,4 +1,5 @@
-The FASTA (pronounced FAST-Aye) suite of programs includes three specialist programs for searching databases with a set of sequence fragments, as may be obtained from protein mass spec. or Edman protein sequencing:
-* FASTF - Compares an ordered peptide mixture, as would be obtained by Edman degradation of a CNBr cleavage of a protein, against a protein database.
-* FASTM - Compares an ordered set of peptides to a protein sequence database or an ordered set of oligonucleotides to a nucleotide sequence database.
-* FASTS - Compares a set of short peptide fragments, as would be obtained from mass-spec. analysis of a protein, against a protein database.
+Motivation: Gene-set enrichment analysis (GSEA) can be greatly enhanced by linear model (regression) diagnostic techniques. Diagnostics can be used to identify outlying or influential samples, and also to evaluate model fit and explore model expansion.
+        Results: We demonstrate this methodology on an adult acute lymphoblastic leukemia (ALL) dataset, using GSEA based on chromosome-band mapping of genes. Individual residuals, grouped or aggregated by chromosomal loci, indicate problematic samples and potential data-entry errors, and help identify hyperdiploidy as a factor playing a key role in expression for this dataset. Subsequent analysis pinpoints suspected DNA copy number abnormalities of specific samples and chromosomes (most prevalent are chromosomes X, 21 and 14), and also reveals significant expression differences between the hyperdiploid and diploid groups on other chromosomes (most prominently 19, 22, 3 and 13)—differences which are apparently not associated with copy number.
+        Availability: Software for the statistical tools demonstrated in this article is available as Bioconductor package GSEAlm.
+        Contact: assaf.oron@gmail.com
+        Supplementary information: Supplementary data are available at Bioinformatics online.

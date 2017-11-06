@@ -1,1 +1,0 @@
-The Rchemcpp package implements the marginalized graph kernel and extensions, Tanimoto kernels, graph kernels, pharmacophore and 3D kernels suggested for measuring the similarity of molecules.

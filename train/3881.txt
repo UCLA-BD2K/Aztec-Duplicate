@@ -1,1 +1,1 @@
-eHabitat is conceived as a Web Processing Service (WPS) for computing the likelihood of finding ecosystems with equal properties.
+Filter on ambiguities in polymorphism datasets

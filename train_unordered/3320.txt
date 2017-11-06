@@ -1,2 +1,0 @@
-International Mouse Phenotyping Consortium portal:  genotype-phenotype annotations from knockout mouse strain for every
-protein coding gene in the mouse genome.

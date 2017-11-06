@@ -1,4 +1,1 @@
-RNAshapes offers three powerful RNA analysis tools
-    * Computation of a small set of representative structures of different shapes, complete in a well-defined sense.
-    * Computation of accumulated shape probabilities.
-    * Comparative prediction o
+SPADE, or Spanning tree Progression of Density normalized Events, is an analysis and visualization tool for high dimensional flow cytometry data that organizes cells into hierarchies of related phenotypes.

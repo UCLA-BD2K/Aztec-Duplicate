@@ -1,1 +1,0 @@
-DPTOOLS is a suite of brain image processing tools including fMRI, perfusion and diffusion MRI.

@@ -1,1 +1,1 @@
-This package provides classes and methods to support Gene Set Enrichment Analysis (GSEA).
+Retrieves interactions associated with input IDs along with interaction details and iRefIndices.

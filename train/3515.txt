@@ -1,1 +1,1 @@
-On coverage and SNPs and output a vcf file.
+simple tool for removing duplicates from sequencing reads

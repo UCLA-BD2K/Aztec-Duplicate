@@ -1,1 +1,1 @@
-This package allows to query EBI's Ontology Lookup Service (OLS) using Simple Object Access Protocol (SOAP).
+Hexagram visualizer

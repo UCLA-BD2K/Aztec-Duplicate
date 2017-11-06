@@ -1,1 +1,1 @@
-DSK is a k-mer counting software, similar to Jellyfish. Jellyfish is very fast but limited to large-memory servers and k â‰¤ 32. In contrast, DSK supports large values of k, and runs with (almost-)arbitrarily low memory usage and reasonably low temporary disk usage. DSK can count k-mers of large Illumina datasets on laptops and desktop computers.
+A general tool to identify genomic features with a specific biologically interesting pattern of associations with multiple endpoint variables as described in Pounds et. al. (2009) Bioinformatics 25: 2013-2019

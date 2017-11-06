@@ -1,1 +1,0 @@
-Maps iteratively small RNA sequencing datasets to reference sequences.

@@ -1,1 +1,1 @@
-PASS: a program to align short sequences
+Colibread / TakeABreak tool

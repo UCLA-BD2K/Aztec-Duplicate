@@ -1,1 +1,6 @@
-A Web Service that exposes methods of the Experiment Manager class of the DiaComp Object Model
+Summary: The lack of visualization frameworks to guide interpretation and facilitate discovery is a potential bottleneck for precision medicine, systems genetics and other studies. To address this we have developed an interactive, reproducible, web-based prioritization approach that builds on our earlier work. HitWalker2 is highly flexible and can utilize many data types and prioritization methods based upon available data and desired questions, allowing it to be utilized in a diverse range of studies such as cancer, infectious disease and psychiatric disorders.
+        Availability and implementation: Source code is freely available at https://github.com/biodev/HitWalker2 and implemented using Python/Django, Neo4j and Javascript (D3.js and jQuery). We support major open source browsers (e.g. Firefox and Chromium/Chrome).
+        Contact:
+wilmotb@ohsu.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online. Additional information/instructions are available at https://github.com/biodev/HitWalker2/wiki

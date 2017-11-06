@@ -1,1 +1,1 @@
-Output records belonging to samples commong between two datasets.
+Intelligent design of oligonucleotides for DNA microarrays

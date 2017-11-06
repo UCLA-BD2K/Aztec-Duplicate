@@ -1,1 +1,0 @@
-pileup.js is a new browser-based genome viewer. It is designed to facilitate the investigation of evidence for genomic variants within larger web applications. It takes advantage of recent developments in the JavaScript ecosystem to provide a modular, reliable and easily embedded library.

@@ -1,1 +1,0 @@
-The MuD server for predicting the affect of missense mutations on protein function using sequence and structural features

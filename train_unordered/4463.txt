@@ -1,1 +1,0 @@
-Parse blast outputs and compile hits

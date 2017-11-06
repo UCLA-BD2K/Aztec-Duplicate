@@ -1,1 +1,1 @@
-World-wide gel-based proteomics database (NIBR 2D-PAGE)
+Generate an alignment of nucleic coding regions from aligned proteins

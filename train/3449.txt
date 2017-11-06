@@ -1,1 +1,1 @@
-Galaxy workflow for the analysis of differential expressed genes between two prokaryote transcriptome datasets.
+SATRAP: a SOLiD Assembly TRAnslation Program

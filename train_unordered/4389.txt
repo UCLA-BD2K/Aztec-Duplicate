@@ -1,1 +1,0 @@
-Perform Logistic Regression with vif

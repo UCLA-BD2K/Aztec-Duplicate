@@ -1,1 +1,0 @@
-Annotates a tabular file with information from the Drug-Gene Interaction Database (http://dgidb.genome.wustl.edu/)

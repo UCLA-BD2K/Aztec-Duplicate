@@ -1,1 +1,1 @@
-Generate Detailed Coverage Report from BAM file
+FIT is a MATLAB toolbox which implements the jointICA, parallel ICA and CCA with joint ICA methods. It is used to examine the shared information between the features (SPM contrast image, EEG signal or SNPdata).

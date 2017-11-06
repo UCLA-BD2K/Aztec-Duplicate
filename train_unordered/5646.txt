@@ -1,1 +1,0 @@
-Retrieves interactions associated with input IDs along with interaction details and iRefIndices.

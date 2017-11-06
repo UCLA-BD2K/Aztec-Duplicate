@@ -1,1 +1,0 @@
-Find RNA sequences with given secondary structure

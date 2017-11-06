@@ -1,1 +1,1 @@
-Authority: chirimoyo.ac.uma.es  -  Run NCBIBlast with default parameters from a fasta file
+HISAT is a fast and sensitive spliced alignment program.

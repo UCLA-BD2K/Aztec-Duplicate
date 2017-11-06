@@ -1,1 +1,1 @@
-Display a rectangular heatmap (intensity plot) of a data matrix. By default, both samples (columns) and features (row) of the matrix are sorted according to a hierarchical clustering, and the corresponding dendrogram is plotted. Optionally, panels with additional information about samples and features can be added to the plot.
+Provides HDF5 storage based methods and functions for manipulation of flow cytometry data.

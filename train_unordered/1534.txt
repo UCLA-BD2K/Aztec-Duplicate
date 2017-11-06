@@ -1,1 +1,0 @@
-A Tool for Epistasis Analysis Based on Functional Regression Model

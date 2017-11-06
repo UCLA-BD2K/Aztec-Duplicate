@@ -1,1 +1,1 @@
-Phytopathogenic fungi and oomycete EST database.
+Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles.

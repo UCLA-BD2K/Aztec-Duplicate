@@ -1,1 +1,0 @@
-Authority: genome.imim.es  -  Parses the score or probability motif matrices from MEME output

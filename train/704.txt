@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Creates a consensus from multiple alignments.
+Takes a set of sequences and does an all-against-all pairwise comparison of words (fragments of the sequences of a specified fixed size) in the sequences, finding regions of identity between any two sequences.

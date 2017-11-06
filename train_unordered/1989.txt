@@ -1,1 +1,0 @@
-Algorithm for recalibrating the base quality scores for aligned sequencing data in BAM format.

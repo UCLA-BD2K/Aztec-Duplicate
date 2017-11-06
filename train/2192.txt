@@ -1,1 +1,1 @@
-This package is designed to conduct transcriptome analysis for tiling arrays based on fast wavelet-based functional models.
+A web service which allows users to search genes based on an organism or a list of organisms.

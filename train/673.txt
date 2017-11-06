@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Transeq translates nucleic acid sequences to the corresponding peptide sequences.
+Call SNPs and indels simultaneously via local de-novo assembly of haplotypes in an active region.

@@ -1,1 +1,1 @@
-One-line description of Blast program filtering
+Concatenate multiple sequences into a single sequence

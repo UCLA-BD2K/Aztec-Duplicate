@@ -1,1 +1,0 @@
-Simple filter to keep N occurrences of lines in a file

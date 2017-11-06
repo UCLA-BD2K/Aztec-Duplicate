@@ -1,1 +1,0 @@
-Annotate VCF using custom/user-defined annotations

@@ -1,1 +1,0 @@
-DOMAINATION is a method to identify domains in a protein sequence from similarity searches using PSI-BLAST. The identified domains are used in individual PSI-BLAST searches to improve detection of distant homologous sequences. DOMAINATION iterates until no new domains are found.

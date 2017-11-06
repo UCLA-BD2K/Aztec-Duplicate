@@ -1,1 +1,1 @@
-Galaxy wrappers for Seal
+GCMS and LCMS workflows

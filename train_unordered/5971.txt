@@ -1,1 +1,0 @@
-XTK is easy, lightweight and fast ! Native reading of a variety of scientific file formats (see File formats) Volume rendering, thresholding and cross-sectional slicing of 3d image data Label maps, color tables and surface overlays are supported, as well as Constructive Solid Geometry CDash + Google Closure driven build and test system

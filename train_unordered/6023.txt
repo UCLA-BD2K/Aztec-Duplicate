@@ -1,1 +1,0 @@
-TFOCS (pronounced tee-fox) provides a set of Matlab templates, or building blocks, that can be used to construct efficient, customized solvers for a variety of convex models, including in particular those employed in sparse recovery applications.

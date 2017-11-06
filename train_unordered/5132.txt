@@ -1,1 +1,0 @@
-Trim off 5' or 3' primers

@@ -1,1 +1,0 @@
-TMHMM, SignalP, Promoter, RXLR motifs, WoLF PSORT and PSORTb

@@ -1,1 +1,0 @@
-Align a set of protein sequences

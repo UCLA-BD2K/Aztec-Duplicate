@@ -1,1 +1,1 @@
- Contains a tool dependency definition that downloads and compiles version 0.6.2 of the BWA package 
+NOT to be installed on public Galaxy instances

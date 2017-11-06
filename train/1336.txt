@@ -1,1 +1,1 @@
-Quality metrics for ChIPseq data
+Aspic predicts the gene structure by aligning ESTs against a genomic region

@@ -1,1 +1,4 @@
-Contains a tool dependency definition that downloads and compiles version 1.0 of the galaxy operations python package.
+
+			INTRODUCTION
+
+			This Web Service implements NetGlycate 1.0

@@ -1,1 +1,0 @@
-Provides a list of groups of co-located and duplicated genes.

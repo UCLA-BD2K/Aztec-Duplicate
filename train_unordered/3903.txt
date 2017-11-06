@@ -1,1 +1,0 @@
-The ELM instance mapper uses PHI-BLAST to map ELM predictions of a query sequence to known annotated ELM instances.

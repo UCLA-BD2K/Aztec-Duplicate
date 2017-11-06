@@ -1,1 +1,1 @@
-Web service to WikiPathways, a wiki for biological pathways.
+GorI @ IBCP (http://gbio-pbil.ibcp.fr)

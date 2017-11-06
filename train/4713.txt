@@ -1,1 +1,1 @@
-Provides the XCB protocol implementation.
+The EFetch services retrieve records in the requested format from several databases hosted by the NCBI.

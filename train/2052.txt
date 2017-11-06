@@ -1,1 +1,5 @@
-This package contains several tools for analyzing Sanger Sequencing data files in R, including reading .scf and .ab1 files, making basecalls and plotting chromatograms.
+STRING is a database of known and predicted protein interactions. The interactions include direct (physical) and indirect (functional) associations; they are derived from four sources:
+Genomic Context
+High-throughput Experiments
+(Conserved) Coexpression
+Previous Knowledge	 

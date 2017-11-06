@@ -1,1 +1,0 @@
-TomoVision is a Windows tool which allows you to display medical images and enables the user to perform the following actions: * Scale images * Modify image brightness and contrast * Access any pixel position and value on the image. TomoVision is capable of reading a very wide range of file formats.

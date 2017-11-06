@@ -1,1 +1,1 @@
-Flexible tool to remove adapter sequences (and quality trim) high throughput sequencing reads (fasta/fastq).
+Peptide Prophet, Interprophet and Protein Prophet from the TPP

@@ -1,1 +1,1 @@
-Prediction of genes given a sequence of prokaryotic DNA for 138 different organisms
+Search by molecular mass or elemental composition within ChemSpider or within particular data source(s)

@@ -1,3 +1,6 @@
-Authority: mmb.pcb.ub.es  -  
-		Given a Ligand code, returns all the PDB codes that contain this ligand
-	
+RNA-Seq is a method for profiling transcription using high-throughput sequencing and is an important component of many research projects that wish to study transcript isoforms, condition specific expression and transcriptional structure. The methods, tools and technologies used to perform RNA-Seq analysis continue to change, creating a bioinformatics challenge for researchers who wish to exploit these data. Resources that bring together genomic data, analysis tools, educational material and computational infrastructure can minimize the overhead required of life science researchers.
+                RNA-Rocket is a free service that provides access to RNA-Seq and ChIP-Seq analysis tools for studying infectious diseases. The site makes available thousands of pre-indexed genomes, their annotations and the ability to stream results to the bioinformatics resources VectorBase, EuPathDB and PATRIC. The site also provides a combination of experimental data and metadata, examples of pre-computed analysis, step-by-step guides and a user interface designed to enable both novice and experienced users of RNA-Seq data.
+                RNA-Rocket is available at rnaseq.pathogenportal.org. Source code for this project can be found at github.com/cidvbi/PathogenPortal.
+                anwarren@vt.edu
+                Supplementary materials are available at Bioinformatics online.
+                Â© The Author 2015. Published by Oxford University Press.

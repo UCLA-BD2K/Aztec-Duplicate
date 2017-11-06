@@ -1,1 +1,1 @@
-Evaluates the biological activity of genes and processes in pathways
+Mycobacterium tuberculosis strain H37Rv genome database

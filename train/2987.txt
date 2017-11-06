@@ -1,1 +1,1 @@
-Search tool for generating probe and primer hit tables
+A popular, fast image viewing program for Windows. Geared towards flat image files but can read some medical formats including DICOM.

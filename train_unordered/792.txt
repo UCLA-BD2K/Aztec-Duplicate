@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  A tool for uncompressing protein trajectories previously compressed with a PCAZIP tool

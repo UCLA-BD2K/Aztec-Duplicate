@@ -1,4 +1,0 @@
-Given Affymetrix CEL files, AffyDEGfinder finds differentially expressed genes and runs clustering, annotation, and GO and KEGG enrichment analysis for them using R/Bioconductor through Chipster. This workflow consists of the following steps:
-
-
-    

@@ -1,1 +1,0 @@
-Downloads and compiles version 2.5.2 of the FreeType libraries.

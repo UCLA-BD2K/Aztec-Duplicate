@@ -33,8 +33,8 @@ def tag_doc():
     f.close()
     print "data loaded"
     return ids, index, taggeddoc
-# ids, num, taggeddoc = tag_doc()
-# num = 11238
+ids, num, taggeddoc = tag_doc()
+# num = 10801
 
 def build_model(tagd):
     print "length of doc: ",len(tagd)
@@ -42,7 +42,7 @@ def build_model(tagd):
     model.save('doc2vec_model_400')
     print "model saved"
     return model
-# model = build_model(taggeddoc)
+model = build_model(taggeddoc)
 
 model_name = 'doc2vec_model_400'
 def save_vectors(model_name, ids):
@@ -54,7 +54,7 @@ def save_vectors(model_name, ids):
         docvec = np.insert(docvec, 0, id)
         f.write(','.join(str(x) for x in docvec)+'\n')
     f.close()
-# save_vectors(model_name, ids)
+save_vectors(model_name, ids)
 
 import math
 def cosine_similarity(v1,v2):
@@ -95,7 +95,7 @@ def similarity(name):
     similar = np.around(similar, 4)
     np.savetxt("similarity.csv", similar, delimiter=",")
 
-# similarity('DocVectors.csv')
+similarity('DocVectors.csv')
 
 
 def calculate(sim_file, id_file):
@@ -111,7 +111,7 @@ def calculate(sim_file, id_file):
     float_arr = [float(n) for n in split_line]
 
     index = 0
-    for id in float_arr:
+    for id in float_arr:d_
         id_int = int(id)
         map[id_int] = index
         index += 1

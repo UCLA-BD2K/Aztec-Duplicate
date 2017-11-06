@@ -1,1 +1,1 @@
-Matlab implementations of continuous max flow variants. Features fast parallel continuous max flow solvers in 2D/3D. 
+An algorithm that takes as input a set of unaligned RNA sequences expected to share a common motif, and outputs the regions that are most conserved throughout the sequences, according to a similarity measure that takes into account both the sequence of the regions and the secondary structure they can form according to base-pairing and thermodynamic rules.

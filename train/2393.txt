@@ -1,1 +1,1 @@
-SMART protein domain database.
+Package to create In Silico Interactomes

@@ -1,1 +1,0 @@
-MetaboLights is a database for Metabolomics experiments and derived information.

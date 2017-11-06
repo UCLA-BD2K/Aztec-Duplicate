@@ -1,1 +1,1 @@
-Database of transglutaminase substrate proteins.
+Package for the position related analysis of quantitative functional genomics data.

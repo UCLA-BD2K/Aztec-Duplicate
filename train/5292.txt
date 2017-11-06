@@ -1,1 +1,1 @@
-Peptide Prophet, Interprophet and Protein Prophet from the TPP
+Neural network prediction of arginine and lysine propeptide cleavage sites in eukaryotic protein sequences

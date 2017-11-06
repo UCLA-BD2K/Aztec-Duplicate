@@ -1,1 +1,0 @@
-The splots package provides the plotScreen function for visualising data in microtitre plate or slide format.

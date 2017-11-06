@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.7.7 of pysam.
+CAVIAR (CAusal Variants Identication in Associated Regions), a statistical framework that quantifies the probability of each variant to be causal while allowing with arbitrary number of causal variants.

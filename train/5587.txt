@@ -1,1 +1,1 @@
-Reads a file in phylogenetic tree format (Phylip or phyloXML) and visualizes it as a network.
+Secondary structure assignments (and much more) for all protein entries in the Protein Data Bank (PDB).

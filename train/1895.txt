@@ -1,1 +1,1 @@
-phyloseq provides a set of classes and tools to facilitate the import, storage, analysis, and graphical display of microbiome census data.
+The package includes quality control metrics, a selection of normalization methods and novel methods to identify differentially methylated regions and to highlight copy number aberrations. In addition their is a method to help calculate hmC using BS and oxBS samples.

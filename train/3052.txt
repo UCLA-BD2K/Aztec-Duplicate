@@ -1,1 +1,1 @@
-Split sequence(s) into smaller sequences
+Draw a helical net for a protein sequence

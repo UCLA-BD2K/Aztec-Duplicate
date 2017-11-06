@@ -1,1 +1,0 @@
-Widgets to provide user interfaces. tcltk should have been installed for the widgets to run.

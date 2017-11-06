@@ -1,1 +1,1 @@
-Numerical assessments about the maximum percent of time that a conformer of a flexible macromolecule can exist and still be compatible with the experimental data.
+Motif search and discovery in protein sequences

@@ -1,1 +1,1 @@
-Create images from DNA sequences
+Visualizes BLAST similarity as graph.

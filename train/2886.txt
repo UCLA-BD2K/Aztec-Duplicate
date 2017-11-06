@@ -1,1 +1,1 @@
-Six frame nucleotide sequence translation, with ORF finding
+DeepDive is a new type of data management system that enables one to tackle extraction, integration, and prediction problems in a single system, which allows users to rapidly construct sophisticated end-to-end data pipelines, such as, dark data BI systems. 

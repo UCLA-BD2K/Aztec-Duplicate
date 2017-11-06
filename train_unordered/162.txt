@@ -1,1 +1,0 @@
-Search the MINT database (http://mint.bio.uniroma2.it/mint/Welcome.do) for protein interactions using a protein id

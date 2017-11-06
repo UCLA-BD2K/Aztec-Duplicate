@@ -1,1 +1,1 @@
-Software tool for parameterization of EEM (Electronegativity Equalization Method) for calculation of empirical atomic charges.
+Contains a tool dependency definition that downloads and compiles version 1.5.10 of deepTools.

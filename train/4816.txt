@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.16 of the python library pandas.
+Downloads and compiles version 4.7.0 of the Trans-Proteomic Pipeline.

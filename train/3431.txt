@@ -1,1 +1,1 @@
-an online fasta sequence toolbox
+Sort alignments by leftmost coordinates or read name.

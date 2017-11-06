@@ -1,1 +1,4 @@
-This package implements a general purpose gene set analysis method called PADOG that downplays the importance of genes that apear often accross the sets of genes to be analyzed. The package provides also a benchmark for gene set analysis methods in terms of sensitivity and ranking using 24 public datasets from KEGGdzPathwaysGEO package.
+DDBJ GetEntry web service wrapped by TogoWS (Towards an integrated web service in life science). 
+GetEntry is a database search and entry retrieval by accession number against DDBJ and other biological molecular database. 
+
+GetEntry service by DDBJ: http:

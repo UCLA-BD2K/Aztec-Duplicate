@@ -1,1 +1,0 @@
-A resource for predicting functional sites in eukaryotic proteins. Putative functional sites are identified by patterns (regular expressions). To improve the predictive power, context-based rules and logical filters are applied to reduce the amount of false positives.

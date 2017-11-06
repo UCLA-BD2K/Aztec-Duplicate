@@ -1,1 +1,1 @@
-This package contains functions for normalizing spotted microarray data, based on a physically motivated calibration model. The model parameters and error distributions are estimated from external control spikes.
+This service provides operations to (i) obtain synonyms for protein names from a number of sources (ii) provide uniprot identifiers for the input.

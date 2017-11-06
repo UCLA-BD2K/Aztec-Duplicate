@@ -1,4 +1,0 @@
-
-			INTRODUCTION
-
-			This Web Service implements hERG 1.0

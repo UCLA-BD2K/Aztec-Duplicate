@@ -1,1 +1,1 @@
-Identifies subnetworks which can discriminate given conditions according to PPI network and gene expression data
+s a multiple alignment-based information management system that combines the advantages of both knowledge-based and ab initio sequence analysis methods.

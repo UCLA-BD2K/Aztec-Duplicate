@@ -1,1 +1,0 @@
-A general approach for de-novo motif discovery from high-throughput data

@@ -1,1 +1,1 @@
-against a list of desired genomic regions, by name
+consistency analysis on a pair of Peak files (idr)

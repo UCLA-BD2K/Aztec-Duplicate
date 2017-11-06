@@ -1,1 +1,1 @@
-The EFetch services retrieve records in the requested format from several databases hosted by the NCBI.
+Search Matrix DB (http://matrixdb.ibcp.fr/) for protein interactions using a protein id

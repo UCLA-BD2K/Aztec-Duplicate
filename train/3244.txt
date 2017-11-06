@@ -1,1 +1,1 @@
-Multiple Prosite motifs searching
+Extract features from sequence(s)

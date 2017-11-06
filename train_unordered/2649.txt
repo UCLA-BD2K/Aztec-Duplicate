@@ -1,1 +1,0 @@
-Graph theory (a.k.a. network) library for analysis and visualisation

@@ -1,1 +1,0 @@
-Database of genes from NCBI RefSeq genomes

@@ -1,1 +1,0 @@
-Protein families, domains, regions, repeats and sites in which identifiable features found in known proteins can be applied to new protein sequences.

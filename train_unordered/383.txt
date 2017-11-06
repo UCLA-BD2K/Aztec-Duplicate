@@ -1,1 +1,0 @@
-It compares a nucleotide query sequence translated in all reading frames against a protein sequence (used as a database) using the Washington University BLAST algorithm.

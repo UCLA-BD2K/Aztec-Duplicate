@@ -1,1 +1,1 @@
-A tool that allows replacing any delimiter in the input to any other delimiter
+Extract regions from a sequence

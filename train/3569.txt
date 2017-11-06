@@ -1,1 +1,1 @@
-Get Distribution: Get the distribution of the genomic coordinates on a genome.
+An application for protein-protein interaction analysis

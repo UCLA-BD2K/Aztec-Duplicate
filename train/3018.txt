@@ -1,1 +1,1 @@
-Identify and plot CpG islands in nucleotide sequence(s)
+Probabilistic inference of ChIP-Seq using an empirical Bayes mixture model approach.

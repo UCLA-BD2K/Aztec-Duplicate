@@ -1,1 +1,1 @@
-WHAT IF is a versatile molecular modelling package that is specialized on working with proteins and the molecules in their environment like water, ligands, nucleic acids, etc.
+General Image Tools

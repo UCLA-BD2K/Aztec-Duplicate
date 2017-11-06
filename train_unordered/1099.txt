@@ -1,1 +1,0 @@
-The EMBL Nucleotide Sequence Database constitutes Europe's primary nucleotide sequence resource.This webservice currently provides access to over 16.8 million records, consisting of 19.6 billion nucleotides . It also provides access to completed genomes, including the human genome, the fruit fly, and C. elegans

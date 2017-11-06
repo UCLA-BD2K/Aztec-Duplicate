@@ -1,1 +1,3 @@
-NGS aligners
+With this service you can search for Ensembl genes using external references (GenBank, PDB, ...).
+You can also get the list of available external references sources for a given species.
+Finally, you can fetch external references for a given ensembl gene

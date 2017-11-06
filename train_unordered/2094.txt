@@ -1,1 +1,0 @@
-A variety of data files and functions for the analysis of genetic interactions

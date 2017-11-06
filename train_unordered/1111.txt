@@ -1,1 +1,0 @@
-The Systems Biology Ontology project (SBO) goal is to develop controlled vocabularies and ontologies tailored specifically for the kinds of problems being faced in Systems Biology, especially in the context of computational modeling. This service allows y

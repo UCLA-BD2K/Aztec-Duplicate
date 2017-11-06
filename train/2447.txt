@@ -1,1 +1,1 @@
-GPCR family profiles, mutation data (in various formats), ligand binding data, sequence annotations and cross-references to other databases.
+MolRep is program for automated molecular replacement in the case where a homologous structure has already been identified.

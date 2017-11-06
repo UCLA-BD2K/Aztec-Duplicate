@@ -1,1 +1,1 @@
-Align a set of protein sequences
+Automatically Tuned Linear Algebra Software

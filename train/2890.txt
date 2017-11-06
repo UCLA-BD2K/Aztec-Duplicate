@@ -1,1 +1,1 @@
-Search the PDB
+Displays a thresholded dotplot of two sequences

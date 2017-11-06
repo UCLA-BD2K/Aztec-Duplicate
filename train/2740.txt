@@ -1,1 +1,1 @@
-Prediction of cysteine connectivity patterns in a protein chain
+Contains a tool dependency definition that downloads and compiles version 0.7.5 of pysam.

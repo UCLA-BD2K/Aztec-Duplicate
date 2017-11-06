@@ -1,1 +1,6 @@
-Webservice implementation of the SLiMFinder program
+Summary: Transcriptional profiling still remains one of the most popular techniques for identifying relevant biomarkers in patient samples. However, heterogeneity in the population leads to poor statistical evidence for selection of most relevant biomarkers to pursue. In particular, human transcriptional differences can be subtle, making it difficult to tease out real differentially expressed biomarkers from the variability inherent in the population. To address this issue, we propose a simple statistical technique that identifies differentially expressed probes in heterogeneous populations as compared with controls.
+        Availability and implementation: The algorithm has been implemented in Java and available at www.sourceforge.net/projects/probeselect.
+        Contact:
+jbienkowska@gmail.com or jadwiga@csail.mit.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

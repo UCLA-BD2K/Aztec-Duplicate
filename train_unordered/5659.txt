@@ -1,1 +1,0 @@
-RNA-Seq analysis pipeline which offers an express implementation of analysis steps. It can perform pre and post mapping quality control (QC) for sequencing data, calculate expression levels for uniquely mapped reads, identify differentially expressed genes, and convert file formats for ease of visualization.

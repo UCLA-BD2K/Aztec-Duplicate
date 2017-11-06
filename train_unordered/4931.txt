@@ -1,1 +1,0 @@
- Contains a tool dependency definition that downloads the binary version 22.4 of tbl2asn. 

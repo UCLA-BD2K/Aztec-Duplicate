@@ -1,1 +1,0 @@
-The Bayesembler is a Bayesian method for doing transcriptome assembly from RNA-seq data.

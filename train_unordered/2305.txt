@@ -1,1 +1,0 @@
-Multi Locus Sequence Typing (MLST) from an assembled genome or from a set of reads

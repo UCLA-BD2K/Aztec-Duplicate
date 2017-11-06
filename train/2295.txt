@@ -1,1 +1,1 @@
-represent a network of protein interactions
+Search against small molecules stored in Kinase SARfari database

@@ -1,1 +1,3 @@
-Empirical analysis of digital gene expression data. GVL. PeterMac
+This  WSDL file describe the Conservation Score Web Service. 
+	    It calculates the conservation of ELM matches in a set of homologous sequences.
+            

@@ -1,1 +1,0 @@
-RILogo is a command line program and web server to create an RNA-RNA interaction logo from a pair of RNA sequences or alignments.

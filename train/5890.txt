@@ -1,1 +1,1 @@
-The AmbiVU 3D DICOM viewer workstation is most likely the fastest 3D Workstation available, to date we’ve yet to find one faster. The AmbiVU 3D Workstation displays studies from any modality with the widest range of 3D rendering methods, for surgical planning and image diagnosis. AmbiVU 3D fits perfectly into your 3D workflow requirements, delivering easy to use, high-quality 3D imaging.
+This package is an implementation of data analysis for the long-range interactions from 3C-seq assay.

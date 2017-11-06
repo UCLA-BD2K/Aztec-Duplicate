@@ -1,1 +1,0 @@
-A set of functions to analyze and compare multiple ChIP-seq experiments. 

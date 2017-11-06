@@ -1,1 +1,1 @@
-This package can optimize the parameter in S-system models given time series data
+A set of tools based on vcflib package

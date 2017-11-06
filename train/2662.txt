@@ -1,1 +1,1 @@
-A Node.js JavaScript library for client and server side bioinformatics
+Graduate parser for BioJS

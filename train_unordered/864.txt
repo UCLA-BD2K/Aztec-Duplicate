@@ -1,5 +1,0 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Run a Molecular Dynamic Simulation with Protein-Solvent system (Using Namd program). Returns an MD_TrajectoryDCD.
-            
-    

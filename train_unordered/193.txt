@@ -1,1 +1,0 @@
-Searches for conserved patterns in a set of unaligned protein sequences.

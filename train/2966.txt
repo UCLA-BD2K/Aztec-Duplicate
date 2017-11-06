@@ -1,1 +1,1 @@
-Sequence similarity searching against protein databases using the FASTA suite. FASTX and FASTY translate a DNA query. Optimal searches with SSEARCH (local), GGSEARCH (global) and GLSEARCH (global query, local database)
+A slush generator for BioJS modules

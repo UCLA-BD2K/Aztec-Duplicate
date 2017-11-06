@@ -1,1 +1,1 @@
-Extracting Features from Biological Sequences and Building Classification Model
+MRI Studio is a Windows-based program for DTI analysis.

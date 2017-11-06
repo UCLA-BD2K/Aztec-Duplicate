@@ -1,1 +1,1 @@
-atSNP (affinity testing for regulatory SNPs), a computationally efficient R package for identifying rSNPs in silico
+RNA 2nd structure prediction from a multiple alignment of RNA sequences

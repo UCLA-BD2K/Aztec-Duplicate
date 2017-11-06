@@ -1,1 +1,1 @@
-ITSoneDB is a comprehensive collection of the fungal ribosomal RNA Internal Transcribed Spacer 1 (ITS1) sequences aimed at supporting metagenomic surveys of fungal environmental communities
+DNA and protein sequence alignment based on segment-to-segment comparison

@@ -1,1 +1,0 @@
-Convert a .mpileup file into a SynTView .coverage file.

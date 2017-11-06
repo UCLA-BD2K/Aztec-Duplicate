@@ -1,1 +1,1 @@
-Fido is a method for protein identification in MS/MS proteomics
+Easy way to display features

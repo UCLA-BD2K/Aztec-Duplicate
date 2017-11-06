@@ -1,1 +1,1 @@
-deepTools: user-friendly tools for the normalization, quality control and visualization of deep-sequencing data
+A collection of Semantic Web tools, including a (pure python) SPARQL-to-tabular format tool

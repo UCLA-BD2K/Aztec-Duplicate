@@ -1,1 +1,1 @@
-Tools for mapping peptides and proteins to genomic coordinates
+Protein solenoid repeat detection from sequence.

@@ -1,1 +1,1 @@
-Phosphorylation site database for Archaea and Bacteria
+Pairwise global alignment of PPI or other networks

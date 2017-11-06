@@ -1,1 +1,1 @@
-Survival and other incident curves
+Retrieves an ENSEMBL sequence by its region.

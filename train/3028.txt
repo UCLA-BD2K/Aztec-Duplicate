@@ -1,1 +1,1 @@
-Reports on protein proteolytic enzyme or reagent cleavage sites
+Functions to Analyze Microarray (Gene Expression) Data.

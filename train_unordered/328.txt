@@ -1,1 +1,0 @@
-Compares a nucleotide sequence (it is translated with frameshifts and it allows frameshifts inside codons) against a protein database using the FASTA (fasty) algorithm.

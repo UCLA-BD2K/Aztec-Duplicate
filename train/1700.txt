@@ -1,1 +1,1 @@
-LBE is an efficient procedure for estimating the proportion of true null hypotheses, the false discovery rate (and so the q-values) in the framework of estimating procedures based on the marginal distribution of the p-values without assumption for the alternative hypothesis.
+Radscaper is a powerful Java applet based DICOM web viewer with a thin footprint. It requires no installation or configuration. It can read DICOM images and header information from any PACS system that provides a Web interface. It is extremely easy to use and runs on any platform.

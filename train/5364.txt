@@ -1,1 +1,1 @@
-Removes multi-allelic sites by picking the most common alternate
+MAFFT (Multiple Alignment using Fast Fourier Transform) is a high speed multiple sequence alignment program.

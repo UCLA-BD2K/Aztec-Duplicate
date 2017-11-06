@@ -1,1 +1,1 @@
-Compare VCF files to get overlap and uniqueness statistics
+An expert-curated pharmacological database of drug targets and their ligands

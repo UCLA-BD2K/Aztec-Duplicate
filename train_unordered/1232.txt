@@ -1,1 +1,0 @@
-Functions for performing print-run and array level quality assessment.

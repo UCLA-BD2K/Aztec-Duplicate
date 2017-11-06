@@ -1,1 +1,1 @@
-This package is meant to facilitate the testing of Copy Number Variant data for genetic association, typically in case-control studies.
+Tool for mapping identifiers in a tabular file using a lookup table

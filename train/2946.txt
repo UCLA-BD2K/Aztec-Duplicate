@@ -1,1 +1,1 @@
-Multiple sequence alignment
+Extract CDS sequences.

@@ -1,1 +1,1 @@
-hmmbuild: profile HMM construction from multiple sequence alignments
+Genetic Algorithm for Rapid Likelihood Inference

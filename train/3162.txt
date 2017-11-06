@@ -1,1 +1,1 @@
-predict O-glycosylation sites in proteins.
+Get the sizes of a set of genomic coordinates.

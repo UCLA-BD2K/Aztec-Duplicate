@@ -1,1 +1,1 @@
-This service provides operations to (i) obtain synonyms for protein names from a number of sources (ii) provide uniprot identifiers for the input.
+Modified merge_columns to allow merging columns separated by a delimiter

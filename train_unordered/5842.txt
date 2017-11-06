@@ -1,1 +1,0 @@
-This command line tool for Windows extracts the brain region from volumetric medical images of the head. Skull stripping is performed by registration of an atlas and level-set-based refinement of the brain region

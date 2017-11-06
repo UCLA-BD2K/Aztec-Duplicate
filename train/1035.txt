@@ -1,1 +1,1 @@
-Multiple sequence alignment algorithm MUSCLE.
+Authority: inb.bsc.es  -  Retrieves a motif from prosite.

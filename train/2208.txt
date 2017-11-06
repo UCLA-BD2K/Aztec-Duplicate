@@ -1,1 +1,1 @@
-To visualize biological cells and highlight by a user selected sub-cellular compartments in a way that they stand out from the un-selected ones
+Denoising Algorithm based on Relevance network Topology (DART) is an algorithm designed to evaluate the consistency of prior information molecular signatures (e.g in-vitro perturbation expression signatures) in independent molecular data (e.g gene expression data sets). If consistent, a pruning network strategy is then used to infer the activation status of the molecular signature in individual samples.

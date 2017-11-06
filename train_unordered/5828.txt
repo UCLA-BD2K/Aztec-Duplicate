@@ -1,1 +1,0 @@
-A free extensible and customizable gene annotation portal, a complete resource for learning about gene and protein function.

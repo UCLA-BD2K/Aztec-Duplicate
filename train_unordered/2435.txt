@@ -1,1 +1,0 @@
-Three-dimensional protein models calculated by comparative modelling.

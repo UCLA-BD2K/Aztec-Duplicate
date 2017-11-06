@@ -1,1 +1,1 @@
-Generate pileup from BAM dataset
+Given one library, it extends all molecules by similar molecules of an other library and thus fill gaps in an automatic manner.

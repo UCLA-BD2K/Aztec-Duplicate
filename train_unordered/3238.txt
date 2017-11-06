@@ -1,1 +1,0 @@
-Algorithm for finding tandem repeats in DNA sequences

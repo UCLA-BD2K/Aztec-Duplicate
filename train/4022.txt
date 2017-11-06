@@ -1,1 +1,1 @@
-Galaxy wrappers for the BWA short read aligner.
+Contains a tool dependency definition that downloads and compiles version 2.4 of the freetype font library.

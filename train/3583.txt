@@ -1,1 +1,1 @@
-Count or select lines containing a motif of a dataset.
+Generates a Venn/Euler Diagram of shared nodes for selected networks.

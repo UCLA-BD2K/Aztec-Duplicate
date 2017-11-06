@@ -1,0 +1,12 @@
+Abstract
+        
+Summary: We present Edlib, an open-source C/C ++ library for exact pairwise sequence alignment using edit distance. We compare Edlib to other libraries and show that it is the fastest while not lacking in functionality and can also easily handle very large sequences. Being easy to use, flexible, fast and low on memory usage, we expect it to be easily adopted as a building block for future bioinformatics tools.
+        
+Availability and Implementation: Source code, installation instructions and test data are freely available for download at https://github.com/Martinsos/edlib, under the MIT licence. Edlib is implemented in C/C ++ and supported on Linux, MS Windows, and Mac OS.
+        
+Contact:
+mile.sikic@fer.hr
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,1 @@
-By leveraging statistical properties (log-rank test for survival) of patient cohorts defined by binary thresholds, poor-prognosis patients are identified by the sigsquared package via optimization over a cost function reducing type I and II error.
+Authority: inb.bsc.es  -  Searches a HMM profile database (Pfam) with a query sequence. Use this if you are trying to annotate an unknown sequence.

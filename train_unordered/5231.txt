@@ -1,1 +1,0 @@
-A suite of tool wrappers for mirDeep2

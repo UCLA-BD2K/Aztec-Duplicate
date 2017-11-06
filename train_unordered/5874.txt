@@ -1,1 +1,0 @@
-Renders 2d/3d images and MPR; provides image co-registration using Elastix

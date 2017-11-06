@@ -1,1 +1,1 @@
-Qiime Metagenomics
+Needleman-Wunsch global alignment of two sequences

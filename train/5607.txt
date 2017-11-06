@@ -1,1 +1,1 @@
-Saves Cytoscape session in Web format.
+Retrieves an entry from a FSSP database.

@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Returns the names or ids of a uniprot entry identified by the input accession.
+http://liferay.csb.univie.ac.at/portal/web/simap/webservice

@@ -1,1 +1,0 @@
-Retrieves interactions associated with input protein name.

@@ -1,1 +1,1 @@
-Spot segmentation via model-based clustering and gridding for blocks within microarray slides, as described in Li et al, Robust Model-Based Segmentation of Microarray Images, Technical Report no. 473, Department of Statistics, University of Washington.
+Contains a tool dependency definition that downloads and compiles version 2.2.5 of the Bowtie package

@@ -1,1 +1,1 @@
-Calculate the composition of unique words in sequences
+Zebrafish information network genome database

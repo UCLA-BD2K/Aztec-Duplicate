@@ -1,1 +1,1 @@
-utilities for ROC, with uarray focus
+Find diagnostic hits

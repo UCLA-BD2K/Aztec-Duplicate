@@ -1,1 +1,3 @@
-Mass spectrometry imaging (MSI) visualizes the simultaneous lateral distribution of multiple compounds on sample surface. However, it is still difficult to visualize biological indices such as energy charge index from multiple compounds because of the lack of publicly available tools. Here we present MSIdV, a visualization tool for biological indices calculated from mass spectrometry imaging data, which can effectively scan a series of mass spectra and process, calculate and visualize user-defined index measures accurately with a number of signal processing features. Availability and implementation : MSIdV is implemented in Python 2.7 and is freely available on the web at https://sourceforge.net/projects/msidv/
+This Web Service connects to the Banana module of the TropGene database (http://tropgenedb.cirad.fr).
+We annotated the input and output with ontological terms of the GCP Domain Model Ontology (http://cropontology.org/).
+For given study names (GCP_Study)

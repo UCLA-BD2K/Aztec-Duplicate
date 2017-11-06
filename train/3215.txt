@@ -1,1 +1,1 @@
-Back-translate a protein sequence to a nucleotide sequence
+This service is like a DNA search engine.

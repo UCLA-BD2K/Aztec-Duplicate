@@ -1,1 +1,0 @@
-General Sample size and power analysis for microarray and next-generation sequencing data.

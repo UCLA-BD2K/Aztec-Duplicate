@@ -1,1 +1,1 @@
-genArise is an easy to use tool for dual color microarray data. Its GUI-Tk based environment let any non-experienced user performs a basic, but not simple, data analysis just following a wizard. In addition it provides some tools for the developer.
+All published accounts of variants resulting in osteogenesis imperfecta. Such variants occur in the COL1A1, COL1A2, CRTAP and LEPRE1 genes.

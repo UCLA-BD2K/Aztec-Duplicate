@@ -1,1 +1,1 @@
-Please send all feedback to development-at-chemspider-dot-comNOTE: Some operations require a "Security Token". To obtain a token please complete the registration process. Security Token is listed at Profile page.
+Takes a protein motif and compares it to a protein sequences.

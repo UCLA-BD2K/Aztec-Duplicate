@@ -1,1 +1,0 @@
-The Integrated Proteomics Pipeline (IP2) is a proteomics data analysis platform. 

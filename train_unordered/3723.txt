@@ -1,1 +1,0 @@
-GlobPlot allows the user to plot the tendency within the query protein for order/globularity and disorder.

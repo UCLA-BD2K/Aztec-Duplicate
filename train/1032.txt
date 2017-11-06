@@ -1,1 +1,1 @@
-WSxVO
+Authority: inb.bsc.es  -  Plots an ArrayXYData.

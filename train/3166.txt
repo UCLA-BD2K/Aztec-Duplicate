@@ -1,1 +1,1 @@
-Calculate secondary structures of two RNAs with dimerization
+data_manager_picard_index_builder

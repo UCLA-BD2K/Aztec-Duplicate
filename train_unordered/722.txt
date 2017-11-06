@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Translates a mmCIF-Text format to a NDB-Text format.

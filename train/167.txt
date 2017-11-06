@@ -1,1 +1,5 @@
-Search the Host - Pathogen Interaction Database using a protein id
+Summary: We present BioBlend, a unified API in a high-level language (python) that wraps the functionality of Galaxy and CloudMan APIs. BioBlend makes it easy for bioinformaticians to automate end-to-end large data analysis, from scratch, in a way that is highly accessible to collaborators, by allowing them to both provide the required infrastructure and automate complex analyses over large datasets within the familiar Galaxy environment.
+        Availability and implementation:
+http://bioblend.readthedocs.org/. Automated installation of BioBlend is available via PyPI (e.g. pip install bioblend). Alternatively, the source code is available from the GitHub repository (https://github.com/afgane/bioblend) under the MIT open source license. The library has been tested and is working on Linux, Macintosh and Windows-based systems.
+        Contact:
+enis.afgan@unimelb.edu.au

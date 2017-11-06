@@ -1,1 +1,1 @@
-Genomic Short-read Nucleotide Alignment Program.
+Retrieves interactions associated with input protein name.

@@ -1,1 +1,12 @@
-HMMER is a software suite for protein sequence similarity searches using probabilistic methods.  We have implemented several of the methods contained within the software suite a web services, which allow the searching of either a single protein sequence, 
+Abstract
+        
+Summary: The goal of this work is to offer a computational framework for exploring data from the Recon2 human metabolic reconstruction model. Advanced user access features have been developed using the Neo4j graph database technology and this paper describes key features such as efficient management of the network data, examples of the network querying for addressing particular tasks, and how query results are converted back to the Systems Biology Markup Language (SBML) standard format. The Neo4j-based metabolic framework facilitates exploration of highly connected and comprehensive human metabolic data and identification of metabolic subnetworks of interest. A Java-based parser component has been developed to convert query results (available in the JSON format) into SBML and SIF formats in order to facilitate further results exploration, enhancement or network sharing.
+        
+Availability and Implementation: The Neo4j-based metabolic framework is freely available from: https://diseaseknowledgebase.etriks.org/metabolic/browser/. The java code files developed for this work are available from the following url: https://github.com/ibalaur/MetabolicFramework.
+        
+Contact:
+ibalaur@eisbm.org
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

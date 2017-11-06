@@ -1,1 +1,1 @@
-Human, Mouse and Rat promoter extraction service
+GEDEVO-M is an extension of the idea implemented in GEDEVO to multiple input networks. GEDEVO-M aims to minimize the sum of GEDs between every pair of input networks.

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that installs KronaTools 2.5
+Plots an unrooted tree diagram

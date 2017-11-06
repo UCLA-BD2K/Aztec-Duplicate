@@ -1,1 +1,1 @@
-Split a file on a specific column.
+Contains a tool dependency definition that downloads and compiles version 5.0.0 of the EMBOSS tool suite.

@@ -1,1 +1,1 @@
-Provides BioRuby 1.4
+Sequence format coversion tool

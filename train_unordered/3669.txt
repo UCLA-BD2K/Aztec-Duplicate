@@ -1,1 +1,0 @@
-WSDbfetch: entry retrieval using entry identifiers or accession numbers for various biological databases, including EMBL-Bank, InterPro, MEDLINE, Patent Proteins, PDB, RefSeq, UniParc, UniProtKB and UniRef.

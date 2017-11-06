@@ -1,1 +1,1 @@
-Convert genotype-based phased alleles into haplotype alleles
+Pathbase is a database of histopathology photomicrographs and macroscopic images derived from mutant or genetically manipulated mice.

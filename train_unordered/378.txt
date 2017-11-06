@@ -1,1 +1,0 @@
-Compares a nucleotide sequence against a nucleotide database using the FASTA algorithm.

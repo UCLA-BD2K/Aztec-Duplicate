@@ -1,1 +1,0 @@
-Searches PomBase sequences using Exonerate

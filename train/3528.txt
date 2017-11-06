@@ -1,1 +1,1 @@
-Create a map store for known genes or SNPs.
+cumulative distribution function plot

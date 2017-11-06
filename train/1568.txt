@@ -1,1 +1,1 @@
-Simultaneous identification of copy number states and genotype calls for regions of either copy number variations or copy number aberrations
+Global Biodiversity Information Facility web service for occurrence data (specimens, observations) from the global GBIF data portal.

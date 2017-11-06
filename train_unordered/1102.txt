@@ -1,1 +1,0 @@
-WSDL File for Scooby Domain Prediction

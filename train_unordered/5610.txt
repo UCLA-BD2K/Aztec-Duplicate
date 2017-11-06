@@ -1,1 +1,0 @@
-Assesses similarity of gene ontologies for given genes and their neighbours. All files must be installed in plugin folder.

@@ -1,1 +1,1 @@
-Parses FASTA files
+Contains a tool dependency definition that downloads and compiles version 1.9.0 of ABySS.

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 1.0.4 of StringTie.
+Scan a protein sequence for the occurrence of patterns and profiles stored in the PROSITE database.

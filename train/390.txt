@@ -1,1 +1,6 @@
-Retrieves the SEQRES lines for each chain from a parameter structured as PDB file.
+Summary: Most RNA molecules form internal base pairs, leading to a folded secondary structure. Some of these structures have been demonstrated to be functionally significant. High-throughput RNA structure chemical probing methods generate millions of sequencing reads to provide structural constraints for RNA secondary structure prediction. At present, processed data from these experiments are difficult to access without computational expertise. Here we present FoldAtlas, a web interface for accessing raw and processed structural data across thousands of transcripts. FoldAtlas allows a researcher to easily locate, view, and retrieve probing data for a given RNA molecule. We also provide in silico and in vivo secondary structure predictions for comparison, visualized in the browser as circle plots and topology diagrams. Data currently integrated into FoldAtlas are from a new high-depth Structure-seq data analysis in Arabidopsis thaliana, released with this work.
+        Availability and Implementation: The FoldAtlas website can be accessed at www.foldatlas.com. Source code is freely available at github.com/mnori/foldatlas under the MIT license. Raw reads data are available under the NCBI SRA accession SRP066985.
+        Contact:
+yiliang.ding@jic.ac.uk or matthew.norris@jic.ac.uk.
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

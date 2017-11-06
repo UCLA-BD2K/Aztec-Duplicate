@@ -1,1 +1,1 @@
-PLATO (Plugin for Autocomplete on Ontologies) is a general-use embeddable JavaScript widget used for browsing and searching ontologies. It is generically configurable for use with any ontology served by the Ontology Lookup Service (OLS). PLATO’s features include the ability to visualise matching ontology terms in their rightful place in the tree, and to expand and collapse nodes as desired.
+A CRISPR Interactive database

@@ -1,1 +1,1 @@
-Retrieves interaction evidences for given pair of genes or proteins
+Authority: inb.bsc.es  -  Muscle multiple sequence alignment.

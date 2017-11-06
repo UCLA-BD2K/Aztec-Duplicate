@@ -1,1 +1,0 @@
-Dimension Reduction for Array CGH Data with Minimal Information Loss

@@ -1,1 +1,1 @@
-Scan a protein sequence with motifs from the PROSITE database
+extract sequences with the largest ORF from a sequence translated with EMBOSS transseq and checktrans

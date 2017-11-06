@@ -1,2 +1,0 @@
-SOAP interface for the OMA Browser at 
-    http://omabrowser.org

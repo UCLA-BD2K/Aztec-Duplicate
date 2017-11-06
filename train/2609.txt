@@ -1,1 +1,1 @@
-SNPmasker is a comprehensive web interface for masking SNPs and all low-complexity regions or repeats found in large eukaryotic genomes.
+shuffle sequence, preserving dinucleotide frequency

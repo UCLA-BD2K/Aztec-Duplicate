@@ -1,1 +1,1 @@
-Parses newick strings into JSON and JSON into newick
+A simple snippet parser

@@ -1,1 +1,0 @@
-retrieve profile HMM(s) from a file

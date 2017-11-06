@@ -1,1 +1,1 @@
-CADDSuite: A flexible and open framework for Computer-Aided Drug Design. Version 1.6
+Rfam is a curated database of non-coding RNA families, each represented by multiple sequence alignments, consensus secondary structures and covariance data.

@@ -1,1 +1,0 @@
-The TogoWS service provides a unified access method for major database resources (including KEGG, NCBI, EBI and DDBJ) through intuitive URIs that can be used to search, retrieve, parse and convert the database entries. 

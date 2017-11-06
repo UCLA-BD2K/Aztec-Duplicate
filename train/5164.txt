@@ -1,1 +1,1 @@
-SNiPloid compares SNP detected from a polyploid to those derived from its parental genomes
+Fitch-Margoliash and Least Squares Methods with Evolutionary Clock

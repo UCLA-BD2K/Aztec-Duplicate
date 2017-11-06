@@ -1,1 +1,1 @@
-Compute Motif Frequencies in indel flanking regions.
+Graphical user interface for the OLIN package

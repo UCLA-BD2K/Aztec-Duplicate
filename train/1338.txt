@@ -1,1 +1,1 @@
-Tools for helping process short read data for chipseq experiments
+Extended Grep Using Perl, fetch lines after match and get patterns from file

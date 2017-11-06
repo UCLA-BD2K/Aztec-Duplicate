@@ -1,1 +1,1 @@
-Prediction of transmembrane helices in proteins
+Filtering Degenerate Motifs with Application to Protein Sequence Analysis

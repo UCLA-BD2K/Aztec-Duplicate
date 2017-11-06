@@ -1,1 +1,1 @@
-Downloads and compiles OpenMS in version 2.0.
+Search for patterns in protein sequences (translated)

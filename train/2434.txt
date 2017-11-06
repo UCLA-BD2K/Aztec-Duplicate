@@ -1,1 +1,1 @@
-Database of osteogenesis imperfecta and type III collagen variants.
+Regular expression search of nucleotide sequence(s)

@@ -1,1 +1,0 @@
-Protael is a JavaScript library for creating interactive visualizations of biological sequences and various associated data. It allows users to generate high-quality vector graphics (SVG) and integrate it into web pages. Availability and implementation: Protael distribution, documentation and examples are freely available at

@@ -1,1 +1,0 @@
-finds a subset with low sequence similarity

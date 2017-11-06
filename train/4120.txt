@@ -1,1 +1,1 @@
-Data Manager for building BWA (0.6+) indexes
+Intersect two VCF datasets

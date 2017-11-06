@@ -1,1 +1,0 @@
-MOLEonline 2.0 web interface provides a direct access to MOLE 2.0 functionality and enables on-line and easy-to-use interactive channel   analysis. It allows rapid and fully automated location and characterization of channels, tunnels and pores in (bio)macromolecular   structures.

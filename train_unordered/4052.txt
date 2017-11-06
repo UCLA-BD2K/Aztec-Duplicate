@@ -1,1 +1,0 @@
-CHROMATRA visualizes genome-wide chromatin signatures

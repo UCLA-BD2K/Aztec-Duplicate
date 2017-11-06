@@ -1,1 +1,1 @@
-The 'Rariant' package identifies single nucleotide variants from sequencing data based on the difference of binomially distributed mismatch rates between matched samples.
+Merging of mixture components for model-based automated gating of flow cytometry data using the flowClust framework. Note: users should have a working copy of flowClust 2.0 installed.

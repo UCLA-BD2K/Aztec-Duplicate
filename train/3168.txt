@@ -1,1 +1,1 @@
-clusters of binding sites
+DisEMBL is a computational tool for prediction of disordered/unstructured regions within a protein sequence.

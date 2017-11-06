@@ -1,1 +1,1 @@
-Functions to estimate a bipartite graph of protein complex membership using AP-MS data.
+The Bayesembler is a Bayesian method for doing transcriptome assembly from RNA-seq data.

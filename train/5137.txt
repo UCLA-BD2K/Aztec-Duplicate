@@ -1,1 +1,1 @@
-toolkit for processing FASTA and FASTQ files.
+Parse blast outputs and compile hits

@@ -1,1 +1,7 @@
-Pepwindow produces a graph of the classic Kyte and Doolittle hydropathy plot of a protein.
+Motivation: Functional interpretation of miRNA expression data is currently done in a three step procedure: select differentially expressed miRNAs, find their target genes, and carry out gene set overrepresentation analysis. Nevertheless, major limitations of this approach have already been described at the gene level, while some newer arise in the miRNA scenario.
+        Here, we propose an enhanced methodology that builds on the well-established gene set analysis paradigm. Evidence for differential expression at the miRNA level is transferred to a gene differential inhibition score which is easily interpretable in terms of gene sets or pathways. Such transferred indexes account for the additive effect of several miRNAs targeting the same gene, and also incorporate cancellation effects between cases and controls. Together, these two desirable characteristics allow for more accurate modeling of regulatory processes.
+        Results: We analyze high-throughput sequencing data from 20 different cancer types and provide exhaustive reports of gene and Gene Ontology-term deregulation by miRNA action.
+        Availability and Implementation: The proposed methodology was implemented in the Bioconductor library mdgsa. http://bioconductor.org/packages/mdgsa. For the purpose of reproducibility all of the scripts are available at https://github.com/dmontaner-papers/gsa4mirna
+        Contact: david.montaner@gmail.com
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

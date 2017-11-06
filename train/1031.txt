@@ -1,1 +1,1 @@
-WSx3DEM_Reference
+Authority: inb.bsc.es  -  Parse rules from a motif.

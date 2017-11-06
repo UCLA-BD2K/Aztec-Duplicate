@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  It compares a protein sequence against a nucleotide sequence (used as a database) dynamically translated in all six reading frames (both strands) using the Washington University BLAST algorithm.

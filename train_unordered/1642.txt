@@ -1,1 +1,0 @@
-An interactive tool to visualize long vectors of integer data by means of Hilbert curves

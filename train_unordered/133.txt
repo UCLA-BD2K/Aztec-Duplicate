@@ -1,1 +1,0 @@
-EMMA calculates the multiple alignment of nucleic acid or protein sequences according to the method of Thompson, J.D., Higgins, D.G. and Gibson, T.J. (1994). 

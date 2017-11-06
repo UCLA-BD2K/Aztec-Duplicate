@@ -1,1 +1,1 @@
-EnigmaVis is a tool for generating interactive plots that you can use to visualize and navigate datasets from ENIGMA.
+The betr package implements the BETR (Bayesian Estimation of Temporal Regulation) algorithm to identify differentially expressed genes in microarray time-course data.

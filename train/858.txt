@@ -1,5 +1,1 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Run a Simple Molecular Dynamic Simulation with Protein-Solvent system (Using Namd program).
-            
-    
+NCBI BLAST+

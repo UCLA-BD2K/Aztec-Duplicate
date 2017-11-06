@@ -1,1 +1,0 @@
-A program that creates subset databases, reverse databases, and prints database statistics from an FASTA formatted sequence database. Command line options available for inclusion and exclusion terms, case sensitivity, etc.

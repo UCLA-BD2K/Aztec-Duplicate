@@ -1,1 +1,0 @@
-msBID is a java package designated for label-free LC-MS based comparative proteomic analysis.

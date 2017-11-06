@@ -1,1 +1,1 @@
-Integrate variation and variation consequence data on biological networks.
+Multiple sequence alignment algorithm MUSCLE.

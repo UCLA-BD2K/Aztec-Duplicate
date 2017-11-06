@@ -1,1 +1,1 @@
-Maps BLAST results to GO annotation terms
+Authority: inb.bsc.es  -  Retrieves an entry from UniProt database.

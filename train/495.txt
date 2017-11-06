@@ -1,1 +1,12 @@
-This service provides operations for deterministic simulation method to calculate the trajectory of a system using LSODA ordinary differential equation solver.
+Motivation: While high-throughput sequencing (HTS) has been used successfully to discover tumor-specific mutant peptides (neoantigens) from somatic missense mutations, the field currently lacks a method for identifying which gene fusions may generate neoantigens.
+        
+Results: We demonstrate the application of our gene fusion neoantigen discovery pipeline, called INTEGRATE-Neo, by identifying gene fusions in prostate cancers that may produce neoantigens.
+        
+Availability and Implementation: INTEGRATE-Neo is implemented in C ++ and Python. Full source code and installation instructions are freely available from https://github.com/ChrisMaherLab/INTEGRATE-Neo.
+        
+Contact:
+christophermaher@wustl.edu
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

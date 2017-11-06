@@ -1,1 +1,1 @@
-MMsSimility is web-oriented tool developed with the specific aim to calculate chemical similarity indexes between a query structure and a chemical database.
+This package allows to characterize the operating characteristics of a microarray experiment, i.e. the trade-off between false discovery rate and the power to detect truly regulated genes. The package includes tools both for planned experiments (for sample size assessment) and for already collected data (identification of differentially expressed genes).

@@ -1,1 +1,1 @@
-These web services provide access to methods for matching user submitted spectra against the GMD.
+Detection of differentially methylated regions from bisulfite-seq mapping data

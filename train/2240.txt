@@ -1,1 +1,1 @@
-Client library that interfaces the neXtProt REST API (https://api.nextprot.org) which contains a comprehensive set of human proteins
+Contains a tool dependency definition that downloads and compiles version 2.3.6 of RPy2.

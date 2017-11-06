@@ -1,1 +1,1 @@
-UTRSite is a collection of functional sequence patterns located in UTR sequences
+Back-translate a protein sequence to ambiguous nucleotide sequence

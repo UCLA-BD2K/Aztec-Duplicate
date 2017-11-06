@@ -1,1 +1,1 @@
-Sequence similarity searching against genomic, cds, cdna and protein sequence. BLAT is available for genomic sequence and WU-Blast is used for BLASTing
+Embryonic Stem Cells Database (ESCD) collects human and mouse embryonic stem cell related datasets. These datasets cover perturbation (both knock-down and overexpression) and chromatin immunoprecipitation (ChIP) experiments in embryonic stem (ES) and carcinoma (EC) cell lines. Transcription factor binding data comes from various ChIP experiments (ChIP-PET, ChIP-chip, ChIP-seq).

@@ -1,1 +1,0 @@
-Compares short peptide fragments, as would be obtained from mass-spec. analysis of a protein against a protein database.

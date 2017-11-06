@@ -1,1 +1,1 @@
-Neighbor-Joining and UPGMA methods
+Template module to use as base for quickly creating bionode modules.

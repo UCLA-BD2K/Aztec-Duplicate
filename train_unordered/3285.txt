@@ -1,1 +1,0 @@
-This tool allows you to do co-expression analysis using either predefined or user-defined groups of micro array experiments

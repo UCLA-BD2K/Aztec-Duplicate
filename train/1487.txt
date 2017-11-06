@@ -1,1 +1,1 @@
-explore and analyze *omics data with R and GGobi
+reverse complement of sequences

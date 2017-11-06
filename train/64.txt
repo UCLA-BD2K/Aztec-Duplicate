@@ -1,1 +1,6 @@
-NONCODE database (http://www.noncode.org) integrates expression and functional long noncoding RNAs (lncRNA) data.
+Summary: Promoters have diverse regulatory architectures and thus activate genes differently. For example, some have a TATA-box, many others do not. Even the ones with it can differ in its position relative to the transcription start site (TSS). No Promoter Left Behind (NPLB) is an efficient, organism-independent method for characterizing such diverse architectures directly from experimentally identified genome-wide TSSs, without relying on known promoter elements. As a test case, we show its application in identifying novel architectures in the fly genome.
+        Availability and implementation: Web-server at http://nplb.ncl.res.in. Standalone also at https://github.com/computationalBiology/NPLB/ (Mac OSX/Linux).
+        Contact:
+l.narlikar@ncl.res.in
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

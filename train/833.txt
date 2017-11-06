@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Converts DNA FASTA sequences into a collection of DNA sequences
+TMAP

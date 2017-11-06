@@ -1,1 +1,1 @@
-Microarray analysis methods that use BufferedMatrix objects
+GASSST finds global alignments of short DNA sequences against large DNA banks.

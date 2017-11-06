@@ -1,2 +1,1 @@
-The service allows you to access the Hits database and tools. 
-Hits is a free database devoted to protein domains. It is also a collection of tools for the investigation of the relationships between protein sequences and motifs described on them. These mo
+Authority: inb.bsc.es  -  ClustalW multiple sequence alignments (fast method).

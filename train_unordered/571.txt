@@ -1,3 +1,0 @@
-
-            These web services provide access to methods for matching user submitted spectra against the GMD.
-            Please send all feedback to hummel@mpimp-golm.mpg.de

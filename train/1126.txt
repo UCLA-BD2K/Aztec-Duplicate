@@ -1,2 +1,1 @@
-Executes blast on a blast (blastn or blastp) on ProDom database (protein domain database). 
-ProDom database home page: http://prodom.prabi.fr/prodom/current/html/home.php
+ATCC cultures and bioproducts.

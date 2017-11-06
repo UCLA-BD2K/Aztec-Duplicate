@@ -1,1 +1,0 @@
-TE Displayer can be used to retrieve genetic polymorphisms caused by transposable elements (TEs) in large-genomic datasets and present the results on virtual gel images. This enables researchers to compare TE profiles in silico and provides reference profiles for experimental analyses. Availability and implementation: Freely available on the web at

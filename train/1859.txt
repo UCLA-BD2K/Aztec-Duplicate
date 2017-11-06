@@ -1,1 +1,1 @@
-This package is designed to facilitate the automated gating methods in sequential way to mimic the manual gating strategy.
+Authority: mmb.pcb.ub.es  -  In Principal Component Analysis, the dimensionality defines how many ortogonal movements define a given threshold of variance. This service returns the accumulated quality for every principal component.

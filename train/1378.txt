@@ -1,1 +1,1 @@
-Gene Set Enrichment Analysis of P-value based statistics for outlier gene detection in dataset merged from multiple studies
+This package contains functions for normalizing spotted microarray data, based on a physically motivated calibration model. The model parameters and error distributions are estimated from external control spikes.

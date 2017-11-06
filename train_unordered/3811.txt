@@ -1,1 +1,0 @@
-GoBioSpace (Golm Biochemical Space) is a repository of sum formula with source tagged annotations for properties such as InChI strings, CAS numbers, IUPAC names, synonyms, cross references or KEGG Pathway names, among others.

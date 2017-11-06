@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Runs Meta-alignment software on a multiple running mode, receiving a collection of maps, making pairs of them and, foreach pair, producing, in 'Meta-alignment' format, alignments of sequences of TF binding sites
+MUSCLE (MUltiple Sequence Comparison by Log-Expectation) is claimed to achieve both better average accuracy and better speed than ClustalW or T-Coffee, depending on the chosen options. Multiple alignments of protein sequences are important in many applica

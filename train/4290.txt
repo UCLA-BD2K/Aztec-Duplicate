@@ -1,1 +1,1 @@
-GEMBASSY wrapper tools
+Provides a diagram view and a details view for comparing two or more Cytoscape groups at a time.

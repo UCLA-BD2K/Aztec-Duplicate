@@ -1,1 +1,1 @@
-Tool to call FATHMM webservice
+The large-scale gate sizing (lsgs) MATLAB toolbox provides an implementation of the algorithm described in the paper âAn efficient method for large-scale gate sizingâ, S. Joshi and S. Boyd.

@@ -1,1 +1,1 @@
-Two-dimensional polyacrylamide gel electrophoresis federated database.
+Displays protein hydropathy.

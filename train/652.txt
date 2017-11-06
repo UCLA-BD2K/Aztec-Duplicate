@@ -1,1 +1,1 @@
-Authority: cnio.es  -  Annotates homologous sequences and includes new features related to the specific identification of protein subfamilies (orthologous groups)
+A utility for leftaligning indels in BAM datasets

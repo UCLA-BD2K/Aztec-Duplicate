@@ -1,1 +1,1 @@
-filter lines of a tabular file by whether a field is a substring of a field in any line of a reference file
+Ruby Proteomics Toolkit 1.2.4

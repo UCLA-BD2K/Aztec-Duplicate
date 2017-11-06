@@ -1,1 +1,0 @@
-Realign a SAM/BAM file with a padded reference (using samtools depad)

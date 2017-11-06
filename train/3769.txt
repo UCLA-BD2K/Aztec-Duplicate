@@ -1,1 +1,1 @@
-blastProDom performs a blast (blastx or blastp) on the protein domain family database 
+nordicBrainEx is a comprehensive neuro imaging software for functional MRI specifically designed for the clinical workflow. Simple and user-friendly interface improves user productivity, while the automated protocols, processing steps and quality control features minimize the probability of error or variability in the quality of the results.

@@ -1,1 +1,1 @@
-Find splice junctions using RNA-seq data, can have several input RNA-seq data.
+A suite of Galaxy utilities associated with version 0.10.5 of the Kraken tool.

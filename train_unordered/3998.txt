@@ -1,1 +1,0 @@
-Provides filtered, sorted HTML and tabular reports of Blast XML format search results

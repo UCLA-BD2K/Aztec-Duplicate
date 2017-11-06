@@ -1,1 +1,1 @@
-in a BED file by a fixed number of bases
+Cell Line Integrated Molecular Authentication database and Identification tool

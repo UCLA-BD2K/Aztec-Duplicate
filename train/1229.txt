@@ -1,1 +1,1 @@
-Access the ArrayExpress Repository at EBI and build Bioconductor data structures: ExpressionSet, AffyBatch, NChannelSet
+Nucleotide sequence translation in selected frames

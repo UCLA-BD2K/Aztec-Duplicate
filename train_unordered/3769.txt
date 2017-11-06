@@ -1,1 +1,0 @@
-blastProDom performs a blast (blastx or blastp) on the protein domain family database 

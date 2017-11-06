@@ -1,1 +1,1 @@
-This service provides access to Chado XML for all data objects that exist in the FlyBase database
+Scans protein sequence(s) with fingerprints from the PRINTS database

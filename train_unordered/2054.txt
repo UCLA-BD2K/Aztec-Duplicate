@@ -1,1 +1,0 @@
-sapFinder is developed to automate (1) variation-associated database construction, (2) database searching, (3) post-processing, (4) HTML-based report generation in shotgun proteomics.

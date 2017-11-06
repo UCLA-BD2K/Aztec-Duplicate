@@ -1,1 +1,1 @@
-antaRNA uses ant colony optimization to solve the inverse folding problem in RNA research .
+Join the intervals of two datasets side-by-side

@@ -1,1 +1,1 @@
-multiple sequence alignment program for proteins
+TRTR Trim Reads of Tandem Repeats. Recommended before calling SNPs.

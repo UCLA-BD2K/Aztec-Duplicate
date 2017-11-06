@@ -1,1 +1,1 @@
-converter
+Authority: inb.bsc.es  -  Takes a protein motif and compares it to a protein sequences.

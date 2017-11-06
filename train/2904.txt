@@ -1,1 +1,1 @@
-Map your data to the current assembly
+Authority: mmb.pcb.ub.es  -  Parses a PMUTText report into a PropertySequence (where N means NEUTRAL and H means HOT-SPOT)

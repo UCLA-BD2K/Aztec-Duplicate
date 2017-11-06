@@ -1,1 +1,1 @@
-DVS is a Windows program which lets a cardiologist visualize patients angio sequences on his/her PC, Analyze selected images (frame by frame viewing, contrast and brightness adjustment, ...),Send images/sequences to your colleagues via internet.
+The European Nucleotide Archive (ENA) Browser provides functionality to view and retrieve nucleotide sequence data archived and exchanged by the International Sequence Database Collaboration (INSDC).

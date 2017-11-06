@@ -1,1 +1,0 @@
-Fully automated pipeline for detection of sex linked genes using RNA-Seq data

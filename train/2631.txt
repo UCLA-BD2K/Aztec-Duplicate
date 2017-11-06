@@ -1,1 +1,1 @@
-visualization a wig formatted file
+OSRA - Optical Structure Recognition Application

@@ -1,1 +1,1 @@
-Infernal cmscan is used to search the CM-format Rfam database.
+Downloads and installs current version of cap3 executable from Iowa State

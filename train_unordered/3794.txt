@@ -1,1 +1,0 @@
-Get SNPs information given SNP ID list

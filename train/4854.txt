@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles verion 0.9.3.x from gglot2 the R package.
+Explore Reactome pathways and search for diseases related pathways and network patterns using the Reactome functional interaction network

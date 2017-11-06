@@ -1,1 +1,0 @@
-Designed to display most medical images: MRI, CT, X-ray, and ultrasound. Can view a wide range of medical images including proprietary formats as well as DICOM. Can be integrated into other programs.

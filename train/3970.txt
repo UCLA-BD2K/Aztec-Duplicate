@@ -1,1 +1,1 @@
-Beagle version 4.0 performs genotype calling, genotype phasing, imputation of ungenotyped markers, and identity-by-descent segment detection.
+Contains a tool dependency definition that downloads and compiles version 2.18 of bedtools.

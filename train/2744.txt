@@ -1,1 +1,1 @@
-Predictor of effects of single point protein mutation
+Contains a tool dependency definition that downloads and compiles version 2.7 of Python.

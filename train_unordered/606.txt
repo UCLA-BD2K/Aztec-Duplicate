@@ -1,5 +1,0 @@
-Authority: mmb.pcb.ub.es  -  
-		
-			Parses a PMUTText report into a FeatureAASequence. Value is patogenicity prediction
-		
-	

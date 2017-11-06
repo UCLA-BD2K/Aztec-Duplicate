@@ -1,1 +1,1 @@
-A portal for accessing genomic-scale datasets associated with the eukaryotic pathogens (Cryptosporidium, Giardia, Leishmania, Plasmodium, Toxoplasma, Trichomonas and Trypanosoma).
+Fetch Indels from pairwise alignments

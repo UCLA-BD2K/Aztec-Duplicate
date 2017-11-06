@@ -1,1 +1,0 @@
-FuMa: match RNA-Seq detected fusion genes from several detection tools

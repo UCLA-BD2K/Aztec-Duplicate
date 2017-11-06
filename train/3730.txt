@@ -1,1 +1,3 @@
-MUSCLE (MUltiple Sequence Comparison by Log- Expectation) is a multiple sequence algnment tool.
+Authority: mmb.pcb.ub.es  -  
+		Given a Ligand code, returns all the PDB codes that contain this ligand
+	

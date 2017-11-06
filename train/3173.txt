@@ -1,1 +1,1 @@
-NCBI BLAST, with gaps against my sequences database
+This service returns the Ontologies registered on the NIF Ontoquest Server.

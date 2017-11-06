@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Displays membrane spanning regions.

@@ -1,1 +1,0 @@
-Each UniGene entry is a set of transcript (expressed sequence tag) sequences that appear to come from the same transcription locus (gene or expressed pseudogene), together with information on protein similarities, gene expression, cDNA clone reagents, and genomic location.

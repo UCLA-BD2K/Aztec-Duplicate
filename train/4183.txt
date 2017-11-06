@@ -1,1 +1,1 @@
-Suite of tools for running EMBER analysis
+Returns information on a taxonomic name

@@ -1,1 +1,1 @@
-3DimViewer is an open source, lightweight 3D viewer with native installers for all platforms. 3DimViewer can display multiplanar and orthogonal views, and volume and surface renderings with thresholding-based tissue segmentation. GPU acceleration is used for volume rendering. Fully-documented C++ source code is provided.
+Microbial community analysis GUI for R using gWidgets.

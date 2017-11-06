@@ -1,1 +1,1 @@
-Identify gapped approximate repeats and complex repeat architectures involving many different types of repeats
+Authority: mmb.pcb.ub.es  -  Given one or more cutoff values, converts a FeatureAASequence object in a PropertySequence object

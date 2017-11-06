@@ -1,1 +1,0 @@
-cd-hit - reduce a collection of sequences to a representative sample

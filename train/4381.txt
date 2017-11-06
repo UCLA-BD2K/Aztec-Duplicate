@@ -1,1 +1,1 @@
-Creates an ineractive Krona chart based on Galaxy taxonomic representations.
+A Web Service that exposes methods of the Histology Manager class of the DiaComp Object Model

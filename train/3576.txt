@@ -1,1 +1,1 @@
-Get peak distribution around TSS.
+Fork of fcaramia package correcting errors and additional options

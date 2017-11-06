@@ -1,1 +1,1 @@
-Mapping of ELM (Eucaryotic Linear Motifs) motifs to a query sequence.
+Contains a tool dependency definition that downloads and compiles version 0.13.x of the the scikit-learn package.

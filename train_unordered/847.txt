@@ -1,1 +1,0 @@
-Authority: genome.imim.es  -  Analyzes a set of protein or DNA sequences for similarities among them and produces a description (motif) for each pattern it discovers. The results are returned in HTML format

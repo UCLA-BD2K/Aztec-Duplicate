@@ -1,1 +1,1 @@
-Zebrafish information network genome database
+Retrieve sequences in databases from list of identifier (USA list)

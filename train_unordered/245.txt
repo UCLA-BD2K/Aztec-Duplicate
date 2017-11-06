@@ -1,1 +1,0 @@
-Global Biodiversity Information Facility OGC web feature service for geographic coverages from the global GBIF data portal.

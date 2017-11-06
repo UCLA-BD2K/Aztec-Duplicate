@@ -1,1 +1,1 @@
-Neural network predictions for GlcNAc O-glycosylation sites in Dictyostelium discoideum proteins
+BLAST search against protein targets stored in ChEMBL database

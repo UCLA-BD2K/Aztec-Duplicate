@@ -1,1 +1,1 @@
-ngs-tools split-by-barcode
+Contains a tool dependency definition that downloads and compiles version 1.1.1 of eXpress.

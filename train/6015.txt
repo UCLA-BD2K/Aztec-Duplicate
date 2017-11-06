@@ -1,1 +1,1 @@
-Tea (TE analyzer) is a computational method that detects the exact position and mechanism of TE insertions from paired-end whole-genome sequencing data with high accuracy.
+The CAZy database describes the families of structurally-related catalytic and carbohydrate-binding modules (or functional domains) of enzymes that degrade, modify, or create glycosidic bonds.

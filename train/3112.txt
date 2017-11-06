@@ -1,1 +1,1 @@
-Weighted neighbor joining
+R/Bioconductor package for normalization, curve registration and inference in time course gene expression data

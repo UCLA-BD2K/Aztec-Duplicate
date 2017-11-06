@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  It scans the entries from the Blocks databank against a protein sequence.

@@ -1,1 +1,1 @@
-An application for protein-protein interaction analysis
+takes as input the name of a RICE genotyping study and return all the names of the corresponding DNA samples.

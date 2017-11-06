@@ -1,1 +1,0 @@
-This package implements an interface to proteomics data submitted to the ProteomeXchange consortium.

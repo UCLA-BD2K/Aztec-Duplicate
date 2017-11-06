@@ -1,1 +1,0 @@
-Converts BCF format to VCF format.

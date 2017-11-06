@@ -1,1 +1,1 @@
-Homologous vertebrate genes. It allows selection of sets of homologous genes among vertebrate species, and visualisation of multiple alignments and phylogenetic trees. It is particularly useful for comparative sequence analysis, phylogeny and molecular evolution studies or more generally, for an overall view of what is known about a peculiar gene family.
+SSR detection and marker design using MISA Tools

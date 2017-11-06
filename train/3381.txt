@@ -1,1 +1,1 @@
-A worldwide e-Infrastructure for NMR and structural biology
+Contains a tool dependency definition that downloads and installs version 3.3 of the WebLogo application.

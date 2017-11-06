@@ -1,1 +1,1 @@
-Use genetic algorithms to determine the relationship between clones in heterogenous populations such as cancer sequencing samples
+Information resource for peptidases (also termed proteases, proteinases and proteolytic enzymes) and the proteins that inhibit them. Information includes the classification and nomenclature of the peptidase and links to supplementary pages showing sequence identifiers, the structure if known, literature references and more.

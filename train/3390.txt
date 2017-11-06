@@ -1,1 +1,1 @@
-3DNA driven - DNA Analysis and Rebuilding Tools.
+Installs the libwww-perl module from CRAN

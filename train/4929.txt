@@ -1,1 +1,1 @@
-package to evaluate traits associations, evolutionary patterns, and linkage disequilibrium.
+Authority: cnio.es  -  Retrieves a Swiss-Prot record sequence given a Swiss-Prot Id or Accession Number.

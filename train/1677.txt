@@ -1,1 +1,1 @@
-The interactiveDisplay package contains the methods needed to generate interactive Shiny based display methods for Bioconductor objects.
+Metabolomic publications and databases use different database identifiers or even trivial names which disable queries across databases or between studies. The best way to annotate metabolites is by chemical structures,

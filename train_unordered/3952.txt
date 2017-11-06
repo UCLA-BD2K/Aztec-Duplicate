@@ -1,1 +1,0 @@
-Merging, splitting, filtering, and QC of BAM files (bamedit)

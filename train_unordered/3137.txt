@@ -1,1 +1,0 @@
-Predict edge strands from protein or from model protein secondary structures in a PDB file format.

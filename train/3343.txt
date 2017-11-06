@@ -1,1 +1,1 @@
-RNA editing database in organelles
+Prediction and visualization of secondary structures of ribosomal RNAs. Experimental identification of rRNA structure is extremely technically difficult. Secondary structure, a simplified structural model, can be predicted, but prediction for rRNAs is hindered by extreme length of rRNA sequences. Thus, only few eukaryotic rRNA structures are available so far. We employ information about evolutionary conserved segments of eukaryotic rRNA sequences for secondary structure prediction.

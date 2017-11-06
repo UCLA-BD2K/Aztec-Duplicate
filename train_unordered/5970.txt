@@ -1,1 +1,0 @@
-This includes functions for creating 3D and 4D images using WebGL, RGL, and JavaScript Commands. This package relies on the X ToolKit (XTK, https://github.com/xtk/X#readme).

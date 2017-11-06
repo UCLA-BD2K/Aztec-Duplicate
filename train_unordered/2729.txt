@@ -1,1 +1,0 @@
-The MEME Suite allows the biologist to discover novel motifs in collections of unaligned nucleotide or protein sequences and to search for motif occurrences in sequence databases.

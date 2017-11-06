@@ -1,1 +1,0 @@
-Antigenic predicts potentially antigenic regions of a protein sequence, using the method of Kolaskar and Tongaonkar.

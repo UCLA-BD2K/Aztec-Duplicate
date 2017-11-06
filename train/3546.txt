@@ -1,1 +1,1 @@
-Mini workflow for preprocessing fastq files, it includes quality trimming, duplicate and artefacts filters for FASTQ read files.
+Measures functional relationship between two subnetworks

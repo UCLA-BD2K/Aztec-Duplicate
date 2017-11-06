@@ -1,1 +1,0 @@
-Metapackage for the installation of linkyx suite of tools.

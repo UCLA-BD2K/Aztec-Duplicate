@@ -1,1 +1,1 @@
-Functions for plotting genomic data
+Launch a search in the ChEBI database of small molecules (also used by RHEA)

@@ -1,1 +1,1 @@
-A database genome index for GMAP and GSNAP.
+package_ghostscript_9_10

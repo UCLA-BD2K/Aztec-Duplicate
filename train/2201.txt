@@ -1,1 +1,1 @@
-Quality control of Affymetrix GeneChip expression data and reproducibility analysis of human whole genome chips with the MAQC reference datasets.
+R version 3.0.1 with Atlas support

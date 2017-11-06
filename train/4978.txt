@@ -1,1 +1,1 @@
-PEAR evaluates all possible paired-end read overlaps
+This package facilitates analysis of Next Generation Sequencing data for which positional information with a single nucleotide resolution is a key. It allows for applying different types of relevant normalizations, data visualization and export in a table or UCSC compatible bedgraph file.

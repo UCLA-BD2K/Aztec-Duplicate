@@ -1,1 +1,1 @@
-Web services for the Regulatory Sequence Analysis Tools (RSAT). Tools developed by Jacques van Helden (jvanheld@bigre.ulb.ac.be), SOAP/WSDL interface developed by Olivier Sand (oly@bigre.ulb.ac.be).
+Contains a tool dependency definition that downloads and compiles version 1.8 of the python numpy package

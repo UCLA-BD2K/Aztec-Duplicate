@@ -1,1 +1,1 @@
-Creates HTML tables from tabular data.
+Galaxy wrappers for Seal

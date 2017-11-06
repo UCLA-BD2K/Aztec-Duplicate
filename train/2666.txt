@@ -1,1 +1,1 @@
-Template module to use as base for quickly creating bionode modules.
+Meta packages for biojs visulizations 

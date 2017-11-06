@@ -1,1 +1,1 @@
-The Jnet algorithm provides a three-state (α-helix, β-strand and coil) prediction of secondary structure. Given either a single protein sequence or a multiple sequence alignment, Jpred derives alignment profiles from which predictions of secondary structure and solvent accessibility are made.
+search a protein sequence against a protein database

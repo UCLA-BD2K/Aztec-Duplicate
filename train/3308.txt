@@ -1,1 +1,1 @@
-IntAct provides a freely available, open source database system and analysis tools for protein interaction data.
+Tools for discriminative motif discovery using regression methods

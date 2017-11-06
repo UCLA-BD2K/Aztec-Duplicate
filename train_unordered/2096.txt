@@ -1,1 +1,0 @@
-Functions and classes for DNA copy number profiling of array-CGH data

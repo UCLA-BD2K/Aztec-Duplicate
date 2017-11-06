@@ -1,1 +1,1 @@
-Length Distribution chart
+Interactvive graphics in a web browser from R, using websockets and JSON

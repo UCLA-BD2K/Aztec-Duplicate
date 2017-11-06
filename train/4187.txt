@@ -1,1 +1,1 @@
-convert ensembl interval to ucsc format
+Authority: inb.bsc.es  -  Searches a text in OMIM records (more precisely, the text is searched in these fields: text, allelicvariants, clinical synopsis and references).

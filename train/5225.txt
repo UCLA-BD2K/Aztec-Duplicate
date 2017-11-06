@@ -1,1 +1,1 @@
-A suite of Galaxy utilities associated with version 0.0.13 of the FASTX-Toolkit package.
+Contains a tool dependency definition that downloads and compiles version 0.14 of the scipy python library.

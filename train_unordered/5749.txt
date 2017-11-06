@@ -1,1 +1,0 @@
-FusionViewer is a platform-independent open source visualization tool allowing flexible fusion PET-CT displays. It displays simultaneous orthogonal views with variable transparency of the functional (PET) overlay over an anatomical (CT) background. It provides color maps and other standard image viewing controls.

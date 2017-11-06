@@ -1,1 +1,0 @@
-Contains galaxy tool wrapper for kraken-report.

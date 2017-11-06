@@ -1,1 +1,6 @@
-It compares the six-frame translations of a nucleotide query sequence against the six-frame translations of a nucleotide sequence database using the Washington University BLAST algorithm.
+Summary: Finding and translating stretches of DNA lacking stop codons is a task common in the analysis of sequence data. However, the computational tools for finding open reading frames are sufficiently slow that they are becoming a bottleneck as the volume of sequence data grows. This computational bottleneck is especially problematic in metagenomics when searching unassembled reads, or screening assembled contigs for genes of interest. Here, we present OrfM, a tool to rapidly identify open reading frames (ORFs) in sequence data by applying the Aho–Corasick algorithm to find regions uninterrupted by stop codons. Benchmarking revealed that OrfM finds identical ORFs to similar tools (‘GetOrf’ and ‘Translate’) but is four-five times faster. While OrfM is sequencing platform-agnostic, it is best suited to large, high quality datasets such as those produced by Illumina sequencers.
+        Availability and Implementation: Source code and binaries are freely available for download at http://github.com/wwood/OrfM or through GNU Guix under the LGPL 3+ license. OrfM is implemented in C and supported on GNU/Linux and OSX.
+        Contacts:
+b.woodcroft@uq.edu.au
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

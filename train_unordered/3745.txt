@@ -1,1 +1,0 @@
-Model processor web service provides operations for converting files from SBML to CopasiML format and vice versa, and also to validate files in either of these formats.

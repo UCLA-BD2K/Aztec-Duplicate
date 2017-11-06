@@ -1,1 +1,1 @@
-Finds clusters where member nodes show significant changes in expression levels.
+Finding and analysing co-occuring motifs of transcription factor binding sites in groups of genes

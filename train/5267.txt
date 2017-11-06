@@ -1,1 +1,1 @@
-Simple repository for testing, reference, and/or learning
+T Test for Two Samples

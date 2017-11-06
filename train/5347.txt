@@ -1,1 +1,1 @@
-Intersect VCF and BED datasets
+Multalin @ IBCP (http://gbio-pbil.ibcp.fr)

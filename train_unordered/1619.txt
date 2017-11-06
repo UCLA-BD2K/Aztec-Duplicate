@@ -1,1 +1,0 @@
-A pipeline for the analysis of GRO-seq data.

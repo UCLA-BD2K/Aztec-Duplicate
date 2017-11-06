@@ -1,1 +1,1 @@
-Convert other genotype calling format into ANNOVAR format.
+Identifies densely connected and biopartite network modules.

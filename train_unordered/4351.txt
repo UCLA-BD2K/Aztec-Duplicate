@@ -1,1 +1,0 @@
-Interproscan functional annotations/predictions

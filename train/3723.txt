@@ -1,1 +1,2 @@
-GlobPlot allows the user to plot the tendency within the query protein for order/globularity and disorder.
+Blast service.
+See http://banks.genouest.org/BmajWatcher/ for the list of available banks.

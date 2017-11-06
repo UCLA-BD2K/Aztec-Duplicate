@@ -1,1 +1,0 @@
-Search the STRING database (http://string-db.org/) for interactions using protein ids

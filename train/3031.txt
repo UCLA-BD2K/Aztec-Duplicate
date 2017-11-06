@@ -1,1 +1,1 @@
-Finds inverted repeats in nucleotide sequence(s)
+De novo motif (transcription factor binding sites) discovery in sequences from coregulated genes of a single species. This is a new Weeder release rewritten to be faster and optimized for large ChIP-Seq data.

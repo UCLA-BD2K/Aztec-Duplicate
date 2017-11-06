@@ -1,1 +1,0 @@
-Prediction of topology and subcellular localization of Eukaryotic membrane proteins.

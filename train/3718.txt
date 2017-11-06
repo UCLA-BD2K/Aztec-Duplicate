@@ -1,1 +1,1 @@
-MSAProbs is a multiple alignment algorithm for protein sequences. 
+Plots a collection of ArrayXYData

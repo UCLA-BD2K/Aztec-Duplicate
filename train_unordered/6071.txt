@@ -1,1 +1,0 @@
-Building on the existing ExAC application we opened up direct data access through straight forward web services. These services enable a user to integrate ExAC services into their own tools, querying the variant information and returning the data in an easy to programmatically use JSON format.

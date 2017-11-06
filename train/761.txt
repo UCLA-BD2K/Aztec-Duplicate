@@ -1,1 +1,1 @@
-Authority: cnio.es  -  Retrieves a Swiss-Prot record sequence given a Swiss-Prot Id or Accession Number.
+Authority: inb.bsc.es  -  Searches a set of sequences with a HMM profile.

@@ -1,1 +1,1 @@
-scoring of splice sites with max entropy model
+eigensoft 5.0.1

@@ -1,1 +1,1 @@
-Scan a protein sequence against a database of HMM profiles (e.g. TreeFam or Pfam-A)
+Authority: inb.bsc.es  -  Equicktandem scans a sequence for potential tandem repeats up to a specified size The results can be used to run etandem on the

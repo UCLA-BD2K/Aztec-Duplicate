@@ -1,1 +1,0 @@
-Predictor of Coiled-Coils Regions in Proteins

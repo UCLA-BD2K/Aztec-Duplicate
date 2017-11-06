@@ -1,1 +1,1 @@
-Protein co-expression network construction using peptide level data, with statisical analysis. (Journal of Clinical Bioinformatics 2013, 3:11 doi:10.1186/2043-9113-3-11)
+Detection of cis-regulatory elements using svm implemented in LiblineaR.

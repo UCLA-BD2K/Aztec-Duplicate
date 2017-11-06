@@ -1,1 +1,0 @@
-BaCelLo is a predictor for the subcellular localization of proteins in eukaryotes.

@@ -1,1 +1,0 @@
-This package identifies statistically significantly differentially methylated regions of CpGs. It uses kernel methods (the Maxmimum Mean Discrepancy) to measure differences in methylation profiles, and relates these to inter-replicate changes, whilst accounting for variation in coverage profiles.

@@ -1,1 +1,1 @@
-Waterman-Eggert local alignment of two sequences
+Remove adapter sequences from Fastq/Fasta.

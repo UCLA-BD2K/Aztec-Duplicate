@@ -1,1 +1,0 @@
-Allows for partial sequences to match lines containing a larger, more complete sequence. 

@@ -1,1 +1,1 @@
-MRS Clustal W is a companion service to the text based MRS service. It is merely a wrapper around clustalw and it only allows short running multiple sequence alignment jobs since the running time is limited to 30 seconds.
+MyGene.info provides simple-to-use REST web services to query/retrieve gene annotation data. Itâs designed with simplicity and performance emphasized. A typical use case is to use it to power a web application which requires querying genes and obtaining common gene annotations.

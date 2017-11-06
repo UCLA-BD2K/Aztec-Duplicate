@@ -1,1 +1,0 @@
-A BioJS component for dynamic, multilevel visualisation of proteomes in UniProt.

@@ -1,1 +1,1 @@
-Divide-and-Conquer Multiple Sequence Alignment
+Search Reactome data for interactions using protein ids

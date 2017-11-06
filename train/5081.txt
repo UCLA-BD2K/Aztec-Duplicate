@@ -1,1 +1,1 @@
-SADI services generic caller
+IceLogo generates sequence logos to visualize conserved patterns in nucleotide and protein sequences.

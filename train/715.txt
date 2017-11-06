@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  ClustalW multiple sequence alignments (fast method).
+Mothur v1.33 metagenomics tools

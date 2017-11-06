@@ -1,1 +1,8 @@
-This REST service allows you to serve up ChEBI structures directly to your content using a few parameters in your URL.
+Abstract
+        
+Summary: With the wealth of available genome sequences, a difficult and tedious part of inferring phylogenomic trees is now to select genomes with an appropriate taxon density in the different parts of the tree. The package described here offers tools to easily select the most representative organisms, following a set of simple rules based on taxonomy and assembly quality, to retrieve the genomes from public databases (NCBI, JGI), to annotate them if necessary, to identify given markers in these, and to prepare files for multiple sequence alignment.
+        
+Availability and Implementation: phyloSkeleton is a Perl module and is freely available under GPLv3 at https://bitbucket.org/lionelguy/phyloskeleton/.
+        
+Contact:
+lionel.guy@imbim.uu.se

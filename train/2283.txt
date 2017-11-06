@@ -1,1 +1,1 @@
-Display sequence
+Parses clustal files

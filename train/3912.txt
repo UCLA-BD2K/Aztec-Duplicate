@@ -1,1 +1,1 @@
-The Allen Brain Atlas integrates gene expression data, connectivity data and neuroanatomical information for the adult and developing brain in mouse, human and non-human primate
+PEAR evaluates all possible paired-end read overlaps

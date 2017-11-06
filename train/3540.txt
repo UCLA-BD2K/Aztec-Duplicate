@@ -1,1 +1,1 @@
-For Illumina data.
+Plot distribution

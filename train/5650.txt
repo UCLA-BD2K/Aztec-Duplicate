@@ -1,1 +1,1 @@
-Paints bar, line or pie graphs onto nodes.
+Data analysis, linear models and differential expression for microarray data.

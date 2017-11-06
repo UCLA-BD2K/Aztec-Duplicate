@@ -1,1 +1,0 @@
-"The LONI Pipeline is a free workflow application primarily aimed at Neuroimaging Researchers. With the LONI Pipeline, users can create workflows that take advantage of all the greatest Neuroimaging tools available, quickly."

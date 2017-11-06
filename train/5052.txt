@@ -1,1 +1,1 @@
-Regular expression replacement using the Python 
+Alter the name or description of a sequence.

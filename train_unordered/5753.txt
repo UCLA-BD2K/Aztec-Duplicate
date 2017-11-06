@@ -1,1 +1,0 @@
-Synedra View is a highly polished DICOM viewer with excellent functionality for basic features. Synedra View also supports multiplanar reconstructions, linked multiple windows, multiple monitors. Native 64 bit for large data sets. PACS query and retrieve functionality.

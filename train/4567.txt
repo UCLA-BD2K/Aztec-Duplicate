@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.1.0 of the Bowtie package
+Perform 3 frame translation of BED file augmented with a sequence column

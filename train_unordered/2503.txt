@@ -1,1 +1,0 @@
-An NCBI resource that contains sequence and mapping data on short genomic landmark sequences or Sequence Tagged Sites.  All STS sequences are incorporated into the STS Division of GenBank.

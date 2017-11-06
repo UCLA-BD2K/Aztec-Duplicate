@@ -1,1 +1,0 @@
-Search the UniProt database (http://www.uniprot.org/) for interactions using protein ids

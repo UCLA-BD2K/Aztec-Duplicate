@@ -1,1 +1,1 @@
-SOCK (Spatially Organized Component Klassifikator) can be used to automatically identify a high proportion of the artifactual components arising in Independent Componenets Analysis (ICA) of fMRI. 
+Infers gene regulatory networks from expression measurements using Bayesian Model Averaging.

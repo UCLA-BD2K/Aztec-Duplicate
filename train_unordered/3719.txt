@@ -1,1 +1,0 @@
-GLProbs is a simple and effective approach to improve the accuracy of multiple sequence alignment.

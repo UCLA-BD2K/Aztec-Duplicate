@@ -1,2 +1,1 @@
-This service allows the CATH and Gene3D HMM libraries to be searched with a given amino acid sequence (or any one of various database identifiers representing a sequence).
-
+Divide-and-Conquer Multiple Sequence Alignment  (DCA) is a program for producing fast, high quality simultaneous multiple sequence alignments  (http://bibiserv.techfak.uni-bielefeld.de/dca/alignments/) of amino acid, RNA, or DNA sequences. The program is 

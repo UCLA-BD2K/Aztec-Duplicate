@@ -1,1 +1,1 @@
-snpFreq significant SNPs in case-control data
+Tool wrappers for the msconvert application distributed as part of Proteowizard.

@@ -1,1 +1,6 @@
-Retrieves all sequence of an ENSEMBL homology.
+Detection of allelic imbalances in ChIP-Seq reads is a powerful approach to identify functional non-coding single nucleotide variants (SNVs), either polymorphisms or mutations, which modulate the affinity of transcription factors for chromatin. We present ABC, a computational tool that identifies allele-specific binding of transcription factors from aligned ChIP-Seq reads at heterozygous SNVs. ABC controls for potential false positives resulting from biases introduced by the use of short sequencing reads in ChIP-Seq and can efficiently process a large number of heterozygous SNVs.
+                ABC successfully identifies previously characterized functional SNVs, such as the rs4784227 breast cancer risk associated SNP that modulates the affinity of FOXA1 for the chromatin.
+                The code is open-source under an Artistic-2.0 license and versioned on GitHub (https://github.com/mlupien/ABC/). ABC is written in PERL and can be run on any platform with both PERL (â¥5.18.1) and R (â¥3.1.1) installed. The script requires the PERL Statistics::R module.
+                mlupien@uhnres.utoronto.ca
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2015. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

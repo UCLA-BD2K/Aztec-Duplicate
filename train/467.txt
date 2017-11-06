@@ -1,1 +1,7 @@
-Pairwise sequence alignment of DNA or protein sequences using Waterman-Eggert local alignment.
+Motivation: Deep sequencing based ribosome footprint profiling can provide novel insights into the regulatory mechanisms of protein translation. However, the observed ribosome profile is fundamentally confounded by transcriptional activity. In order to decipher principles of translation regulation, tools that can reliably detect changes in translation efficiency in case–control studies are needed.
+        Results: We present a statistical framework and an analysis tool, RiboDiff, to detect genes with changes in translation efficiency across experimental treatments. RiboDiff uses generalized linear models to estimate the over-dispersion of RNA-Seq and ribosome profiling measurements separately, and performs a statistical test for differential translation efficiency using both mRNA abundance and ribosome occupancy.
+        Availability and Implementation: RiboDiff webpage http://bioweb.me/ribodiff. Source code including scripts for preprocessing the FASTQ data are available at http://github.com/ratschlab/ribodiff.
+        Contacts:
+zhongy@cbio.mskcc.org or raetsch@inf.ethz.ch
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,1 @@
-Estimate Indel Rates for 3-way alignments
+Authority: genome.imim.es  -  Runs dust to mask low-complexity regions within a set of DNA sequences in FASTA format

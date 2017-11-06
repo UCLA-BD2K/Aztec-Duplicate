@@ -1,1 +1,0 @@
-Authority: pdg.cnb.uam.es  -  It returns a list with the different IntAct_XML interactions where a protein IDs is interacting

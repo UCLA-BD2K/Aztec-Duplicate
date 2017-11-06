@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Converts a sequence in Fasta format into a CommentedNASequence object.

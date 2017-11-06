@@ -1,1 +1,0 @@
-Find the most important nodes in a network, calculating centrality parameters for each node.

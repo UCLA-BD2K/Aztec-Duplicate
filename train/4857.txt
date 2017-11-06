@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.05 of the rmap package
+Sailfish: Rapid Alignment-free Quantification of Isoform Abundance. RNA-seq expression estimates need not take longer than a cup of coffee

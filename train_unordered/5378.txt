@@ -1,1 +1,0 @@
-Randomly sample sites from VCF dataset

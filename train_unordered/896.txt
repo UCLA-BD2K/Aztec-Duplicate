@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  This is a utility to retrieve a codon table from EMBOSS data files.

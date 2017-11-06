@@ -1,1 +1,0 @@
-The Alkemio EXPERIMENTAL web server ensbles scientists to rank chemicals and drugs for a selected biomedical topic. Chemicals and drugs are ranked using a text-mining approach based on chemical-related or drug-related scientific abstracts, similar to the Génie algorithm.

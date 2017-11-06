@@ -1,1 +1,0 @@
-SIMAP is a database containing the similarity space formed by about all amino-acid sequences from public databases and completely sequenced genomes.

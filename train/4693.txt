@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 0.10.5 of kraken.
+Needleman-Wunsch rapid global alignment of two sequences

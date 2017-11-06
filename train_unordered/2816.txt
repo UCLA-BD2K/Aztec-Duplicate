@@ -1,1 +1,0 @@
-graphite is package able to gather and make easily available the contents of the four major pathway databases. In the field of topological analysis graphite acts as a provider of biological information by reducing the pathway complexity considering the biological meaning of the pathway elements.

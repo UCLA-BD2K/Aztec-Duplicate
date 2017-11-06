@@ -1,1 +1,1 @@
-A synopsis
+Navigate SPARQL endpoints. Comes with a predefined set of SPARQL queries that work with public endpoints from EBI RDF platform and Bio2RDF

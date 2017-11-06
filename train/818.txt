@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves an EMBL entry given an object with id and namespace.
+Downloads and compiles version 1.6.7 of libpng.

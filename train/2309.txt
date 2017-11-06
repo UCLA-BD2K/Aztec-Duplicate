@@ -1,1 +1,1 @@
-Neural network predictions for cleavage sites of the human proteasome
+based on overlap with a named regions BED file

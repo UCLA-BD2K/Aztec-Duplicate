@@ -1,1 +1,0 @@
-Authority: www.cnb.uam.es  -  Retrieves all the log info for the asked time interval.

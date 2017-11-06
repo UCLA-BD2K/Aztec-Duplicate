@@ -1,1 +1,0 @@
-Create charts from numerical attributes of selected nodes or edges.

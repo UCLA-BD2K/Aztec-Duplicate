@@ -1,1 +1,0 @@
-Reformats the results of a Multiple alignment

@@ -1,1 +1,1 @@
-An NCBI resource that contains sequence and mapping data on short genomic landmark sequences or Sequence Tagged Sites.  All STS sequences are incorporated into the STS Division of GenBank.
+Clomial fits binomial distributions to counts obtained from Next Gen Sequencing data of multiple samples of the same tumor. The trained parameters can be interpreted to infer the clonal structure of the tumor.

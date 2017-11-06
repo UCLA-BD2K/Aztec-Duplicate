@@ -1,1 +1,0 @@
-find sequence matches, allowing mismatches

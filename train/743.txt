@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Annotates the prosite motifs of a pdb entry.
+ClustalW  finds the best global alignment for a set of input sequences (nucleic acid or protein)

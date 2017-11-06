@@ -1,1 +1,1 @@
-Integrated genetic, genomic, and biological data for mouse.
+This package can be used to simulate RNA-seq reads from differential expression experiments with replicates. The reads can then be aligned and used to perform comparisons of methods for differential expression.

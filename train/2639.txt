@@ -1,1 +1,1 @@
-A Feature viewer
+PC-based medical image viewer/processor. Many filtering, 2D/3D operations.

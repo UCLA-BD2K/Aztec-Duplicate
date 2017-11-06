@@ -1,1 +1,1 @@
-Natural product likeness scorer
+The ChEMBL REST web service API provides the functionality to support programmatic retrieval of ChEMBLdb compound, target, assay, and bioactivity data. 

@@ -1,1 +1,1 @@
-Variant Effect Predictor Webservice
+Compares a protein sequence against a nucleotide database translated in three forward and three reverse frames using the FASTA (tfasty) algorithm. It allows frameshifts inside codons.

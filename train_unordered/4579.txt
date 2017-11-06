@@ -1,1 +1,0 @@
- Contains a tool dependency definition that downloads and compiles the Dezember 2013 version of bx-python. 

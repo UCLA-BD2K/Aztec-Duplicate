@@ -1,1 +1,0 @@
-A tool for the computation of the similarity matrix among a set of sequences. The tool uses an alignment-free approach to compute sequence similarity measures based on shared maximal words allowing mismatches

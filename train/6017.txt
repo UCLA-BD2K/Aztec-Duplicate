@@ -1,3 +1,1 @@
-Provides a method to detect copy number variations from whole-genome sequencing data (“Software”)
-
-This program (R code) is for identification of copy number variants in whole-genome sequencing data
+A comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database.

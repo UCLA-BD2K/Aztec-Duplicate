@@ -1,1 +1,1 @@
-This package implements various algorithms for inferring mutual information networks from data.
+Authority: cnio.es  -  It returns all the iHOP gene or protein symbol information related to the input

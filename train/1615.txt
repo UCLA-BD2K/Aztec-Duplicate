@@ -1,1 +1,1 @@
-Graph objects from pathway topology derived from Biocarta, HumanCyc, KEGG, NCI, Panther, Reactome and SPIKE databases.
+The Charge Prediction Machine (CPM) is a tool for Inferring Precursor Charge States of Low Resolution Electron Transfer Dissociation Tandem Mass Spectra. 

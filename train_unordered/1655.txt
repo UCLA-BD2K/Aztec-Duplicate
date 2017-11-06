@@ -1,1 +1,0 @@
-A package that implements some simple capabilities for representing and manipulating hypergraphs.

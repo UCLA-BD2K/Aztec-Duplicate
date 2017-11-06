@@ -1,1 +1,0 @@
-ngs.plot is a program that allows you to easily visualize your next-generation sequencing (NGS) samples at functional genomic regions.

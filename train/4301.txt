@@ -1,1 +1,1 @@
-Search nucleotide sequences for open reading frames (ORFs), or coding sequences (CDSs)
+Authority: genome.imim.es  -  Filters a set of sequences based on their length. Only sequences which length is greater than the length cutoff will be returned.

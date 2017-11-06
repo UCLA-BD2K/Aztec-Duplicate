@@ -1,1 +1,8 @@
-A Web Service that exposes methods of the Strain Manager class of the DiaComp Object Model
+Motivation: The recently released Infinium HumanMethylation450 array (the ‘450k’ array) provides a high-throughput assay to quantify DNA methylation (DNAm) at ∼450 000 loci across a range of genomic features. Although less comprehensive than high-throughput sequencing-based techniques, this product is more cost-effective and promises to be the most widely used DNAm high-throughput measurement technology over the next several years.
+        Results: Here we describe a suite of computational tools that incorporate state-of-the-art statistical techniques for the analysis of DNAm data. The software is structured to easily adapt to future versions of the technology. We include methods for preprocessing, quality assessment and detection of differentially methylated regions from the kilobase to the megabase scale. We show how our software provides a powerful and flexible development platform for future methods. We also illustrate how our methods empower the technology to make discoveries previously thought to be possible only with sequencing-based methods.
+        Availability and implementation:
+http://bioconductor.org/packages/release/bioc/html/minfi.html.
+        Contact:
+khansen@jhsph.edu; rafa@jimmy.harvard.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

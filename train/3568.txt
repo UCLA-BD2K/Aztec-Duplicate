@@ -1,1 +1,1 @@
-Converts BCF format to VCF format.
+Access your data on Synapse.org from within Cyoscape

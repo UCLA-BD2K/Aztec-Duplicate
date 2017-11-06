@@ -1,1 +1,1 @@
-A simple snippet parser
+Reader plugin for XML network files in GraphML format

@@ -1,1 +1,0 @@
-TransClust is a comprehensive clustering tool that incorporates the hidden transitive nature occuring e.g. within biomedical data sets. It is based on Weighted Transitive Graph Projection problem.

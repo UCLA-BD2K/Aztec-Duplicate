@@ -1,1 +1,1 @@
-Authority: cgl.imim.es  -  Parses a Blastp output text obtaining a list of objects with the identifiers, namespaces, names and identitie values that appear in it with a identitie value bigger or equal to the provided one
+Index a FASTA file using the Burrows-Wheeler algorithm and populate the bwa_index.loc file.

@@ -1,1 +1,1 @@
-Identifies mutational clusters of amino acids in a protein while utilizing the proteins tertiary structure via a graph theoretical model.
+A tool developed for migrating existing SEQUEST results to the new unified file format. 

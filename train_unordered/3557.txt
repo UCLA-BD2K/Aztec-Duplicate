@@ -1,1 +1,0 @@
-Extend or shrink a list of genomic coordinates.

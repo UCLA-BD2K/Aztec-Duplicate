@@ -1,1 +1,1 @@
-Galaxy wrapper for the CLC Assembly Cell suite from CLCBio
+Picard wrappers for version 122 and up

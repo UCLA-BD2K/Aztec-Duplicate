@@ -1,1 +1,1 @@
-Searches Ensembl Protists sequences using WU-BLAST
+SSearch @ IBCP (http://gbio-pbil.ibcp.fr)

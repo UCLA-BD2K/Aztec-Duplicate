@@ -1,1 +1,0 @@
-Imports and exports networks from Konstanz Information Miner (KNIME)

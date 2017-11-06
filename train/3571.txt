@@ -1,1 +1,1 @@
-Soap aligner/soap2.
+Converts VCF files into tab-delimited format

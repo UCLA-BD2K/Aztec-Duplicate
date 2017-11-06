@@ -1,1 +1,1 @@
-Evaluate simulated reads from a SAM/BAM file using dwgsim_eva
+Displays membrane spanning regions.

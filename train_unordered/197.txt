@@ -1,1 +1,0 @@
-Predicts linear motifs in a protein sequence based on our neural network which was trained on Short Linear Motif containing proteins. 

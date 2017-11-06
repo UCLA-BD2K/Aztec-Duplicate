@@ -1,1 +1,1 @@
-Edena
+Authority: inb.bsc.es  -  Makes a profile alignment using Tcoffee.

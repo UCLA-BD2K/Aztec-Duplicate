@@ -1,1 +1,1 @@
-Retrieve a FASTA file and populate the all_fasta.loc data table.
+Send UnifiedGenotyper VCF to a VariantDB instance

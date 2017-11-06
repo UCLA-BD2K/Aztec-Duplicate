@@ -1,1 +1,1 @@
-Easy way to display features
+Authority: inb.bsc.es  -  Displays all domains of an annotated structural entry in different colors (using jmol script).

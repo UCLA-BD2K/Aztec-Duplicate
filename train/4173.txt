@@ -1,1 +1,1 @@
-Compute P-values and Second Moments for Feature Occurrences
+Authority: inb.bsc.es  -  Parse a matrix from a motif.

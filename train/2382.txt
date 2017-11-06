@@ -1,1 +1,1 @@
-A collection of genes and proteins involved in human and yeast cell cycle.
+Splits alleleic primitives (gaps or mismatches) into multiple VCF lines

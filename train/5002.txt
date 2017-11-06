@@ -1,1 +1,1 @@
-Prepare paired-end reads for use with Velvet
+Suite of tools for functional analysis

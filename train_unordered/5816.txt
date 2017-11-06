@@ -1,1 +1,0 @@
-As a plugin for the Orthanc image store, allows viewing of Dicom images within a browser. Based on the GDCM Dicom library, and the Cornerstone Javascript library for rendering in a browser client.

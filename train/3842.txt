@@ -1,1 +1,5 @@
-Finds the best local alignments between two sequences. It compares two sequences looking for local sequence similarities using a rigorous algorithm
+Authority: mmb.pcb.ub.es  -  
+            
+                    Solvates a Structure (Protein/Nucleic).
+            
+    

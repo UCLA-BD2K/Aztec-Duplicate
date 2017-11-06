@@ -1,1 +1,0 @@
-BamTools - a collection of utilities for processing of bam files - for all architectures

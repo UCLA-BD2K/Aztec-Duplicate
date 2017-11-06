@@ -1,1 +1,1 @@
-FASTQ to FASTA converter
+Analysis of Genome Editing by Sequencing

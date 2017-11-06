@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 4.3 of netcdf.
+CoVennTree compares up to three rooted trees at the same time.

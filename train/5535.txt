@@ -1,1 +1,1 @@
-Import / Export OpenBEL Networks. JSON Graph Format Network App handles more restrictive BEL schema. 
+Authority: inb.bsc.es  -  Compares a nucleotide sequence to a nucleotide sequence database and calculates the statistical significance of matches using the Basic Local Alignment Search Tool (BLAST).

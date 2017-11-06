@@ -1,1 +1,0 @@
-Formats a database into NCBI BLAST format.

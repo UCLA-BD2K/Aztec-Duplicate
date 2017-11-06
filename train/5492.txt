@@ -1,1 +1,1 @@
-Providing calculation, evaluation and visualization analysis for several centralities of weighted and unweighted network.
+Software to evaluate traits associations, evolutionary patterns, and linkage disequilibrium.

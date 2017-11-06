@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Loads a persistent object and returns its reference.

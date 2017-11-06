@@ -1,1 +1,1 @@
-Visible Patient is a Dicom viewer with multiplanar and volume rendering. It is designed for pre-surgical planning by visualizing and interacting with the 3D patient anatomy. Organ segmentation and virtual resection are also features.
+[W4M][GC-MS] CAMERA R Package - Annotation - Collection of annotation related methods for mass spectrometry data

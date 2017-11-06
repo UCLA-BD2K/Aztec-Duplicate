@@ -1,1 +1,0 @@
-Reorders the entries of an MSA

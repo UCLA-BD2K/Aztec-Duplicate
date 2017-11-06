@@ -1,1 +1,0 @@
-Azara is a collection of NMR programs for interactive display and processing of NMR data.

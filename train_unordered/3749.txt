@@ -1,1 +1,0 @@
-The TNRS, or Taxonomic Name Resolution Service, is an online application for automated and user-supervised standardization of plant scientific names.

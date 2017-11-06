@@ -1,1 +1,1 @@
-GNU Datamash is a grouping and summarizing tool on tabular data files
+Create a zip archive

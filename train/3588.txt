@@ -1,1 +1,1 @@
-SNP effect for each SNP in a file.
+Select samples from a VCF file

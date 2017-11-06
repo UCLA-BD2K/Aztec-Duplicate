@@ -1,1 +1,1 @@
-Provides a top level guide to the main databases that describe the proteomes of higher eukaryotic organisms. IPI effectively maintains a database of cross references between the primary data sources, provides minimally redundant yet maximally complete sets of proteins for featured species (one sequence per transcript) and maintains stable identifiers (with incremental versioning) to allow the tracking of sequences in IPI between IPI releases.
+PISA (Protein Interfaces, Surfaces and Assemblies)

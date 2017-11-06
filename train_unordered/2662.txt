@@ -1,1 +1,0 @@
-A Node.js JavaScript library for client and server side bioinformatics

@@ -1,1 +1,0 @@
-PoreLogo is an automated tool for the visualization of sequence and conservation of pore-lining residues in transmembrane protein structures

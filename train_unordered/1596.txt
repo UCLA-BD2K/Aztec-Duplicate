@@ -1,1 +1,0 @@
-GSNAP and GMAP are a pair of tools to align short-read data written by Tom Wu.  This package provides convenience methods to work with GMAP and GSNAP from within R. In addition, it provides methods to tally alignment results on a per-nucleotide basis using the bam_tally tool.

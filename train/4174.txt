@@ -1,1 +1,1 @@
-Compute P-values and Max Variances for Feature Occurrences
+Authority: inb.bsc.es  -  Retrieves a domain entry from CATH.

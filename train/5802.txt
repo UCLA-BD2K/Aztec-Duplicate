@@ -1,1 +1,1 @@
-Browser window gives a quick preview and a full window view of the DICOM images contained in a directory. You can also see the DICOM Tag information of the image file. Supports DICOMDIR and export to TIFF format files.
+The CRA lets you access large cluster computers to run a variety of phylogenetic codes, at no charge. You can access parallel  BEAST, BEAST2, DPPDIV, GARLI, jModelTest2, MAFFT, Migrate-N, MrBayes, RAxML  

@@ -1,1 +1,0 @@
-This package provide simulation based methods for evaluating the statistical power in differential expression analysis from RNA-seq data.

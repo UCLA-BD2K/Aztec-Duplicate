@@ -1,1 +1,1 @@
-Simple filter to keep N occurrences of lines in a file
+Prediction of Coronavirus 3CL Proteinase cleavage sites on amino acid sequences

@@ -1,1 +1,1 @@
-"An interactive tool for stereotaxic brain data visualization. LOVE is a 3-D viewer that allows volumetric data display and manipulation of axial, sagittal and coronal views."
+Significance assessment for distance measures of time-course protein profiles

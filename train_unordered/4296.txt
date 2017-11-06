@@ -1,1 +1,0 @@
-Generate FASTA sequence from alleles table

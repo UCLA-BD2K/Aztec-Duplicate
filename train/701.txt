@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves objects with the identifier supplied as input that appear in some namespace.
+The MEME Suite allows the biologist to discover novel motifs in collections of unaligned nucleotide or protein sequences and to search for motif occurrences in sequence databases.

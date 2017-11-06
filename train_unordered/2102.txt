@@ -1,1 +1,0 @@
-Classes and statistical methods for large SNP association studies, extending the snpMatrix package

@@ -1,1 +1,1 @@
-Compendium of human genes and genetic phenotypes. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 12,000 genes. OMIM focuses on the relationship between phenotype and genotype.
+Reverse and complement a nucleotide sequence

@@ -1,3 +1,1 @@
-Provides and RDF model of the specified PDB record.
-
-It takes the latest PDBML document for the record and converts to RDF using the PDB2RDF software (http://pdb2rdf.googlecode.com).
+Transmembrane topology and signal peptides prediction from the amino acid sequence of a protein using Phobius.

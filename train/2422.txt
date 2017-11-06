@@ -1,1 +1,1 @@
-A repository for 3D biological macromolecular structure data.
+Merge two overlapping sequences

@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Makes a pairwise global alingment using the Needleman-Wunsch global alignment algorithm.
+Complete Genomics cgatools for linux

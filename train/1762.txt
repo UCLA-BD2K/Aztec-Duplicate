@@ -1,1 +1,11 @@
-The probabilities by one-sided NOISeq are combined by Fisher's method or Stouffer's method
+WSDL File for DOMAINATION Domain Prediction.
+			A DOMAINATION run can take 15 to over 90 minutes.
+			The ticket returned should be used in the getResults method.
+			In addition, results can be viewed via the web using this URL:
+			http://www.ibi.vu.nl/programs/domainationwww/?id=ticket
+			getResults returns 0 until results are ready.
+			Discontinuous domains are indicated using hyphens.
+			See http://www.ibi.vu.nl/programs/domainationwww/ for more info.
+			The ticket number returned by getTicketBy* and getResults can also be used 
+			for the web server: http://www.ibi.vu.nl/domainationwww/?id='ticketnumber'
+		

@@ -1,1 +1,0 @@
-Automatic hierarchical classification of protein sequences.

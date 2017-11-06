@@ -1,1 +1,1 @@
-Tool dependency definition; installs uclust v1.2.22q for PyNAST - GVL
+The functions in this package return optimized parameter estimates and log likelihoods for mixture models of truncated data with normal or lognormal distributions.

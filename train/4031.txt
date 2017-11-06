@@ -1,1 +1,1 @@
-This suite contains all tha CARPET tools created for Galaxy
+Find splice junctions using RNA-seq data, can have several input RNA-seq data.

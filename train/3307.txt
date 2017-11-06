@@ -1,1 +1,1 @@
-The International Nucleotide Sequence Database Collaboration (INSDC) consists of a joint effort to collect and disseminate databases containing DNA and RNA sequences.
+The HuPho Web Site is an on-line web resource for recovering information about human phosphatases.

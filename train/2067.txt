@@ -1,1 +1,2 @@
-Copy number analysis of high-throughput sequencing cancer data with fast summarization, extensive filtering and improved normalization
+PeptideLocator is for users interested in identifying bioactive peptides within a protein sequence. PeptideLocator was trained on a set of non-redundant protein sequences conatining known bioactive peptides. 
+The input is a UniProt Identifier specified using the parameter uniprotid.

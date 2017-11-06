@@ -1,1 +1,1 @@
-A reader for Genomica NDB files
+Lipsia is a collection of command line tools for processing functional magnetic resonance imaging (fMRI) data. It runs on Windows and was developed in C++ for high performance. Lipsia contains software tools for all aspects of fMRI data processing: registration and normalization, preprocessing, exploratory processing, statistical evaluation, region of interest analysis, timecourse analysis, visualization, rendering, and converters to various data formats.

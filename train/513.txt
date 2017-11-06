@@ -1,0 +1,5 @@
+Motivation: Statistically assessing the relation between a set of genomic regions and other genomic features is a common challenging task in genomic and epigenomic analyses. Randomization based approaches implicitly take into account the complexity of the genome without the need of assuming an underlying statistical model.
+        Summary: regioneR is an R package that implements a permutation test framework specifically designed to work with genomic regions. In addition to the predefined randomization and evaluation strategies, regioneR is fully customizable allowing the use of custom strategies to adapt it to specific questions. Finally, it also implements a novel function to evaluate the local specificity of the detected association.
+        Availability and implementation: regioneR is an R package released under Artistic-2.0 License. The source code and documents are freely available through Bioconductor (http://www.bioconductor.org/packages/regioneR).
+        Contact:
+rmalinverni@carrerasresearch.org

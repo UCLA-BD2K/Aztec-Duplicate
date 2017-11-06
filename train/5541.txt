@@ -1,1 +1,1 @@
-Detects highly-connected sub-networks where most genes show similar expression behavior.
+Visualizes RNA secondary structures.

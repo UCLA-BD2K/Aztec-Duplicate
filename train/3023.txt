@@ -1,1 +1,1 @@
-Comparisons of protein/DNA sequences
+Functions that are needed by many other packages or which replace R functions.

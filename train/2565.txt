@@ -1,1 +1,1 @@
-Structural alignments for proteins with non-trivial relationships.
+Replace or delete sequence sections

@@ -1,1 +1,1 @@
-Global Biodiversity Information Facility web service for occurrence data (specimens, observations) from the global GBIF data portal.
+Wrapper for InCHlib_clust.py

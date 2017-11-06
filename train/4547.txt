@@ -1,1 +1,1 @@
-Downloads and compiles version 1.63 of the Biopython package. 
+Contains a tool dependency definition that downloads and compiles version 2.2.3 of Mapsembler2

@@ -1,1 +1,1 @@
-A visual analytics approach for integrated data-knowledge networks.
+Compares a protein sequence against a nucleotide sequence (used as a database) dynamically translated in all six reading frames (both strands) using the Basic Local Alignment Tool (BLAST).

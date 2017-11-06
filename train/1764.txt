@@ -1,1 +1,3 @@
-Perform step by step methylation analysis of Next Generation Sequencing data.
+This  WSDL file describe the Conservation Score Web Service. 
+	    It calculates the conservation of ELM matches in a set of homologous sequences.
+            

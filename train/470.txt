@@ -1,1 +1,6 @@
-The European Nucleotide Archive (ENA) Browser provides functionality to view and retrieve nucleotide sequence data archived and exchanged by the International Sequence Database Collaboration (INSDC).
+Summary: The current methods available to detect chromosomal abnormalities from DNA microarray expression data are cumbersome and inflexible. CAFE has been developed to alleviate these issues. It is implemented as an R package that analyzes Affymetrix *.CEL files and comes with flexible plotting functions, easing visualization of chromosomal abnormalities.
+        Availability and implementation: CAFE is available from https://bitbucket.org/cob87icW6z/cafe/ as both source and compiled packages for Linux and Windows. It is released under the GPL version 3 license. CAFE will also be freely available from Bioconductor.
+        Contact:
+sander.h.bollen@gmail.com or nancy.mah@mdc-berlin.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

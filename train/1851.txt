@@ -1,1 +1,1 @@
-Functions for normalisation of two-color microarrays by optimised local regression and for detection of artefacts in microarray data
+Retrieves a GO Term from the Gene Ontology database.

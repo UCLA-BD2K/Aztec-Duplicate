@@ -1,1 +1,1 @@
-Filter mapped reads on MD tag string
+HMM based sequence alignment and database search tool

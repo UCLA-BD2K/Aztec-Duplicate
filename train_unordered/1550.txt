@@ -1,1 +1,0 @@
-Interactive exploration of matrices in GENE-E.

@@ -1,1 +1,1 @@
-JABAWS stands for JAva Bioinformatics Analysis Web Services. It is a collection of web services for bioinformatics, and currently provides services that make it easy to access well-known multiple sequence alignment and protein disorder prediction programs from Jalview.
+Returns cross references from another cross reference.

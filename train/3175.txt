@@ -1,1 +1,1 @@
-Integrons Analysis and Cassette Identification
+NeuroElectro RESTful API enables the extraction, visualization, and summarization of published data on neuronsâ electrophysiological properties.

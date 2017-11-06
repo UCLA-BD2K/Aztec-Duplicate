@@ -1,1 +1,0 @@
-Collector's curve calculation based on mothur's collect.single command - GVL

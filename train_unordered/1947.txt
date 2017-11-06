@@ -1,1 +1,0 @@
-Identifies clustering of somatic mutations in proteins over the entire quaternary structure.

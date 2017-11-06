@@ -1,1 +1,1 @@
-Launching arbitrary external apps (such as viewers) for nodes/edges
+Downloads and compiles the Gnome XML libraries.

@@ -1,1 +1,0 @@
-The European Nucleotide Archive (ENA) Browser provides functionality to view and retrieve nucleotide sequence data archived and exchanged by the International Sequence Database Collaboration (INSDC).

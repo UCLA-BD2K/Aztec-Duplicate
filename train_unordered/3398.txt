@@ -1,1 +1,0 @@
-A graphical NMR assignment and data analysis program.

@@ -1,1 +1,1 @@
-Convert profile HMM file to a HMMER format
+Benchmark CCSD(T)/ complete basis set limit calculations were collected into a database named BEGDB - Benchmark Energy and Geometry DataBase.

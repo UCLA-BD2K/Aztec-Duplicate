@@ -1,1 +1,4 @@
-Similar to PSI-BLAST, PSI-Search uses SSEARCH to perform a rigorous Smith & Waterman search of a protein database. From the results, the significant hits are used to create a position-specific scoring matrix (PSSM) profile using NCBI blastpgp. The profile
+Summary: myChEMBL is a completely open platform, which combines public domain bioactivity data with open source database and cheminformatics technologies. myChEMBL consists of a Linux (Ubuntu) Virtual Machine featuring a PostgreSQL schema with the latest version of the ChEMBL database, as well as the latest RDKit cheminformatics libraries. In addition, a self-contained web interface is available, which can be modified and improved according to user specifications.
+        Availability and implementation: The VM is available at: ftp://ftp.ebi.ac.uk/pub/databases/chembl/VM/myChEMBL/current. The web interface and web services code is available at: https://github.com/rochoa85/myChEMBL.
+        Contact:
+jpo@ebi.ac.uk

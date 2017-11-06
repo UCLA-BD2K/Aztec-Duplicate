@@ -1,1 +1,0 @@
-BrainVoyager contains everything you need for the advanced analysis and visualization of structural and functional magnetic resonance imaging (MRI) data and for combined EEG / MEG distributed source imaging.

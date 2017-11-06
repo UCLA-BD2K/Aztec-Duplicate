@@ -1,1 +1,1 @@
-Flter BAM/SAM on FLAG,MAPQ,RG,LB or by region
+FASTQ de-interlacer on paired end reads.

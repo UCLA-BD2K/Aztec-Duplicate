@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.8.3 of the python library pysam.
+Robust second-level analysis of brain imaging data - includes visualization tools, but requires SPM2/5/8

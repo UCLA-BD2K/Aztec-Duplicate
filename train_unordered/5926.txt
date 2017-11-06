@@ -1,1 +1,0 @@
-MeVisLab is a cross-platform application framework for medical image processing and scientific visualization. It includes advanced algorithms for image registration, segmentation, and quantitative morphological and functional image analysis. An IDE for graphical programming and rapid user interface prototyping is available.

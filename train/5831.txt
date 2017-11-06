@@ -1,1 +1,1 @@
-Knowledge.Bio is an open access web-based “rich client desktop” computer application that provides value-added access to the network of interconnected knowledge mined in the scientific literature from more than 20,000,000 PubMed abstracts.
+Authority: mmb.pcb.ub.es  -  This web service runs Nucleosome Potential for the given sequence. Note: the maximum allowed length for the sequence is 10,000 bps. Check additional documentation at http://mmb2.pcb.ub.es:8080/PhysicalProperties/runNucleosomePotential.html

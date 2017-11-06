@@ -1,1 +1,0 @@
-A set of functions to create and interact with dynamic documents and vignettes.

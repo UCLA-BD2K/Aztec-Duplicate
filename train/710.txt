@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Antigenic predicts potentially antigenic regions of a protein sequence, using the method of Kolaskar and Tongaonkar.
+Gene calling with glimmer and a trainingset of know genes.

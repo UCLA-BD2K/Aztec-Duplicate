@@ -1,1 +1,1 @@
-Pairwise global alignment of PPI or other networks
+S4 generic functions needed by Bioconductor proteomics packages.

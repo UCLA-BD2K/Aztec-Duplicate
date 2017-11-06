@@ -1,1 +1,1 @@
-A suite of Galaxy utilities associated with version 1.4 of the GATK package.
+SpotXplore is a plugin for Cytoscape for extraction and visualization of differentially expressed subnetworks (hotspots) from gene networks. The hotspot-based visualization approach enables interactive exploration of regulatory interactions in differentially expressed gene sets, and it allows a researcher to explore gene expression in direct relation to the affected cellular gene network. The hotspots provide a view beyond the commonly used metabolic pathways and gene ontologies.

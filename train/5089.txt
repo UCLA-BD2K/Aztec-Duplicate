@@ -1,1 +1,1 @@
-Merge BAM Files
+Mapping bisulfite-seq reads and calling methylated cytosines

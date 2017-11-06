@@ -1,1 +1,1 @@
-Authority: www.cnb.uam.es  -  Retrieves all the log info for the asked time interval.
+Authority: inb.bsc.es  -  Patmatmotifs takes a protein sequence and compares it to the PROSITE database of motifs.

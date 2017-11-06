@@ -1,1 +1,0 @@
-Makes a pairwise global alignment using the Needleman-Wunsch global alignment algorithm.

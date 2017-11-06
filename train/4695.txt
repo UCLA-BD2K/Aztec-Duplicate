@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.0.5 of the python library labels.
+Statistical merge of SAXS curves

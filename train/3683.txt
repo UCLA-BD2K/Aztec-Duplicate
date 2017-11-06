@@ -1,1 +1,1 @@
-NCBI BLAST is a sequence similarity search program. 
+Method to determine protein-protein (and other) docking

@@ -1,1 +1,0 @@
-A RNA-seq analysis software pipeline

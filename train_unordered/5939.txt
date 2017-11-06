@@ -1,1 +1,0 @@
-Matlab implementations of continuous max flow variants. Features fast parallel continuous max flow solvers in 2D/3D. 

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.4 of the the GNU libtool package.
+Model processor web service provides operations for converting files from SBML to CopasiML format and vice versa, and also to validate files in either of these formats.

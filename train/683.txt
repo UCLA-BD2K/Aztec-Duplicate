@@ -1,1 +1,1 @@
-Authority: bioinfo.cipf.es  -  This service detects blocks of functionally related genes (GO, KEGG, etc.) with significant coordinate (although modest) behaviour across a list of ranked genes using a segment test
+Lynx provides programmatic access to the analytical tools (Enrichment Analysis, and Network-based gene prioritization) and annotations on the genes (integrated from over 35 databases).

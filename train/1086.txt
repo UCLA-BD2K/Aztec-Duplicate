@@ -1,1 +1,1 @@
-MotifSampler tries to find over-represented motifs in the upstream region of a set of co-regulated genes. This motif finding algorithm uses Gibbs sampling (http://en.wikipedia.org/wiki/Gibbs_sampling) to find the position probability matrix that represent
+Authority: cnio.es  -  S3det is based on a vectorial representation of the MSA in a high dimensional space. A reduction of this space by Multiple Correspondence Analysis (Greenacre, 1984) produces a low dimensional space preserving most of the original information but filtering main sources of noise.

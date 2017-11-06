@@ -1,1 +1,0 @@
-Analyze thermal proteome profiling (TPP) experiments with varying temperatures (TR) or compound concentrations (CCR).

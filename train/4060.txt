@@ -1,1 +1,1 @@
-A Wrapper for the Cluster3.0 program
+Provide segmentation using artificial neural networks

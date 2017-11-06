@@ -1,1 +1,1 @@
-Map your data to the current assembly
+Authority: inb.bsc.es  -  Loads a persistent object and returns its reference.

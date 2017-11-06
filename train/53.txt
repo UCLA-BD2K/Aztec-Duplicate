@@ -1,1 +1,4 @@
-mzServer enables access to mass spectrometry data
+The Illumina Infinium HumanMethylation450 BeadChip is a new platform for high-throughput DNA methylation analysis. Several methods for normalization and processing of these data have been published recently. Here we present an integrated analysis pipeline offering a choice of the most popular normalization methods while also introducing new methods for calling differentially methylated regions and detecting copy number aberrations.
+        Availability and implementation: ChAMP is implemented as a Bioconductor package in R. The package and the vignette can be downloaded at bioconductor.org
+        Contact:
+tiffany.morris@ucl.ac.uk

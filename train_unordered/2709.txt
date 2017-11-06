@@ -1,1 +1,0 @@
-A database of validation results for all residues and ligands from the Protein Data Bank. The database provides overview &amp; interactive table for each PDB entry and each residue and overall statistics for the whole validation.

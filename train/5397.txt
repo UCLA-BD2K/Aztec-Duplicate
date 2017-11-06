@@ -1,1 +1,1 @@
-Auto optimise a genomic velvet assembly
+PCISS determines the one dimensional secondary structure of proteins (distinguishing a-helices, Ã-strands, and non-regular structures) from primary sequence data which makes use of Parallel Cascade Identification (PCI), a powerful technique from the field of nonlinear system identification.

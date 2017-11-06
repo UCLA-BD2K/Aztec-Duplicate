@@ -1,1 +1,0 @@
-A database genome index for GMAP and GSNAP.

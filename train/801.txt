@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  Returns B-Factors from PCZ_Report, given a desired Principal Component (0 for ALL)
+featureCounts counts the number of reads aligned to defined masked regions in a reference genome

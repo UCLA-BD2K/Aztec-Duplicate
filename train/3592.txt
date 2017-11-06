@@ -1,1 +1,1 @@
-Database of positive selection based on a rigorous branch-site specific likelihood test
+Annotate VCF using custom/user-defined annotations

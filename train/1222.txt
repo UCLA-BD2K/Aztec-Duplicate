@@ -1,1 +1,1 @@
-Functions for handling translating between different identifieres using the Biocore Data Team data-packages (e.g. org.Bt.eg.db).
+WSxVO_KEGG_Features

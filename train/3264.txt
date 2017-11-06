@@ -1,1 +1,1 @@
-Selection of conserved blocks from multiple sequence alignment
+Retrieve a FASTA file and populate the all_fasta.loc data table.

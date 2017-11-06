@@ -1,1 +1,0 @@
-Calculate suboptimal secondary structures of RNAs

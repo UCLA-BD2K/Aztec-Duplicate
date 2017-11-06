@@ -1,1 +1,1 @@
-Coils @ IBCP (http://gbio-pbil.ibcp.fr)
+Contains a tool dependency definition that downloads and compiles version 0.15.x of the the scikit-learn package.

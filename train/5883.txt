@@ -1,1 +1,1 @@
-TubeTK is an open-source toolkit for the segmentation, registration, and analysis of tubes and surfaces in images.
+The biovizBase package is designed to provide a set of utilities, color schemes and conventions for genomic data. It serves as the base for various high-level packages for biological data visualization. This saves development effort and encourages consistency.

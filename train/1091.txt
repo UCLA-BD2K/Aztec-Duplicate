@@ -1,2 +1,3 @@
-RNAStructML is a format for storing RNA secondary structure information. RNAStructML is based on SequenceML and uses Vienna style DotBracket strings for storing the structure information. 
-The service converts and reverts RNA structure information from D
+DDBJ GIB-V web service wrapped by TOGOWS (Towards an integrated web service in life science). 
+GIB-V service retrieves and searches data from the Genome Information Broker for Viruses database; a complete virus genome database.
+Website: http://gib-v.genes

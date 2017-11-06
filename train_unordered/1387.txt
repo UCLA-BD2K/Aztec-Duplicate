@@ -1,1 +1,0 @@
-This package contains a set of processing and plotting methods for performing copy-number variation (CNV) analysis using Illumina 450k methylation arrays.

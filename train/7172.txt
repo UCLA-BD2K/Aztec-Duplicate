@@ -1,1 +1,1 @@
-A major roadblock towards accurate interpretation of single cell RNA-seq data is large technical noise resulted from small amount of input materials. The existing methods mainly aim to find differentially expressed genes rather than directly de-noise the single cell data. We present here a powerful but simple method to remove technical noise and explicitly compute the true gene expression levels based on spike-in ERCC molecules.
+finds rRNA genes in a DNA sequence

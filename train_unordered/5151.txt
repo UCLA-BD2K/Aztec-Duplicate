@@ -1,1 +1,0 @@
-A windowed adaptive trimming tool for FASTQ files using quality

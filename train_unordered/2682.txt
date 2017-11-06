@@ -1,1 +1,0 @@
-Ultrafast memory-efficient short read aligner

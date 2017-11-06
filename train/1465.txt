@@ -1,1 +1,1 @@
-The EBSeqHMM package implements an auto-regressive hidden Markov model for statistical analysis in ordered RNA-seq experiments (e.g. time course or spatial course data). The EBSeqHMM package provides functions to identify genes and isoforms that have non-constant expression profile over the time points/positions, and cluster them into expression paths.
+Contains a tool dependency definition that installs version 3.6 SnpEff, a variant annotation and effect prediction tool.

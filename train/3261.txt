@@ -1,1 +1,1 @@
-Match large sequences against one or more other sequences
+Allows optionally defining a new DBKEY and retrieves a FASTA file and populate the all_fasta.loc data table.

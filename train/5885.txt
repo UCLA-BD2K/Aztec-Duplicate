@@ -1,1 +1,1 @@
-CAAS Workstation features quantification of coronary and peripheral arteries, analysis of left and right ventricle of the heart and enhanced visualization of stent deployment regions. The flexible GUI layout enables analysis in both cathlab and workstation settings. Multiple analyses can be performed simultaneously and side by side.
+The Wise2 DNA Block Aligner (DBA) aligns two DNA sequences using the assumption that the sequences share a number of colinear blocks of conservation separated by potentially large and varied lengths of DNA in the two sequences.

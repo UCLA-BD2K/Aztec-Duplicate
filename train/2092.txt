@@ -1,1 +1,1 @@
-An interface from R to Java to create and call Java objects and methods.
+Authority: inb.bsc.es  -  Compares a protein sequence against a protein database and calculates the statistical significance of matches using the Basic Local Alignment Tool (BLAST).

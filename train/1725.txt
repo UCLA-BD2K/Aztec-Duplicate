@@ -1,1 +1,1 @@
-Importation, normalization, visualization, and quality control functions to correct identified sources of variability in array-CGH experiments.
+Authority: inb.bsc.es  -  This is a utility to retrieve a codon table from EMBOSS data files.

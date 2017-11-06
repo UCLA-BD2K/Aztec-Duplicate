@@ -1,1 +1,1 @@
-snpEff v3.2
+EMAN is a suite of scientific image processing tools aimed primarily at the transmission electron microscopy community.

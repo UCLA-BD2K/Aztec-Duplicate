@@ -1,1 +1,0 @@
-NetMHCcons 1.0 server predicts binding of peptides to any known MHC class I molecule.

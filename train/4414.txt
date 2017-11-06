@@ -1,1 +1,1 @@
-Motif based sequence analysis. Garvan Institute, GVL
+Annotate variants, compute amino acid coding changes, predict coding outcomes

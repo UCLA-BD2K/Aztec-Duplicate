@@ -1,1 +1,1 @@
-Similarity search with openbabel or chemfp
+Search Ensembl Plants sequences with WU-BLAST

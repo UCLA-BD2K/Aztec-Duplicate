@@ -1,1 +1,1 @@
-Multi-Locus Mixed-Model (MLMM)
+Local pairwise sequence alignment of DNA or protein sequences using lalign, part of the FASTA suite. 

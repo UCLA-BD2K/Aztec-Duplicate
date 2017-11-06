@@ -1,1 +1,1 @@
-WSx3DEM_EMDB
+Authority: inb.bsc.es  -  Parses slice information of an ENSEMBL homolog.

@@ -1,1 +1,1 @@
-Cheminformatic tools from siliocs-it
+Searches Ensembl Bacteria sequences using WU-BLAST

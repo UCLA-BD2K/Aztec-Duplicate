@@ -1,1 +1,1 @@
-Search a sequence database with a profile HMM
+Protein function prediction

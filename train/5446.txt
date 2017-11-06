@@ -1,1 +1,5 @@
-Performs consistency check of regulatory network and expression data.
+This testing service is a simple MTOM service that allows file upload, listing of files and file download. The service implementation has a clever mechanism that stores incoming and outgoing attachments on the hard drive without loading it into memory. This should allow for very large transfers. 
+
+The service is supposed to work with any SOAP stack that supports MTOM. There is a generic SOAP client available that can communicate with the service called soapUI (www.soapui.org). This client program works but it seems to have limitations on the file size when I have tested it, most likely due to loading the attachment into memory before sending it. Other client technologies also exist.
+
+The service is installed on a development server, so please feel free to test it with large files (max 7 GB).

@@ -1,1 +1,1 @@
-Prediction of discontinuous B cell epitopes from protein three dimensional structures
+Curated knowledgebase of biological pathways and processes.

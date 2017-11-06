@@ -1,1 +1,0 @@
-Identification of consensus patterns in unaligned DNA and protein sequences

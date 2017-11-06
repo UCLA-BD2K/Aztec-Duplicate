@@ -1,1 +1,0 @@
-Convert SAM format to BAM format.

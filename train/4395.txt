@@ -1,1 +1,1 @@
-Model-based Analysis of ChIP-Seq (macs 1.4)
+This is a tool to conver dicom into nii format

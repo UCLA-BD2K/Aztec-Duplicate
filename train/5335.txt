@@ -1,1 +1,5 @@
-Converts VCF files into tab-delimited format
+Authority: mmb.pcb.ub.es  -  
+		
+			Parses a FSOLVText report into a FeatureAASequence (the feature is DPS DG)
+		
+	

@@ -1,1 +1,1 @@
-phast 1.3
+DC_genotyper is a genotyper for high-ploidy very deep data

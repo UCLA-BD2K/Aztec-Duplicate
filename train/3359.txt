@@ -1,1 +1,1 @@
-A program for carrying out simulations of Protein Crystallographic diffraction images and analysing the unique data coverage for one or more crystal settings and series of diffraction images.
+Contains a tool dependency definition that downloads and compiles version 1.5.1 of the eXpress package.

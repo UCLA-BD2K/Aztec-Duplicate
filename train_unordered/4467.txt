@@ -1,1 +1,0 @@
-bowtie wrapper tool to align small RNA sequencing reads

@@ -1,1 +1,0 @@
-EMBOSS isochore plots GC content in windows over a DNA sequence.

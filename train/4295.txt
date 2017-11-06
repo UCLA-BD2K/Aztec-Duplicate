@@ -1,1 +1,1 @@
-Genome Diversity tools
+Compares a nucleotide sequence against a nucleotide database using the FASTA algorithm.

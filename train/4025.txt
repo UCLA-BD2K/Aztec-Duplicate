@@ -1,1 +1,1 @@
-CADDSuite: A flexible and open framework for Computer-Aided Drug Design. Version 1.6
+A system for the annotation, analysis and display of vertebrate genomes and for bacteria, protists, fungi, plants and invertebrate metazoa.

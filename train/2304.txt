@@ -1,1 +1,1 @@
-Prediction of interacting protein residues by identifying co-evolving pairs of aminoacids from an alignment of protein sequences
+Mapping of ELM (Eucaryotic Linear Motifs) motifs to a query sequence.

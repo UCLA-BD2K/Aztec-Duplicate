@@ -1,1 +1,1 @@
-an online genome annotation resource offering users the necessary tools and information to validate and correct gene annotation
+Parallel Local Alignment Search Tool for Database Comparison

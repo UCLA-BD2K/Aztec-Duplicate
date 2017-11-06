@@ -1,1 +1,1 @@
-Divide-and-Conquer Multiple Sequence Alignment  (DCA) is a program for producing fast, high quality simultaneous multiple sequence alignments  (http://bibiserv.techfak.uni-bielefeld.de/dca/alignments/) of amino acid, RNA, or DNA sequences. The program is 
+Contains a tool dependency definition that downloads and compiles version 0.14 of the the scipy python library.

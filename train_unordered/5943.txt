@@ -1,1 +1,0 @@
-iSix is a plugin for the popular MacOs software Osirix. It allows the user to perform manual and semi-automatic segmentation using: different size brushes, region growing, and livewire segmentation. 

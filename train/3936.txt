@@ -1,1 +1,1 @@
-Analyze Covariates - draw plots
+to reduce the number of rows in a HGVS table

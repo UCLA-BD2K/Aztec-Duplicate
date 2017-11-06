@@ -1,1 +1,1 @@
-Select lines from the end of a file.
+SAPS (statistical analysis of protein sequences) lets you evaluate protein sequence properties using statistics, including compositional biases, clusters and runs of amino acid properties, repetitive structures, motifs etc

@@ -1,1 +1,0 @@
-This package detects outliers using quantile regression on the M-A scatterplots of high-throughput data.

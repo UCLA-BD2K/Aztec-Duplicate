@@ -1,1 +1,1 @@
-Logol is a language used to describe some patterns in a DNA/RNA/Protein sequence. It focuses on biological meaning patterns to help biologists and bio-informaticians formulate some patterns and create an appropriate model. LogolMatch will then scan a sequ
+PathJam integrates pathway-related annotations from several public sources (Reactome, KEGG, Biocarta, etc) making easier the understanding of gene lists of interest.

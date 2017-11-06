@@ -1,1 +1,1 @@
-Calculate codon adaptation index
+Find lowest diagnostic rank

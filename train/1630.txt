@@ -1,1 +1,1 @@
-Classes for storing very large GWAS data sets and annotation, and functions for GWAS data cleaning and analysis.
+Picard 1.122 package definition

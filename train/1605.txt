@@ -1,1 +1,1 @@
-A package to visualise Gene Ontology (GO) enrichment analysis results on gene lists arising from different analyses such clustering or PCA. The significant GO categories are visualised as word clouds that can be combined with different plots summarising the underlying data.
+machine learning scripts for the chemicaltoolbox

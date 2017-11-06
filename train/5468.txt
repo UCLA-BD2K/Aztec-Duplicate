@@ -1,1 +1,1 @@
-Clusters a network based on three-node motifs.
+Authority: cnio.es  -  A sequence similitary search (NCBI Blast) is carried out to find proteins related to the query sequence. Returns the matrix of distances, the first Blast report, and annotations of the proteins

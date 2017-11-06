@@ -1,1 +1,1 @@
-Authority: cgl.imim.es  -  Retrieves all the UniProt identifiers that match with the ProteinId
+A Galaxy wrapper for DESeq version 1.12, DESeq2 version 1.0.19 and DEXSeq version 1.6

@@ -1,1 +1,1 @@
-bwa new version 0.7.5, nomore bwa aln, bwa same/sampe.  BWA-MEM only for this integration version.
+Contains a tool dependency definition that downloads and compiles version 1.1.7 of the Python Imaging Library

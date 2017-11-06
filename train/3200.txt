@@ -1,1 +1,1 @@
-Filter noisy data from molecular weights file
+Contains a tool dependency definition that downloads and compiles version 0.2 of the barrnap.

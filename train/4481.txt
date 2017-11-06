@@ -1,1 +1,1 @@
-Tool to call Mutation Assessor webse
+Neural network predictions for O-Beta-GlcNAc attachment sites in eukaryotic protein sequences

@@ -1,3 +1,1 @@
-SDPSOL is a parser/solver for determinant maximization (MAXDET) and semidefinite programming (SDP) problems with matrix structure.
-
-SDPSOL was first released November 1995. As far as we know, SDPSOL was the first parser/solver for SDP and LMI problems. After SDPSOL was introduced, several others were developed, including the commercial package LMILAB, and the noncommercial packages LMITOOL and YALMIP. The much newer general purpose convex optimization package CVX serves the same purpose (better than SDPSOL).
+Controlled vocabulary of terms for describing gene product characteristics and gene product annotation data from GO Consortium members. THe aim is to standardize representations of gene and gene product attributes across species and databases.

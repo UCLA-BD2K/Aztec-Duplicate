@@ -1,1 +1,0 @@
-Pearson and apos Correlation between any two numeric columns

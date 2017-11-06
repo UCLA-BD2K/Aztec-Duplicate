@@ -1,1 +1,1 @@
-A curated database that provides information about proteins that lack fixed 3D structure in their putatively native states, either in their entirety or in part.
+Authority: inb.bsc.es  -  Translates files in mmCIF format into files in PDB format.

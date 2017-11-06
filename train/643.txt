@@ -1,1 +1,7 @@
-Authority: cnio.es  -  Automatic method for predicting functionally important residues in protein sequence alignments (longer than 50 residues and at least 15 sequences), in the MSF text format, as input.
+Summary: High-throughput genotyping and sequencing technologies facilitate studies of complex genetic traits and provide new research opportunities. The increasing popularity of genome-wide association studies (GWAS) leads to the discovery of new associated loci and a better understanding of the genetic architecture underlying not only diseases, but also other monogenic and complex phenotypes. Several softwares are available for performing GWAS analyses, R environment being one of them.
+        Results: We present cgmisc, an R package that enables enhanced data analysis and visualization of results from GWAS. The package contains several utilities and modules that complement and enhance the functionality of the existing software. It also provides several tools for advanced visualization of genomic data and utilizes the power of the R language to aid in preparation of publication-quality figures. Some of the package functions are specific for the domestic dog (Canis familiaris) data.
+        Availability and implementation: The package is operating system-independent and is available from: https://github.com/cgmisc-team/cgmisc
+        Contact:
+marcin.kierczak@imbim.uu.se
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

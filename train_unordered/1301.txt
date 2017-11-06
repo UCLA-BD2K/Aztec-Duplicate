@@ -1,1 +1,0 @@
-Microarray analysis methods that use BufferedMatrix objects

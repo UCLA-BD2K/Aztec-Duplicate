@@ -1,1 +1,1 @@
-collates data from bioinformatics resources and provides automated gene-centric annotations
+Compute partial R square

@@ -1,1 +1,1 @@
-A package for processing protein mass spectrometry data.
+Integrative clustering of multiple genomic data using a joint latent variable model

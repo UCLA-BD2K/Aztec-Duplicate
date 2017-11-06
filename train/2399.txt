@@ -1,1 +1,1 @@
-A system, based on manual protein annotation, that identifies and semi-automatically annotates proteins that are part of well-conserved families or subfamilies: the HAMAP families. HAMAP is based on manually created family rules and is applied to bacterial, archaeal and plastid-encoded proteins.
+Assign weighted-average of the values of features overlapping an interval

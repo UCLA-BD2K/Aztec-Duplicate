@@ -1,1 +1,0 @@
-Outputs a GFF3 file that specifies the position of the peptide in a reference genome

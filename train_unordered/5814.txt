@@ -1,1 +1,0 @@
-Displays DICOM header from selected files. Has a second window that shows hex equivalent values and offsets within the file.

@@ -1,1 +1,1 @@
-Tools for executing SADI services
+bwa_tools with restricted resources for use in classes

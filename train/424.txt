@@ -1,1 +1,4 @@
-Pairwise sequence alignment of DNA or protein sequences using Waterman-Eggert local alignment.
+Motivation: A genome-scale reconstruction of human metabolism, Recon 2, is available but no interface exists to interactively visualize its content integrated with omics data and simulation results.
+        Results: We manually drew a comprehensive map, ReconMap 2.0, that is consistent with the content of Recon 2. We present it within a web interface that allows content query, visualization of custom datasets and submission of feedback to manual curators.
+        Availability and Implementation: ReconMap can be accessed via http://vmh.uni.lu, with network export in a Systems Biology Graphical Notation compliant format released under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. A Constraint-Based Reconstruction and Analysis (COBRA) Toolbox extension to interact with ReconMap is available via https://github.com/opencobra/cobratoolbox.
+        Contact: ronan.mt.fleming@gmail.com

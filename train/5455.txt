@@ -1,1 +1,1 @@
-Visualizes chemical structure of each compound in chemical network with original interface.
+Convert Color Space to Nucleotides

@@ -1,1 +1,1 @@
-Simple key-frame animation for Cytoscape
+Authority: inb.bsc.es  -  Searches a sequence database with a HMM profile.

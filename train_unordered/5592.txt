@@ -1,1 +1,0 @@
-Provides a number of important methods for analyzing and visualizing residue interaction networks (RINs). 

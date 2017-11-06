@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Searches a sequence database with a HMM profile.
+A collection of tools for manipulation of bamfiles

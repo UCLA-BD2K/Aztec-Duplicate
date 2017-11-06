@@ -1,1 +1,1 @@
-VSEARCH including searching, clustering, chimera detection, dereplication, sorting, masking and shuffling of sequences.
+TopoGSA (Topology-based Gene Set Analysis) is a web-application dedicated to the computation and visualization of network topological properties for gene and protein sets in molecular interaction networks. Different topological characteristics, such as the centrality of nodes in the network or their tendency to form clusters, can be computed and compared with those of known cellular pathways and processes.

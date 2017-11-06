@@ -1,1 +1,1 @@
-G-language Genome Analysis Environment (G-language GAE) is a set of Perl libraries for genome sequence analysis.
+Grape database provide several way to access to the grape genomic data, as a blast search page, a genome browser and a direct link to download the data.

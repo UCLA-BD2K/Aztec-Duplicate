@@ -1,1 +1,1 @@
-CVXGEN generates fast custom code for small, QP-representable convex optimization problems, using an online interface with no software installation. With minimal effort, turn a mathematical problem description into a high speed solver.
+Predictor of the Protein Folding Mechanism and Rate

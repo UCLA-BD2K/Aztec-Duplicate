@@ -1,1 +1,1 @@
-Tools for discriminative motif discovery using regression methods
+piLINCS is the interface to panoramaweb.org. A seamless user interface and intermediate API for accessing LINCS proteomics datasets (P100, GCP, etc.) on Panorama.

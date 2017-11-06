@@ -1,1 +1,1 @@
-Converts VCF files into tab-delimited format
+Authority: mmb.pcb.ub.es  -  Produces a multiple alignment in FASTA format from Blast Hits.

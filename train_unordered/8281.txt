@@ -1,1 +1,0 @@
-Metabolomic publications and databases use different database identifiers or even trivial names which disable queries across databases or between studies. The best way to annotate metabolites is by chemical structures,

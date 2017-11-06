@@ -1,6 +1,2 @@
- 
-	This Web Service predicts location of ribosomal RNA genes in full genome sequences
-	by using Hidden Markov Models based on alignments from a highly cureated dataset of 
-	structurally aligned sequnces.
-	
-	The input is one or more genomic sequence(s) as either one or more contigs
+This is the docking component for the intelligent drug discovery web service 
+                     developed at Dr. Wild's research group at Indiana University

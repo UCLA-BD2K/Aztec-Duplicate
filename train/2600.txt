@@ -1,1 +1,1 @@
-COMMET (â€œCOmpare Multiple METagenomesâ€x9d) provides a global similarity overview between all datasets of a large metagenomic project.
+Contains a tool dependency definition that downloads version 1.0 of the taxonomy package.

@@ -1,1 +1,0 @@
-This project, developed at University College London, contains programs to perform rigid, affine and non-linear registration of nifti or analyse images. Two versions of the algorithms are included, a CPU- and a GPU- (using CUDA) based implementation.

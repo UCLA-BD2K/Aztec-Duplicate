@@ -1,1 +1,1 @@
-Construction of phylogenetic trees of DNA sequences using maximum likelihood
+Convert Kraken output to Galaxy taxonomy data.

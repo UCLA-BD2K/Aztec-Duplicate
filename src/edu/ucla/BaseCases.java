@@ -21,6 +21,7 @@ public class BaseCases {
         this.documents = documents;
     }
 
+    // Find similarities based on authors (if all authors are equivalent)
     public HashSet<List<Integer>> findAuthorSimilarities() {
         HashSet<List<Integer>> similar = new HashSet<>();
 
@@ -29,8 +30,8 @@ public class BaseCases {
                 JSONObject first = (JSONObject)documents.get(i);
                 JSONObject second = (JSONObject)documents.get(j);
 
-                int first_id = Integer.parseInt((String) first.get("id"));
-                int second_id = Integer.parseInt((String) second.get("id"));
+                int first_id = ((Long) first.get("id")).intValue();
+                int second_id = ((Long) second.get("id")).intValue();
 
                 JSONArray first_authors = (JSONArray) first.get("authors");
                 JSONArray second_authors = (JSONArray) second.get("authors");
@@ -71,6 +72,7 @@ public class BaseCases {
         return similar;
     }
 
+    // Find similarities based on institutions (if any institution is equivalent)
     public HashSet<List<Integer>> findInstitutionSimilarities() {
         HashSet<List<Integer>> similar = new HashSet<>();
 
@@ -79,8 +81,8 @@ public class BaseCases {
                 JSONObject first = (JSONObject)documents.get(i);
                 JSONObject second = (JSONObject)documents.get(j);
 
-                int first_id = Integer.parseInt((String) first.get("id"));
-                int second_id = Integer.parseInt((String) second.get("id"));
+                int first_id = ((Long) first.get("id")).intValue();
+                int second_id = ((Long) second.get("id")).intValue();
 
                 JSONArray first_institutions = (JSONArray) first.get("institutions");
                 JSONArray second_institutions = (JSONArray) second.get("institutions");
@@ -118,6 +120,7 @@ public class BaseCases {
         return similar;
     }
 
+    // Find similarities based on links (if any link is equivalent)
     public HashSet<List<Integer>> findLinkSimilarities() {
         HashSet<List<Integer>> similar = new HashSet<>();
 
@@ -126,8 +129,8 @@ public class BaseCases {
                 JSONObject first = (JSONObject)documents.get(i);
                 JSONObject second = (JSONObject)documents.get(j);
 
-                int first_id = Integer.parseInt((String) first.get("id"));
-                int second_id = Integer.parseInt((String) second.get("id"));
+                int first_id = ((Long) first.get("id")).intValue();
+                int second_id = ((Long) second.get("id")).intValue();
 
                 JSONArray first_link = (JSONArray) first.get("sourceCodeURL");
                 JSONArray second_link = (JSONArray) second.get("sourceCodeURL");
@@ -165,6 +168,7 @@ public class BaseCases {
         return similar;
     }
 
+    // Find similarities based on name (if the name is equivalent)
     public HashSet<List<Integer>> findNameSimilarities(){
         HashSet<List<Integer>>  similar = new HashSet<>();
 
@@ -173,8 +177,8 @@ public class BaseCases {
                 JSONObject first = (JSONObject)documents.get(i);
                 JSONObject second = (JSONObject)documents.get(j);
 
-                int first_id = Integer.parseInt((String) first.get("id"));
-                int second_id = Integer.parseInt((String) second.get("id"));
+                int first_id = ((Long) first.get("id")).intValue();
+                int second_id = ((Long) second.get("id")).intValue();
 
                 if(first.get("name").equals(second.get("name"))){
                     if (first_id > second_id) {
@@ -189,6 +193,7 @@ public class BaseCases {
         return similar;
     }
 
+    // Find similarities based on DOI (if the DOI is equivalent)
     public HashSet<List<Integer>> findDOISimilarities(){
         HashSet<List<Integer>>  similar = new HashSet<>();
 
@@ -197,11 +202,21 @@ public class BaseCases {
                 JSONObject first = (JSONObject)documents.get(i);
                 JSONObject second = (JSONObject)documents.get(j);
 
-                int first_id = Integer.parseInt((String) first.get("id"));
-                int second_id = Integer.parseInt((String) second.get("id"));
+                int first_id = ((Long) first.get("id")).intValue();
+                int second_id = ((Long) second.get("id")).intValue();
 
-                String a = (String) first.get("publicationDOI");
-                String b = (String) second.get("publicationDOI");
+                JSONArray doiA = (JSONArray) first.get("publicationDOI");
+                JSONArray doiB = (JSONArray) second.get("publicationDOI");
+
+                String a = "";
+                String b = "";
+                if (doiA != null && doiB != null && doiA.size() > 0 && doiB.size() > 0) {
+                    a = (String) doiA.get(0);
+                    b = (String) doiB.get(0);
+                }
+                else {
+                    continue;
+                }
 
                 if(a == null || b == null || a.equals("") || b.equals("")){
                     continue;
@@ -220,11 +235,12 @@ public class BaseCases {
         return similar;
     }
 
+    // Converts documents to single files in the "train" folder
     public void convertToFiles(){
         try {
             for(int i = 0; i < documents.size(); i++){
                 JSONObject first = (JSONObject)documents.get(i);
-                int first_id = Integer.parseInt((String) first.get("id"));
+                int first_id = ((Long) first.get("id")).intValue();
                 String description = (String) first.get("description");
                 if(description != null) {
                     String filename = "train/" + first_id + ".txt";
@@ -240,7 +256,7 @@ public class BaseCases {
         }
     }
 
-
+    // For all name match pairs, check if the pair exists in similar dois, authors, or institutions.
     public HashSet<List<Integer>> checkNameSimilarities(String name_file, String doi_file, String author_file, String institution_file){
         HashSet<List<Integer>> similar_names = readFile(name_file);
         HashSet<List<Integer>> similar_dois = readFile(doi_file);
@@ -257,8 +273,8 @@ public class BaseCases {
         return matches;
     }
 
+    // Cluster the pairs into groups
     public HashSet<List<Integer>> clusterMatches(HashSet<List<Integer>> matches){
-        //TODO: combine two clusters that have a match
         ArrayList<ArrayList<Integer>> clusters = new ArrayList<>();
         int previous_clusters = -1;
 
@@ -301,6 +317,7 @@ public class BaseCases {
         return clusters_set;
     }
 
+    // Reads in csv files
     public HashSet<List<Integer>> readFile(String file_name){
         HashSet<List<Integer>> set = new HashSet<>();
         try (BufferedReader br = new BufferedReader(new FileReader(file_name))) {
@@ -322,6 +339,7 @@ public class BaseCases {
         return set;
     }
 
+    // Clusters matches, then combines the metadata
     public void combine(String match_file, String mapping_file, String results_file){
         //id?
         try{
@@ -332,7 +350,9 @@ public class BaseCases {
             String urlString = "http://dev.aztec.io:8983/solr/BD2K";
             SolrClient solr = new HttpSolrClient.Builder(urlString).build();
             SolrQuery query = new SolrQuery();
-            int set_id = 10682;
+
+            // SET ID TO NEXT AVAILABLE ID IN DATABASE
+            int set_id = 10967;
             SolrDocumentList finalList = new SolrDocumentList();
 
             HashSet<List<Integer>> clusters = readFile(match_file);
@@ -366,7 +386,7 @@ public class BaseCases {
                     combineStringArrays(cur_doc, update, "language");
                     combineStringArrays(cur_doc, update, "owners");
                     combineStringArrays(cur_doc, update, "platforms");
-                    combineStringArrays(cur_doc, update, "otherPublicationDOI");
+                    combineStringArrays(cur_doc, update, "publicationDOI");
                     combineStringArrays(cur_doc, update, "prev_version");
                     combineStringArrays(cur_doc, update, "tags");
                     combineStringArrays(cur_doc, update, "types");
@@ -383,15 +403,15 @@ public class BaseCases {
                     combineTwoStringArrays(cur_doc, update,"maintainers", "maintainerEmails");
 
                     //updateDate
-                    ArrayList<Date> upd_date = ((ArrayList<Date>)update.get("dateUpdated"));
-                    ArrayList<Date> cur_date = ((ArrayList<Date>)cur_doc.get("dateUpdated"));
+                    Date upd_date = (Date)update.get("dateUpdated");
+                    Date cur_date = (Date)cur_doc.get("dateUpdated");
                     if(upd_date == null && cur_date == null) {}
                     else if(upd_date == null){
                         update.setField("dateUpdated", cur_date);
                     }
                     else if(cur_date == null){}
                     else{
-                        if(upd_date.get(0).before(cur_date.get(0))){
+                        if(upd_date.before(cur_date)){
                             update.setField("dateUpdated", cur_date);
                         }
                     }
@@ -420,6 +440,7 @@ public class BaseCases {
         }
     }
 
+    // Helper function for combining string arrays
     public void combineStringArrays(SolrDocument cur_doc, SolrDocument update, String fieldName){
         ArrayList<String> upd_val = ((ArrayList<String>)update.get(fieldName));
         ArrayList<String> cur_val = ((ArrayList<String>)cur_doc.get(fieldName));
@@ -447,6 +468,7 @@ public class BaseCases {
         }
     }
 
+    // Helper function for combining two string arrays
     public void combineTwoStringArrays(SolrDocument cur_doc, SolrDocument update, String main_field_name, String secondary_field_name){
         ArrayList<String> update_main = (ArrayList<String>)update.get(main_field_name);
         ArrayList<String> cur_main = (ArrayList<String>)cur_doc.get(main_field_name);
@@ -482,6 +504,7 @@ public class BaseCases {
         }
     }
 
+    // Helper function to choose the larger integer for fields
     public void chooseLargerInt(SolrDocument cur_doc, SolrDocument update, String fieldName){
         boolean update_exist = update.containsKey(fieldName);
         boolean current_exist = cur_doc.containsKey(fieldName);
@@ -504,6 +527,7 @@ public class BaseCases {
         }
     }
 
+    // Helper function to choose the smaller integer for fields
     public void chooseSmallerInt(SolrDocument cur_doc, SolrDocument update, String fieldName){
         boolean update_exist = update.containsKey(fieldName);
         boolean current_exist = cur_doc.containsKey(fieldName);
@@ -526,6 +550,7 @@ public class BaseCases {
         }
     }
 
+    // Helper function to choose the longer description as the new description
     public void combineByDescription(SolrDocument cur_doc, SolrDocument update) {
         String update_desc = ((String)update.get("description"));
         String cur_desc = ((String)cur_doc.get("description"));
@@ -543,7 +568,7 @@ public class BaseCases {
             }
         }
 
-        String[] toChange = new String[]{"description", "dateCreated", "latest_version", "logo", "name", "nextVersion", "publicationDOI", "prevVersion",
+        String[] toChange = new String[]{"description", "dateCreated", "latest_version", "logo", "name", "nextVersion", "prevVersion",
             "repo", "source", "sourceCodeURL", "suggestName", "suggestNamePrefix", "suggestTag", "suggestTagPrefix", "summary", "toolDOI", "versionDate", "versionNum"};
         if(change){
             for(String field : toChange){

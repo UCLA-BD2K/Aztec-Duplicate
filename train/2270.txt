@@ -1,1 +1,1 @@
-Visualize events around the World
+Package containing rpy2 2.2.6

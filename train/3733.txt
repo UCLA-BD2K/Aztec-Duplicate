@@ -1,1 +1,1 @@
-SIMAP is a database containing the similarity space formed by about all amino-acid sequences from public databases and completely sequenced genomes.
+MRS is a service that provides text search and retrieval services on many large databanks including UniProt and EMBL. The web service interface, which is also used by the web application at http://mrs.cmbi.ru.nl/ , offers all you need to search and access

@@ -1,3 +1,2 @@
-Term management system. 
-Web Interface: http://www.nactem.ac.uk/software/termine/
-      
+SOAP interface for the OMA Browser at 
+    http://omabrowser.org

@@ -1,1 +1,0 @@
-Automated data analysis from gene expression experiments on a number of different platforms

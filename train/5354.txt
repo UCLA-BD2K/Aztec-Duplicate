@@ -1,1 +1,1 @@
-Output records belonging to samples commong between two datasets.
+A set of functions to dentify regional expression biases

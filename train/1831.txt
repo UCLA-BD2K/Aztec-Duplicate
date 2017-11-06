@@ -1,1 +1,1 @@
-A package that provides an effective visualization of large biological networks
+Bioconductor-specific package checks

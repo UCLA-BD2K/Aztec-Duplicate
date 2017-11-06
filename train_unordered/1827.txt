@@ -1,1 +1,0 @@
-Provides various methods to load the pathways from the NCI Pathways Database in R graph objects and to re-format them.

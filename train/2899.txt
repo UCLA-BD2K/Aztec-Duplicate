@@ -1,1 +1,1 @@
-Allows users to convert a VCF file into a linkage pedigree file (ped) and a marker information file, which together may be loaded into ld visualization tools like Haploview
+Makes a pairwise global alignment using the Needleman-Wunsch global alignment algorithm.

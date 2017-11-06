@@ -1,1 +1,0 @@
-15 flavours of betas and three performance metrics, with methods for objects produced by methylumi, minfi and IMA packages.

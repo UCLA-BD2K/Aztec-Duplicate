@@ -1,1 +1,0 @@
-Uses protein sequences to compute a distance matrix, under three different models of aminoacid replacement.

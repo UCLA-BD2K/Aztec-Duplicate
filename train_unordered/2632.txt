@@ -1,1 +1,0 @@
-Visualiser for the SAM format 

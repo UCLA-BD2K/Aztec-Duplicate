@@ -1,1 +1,1 @@
-rTRM identifies transcriptional regulatory modules (TRMs) from protein-protein interaction networks.
+TAP - Structure Validation. TAP serves to validate the local torsion angles of a protein structure.

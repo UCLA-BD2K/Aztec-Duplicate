@@ -1,1 +1,1 @@
-Analysis of N-dye Micro Array experiment using mixed model effect. Containing analysis of variance, permutation and bootstrap, cluster and consensus tree.
+Authority: genome.imim.es  -  Converts a DNA FASTA sequence into a DNA sequence

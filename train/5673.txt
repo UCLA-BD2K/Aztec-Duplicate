@@ -1,1 +1,1 @@
-SEQUEST performs automated peptide/protein sequencing via database searching of MS/MS spectra without the need for any manual sequence interepretation. 
+The package contains functions for calculate direct and model-based estimators for liquid association. It also provides functions for testing the existence of liquid association given a gene triplet data.

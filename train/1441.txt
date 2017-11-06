@@ -1,1 +1,1 @@
-Inference of Genetic Variants Driving Cellullar Phenotypes by the DIGGIT algorithm
+Installer for the Proteowizard package

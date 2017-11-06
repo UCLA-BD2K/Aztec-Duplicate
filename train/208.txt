@@ -1,1 +1,3 @@
-Epitopes Presence is a web service that retrieves all genes whose encoding protein has an epitope identified by the Immune Epitope Database and Analysis Resource with the confidence specified by the user.
+Summary: SEAL is a scalable tool for short read pair mapping and duplicate removal. It computes mappings that are consistent with those produced by BWA and removes duplicates according to the same criteria employed by Picard MarkDuplicates. On a 16-node Hadoop cluster, it is capable of processing about 13 GB per hour in map+rmdup mode, while reaching a throughput of 19 GB per hour in mapping-only mode.
+        Availability: SEAL is available online at http://biodoop-seal.sourceforge.net/.
+        Contact: luca.pireddu@crs4.it

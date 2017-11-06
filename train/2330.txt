@@ -1,1 +1,1 @@
-This service is like a DNA search engine.
+A suite of tool wrappers for mirDeep2

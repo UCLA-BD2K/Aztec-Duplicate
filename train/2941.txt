@@ -1,1 +1,1 @@
-Needleman-Wunsch global alignment of two sequences
+EMBOSS Backtranambig reads a protein sequence and writes the nucleic acid sequence it could have come from. It does this by using nucleotide ambiguity codes that represent all possible codons for each amino acid.

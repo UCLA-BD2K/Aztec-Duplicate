@@ -1,1 +1,0 @@
-Perform 3 frame translation of BED file augmented with a sequence column

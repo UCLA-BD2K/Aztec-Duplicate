@@ -1,1 +1,1 @@
-Parser for annotation files
+Authority: cnio.es  -  It translates an iHOP XML document to a MOBY object (iHOPsymbol, iHOPabstract, iHOPinteractionList, iHOPdefinitionList, iHOPfoundSymbols)

@@ -1,1 +1,0 @@
-a text mining resource built on top of PubMed abstracts and PubMed Central full texts

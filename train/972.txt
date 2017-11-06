@@ -1,1 +1,1 @@
-Range of bioinformatics tools including Blast, PsiBlast, PhyloTable
+BioGRID is an online interaction repository with data compiled through comprehensive curation efforts

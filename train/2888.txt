@@ -1,1 +1,1 @@
-Sequence format coversion tool
+Find differences between nearly identical sequences

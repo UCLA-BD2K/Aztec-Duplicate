@@ -1,1 +1,0 @@
-SEQUEST performs automated peptide/protein sequencing via database searching of MS/MS spectra without the need for any manual sequence interepretation. 

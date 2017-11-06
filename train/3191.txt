@@ -1,1 +1,1 @@
-DNA Parsimony Program
+Galaxy wrappers for the Lastz alignment tool

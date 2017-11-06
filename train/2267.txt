@@ -1,1 +1,1 @@
-Interactive Cluster Heatmap library
+Installs the RHmm CRAN library.

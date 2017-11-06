@@ -1,1 +1,3 @@
-Search the UniProt database (http://www.uniprot.org/) for interactions using protein ids
+Summary: The Unstructured Information Management Architecture (UIMA) framework and web services are emerging as useful tools for integrating biomedical text mining tools. This note describes our work, which wraps the National Center for Biomedical Ontology (NCBO) Annotator—an ontology-based annotation service—to make it available as a component in UIMA workflows.
+        Availability: This wrapper is freely available on the web at http://bionlp-uima.sourceforge.net/ as part of the UIMA tools distribution from the Center for Computational Pharmacology (CCP) at the University of Colorado School of Medicine. It has been implemented in Java for support on Mac OS X, Linux and MS Windows.
+        Contact: chris.roeder@ucdenver.edu

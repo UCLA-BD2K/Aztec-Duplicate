@@ -1,1 +1,7 @@
-Pairwise sequence alignment of DNA or protein sequences using Myers and Miller global alignment.
+Summary: Database search is the most widely used approach for peptide and protein identification in mass spectrometry-based proteomics studies. Our previous study showed that sample-specific protein databases derived from RNA-Seq data can better approximate the real protein pools in the samples and thus improve protein identification. More importantly, single nucleotide variations, short insertion and deletions and novel junctions identified from RNA-Seq data make protein database more complete and sample-specific. Here, we report an R package customProDB that enables the easy generation of customized databases from RNA-Seq data for proteomics search. This work bridges genomics and proteomics studies and facilitates cross-omics data integration.
+        Availability and implementation:
+customProDB and related documents are freely available at http://bioconductor.org/packages/2.13/bioc/html/customProDB.html.
+        Contact:
+bing.zhang@vanderbilt.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

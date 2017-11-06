@@ -1,1 +1,0 @@
-"ExploreDTI" is a graphical toolbox, developed by Alexander Leemans, for exploratory diffusion (tensor) MRI and fiber tractography.

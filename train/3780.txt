@@ -1,1 +1,1 @@
-OMA (Orthologous MAtrix) is a database that identifies orthologs among publicly available, complete genomes.
+AFNI (which might be an acronym for Analysis of Functional NeuroImages) is a set of C programs for processing, analyzing, and displaying functional MRI (FMRI) data

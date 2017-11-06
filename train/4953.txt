@@ -1,1 +1,1 @@
-Compiled vcflib binaries for x86_64
+Authority: genome.imim.es  -  Phred writes the base calls from a chromatogram and returns a DNA sequence and FASTA base quality data

@@ -1,1 +1,4 @@
-Motivation: Analyses in comparative genomics often require non-redundant genome datasets. Eliminating redundancy is not as simple as keeping one strain for each named species because gen-omes might be redundant at a higher taxonomic level than that of species for some analyses; some strains with different species names can be as similar as most strains sharing a species name, whereas some strains sharing a species name can be so different that they should be put into different groups; and some genomes lack a species name. Results: We have implemented a method and Web server that clusters a genome dataset into groups of redundant genomes at different thresholds based on a few phylogenomic distance measures. Availability: The Web interface, similarity and distance data and R-scripts can be accessed at
+Fast and accurate multiple sequence alignment method.
+
+INPUT: &nbsp;set of unaligned sequences
+OUTPUT: multiple sequence alignment

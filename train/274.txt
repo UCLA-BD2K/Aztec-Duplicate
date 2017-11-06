@@ -1,1 +1,3 @@
-It constructs a Hidden Markov Model from a multiple sequence alignment.
+Identification of driver mutations in human diseases is often limited by cohort size and availability of appropriate statistical models. We propose a method for the systematic discovery of genetic alterations that are causal determinants of disease, by prioritizing genes upstream of functional disease drivers, within regulatory networks inferred de novo from experimental data. Here we present the implementation of Driver-gene Inference by Genetical-Genomic Information Theory as an R-system package.
+                The diggit package is freely available under the GPL-2 license from Bioconductor (http://www.bioconductor.org).
+                Â© The Author 2015. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

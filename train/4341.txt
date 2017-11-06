@@ -1,1 +1,1 @@
-consistency analysis on a pair of Peak files (idr)
+Search and alignment of protein sequences in PDB

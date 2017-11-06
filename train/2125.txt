@@ -1,1 +1,1 @@
-Functions for computing and displaying sample size information for gene expression arrays.
+Contains a tool dependency definition that downloads and compiles version 1.0.0 of bowtie.

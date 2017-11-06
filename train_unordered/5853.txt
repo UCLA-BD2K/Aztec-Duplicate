@@ -1,1 +1,0 @@
-An open source software suite for processing and analyzing (human) brain MRI images.

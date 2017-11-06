@@ -1,1 +1,0 @@
-Annotated view of the genomic sequence of organisms with completely deciphered genomes. Currently, Genome Reviews contains the genomes of archaea, bacteria, bacteriophages and selected eukaryota.

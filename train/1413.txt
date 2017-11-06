@@ -1,1 +1,1 @@
-An integrated mass cytometry data analysis pipeline that enables simultaneous illustration of cellular diversity and progression.
+Preprocessing of CAGE sequencing data, identification and normalization of transcription start sites and downstream analysis of transcription start sites clusters (promoters).

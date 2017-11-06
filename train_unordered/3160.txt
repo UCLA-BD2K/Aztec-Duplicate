@@ -1,1 +1,0 @@
-extract sequences with the largest ORF from a sequence translated with EMBOSS transseq and checktrans

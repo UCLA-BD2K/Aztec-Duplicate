@@ -1,1 +1,0 @@
-A distance based phylogeny reconstruction algorithm

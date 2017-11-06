@@ -1,1 +1,0 @@
-Search Microbial Protein Interaction database for protein interactions using a protein id

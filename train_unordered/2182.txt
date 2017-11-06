@@ -1,1 +1,0 @@
-Filter genetic variants using different criteria such as inheritance model, amino acid change consequence, minimum allele frequencies across human populations, splice site strength, conservation, etc.

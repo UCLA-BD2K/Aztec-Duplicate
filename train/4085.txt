@@ -1,1 +1,1 @@
-Convert delimiters to tab.
+Contains a tool dependency definition that downloads and compiles version 2.7 of Python Pillow library.

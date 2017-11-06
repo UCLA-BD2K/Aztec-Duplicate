@@ -1,1 +1,0 @@
-Pileup-to-Interval condenses pileup format into ranges of bases

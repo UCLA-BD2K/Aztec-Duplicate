@@ -1,1 +1,0 @@
-Predict splice junctions and exons from BAM files and obtain compatible read counts and FPKMs. Identify splice events and estimate relative usage of splice variants based on compatible read counts at event boundaries.

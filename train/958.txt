@@ -1,3 +1,1 @@
-PSICQUIC is an effort from the HUPO Proteomics Standard Initiative (HUPO-PSI) to standardise the access to molecular interaction databases programmatically.
-
-This specific implementation provides remote access to the MINT database.
+The recipe for installing lastz version 1.03.52 as a compiled binary or from source.

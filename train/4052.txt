@@ -1,1 +1,1 @@
-CHROMATRA visualizes genome-wide chromatin signatures
+Contains a tool dependency definition that downloads and compiles version 0.3 of RNAcode.

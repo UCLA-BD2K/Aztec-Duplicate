@@ -1,1 +1,1 @@
-Count the number of heterozygotes and alleles, compute het/hom ratio.
+Multivariate data analysis and graphical display of microarray data. Functions include between group analysis and coinertia analysis. It contains functions that require ADE4.

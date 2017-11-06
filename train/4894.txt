@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.14 of the the scipy python library.
+Discovering sequence motifs in quantitative peptide data

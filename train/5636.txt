@@ -1,1 +1,1 @@
-cy3sbml is a Cytoscape app for the Systems Biology Markup Language SBML
+Protein Identifier Cross Reference service to map proteins by identifiers and sequence

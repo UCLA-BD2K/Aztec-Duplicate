@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Calculate atom - atom cartesian distances from PDB

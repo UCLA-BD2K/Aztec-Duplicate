@@ -1,1 +1,1 @@
-Estimate distribution of methylation patterns from a table of counts from a bisulphite sequencing experiment given a non-conversion rate and read error rate.
+The Integrated Proteomics Pipeline (IP2) is a proteomics data analysis platform. 

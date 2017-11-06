@@ -1,1 +1,1 @@
-A Tool for Epistasis Analysis Based on Functional Regression Model
+Contains a tool dependency definition that downloads and compiles all dependencies from the Perl XML::Parser::Expat library.

@@ -1,1 +1,6 @@
-PSICQUIC is an effort from the HUPO Proteomics Standard Initiative (HUPO-PSI) to standardise the access to molecular interaction databases programmatically.
+Summary: Transposon insertion sequencing is a high-throughput technique for assaying large libraries of otherwise isogenic transposon mutants providing insight into gene essentiality, gene function and genetic interactions. We previously developed the Transposon Directed Insertion Sequencing (TraDIS) protocol for this purpose, which utilizes shearing of genomic DNA followed by specific PCR amplification of transposon-containing fragments and Illumina sequencing. Here we describe an optimized high-yield library preparation and sequencing protocol for TraDIS experiments and a novel software pipeline for analysis of the resulting data. The Bio-Tradis analysis pipeline is implemented as an extensible Perl library which can either be used as is, or as a basis for the development of more advanced analysis tools. This article can serve as a general reference for the application of the TraDIS methodology.
+        Availability and implementation: The optimized sequencing protocol is included as supplementary information. The Bio-Tradis analysis pipeline is available under a GPL license at https://github.com/sanger-pathogens/Bio-Tradis
+        Contact:
+parkhill@sanger.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

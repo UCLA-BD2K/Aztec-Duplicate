@@ -1,1 +1,0 @@
-Fetch fasta sequences from NCBI using eutils wrappers

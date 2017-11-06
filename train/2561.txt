@@ -1,1 +1,1 @@
-Kinetoplastid genome resources.
+Removes a section from a sequence

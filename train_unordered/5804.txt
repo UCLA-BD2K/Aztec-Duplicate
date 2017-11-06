@@ -1,1 +1,0 @@
-Well-developed 2D DICOM viewer with easy controls. Handles multi modality, cine, DicomDir, printing, and CDs.

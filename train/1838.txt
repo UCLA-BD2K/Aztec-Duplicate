@@ -1,1 +1,1 @@
-This package allows to detect and correct for spatial and intensity biases with two-channel microarray data. The normalization method implemented in this package is based on robust neural networks fitting.
+Classes and statistical methods for large SNP association studies, extending the snpMatrix package

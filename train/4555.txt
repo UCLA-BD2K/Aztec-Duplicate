@@ -1,1 +1,1 @@
-NCBI BLAST+ 2.2.27 (binaries only) 
+Contains a tool dependency definition that downloads and compiles version 1.4.2-1 of MACS.

@@ -1,1 +1,1 @@
-Devoted to the characterization of complete chromosome sequences by standardized genometric methods, the Comparative Genometrics website displays for sequenced genomes, three different genometric analyses: the DNA walk and the GC and TA skews during the initial phase. Although primarly focused on prokaryotic chromosomes, the CG website posts genometric information on paradigm plasmids, phages, viruses, and organelles.
+Tool to call FATHMM webservice

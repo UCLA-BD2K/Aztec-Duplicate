@@ -1,1 +1,1 @@
-Slice:Drop is a web-based 2D/3D viewer using WebGL and HTML5 Canvas to perform image rendering in a web browser. Based on the open source XTK toolkit, Slice:Drop runs on computers and mobile devices. On systems with a filesystem, image files may be dropped on the rendering window, and all data stays within the browser. Many medical image file formats are supported natively.
+The package enables a simple unified interface to several annotation packages each of which has its own schema by taking advantage of the fact that each of these packages implements a select methods.

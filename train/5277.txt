@@ -1,1 +1,1 @@
-testing5
+Enables import of GPML file via import menu.

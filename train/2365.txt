@@ -1,1 +1,1 @@
-Comprehensive enzyme information.
+Finds enriched function based on sum-of-weight scores.

@@ -1,1 +1,1 @@
-Protein function prediction
+An annotated and curated relational database of glycan structures.

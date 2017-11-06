@@ -1,1 +1,1 @@
-Venn diagram list comparisons
+Webservice interface for RNA folding and sequence design using the program RNAfold from the Vienna package ( http://www.tbi.univie.ac.at/~ivo/RNA/ ). Currently RNAfold from Vienna package version 1.4. 

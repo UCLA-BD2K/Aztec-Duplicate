@@ -1,1 +1,0 @@
-Provides functionality for the compression and decompression of raw bead-level data from the Illumina BeadArray platform

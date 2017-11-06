@@ -1,1 +1,1 @@
-ASPic-GeneID is a lightweight pipeline for gene prediction and alternative isoforms detection
+predicts the subcellular location of eukaryotic proteins.

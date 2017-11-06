@@ -1,1 +1,1 @@
-Meta package for bio parser
+Authority: inb.bsc.es  -  Search a protein database for matches with the mass spectrometry data.

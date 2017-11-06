@@ -1,1 +1,0 @@
-Contains a tool dependency definition that downloads and compiles the 0.7.x version of bx-python.

@@ -1,1 +1,1 @@
-Authority: cnio.es  -  Transforms the output from the annotation service, FunCUT, into a file in xml format of distributed annotation system (DAS)
+Convert BAM file to fastq

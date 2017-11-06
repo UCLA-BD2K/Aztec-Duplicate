@@ -1,1 +1,0 @@
-NONCODE database (http://www.noncode.org) integrates expression and functional long noncoding RNAs (lncRNA) data.

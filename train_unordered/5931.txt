@@ -1,1 +1,0 @@
-Functional MRI Analysis and Clustering Tools (FACT) is a suite of fMRI processing tools.

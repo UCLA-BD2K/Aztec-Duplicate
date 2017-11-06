@@ -1,1 +1,1 @@
-TrinityStat.pl utility from trinitynraseq package
+Prediction of a bacteria's pathogenicity towards human hosts

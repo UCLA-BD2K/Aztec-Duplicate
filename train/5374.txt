@@ -1,1 +1,1 @@
-Left-align indels and complex variants in VCF dataset
+Algorithm for recalibrating the base quality scores for aligned sequencing data in BAM format.

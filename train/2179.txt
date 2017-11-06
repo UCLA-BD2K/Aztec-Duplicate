@@ -1,1 +1,1 @@
-A collection of functions for retrieving, processing and repackaging the Uniprot web services.
+Creates a consensus from multiple alignments

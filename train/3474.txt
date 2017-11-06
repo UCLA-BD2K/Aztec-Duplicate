@@ -1,1 +1,1 @@
-Prediction of presence of chloroplast transit peptides and their cleavage sites in plant proteins
+FireDB is a curated inventory of catalytic and biologically relevant small ligand-binding residues 

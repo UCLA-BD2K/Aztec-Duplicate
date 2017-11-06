@@ -1,1 +1,0 @@
-Call SNPs and indels simultaneously via local de-novo assembly of haplotypes in an active region.

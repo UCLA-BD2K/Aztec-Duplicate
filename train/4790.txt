@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.1.7 of the Python Imaging Library (PIL).
+FastQC wrapper

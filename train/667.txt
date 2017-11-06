@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Compares a nucleotide sequence against a nucleotide database using the FASTA algorithm.
+demo bowtie

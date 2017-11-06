@@ -1,1 +1,0 @@
-Authority: cnio.es  -  It returns the PubMed abstract identified by the input, tagged and enriched by the iHOP system

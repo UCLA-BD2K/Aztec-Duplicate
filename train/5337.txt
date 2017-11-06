@@ -1,1 +1,1 @@
-Adds info fields from the second dataset which are not present in the first dataset.
+Authority: inb.bsc.es  -  Evaluation of an alignment using Tcoffee.

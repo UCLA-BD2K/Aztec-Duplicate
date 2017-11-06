@@ -1,1 +1,1 @@
-Compute distance matrix from protein sequences
+Download a NIF ontology file.

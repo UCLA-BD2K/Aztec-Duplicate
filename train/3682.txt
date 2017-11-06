@@ -1,1 +1,1 @@
-Position Specific Iterative BLAST (PSI-BLAST) refers to a feature of NCBI BLAST 2.0 in which a position-specific scoring matrix (PSSM) profile is constructed from set of BLAST alignments.
+Xplore3D provides a complete solution for 3D tomographic acquisition, reconstruction, and visualization into one integrated package.

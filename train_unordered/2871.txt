@@ -1,1 +1,0 @@
-Protein Identifier Cross Reference service to map proteins by identifiers and sequence

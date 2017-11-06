@@ -1,1 +1,1 @@
-Calculate the thermodynamics of RNA-RNA interactions
+Scan a protein sequence with motifs from the PROSITE database

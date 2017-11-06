@@ -1,1 +1,0 @@
-# This script is designed to compare two fastq files. 

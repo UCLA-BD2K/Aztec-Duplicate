@@ -1,1 +1,1 @@
-Genome-wide annotations of regulatory sites.
+Protein structure analyses

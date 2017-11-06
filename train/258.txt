@@ -1,1 +1,6 @@
-Creates a consensus from multiple alignments.
+Summary: forqs is a forward-in-time simulation of recombination, quantitative traits and selection. It was designed to investigate haplotype patterns resulting from scenarios where substantial evolutionary change has taken place in a small number of generations due to recombination and/or selection on polygenic quantitative traits.
+        Availability and implementation: forqs is implemented as a command-line C++ program. Source code and binary executables for Linux, OSX and Windows are freely available under a permissive BSD license: https://bitbucket.org/dkessner/forqs.
+        Contact:
+jnovembre@uchicago.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

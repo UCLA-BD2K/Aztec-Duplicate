@@ -1,1 +1,1 @@
-Installs tool dependencies for PeptideShaker 0.31
+Extract regions from a sequence alignment

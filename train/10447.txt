@@ -1,1 +1,0 @@
-Motivation: BUCKy is a C++ program that implements Bayesian concordance analysis. The method uses a non-parametric clustering of genes with compatible trees, and reconstructs the primary concordance tree from clades supported by the largest proportions of genes. A population tree with branch lengths in coalescent units is estimated from quartet concordance factors.

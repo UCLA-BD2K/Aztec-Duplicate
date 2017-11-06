@@ -1,2 +1,1 @@
-Rose (Random model Of Sequence Evolution) implements a new probabilistic model of the evolution of RNA, DNA, or protein-like sequences.
-Guided by an evolutionary tree, a family of related sequences is created from a common ancestor sequence by insertion,
+A quality control tool for flow cytometry data based on compositional data analysis.

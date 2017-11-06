@@ -1,1 +1,1 @@
-Find nuclear localization signals (NLSs) in protein sequences
+Authority: inb.bsc.es  -  Finds the Michaelis Menten constant (Km) and the maximum velocity (Vmax) for an enzyme reaction by a Michaelis Menten and Hanes/Woolf plot.

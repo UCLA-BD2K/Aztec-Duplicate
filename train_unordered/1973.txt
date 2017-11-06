@@ -1,1 +1,0 @@
-Interactvive viewing and exploration of graphs, connecting R to Cytoscape.js

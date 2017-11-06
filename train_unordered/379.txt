@@ -1,1 +1,0 @@
-Parses slice information of an ENSEMBL homolog.

@@ -1,1 +1,0 @@
-Mini workflow for preprocessing fastq files, it includes quality trimming, duplicate and artefacts filters for FASTQ read files.

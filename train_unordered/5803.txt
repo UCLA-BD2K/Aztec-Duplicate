@@ -1,1 +1,0 @@
-DICOM image viewer and filter for Windows. Subset of full-featured commercial application. The free version is easy to use and has comprehensive conversion abilities (DICOM to JPG, PNG etc).

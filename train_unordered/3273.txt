@@ -1,1 +1,0 @@
-Displays protein sequences with features in pretty format

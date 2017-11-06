@@ -1,1 +1,0 @@
-Principal Angle Enrichment Analysis (PAEA) is a R/Shiny gene set enrichment web application with over 70 gene set libraries available for enrichment analysis. PAEA uses the geometrical concept of the principal angle to quantify gene-set enrichment. 

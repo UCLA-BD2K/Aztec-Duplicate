@@ -1,1 +1,1 @@
-Fast Computation of Entropic Profiles for the Detection of Conservation in Genomes
+Integrate data from multiple species, mapping multiple orthologs

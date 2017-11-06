@@ -1,1 +1,1 @@
-Graph theory (a.k.a. network) library for analysis and visualisation
+Authority: cnio.es  -  It returns all the sentences which define the iHOP gene or protein symbol related to the input

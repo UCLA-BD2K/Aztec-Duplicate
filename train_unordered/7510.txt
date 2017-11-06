@@ -1,1 +1,0 @@
-Motivation: The ChEMBLSpace graphical explorer enables the identification of compounds from the ChEMBL database, which exhibit a desirable polypharmacology profile. This profile can be predefined or created iteratively, and the tool can be extended to other data

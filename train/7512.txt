@@ -1,1 +1,1 @@
-Mobile technologies provide unique opportunities for ubiquitous distribution of scientific information through user-friendly interfaces.
+This package implements the remove unwanted variation (RUV) methods of Risso et al. (2014) for the normalization of RNA-Seq read counts between samples.

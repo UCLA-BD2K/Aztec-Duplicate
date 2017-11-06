@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 4.3.3.1 of netcdf. 
+ Contains a tool dependency definition that downloads and compiles version 1.8 of the Vienna RNA package. 

@@ -1,1 +1,1 @@
-Maximal Information-based Nonparametric Exploration
+Convert numerical representation of genotypes to allelic.

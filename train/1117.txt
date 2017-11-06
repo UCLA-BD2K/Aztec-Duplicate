@@ -1,1 +1,1 @@
-We offer two webservices for probe selection in DNA microarray experiments
+The package contains functions for pre-processing Affymetrix data using the RMA+ and the RMA++ methods.

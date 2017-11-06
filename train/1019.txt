@@ -1,1 +1,1 @@
-WSxVO_BAMS_Features
+Contains a tool dependency definition that downloads and extract version 6.2.x of the the GNU readline library.

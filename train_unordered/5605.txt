@@ -1,1 +1,0 @@
-Manager plugin required for all scripting engines

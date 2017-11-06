@@ -1,1 +1,1 @@
-cufflinks gffread filters and/or converts GFF3/GTF2 records
+Authority: genome.imim.es  -  Run RepeatMasker to mask repeat sequences within a DNA sequence

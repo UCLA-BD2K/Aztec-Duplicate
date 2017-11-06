@@ -1,1 +1,1 @@
-Hogenom_tree is a set of webservices allowing to browse Hogenom 4 phylogenetic trees.
+Reactome is a free, open-source, curated and peer reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic research, genome analysis, modeling, systems biology and education.

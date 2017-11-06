@@ -1,1 +1,1 @@
-FASTQ interlacer on paired end reads
+BLAST parser

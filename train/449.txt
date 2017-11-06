@@ -1,1 +1,4 @@
-Restful Web service for submitting, tracking and downloading results of parameter fittings  of SBML models to experimental data. See www.sbsi.ed.ac.uk for more details.
+Motivation: Using high-throughput sequencing, researchers are now generating hundreds of whole-genome assays to measure various features such as transcription factor binding, histone marks, DNA methylation or RNA transcription. Displaying so much data generally leads to a confusing accumulation of plots. We describe here a multithreaded library that computes statistics on large numbers of datasets (Wiggle, BigWig, Bed, BigBed and BAM), generating statistical summaries within minutes with limited memory requirements, whether on the whole genome or on selected regions.
+        Availability and Implementation: The code is freely available under Apache 2.0 license at www.github.com/Ensembl/Wiggletools
+        Contact:
+zerbino@ebi.ac.uk or flicek@ebi.ac.uk

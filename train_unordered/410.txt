@@ -1,1 +1,0 @@
-Carries out the Fitch-Margoliash and Least-Squares methods, plus a variety of others of the same family, with the assumption that all tip species are contemporaneous, and there is an evolutionary clock.

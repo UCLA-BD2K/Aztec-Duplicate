@@ -1,1 +1,0 @@
-AACon is a set of tools implementing different conservation scores.

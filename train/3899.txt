@@ -1,1 +1,1 @@
-PRECIS is an automated annotation system which generates protein reports from sets of related SWISS-PROT entries
+MetaPhlAn (Metagenomic Phylogenetic Analysis) is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data

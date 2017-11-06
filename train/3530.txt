@@ -1,1 +1,1 @@
-Convert a file from a format to another.
+CEAS - Cis-regulatory Element Annotation System

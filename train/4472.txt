@@ -1,1 +1,1 @@
-Mugsy
+show-emfit enables to fit an Hiden Markov Model on sequences using EM algorithm (learning) and to reconstruct the hidden state path using forward-backward algorithm (segmentation). When used with fixed parameters, show_emfit only produces the sequence segmentation with the forward-backward algorithm.

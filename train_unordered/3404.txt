@@ -1,1 +1,0 @@
-The ProMaya server for estimating the effect of mutations on protein thermal stability

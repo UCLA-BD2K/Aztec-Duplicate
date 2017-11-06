@@ -1,1 +1,1 @@
-Create a codon usage table from nucleotide sequence(s)
+Multiple alignment program for amino acid or nucleotide sequences

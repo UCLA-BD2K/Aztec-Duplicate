@@ -1,1 +1,1 @@
-A two-dimensional polyacrilamide gel electrophoresis federated database.
+Identify and report CpG-rich regions in nucleotide sequence(s)

@@ -1,1 +1,1 @@
-Reads and writes (returns) many sets of sequences
+NetMHCIIpan 3.0 server predicts binding of peptides to MHC class II molecules. The predictions are available for all three human MHC class II isotypes, HLA-DR, HLA-DP and HLA-DQ, as well as mouse molecules.

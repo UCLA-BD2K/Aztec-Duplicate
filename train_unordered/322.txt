@@ -1,1 +1,0 @@
-Annotates the prosite motifs of a pdb entry.

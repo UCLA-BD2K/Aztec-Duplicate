@@ -1,1 +1,1 @@
-Annotation of protein sequence with structural info from similar proteins in the PDB
+Gramene adds value to public data sets of grass genomes and helps to compare, identify and understand genes, pathways and phenotypes from different grass species.

@@ -1,1 +1,1 @@
-Authority: cnio.es  -  MOBY services that check the Async MBOY libraries
+Contains a tool dependency definition that downloads and compiles version 2013-03 of the RDKit cheminformatics and machine-learning package.

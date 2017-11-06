@@ -1,1 +1,2 @@
-This package provides S4 classes and methods for inferring functional gene networks with edges encoding posterior beliefs of gene association types and nodes encoding perturbation effects.
+Executes blast on a blast (blastn or blastp) on ProDom database (protein domain database). 
+ProDom database home page: http://prodom.prabi.fr/prodom/current/html/home.php

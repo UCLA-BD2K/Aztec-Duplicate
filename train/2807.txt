@@ -1,1 +1,1 @@
-SATRAP: a SOLiD Assembly TRAnslation Program
+test tool repository

@@ -1,1 +1,0 @@
-Algorithm for testing significance of clustering in RNA-seq data.

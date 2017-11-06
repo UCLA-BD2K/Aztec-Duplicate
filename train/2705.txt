@@ -1,1 +1,1 @@
-Program MOLE 1.4 is a toolkit for location and basic characterization of channels in molecular structures.
+Contains a tool dependency definition that downloads and compiles version 1.1.x of the EDeN package.

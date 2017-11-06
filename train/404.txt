@@ -1,1 +1,8 @@
-Run a Simple Molecular Dynamic Simulation (optimization) with Protein-Solvent system (Using Namd program).
+Abstract
+        Motivation: Codon models are widely used to identify the signature of selection at the molecular level and to test for changes in selective pressure during the evolution of genes encoding proteins. The large size of the state space of the Markov processes used to model codon evolution makes it difficult to use these models with large biological datasets. We propose here to use state aggregation to reduce the state space of codon models and, thus, improve the computational performance of likelihood estimation on these models.
+        Results: We show that this heuristic speeds up the computations of the M0 and branch-site models up to 6.8 times. We also show through simulations that state aggregation does not introduce a detectable bias. We analyzed a real dataset and show that aggregation provides highly correlated predictions compared to the full likelihood computations. Finally, state aggregation is a very general approach and can be applied to any continuous-time Markov process-based model with large state space, such as amino acid and coevolution models. We therefore discuss different ways to apply state aggregation to Markov models used in phylogenetics.
+        Availability and Implementation: The heuristic is implemented in the godon package (https://bitbucket.org/Davydov/godon) and in a version of FastCodeML (https://gitlab.isb-sib.ch/phylo/fastcodeml).
+        Contact:
+nicolas.salamin@unil.ch
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,1 @@
-Conotoxin peptide sequences and structures.
+cisPath is an R package that uses web browsers to visualize and manage protein-protein interaction networks.

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and extract version 1.2.36 of Aragorn.
+PIntron is a pipeline for gene-structure prediction based on spliced alignment of transcript sequences (ESTs and mRNAs) against a genomic sequence.

@@ -1,1 +1,1 @@
-bwa_tools with restricted resources for use in classes
+Compiles and installs Sergei Pond's GenBank taxonomy tools.

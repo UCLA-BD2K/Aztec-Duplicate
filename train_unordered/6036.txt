@@ -1,1 +1,0 @@
-A new VMD plugin that interfaces with DelPhi to provide ensemble-averaged electrostaticcalculations using the Poisson-Boltzmann equation is presented.

@@ -1,1 +1,0 @@
-Galaxy datatypes required by the Metagenomics Workflow - GVL

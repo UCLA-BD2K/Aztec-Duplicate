@@ -1,1 +1,0 @@
-Extract sequence Ids from blast hits (in USA format)

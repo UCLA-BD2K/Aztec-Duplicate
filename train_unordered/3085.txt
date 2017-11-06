@@ -1,1 +1,0 @@
-Scan Nucleotide or Protein Sequences for Matching Patterns

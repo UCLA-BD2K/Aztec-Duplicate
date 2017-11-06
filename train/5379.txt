@@ -1,1 +1,6 @@
-Randomly sample sites from VCF dataset
+geneSmash is a mash-up of various sources of information about human genes. The primary sources at the time of this writing are
+(1) The gene_info file from the NCBI Entrez gene FTP site.
+(2) The gene2unigene file from the NCBI Entrez gene FTP site.
+(3) The refFlat.txt file from the UCSC Genome Browser.
+(4) The hsa.gff file from miRBase.
+(5) Human gene expression array annotation information is extracted from the Manufacturer's (Affymetrix, Agilent and Illumina) websites.

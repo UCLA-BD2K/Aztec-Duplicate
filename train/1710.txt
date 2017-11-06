@@ -1,1 +1,1 @@
-Various optimization methods for Lasso inference with matrix warpper
+Retrieves an entry from GenBank database.

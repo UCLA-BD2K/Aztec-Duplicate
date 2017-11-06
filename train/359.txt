@@ -1,1 +1,4 @@
-Compares the six-frame translations of a nucleotide query sequence against the six-frame translations of a nucleotide sequence database and calculates the statistical significance of matches using the Basic Local Alignment Search Tool (BLAST).
+Summary: PANDA (Passing Attributes between Networks for Data Assimilation) is a gene regulatory network inference method that uses message-passing to integrate multiple sources of ‘omics data. PANDA was originally coded in C ++. In this application note we describe PyPanda, the Python version of PANDA. PyPanda runs considerably faster than the C ++ version and includes additional features for network analysis.
+        Availability and implementation: The open source PyPanda Python package is freely available at http://github.com/davidvi/pypanda.
+        Contact:
+mkuijjer@jimmy.harvard.edu or d.g.p.van_ijzendoorn@lumc.nl

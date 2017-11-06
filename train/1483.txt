@@ -1,1 +1,1 @@
-Technical performance metrics for differential gene expression experiments using External RNA Controls Consortium (ERCC) spike-in ratio mixtures.
+Outputs a GFF3 file that specifies the position of the peptide in a reference genome

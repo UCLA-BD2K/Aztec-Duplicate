@@ -1,1 +1,1 @@
-ASPicDB is a database of the alternative splicing pattern of human genes
+The HCVIVdb presents specialized and medically-oriented database of published variations observed within the internal ribosome entry site (IRES) variants in hepatitis C virus. Hepatitis C is a virus which is able to hijack the human protein translation machinery and produce its own proteins via an Internal Ribosome Entry Site or IRES. HCVIVdb was developed to better understand the relationship between IRES mutations and the corresponding changes in IRES structure and function.

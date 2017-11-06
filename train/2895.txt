@@ -1,1 +1,1 @@
-Mechanism, Annotation and Classification in Enzymes
+Retrieves 3D structure for each chain from a parameter structured as PDB file.

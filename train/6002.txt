@@ -1,1 +1,1 @@
-This package contains various functions for multi-dimensional image processing.
+A two-dimensional polyacrilamide gel electrophoresis federated database.

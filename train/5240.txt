@@ -1,1 +1,1 @@
-Collection of mississippi tools for virus detection or discovery from (small) RNA sequence datasets
+Software suite for Macromolecular X-Ray Crystallography

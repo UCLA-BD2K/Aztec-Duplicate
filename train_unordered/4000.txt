@@ -1,1 +1,0 @@
-Converts blast xml file to a tabular with options for unmatched queries, and number of hits to convert

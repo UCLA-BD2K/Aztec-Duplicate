@@ -1,1 +1,1 @@
-Downloads and compiles version 4.6.3 of the Trans-Proteomic Pipeline.
+Authority: inb.bsc.es  -  Refines a text search of OMIM database (more precisely, the text is searched in these fields: text, allelicvariants, clinical synopsis and references).

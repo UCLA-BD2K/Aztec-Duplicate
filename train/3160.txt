@@ -1,1 +1,1 @@
-extract sequences with the largest ORF from a sequence translated with EMBOSS transseq and checktrans
+Get the flanking regions of a set of reference.

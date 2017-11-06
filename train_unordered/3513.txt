@@ -1,1 +1,0 @@
-Get Read Distribution v1.0.1: Plot the number of identical reads and give the most represented.

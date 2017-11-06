@@ -1,1 +1,0 @@
-Visualize dynamic networks in Cytoscape 3.0

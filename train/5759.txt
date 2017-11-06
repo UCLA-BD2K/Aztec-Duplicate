@@ -1,1 +1,1 @@
-The AMC Postprocessing Package processes and displays MRI data sets. It can register, reslice and overlay functional scans on top of anatomical scans. Multi datasets, multiple viewports, plugin architecture, multithreading core, multiprocessor capable, platform independent (Qt/VTK).
+The interactiveDisplay package contains the methods needed to generate interactive Shiny based display methods for Bioconductor objects.

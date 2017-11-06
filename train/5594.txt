@@ -1,1 +1,1 @@
-Loads pathway data from the reactome server and integrates expression data.
+Image analysis, manual and automated tools for structural identification and methods for tissue classification and cortical surface generation, for MR, PET, SPECT and FMRI.

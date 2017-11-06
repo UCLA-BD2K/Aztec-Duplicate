@@ -1,1 +1,0 @@
-RONN predict whether a protein is disordered, given its amino acid sequence.

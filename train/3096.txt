@@ -1,1 +1,1 @@
-Reads sequences and writes them to individual files
+testing

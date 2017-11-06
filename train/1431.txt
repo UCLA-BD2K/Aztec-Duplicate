@@ -1,1 +1,1 @@
-Helper package for speeding up the derfinder package when using multiple cores.
+Contains a tool dependency definition that downloads and installs version 2.2.26+ of the NCBI BLAST+ package.

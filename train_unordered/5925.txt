@@ -1,1 +1,0 @@
-Nifty Sim is a high-performance nonlinear finite element solver, developed at University College London. A key feature is the option of GPU-based execution, which allows the solver to significantly out-perform equivalent commercial packages.

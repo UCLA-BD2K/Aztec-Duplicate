@@ -1,1 +1,1 @@
-For use in local realignment.
+convert a samtools mpileup pileup to vcf

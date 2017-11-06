@@ -1,1 +1,0 @@
-Models and methods for fitting linear models to gene expression data, together with tools for computing and using various regression diagnostics.

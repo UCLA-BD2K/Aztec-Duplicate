@@ -1,1 +1,0 @@
-ARP/wARP is a software suite for automated protein model building and structure refinement

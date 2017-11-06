@@ -1,1 +1,0 @@
-fork of existing package_libxml2_2_9_1 from devteam with some additional environment variable exports

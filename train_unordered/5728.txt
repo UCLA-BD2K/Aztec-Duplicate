@@ -1,1 +1,0 @@
-EnigmaVis is a tool for generating interactive plots that you can use to visualize and navigate datasets from ENIGMA.

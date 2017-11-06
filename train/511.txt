@@ -1,6 +1,7 @@
-REST services for MIRIAM Resources.
-Allows you to:
-- retrieve the list of all available MIRIAM datatypes
-- retrieve information about a given datatype
-- resolve a given MIRIAM URN (for example: urn:miriam:uniprot:P62158 into physical locations
-- ...
+Motivation: Exome sequencing technologies have transformed the field of Mendelian genetics and allowed for efficient detection of genomic variants in protein-coding regions. The target enrichment process that is intrinsic to exome sequencing is inherently imperfect, generating large amounts of unintended off-target sequence. Off-target data are characterized by very low and highly heterogeneous coverage and are usually discarded by exome analysis pipelines. We posit that off-target read depth is a rich, but overlooked, source of information that could be mined to detect intergenic copy number variation (CNV). We propose cnvOffseq, a novel normalization framework for off-target read depth that is based on local adaptive singular value decomposition (SVD). This method is designed to address the heterogeneity of the underlying data and allows for accurate and precise CNV detection and genotyping in off-target regions.
+        Results: cnvOffSeq was benchmarked on whole-exome sequencing samples from the 1000 Genomes Project. In a set of 104 gold standard intergenic deletions, our method achieved a sensitivity of 57.5% and a specificity of 99.2%, while maintaining a low FDR of 5%. For gold standard deletions longer than 5 kb, cnvOffSeq achieves a sensitivity of 90.4% without increasing the FDR. cnvOffSeq outperforms both whole-genome and whole-exome CNV detection methods considerably and is shown to offer a substantial improvement over naïve local SVD.
+        Availability and Implementation: cnvOffSeq is available at http://sourceforge.net/p/cnvoffseq/
+        Contact:
+evangelos.bellos09@imperial.ac.uk or l.coin@imb.uq.edu.au
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

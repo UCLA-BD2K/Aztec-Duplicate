@@ -1,1 +1,1 @@
-A BLAST post-processing filter
+We present easyFRAP, a versatile tool that assists quantitative and qualitative analysis of fluorescence recovery after photobleaching (FRAP) data.

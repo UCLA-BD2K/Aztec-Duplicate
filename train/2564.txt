@@ -1,1 +1,1 @@
-Information about viruses, viroids and satellites of plants, fungi and protozoa, with some additional data on related animal viruses.
+Multiple alignment program for amino acid or nucleotide sequences.

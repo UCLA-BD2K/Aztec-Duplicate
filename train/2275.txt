@@ -1,1 +1,1 @@
-A slush generator for BioJS modules
+sampling sequencing library (and text)

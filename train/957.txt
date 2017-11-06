@@ -1,1 +1,1 @@
-Service devoloped in Genesilico lab for homology modeling of RNA structures
+The recipe for installing lastz version 1.02.00 as a compiled binary or from source.

@@ -1,1 +1,7 @@
-compares a protein sequence to a genomic DNA sequence, allowing for introns and frameshifting errors.
+Summary: In this article, we introduce a robust and efficient strategy for deriving global and allele-specific copy number alternations (CNA) from cancer whole exome sequencing data based on Log R ratios and B-allele frequencies. Applying the approach to the analysis of over 200 skin cancer samples, we demonstrate its utility for discovering distinct CNA events and for deriving ancillary information such as tumor purity.
+        Availability and implementation:
+https://github.com/xfwang/CLOSE
+        Contact:
+xuefeng.wang@stonybrook.edu or michael.krauthammer@yale.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

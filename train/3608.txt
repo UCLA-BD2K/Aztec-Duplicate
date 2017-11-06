@@ -1,1 +1,1 @@
-The primary data from the saqqaq genome project: the sequencing of an Ancient Human Genome, obtained from a permafrost-preserved hair, about 4,000 years old, of a male palaeo-Eskimo of the Saqqaq culture, the earliest known settlers in Greenland.
+Parses sequence IDs from the hits of a blast report.

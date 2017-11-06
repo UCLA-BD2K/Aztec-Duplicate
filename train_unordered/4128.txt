@@ -1,1 +1,0 @@
-Builds sam indexes using the new data table format.

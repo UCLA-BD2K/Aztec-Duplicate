@@ -1,1 +1,0 @@
-bioassayR provides tools for statistical analysis of small molecule bioactivity data

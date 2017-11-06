@@ -1,1 +1,0 @@
-SIMULAIS is a versatile open-source Discrete Event Simulator (DES) for Artificial Immune Systems (AIS) written in Microsoft .NET platform. It is completely object-oriented, thus it can be easily extended as new immunological discoveries are made.

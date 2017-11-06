@@ -1,1 +1,1 @@
-Lynx provides programmatic access to the analytical tools (Enrichment Analysis, and Network-based gene prioritization) and annotations on the genes (integrated from over 35 databases).
+This packages provides functions for structure adaptive smoothing of digital images. This includes I/O functions for several image formats (including RAW), which relies on ImageMagick, image analysis and processing tools

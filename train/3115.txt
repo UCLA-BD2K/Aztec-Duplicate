@@ -1,1 +1,1 @@
-Identify proteins with specified sequence word composition
+FRST serves to validate the energy of a protein structure. The server computes both an overall and a per-residue energy profile of a protein structure

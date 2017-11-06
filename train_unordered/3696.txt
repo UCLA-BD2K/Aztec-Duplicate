@@ -1,1 +1,0 @@
-The services retrieves entries (sequences, litterature abstract, protein structure information, etc) from various up-to-date biological databases using databases entry identifiers or accession numbers. 

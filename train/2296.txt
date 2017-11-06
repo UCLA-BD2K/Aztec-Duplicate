@@ -1,1 +1,1 @@
-Prediction of the location of linear B-cell epitopes
+BLAST search against structural domains stored in DrugEBIlity database

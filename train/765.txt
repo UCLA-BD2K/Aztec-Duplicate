@@ -1,1 +1,1 @@
-Authority: cnio.es  -  It returns the PubMed abstract identified by the input, tagged and enriched by the iHOP system
+Authority: inb.bsc.es  -  Converts a sequence in Fasta format into a CommentedAASequence object.

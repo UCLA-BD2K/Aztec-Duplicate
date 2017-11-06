@@ -1,1 +1,1 @@
-BLAST search against biological molecules (e.g. mAbs) stored in ChEMBL database
+Provides user sliders which can hide nodes whose continuous attribute is below threshold specied by sliders.

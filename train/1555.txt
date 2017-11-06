@@ -1,1 +1,1 @@
-A collection of meta-analysis tools for analysing high throughput experimental data
+Database for the biology and genomics of the social amoeba Dictyostelium discoideum.

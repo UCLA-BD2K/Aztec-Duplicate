@@ -1,1 +1,0 @@
-FASTQ Quality Trimmer by sliding window

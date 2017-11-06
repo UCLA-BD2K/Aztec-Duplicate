@@ -1,1 +1,1 @@
-Integrates phosphorylation-related information into the network.
+Europe's primary nucleotide sequence resource. Main sources for DNA and RNA sequences are direct submissions from individual researchers, genome sequencing  projects and patent applications.

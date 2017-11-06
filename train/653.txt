@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Muscle multiple sequence alignment.
+Wrappers for the bamtools package

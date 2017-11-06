@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Translates files in mmCIF format into files in PDB format.
+It compares an amino acid query sequence against a protein sequence database using the Washington University BLAST algorithm.

@@ -1,1 +1,1 @@
-Pairwise Alignment
+Concatenate FASTA alignment by species

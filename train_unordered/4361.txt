@@ -1,1 +1,0 @@
-Jemultiplexer is a versatile debarcoding/demultiplexing tool for FASTQ files accommodating all complex multiplexing protocols (iCLIP, molecule barcoding, ...).

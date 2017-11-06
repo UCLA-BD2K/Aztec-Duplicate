@@ -1,1 +1,1 @@
-Estimates the DNA copy number profile using mBPCR to detect regions with copy number changes
+Perform deformable registration using deeds, which employs a discrete dense displacement sampling for the deformable registration of high resolution CT volumes

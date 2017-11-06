@@ -1,1 +1,0 @@
-A quantitative medical imaging & visualization program for use on brain MR, DTI, and MRS data.

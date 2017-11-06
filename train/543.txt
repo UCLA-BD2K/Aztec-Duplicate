@@ -1,0 +1,16 @@
+Abstract
+        
+Motivation: Sensitivity analysis and parameter tuning are important processes in large-scale image analysis. They are very costly because the image analysis workflows are required to be executed several times to systematically correlate output variations with parameter changes or to tune parameters. An integrated solution with minimum user interaction that uses effective methodologies and high performance computing is required to scale these studies to large imaging datasets and expensive analysis workflows.
+        
+Results: The experiments with two segmentation workflows show that the proposed approach can (i) quickly identify and prune parameters that are non-influential; (ii) search a small fraction (about 100 points) of the parameter search space with billions to trillions of points and improve the quality of segmentation results (Dice and Jaccard metrics) by as much as 1.42× compared to the results from the default parameters; (iii) attain good scalability on a high performance cluster with several effective optimizations.
+        
+Conclusions: Our work demonstrates the feasibility of performing sensitivity analyses, parameter studies and auto-tuning with large datasets. The proposed framework can enable the quantification of error estimations and output variations in image segmentation pipelines.
+        
+Availability and Implementation: Source code: https://github.com/SBU-BMI/region-templates/.
+        
+Contact:
+teodoro@unb.br
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

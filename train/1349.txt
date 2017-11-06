@@ -1,1 +1,1 @@
-In-silico cleavage of polypeptide sequences. The cleavage rules are taken from: http://web.expasy.org/peptide_cutter/peptidecutter_enzymes.html
+Converts blast xml file to a tabular with options for unmatched queries, and number of hits to convert

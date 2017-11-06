@@ -1,1 +1,1 @@
-Compute fractional identity between trusted alignment and test alignment
+package_myrimatch

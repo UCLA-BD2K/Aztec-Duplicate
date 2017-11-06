@@ -1,1 +1,6 @@
-Retrieves an entry from a FSSP database.
+Motivation: Recent transcriptome studies have revealed that total transcript numbers vary by cell type and condition; therefore, the statistical assumptions for single-cell transcriptome studies must be revisited. SAMstrt is an extension code for SAMseq, which is a statistical method for differential expression, to enable spike-in normalization and statistical testing based on the estimated absolute number of transcripts per cell for single-cell RNA-seq methods.
+        Availability and Implementation: SAMstrt is implemented on R and available in github (https://github.com/shka/R-SAMstrt).
+        Contact:
+shintaro.katayama@ki.se
+        Supplementary Information:
+Supplementary data are available at Bioinformatics online.

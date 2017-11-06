@@ -1,1 +1,6 @@
-Remove duplicated objects.
+Summary: The Protein Data Bank (PDB) now contains more than 120,000 three-dimensional (3D) structures of biological macromolecules. To allow an interpretation of how PDB data relates to other publicly available annotations, we developed a novel data integration platform that maps 3D structural information across various datasets. This integration bridges from the human genome across protein sequence to 3D structure space. We developed novel software solutions for data management and visualization, while incorporating new libraries for web-based visualization using SVG graphics.
+        Availability and Implementation: The new views are available from http://www.rcsb.org and software is available from https://github.com/rcsb/.
+        Contact:
+andreas.prlic@rcsb.org
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

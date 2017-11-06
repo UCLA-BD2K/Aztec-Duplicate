@@ -1,1 +1,1 @@
-Rapid assignment of rRNA sequences into the new bacterial taxonomy - GVL
+Draw dotplots for all-against-all comparison of a sequence set

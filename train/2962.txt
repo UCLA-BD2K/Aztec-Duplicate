@@ -1,1 +1,1 @@
-Searches Ensembl Metazoa sequences using Exonerate
+Authority: inb.bsc.es  -  Run byodyn.

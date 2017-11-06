@@ -1,1 +1,1 @@
-make windows centered on intervals
+Retrieves a hierarchical non domain entry from SCOP database given a dot separated number list.

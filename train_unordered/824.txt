@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Refines a text search of OMIM database (more precisely, the text is searched in these fields: text, allelicvariants, clinical synopsis and references).

@@ -1,1 +1,0 @@
-Position Specific Iterative BLAST (PSI-BLAST) refers to a feature of NCBI BLAST 2.0 in which a position-specific scoring matrix (PSSM) profile is constructed from set of BLAST alignments.

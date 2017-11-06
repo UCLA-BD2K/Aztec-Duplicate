@@ -1,1 +1,1 @@
-PromoterWise compares two DNA sequences allowing for inversions and translocations, ideal for promoters.
+SimBoolNet is a plugin for simulating the dynamics of signaling transduction using Boolean networks

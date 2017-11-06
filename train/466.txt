@@ -1,1 +1,4 @@
-Pairwise sequence alignment of DNA or protein sequences using Needleman-Wunsch global alignment.
+Motivation: We have developed geneAttribution, an R package that assigns candidate causal gene(s) to a risk variant identified by a genetic association study such as a GWAS. The method combines user-supplied functional annotation such as expression quantitative trait loci (eQTL) or Hi-C genome conformation data and reports the most likely candidate genes. In the absence of annotation data, geneAttribution relies on the distances between the genes and the input variant.
+        Availability and Implementation: The package is freely available from http://www.bioconductor.org/. A quick-start vignette is included with the package.
+        Contact:
+wustera@gene.com

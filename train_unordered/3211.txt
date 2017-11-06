@@ -1,1 +1,0 @@
-predict N-glycosylation sites in proteins.

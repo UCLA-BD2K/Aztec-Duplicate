@@ -1,1 +1,1 @@
-Routines for parsing Affymetrix data files based upon file format information. Primary focus is on accessing the CEL and CDF file formats.
+Convert biosequences between a selection of common biological sequence formats

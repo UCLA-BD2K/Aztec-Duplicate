@@ -1,1 +1,1 @@
-Scan a protein against PROSITE or HAMAP patterns and profiles
+Search Reactome data (http://www.reactome.org/) for interactions using protein ids

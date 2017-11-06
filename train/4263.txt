@@ -1,1 +1,1 @@
-Various Imaging Filters
+Helper package for speeding up the derfinder package when using multiple cores.

@@ -1,1 +1,4 @@
-Molecular Weight is a web service that retrieves all genes whose unmodified protein product has a molecular weight in a range that user specify.
+Summary:DIYA (Do-It-Yourself Annotator) is a modular and configurable open source pipeline software, written in Perl, used for the rapid annotation of bacterial genome sequences. The software is currently used to take DNA contigs as input, either in the form of complete genomes or the result of shotgun sequencing, and produce an annotated sequence in Genbank file format as output.
+        Availability: Distribution and source code are available at (https://sourceforge.net/projects/diyg/).
+        Contact: tread@emory.edu
+        Supplementary information: Supplementary data are available at Bioinformatics online.

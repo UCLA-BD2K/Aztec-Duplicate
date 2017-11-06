@@ -1,1 +1,1 @@
-Prediction of the leucine-rich nuclear export signals (NES) in eukaryotic proteins
+Motivation: The SEABED web server integrates a variety of docking and QSAR techniques in a user-friendly environment. SEABED goes beyond the basic docking and QSAR web tools and implements extended functionalities like receptor preparation, library editing, flexible ensemble docking , hybrid docking/QSAR experiments or virtual screening on protein mutants. SEABED is not a monolithic workflow tool but Software as a Service platform.

@@ -1,1 +1,1 @@
-Broad IGVTools
+Draw a hydropathy plot for a protein sequence

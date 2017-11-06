@@ -1,3 +1,0 @@
-
-            These web services provide access to methods for searching the GoBioSpace database which is part of the Golm Metabolome Database (GMD, http://gmd.mpimp-golm.mpg.de/).
-            Please send all feedback to hummel@mpimp-golm.mpg.de

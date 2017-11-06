@@ -1,1 +1,1 @@
-Functions for the selection of optimal reference genes and the normalisation of real-time quantitative PCR data.
+Parses GenBank flat files

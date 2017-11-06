@@ -1,1 +1,1 @@
-A neural network based predictor of residue contacts in proteins
+Contains a tool dependency definition that downloads and compiles version 0.7.6 of pysam.

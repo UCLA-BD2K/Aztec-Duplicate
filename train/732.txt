@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves a documentation file from prosite.
+Converts a bigWig file to Wiggle (WIG) format 

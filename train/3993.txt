@@ -1,1 +1,1 @@
-Convert Blast XML output into a visual HTML page
+Authority: inb.bsc.es  -  RPS-BLAST (Reverse PSI-BLAST) searches a query sequence against a database of profiles. 

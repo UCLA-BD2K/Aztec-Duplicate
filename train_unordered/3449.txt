@@ -1,1 +1,0 @@
-Galaxy workflow for the analysis of differential expressed genes between two prokaryote transcriptome datasets.

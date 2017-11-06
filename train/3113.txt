@@ -1,1 +1,1 @@
-Statistical Analysis of Protein Sequences
+This packages provides a targeted pre-processing method for GC-MS data.

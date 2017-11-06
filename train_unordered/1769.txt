@@ -1,1 +1,0 @@
-To give the exactly p-value and q-value of MeDIP-seq and MRE-seq data for different samples comparation.

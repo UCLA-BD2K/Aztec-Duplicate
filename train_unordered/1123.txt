@@ -1,3 +1,0 @@
-This is the RESTful API of myExperiment.
-
-myExperiment is a collaborative environment where scientists can safely publish their workflows and experiment plans, share them with groups and find those of others. Workflows, other digital objects and collect

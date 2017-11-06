@@ -1,1 +1,0 @@
-FASTQ Summary Statistics by column

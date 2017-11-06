@@ -1,1 +1,1 @@
-R interface sending requests to AmiGO visualize, retrieving DAG GO trees, parsing GraphViz DOT format files and exporting GML files for Cytoscape. Also uses RCytoscape to interactively display AmiGO trees in Cytoscape.
+graphical representation of the Feb 2010 KEGG Orthology. The KEGG orthology is a set of pathway IDs that are not to be confused with the KEGG ortholog IDs.

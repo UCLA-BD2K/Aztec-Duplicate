@@ -1,1 +1,0 @@
-Performs a recursive psi-blast against the ProDom database.

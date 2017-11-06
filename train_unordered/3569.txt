@@ -1,1 +1,0 @@
-Get Distribution: Get the distribution of the genomic coordinates on a genome.

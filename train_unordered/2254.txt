@@ -1,1 +1,0 @@
-Simple barchart to show expression levels across experiments

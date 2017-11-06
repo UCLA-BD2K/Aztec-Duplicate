@@ -1,1 +1,1 @@
-Galaxy wrappers for the Cufflinks tool.
+Retrieve information from the ProDom database . 

@@ -1,1 +1,1 @@
-World-wide gel-based proteomics database (0006) for hemolymph proteome of the honeybee.
+Authority: inb.bsc.es  -  Returns a sequence from uniprot annotated with all its features.

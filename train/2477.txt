@@ -1,1 +1,1 @@
-World-wide gel-based proteomics database (0003) for Arabidopsis thaliana leaf proteome.
+Parse a matrix from a motif.

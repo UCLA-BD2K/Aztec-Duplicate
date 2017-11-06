@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles CoFold.
+Chemical Entities of Biological Interest (ChEBI) is a freely available dictionary of molecular entities focused on 

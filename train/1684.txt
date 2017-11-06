@@ -1,1 +1,1 @@
-This package uses Bayesian hidden Ising models to identify IP-enriched genomic regions from ChIP-seq data. It can be used to analyze ChIP-seq data with and without controls and replicates.
+MITK 3M3 is a 3D image analysis and visualisation program based on the open source MITK toolkit. It has a range of image analysis tools that include time-seriies data volumes, data fusion and registration, vessel analysis, and GPU volume visualisation.

@@ -1,2 +1,5 @@
-DIANA-miRPath v2 
-A REST service for DIANA-miRPath v2.1 microRNA functional analysis
+Motivation: Ribosome profiling is a useful technique for studying translational dynamics and quantifying protein synthesis. Applications of this technique have shown that ribosomes are not uniformly distributed along mRNA transcripts. Understanding how each transcript-specific distribution arises is important for unraveling the translation mechanism.
+        Results: Here, we apply kernel smoothing to construct predictive features and build a sparse model to predict the shape of ribosome footprint profiles from transcript sequences alone. Our results on Saccharomyces cerevisiae data show that the marginal ribosome densities can be predicted with high accuracy. The proposed novel method has a wide range of applications, including inferring isoform-specific ribosome footprints, designing transcripts with fast translation speeds and discovering unknown modulation during translation.
+        Availability and implementation: A software package called riboShape is freely available at https://sourceforge.net/projects/riboshape
+        Contact:
+yss@berkeley.edu

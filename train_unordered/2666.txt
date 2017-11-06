@@ -1,1 +1,0 @@
-Template module to use as base for quickly creating bionode modules.

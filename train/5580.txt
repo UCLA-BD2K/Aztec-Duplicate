@@ -1,1 +1,1 @@
-Pathintegrator searches for, and integrates in a single network pathways in which a given gene or protein is involved.
+Sequences post-transcriptionally modified by RNA editing from primary databases and literature. All editing information such as substitutions, insertions and deletions occurring in a wide range of organisms is stored.

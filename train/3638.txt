@@ -1,1 +1,1 @@
-Clustal Omega is a multiple sequence alignment program for protein sequences.
+A BrowserViz subclassing example, xy plotting in the browser using d3

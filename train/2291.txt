@@ -1,1 +1,1 @@
-A module to analyze multiple seqs (information content, frequency, ...)
+Protein-nucleic acid interactions, with various features of protein-nuleic acid interfaces.

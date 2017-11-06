@@ -1,1 +1,0 @@
-Maps reads on reference sequences.

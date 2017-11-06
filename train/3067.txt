@@ -1,1 +1,1 @@
-enthalpy, entropy and melting temperature
+Sequence/Alignment format checker

@@ -1,1 +1,1 @@
-FuMa: match RNA-Seq detected fusion genes from several detection tools
+Roci (Reconstruction of Conserved Intervals) reconstructs ancestral gene orders of a phylogenetic tree. Given the topology of a phylogenetic tree and the gene orders of the leaf nodes, it calculates sets of gene orders for the inner nodes, represented by 

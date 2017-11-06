@@ -1,1 +1,0 @@
-SPIDER (System for Processing Image Data from Electron microscopy and Related fields) is an image processing system for electron microscopy.

@@ -1,4 +1,0 @@
-
-			INTRODUCTION
-
-			This Web Service implements NetOGlyc 3.1d

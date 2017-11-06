@@ -1,1 +1,7 @@
-ENA sequence search is search service against all nucleotide sequences available in the European Nucleotide Archive (ENA), Ensembl and Ensembl Genomes databases.
+Motivation: Collaborative analysis of massive imaging datasets is essential to enable scientific discoveries.
+        Results: We developed Cytomine to foster active and distributed collaboration of multidisciplinary teams for large-scale image-based studies. It uses web development methodologies and machine learning in order to readily organize, explore, share and analyze (semantically and quantitatively) multi-gigapixel imaging data over the internet. We illustrate how it has been used in several biomedical applications.
+        Availability and implementation: Cytomine (http://www.cytomine.be/) is freely available under an open-source license from http://github.com/cytomine/. A documentation wiki (http://doc.cytomine.be) and a demo server (http://demo.cytomine.be) are also available.
+        Contact:
+info@cytomine.be
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

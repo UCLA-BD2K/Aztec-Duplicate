@@ -1,1 +1,1 @@
-cnvnator
+MUMmer is a system for rapidly aligning entire genomes 

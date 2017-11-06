@@ -1,1 +1,0 @@
-Installs the RHmm CRAN library.

@@ -1,1 +1,0 @@
-Authority: genome.imim.es  -  Parses a collection of meta-alignment outputs to produce a text-formatted sequence similarity score matrix

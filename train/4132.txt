@@ -1,1 +1,1 @@
-import/export to ftp/nfs dir
+Contains a tool dependency definition that downloads and compiles version 1.0-r75 of seqtk

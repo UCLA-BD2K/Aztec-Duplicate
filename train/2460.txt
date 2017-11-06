@@ -1,1 +1,1 @@
-World-wide gel-based proteomics database (0004) for mature rat olfactory bulb.
+Visualizes networks by semantic similarities.

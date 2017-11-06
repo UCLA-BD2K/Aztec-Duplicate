@@ -1,1 +1,0 @@
-Processing annotation data from public data repositories and building protein-centric annotation data packages.

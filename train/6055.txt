@@ -1,1 +1,2 @@
-Building on the existing ExAC application we opened up direct data access through straight forward web services. These services enable a user to integrate ExAC services into their own tools, querying the variant information and returning the data in an easy to programmatically use JSON format.
+MetaboLights is a database for Metabolomics experiments and derived information.
+The database is cross-species, cross-technique and covers metabolite structures and their reference spectra as well as their biological roles, locations and concentrations, and experimental data from metabolic experiments.We will provide search services around spectral similarities and chemical structures.

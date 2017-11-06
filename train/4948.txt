@@ -1,1 +1,3 @@
-Builds most UCSC user applications
+This service allows the CATH database to be searched by protein structure.
+
+NB This service is not currently active. It is still in development -- check back here for updates. The WSDL posted may change b

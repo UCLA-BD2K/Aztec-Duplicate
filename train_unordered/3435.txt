@@ -1,1 +1,0 @@
-Computation of the triplet- and Quartet-distance between evolutionary trees

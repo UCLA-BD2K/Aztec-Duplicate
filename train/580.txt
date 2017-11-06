@@ -1,3 +1,4 @@
-Authority: mmb.pcb.ub.es  -  
-		Given a PDB code, returns all the protein fragments that interact with a ligand
-	
+Motivation: Storing, annotating and analyzing variants from next-generation sequencing projects can be difficult due to the availability of a wide array of data formats, tools and annotation sources, as well as the sheer size of the data files. Useful tools, including the GATK, ANNOVAR and BEDTools can be integrated into custom pipelines for annotating and analyzing sequence variants. However, building flexible pipelines that support the tracking of variants alongside their samples, while enabling updated annotation and reanalyses, is not a simple task.
+        Results: We have developed variant tools, a flexible annotation and analysis toolset that greatly simplifies the storage, annotation and filtering of variants and the analysis of the underlying samples. variant tools can be used to manage and analyze genetic variants obtained from sequence alignments, and the command-line driven toolset could be used as a foundation for building more sophisticated analytical methods.
+        Availability and implementation: variant tools consists of two command-line driven programs vtools and vtools_report. It is freely available at http://varianttools.sourceforge.net, distributed under a GPL license.
+        Contact: bpeng@mdanderson.org

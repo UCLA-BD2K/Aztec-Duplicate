@@ -1,1 +1,0 @@
-Whiteboard is a class library implemented in Cþþ that enables visualization to be tightly coupled with computation when analyzing large and complex datasets. Availability and implementation: the Cþþ source code, coding samples and documentation are freely available under the Lesser General Public License from http://whiteboard-class.sourceforge.net/.

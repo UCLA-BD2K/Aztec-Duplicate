@@ -1,1 +1,0 @@
-Identification and characterization of periodic fluctuations in time-series data.

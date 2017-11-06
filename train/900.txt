@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Returns a sequence from uniprot annotated with all its features.
+Golm Metabolome Database (GMD) facilitates the search and dissemination of mass spectra from biologically active metabolites quantified using Gas chromatography (GC) coupled to mass spectrometry (MS).

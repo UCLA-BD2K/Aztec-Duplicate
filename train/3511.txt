@@ -1,1 +1,1 @@
-Analyses taxoptimizer output file to find the most relevant database's sequence using taxonomics informations (kronaextract output) and draw picture(s) with the mapping of all hsp on it.
+Metarepository for the gops tool suite.

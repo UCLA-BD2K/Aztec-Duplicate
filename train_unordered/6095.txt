@@ -1,1 +1,0 @@
-A standalone software capable of aiding in interpreting electrospray ionization (ESI) and/or matrix assisted laser desorption and ionization (MALDI) mass spectrometric data of lipids.

@@ -1,1 +1,14 @@
-ClustalW 2 is a general purpose multiple sequence alignment program for DNA or proteins. It produces biologically meaningful multiple sequence alignments of divergent sequences. It calculates the best match for the selected sequences, and lines them up so
+Abstract
+        
+Summary: Regulatory elements regulate gene transcription, and their location and accessibility is cell-type specific, particularly for enhancers. Mapping and comparing chromatin accessibility between different cell types may identify mechanisms involved in cellular development and disease progression. To streamline and simplify differential analysis of regulatory elements genome-wide using chromatin accessibility data, such as DNase-seq, ATAC-seq, we developed ALTRE (ALTered Regulatory Elements), an R package and associated R Shiny web app. ALTRE makes such analysis accessible to a wide range of users—from novice to practiced computational biologists.
+        
+Availability and Implementation:
+https://github.com/Mathelab/ALTRE
+
+        
+Contact:
+ewy.mathe@osumc.edu
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

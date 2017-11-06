@@ -1,1 +1,1 @@
-simple tool for removing duplicates from sequencing reads
+TumorSim is a cross-platform simulation software that generates pathological ground truth from a healthy ground truth (e.g., the BrainWeb data). The software requires an input directory that describes a healthy anatomy (anatomical probabilities, mesh, diffusion tensor image, etc). Example output simulation images are available for download for validating various image analysis algorithms such as registration and segmentation algorithms.

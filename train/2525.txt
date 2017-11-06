@@ -1,1 +1,1 @@
-Detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information.
+Convert delimiters to tab.

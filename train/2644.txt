@@ -1,1 +1,1 @@
-A simple snippet parser
+Converts a GenericSequence object into a Fasta object.

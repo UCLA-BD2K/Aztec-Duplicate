@@ -1,1 +1,1 @@
-A collection of adapters to combine the MSA and Tree component
+Change the identifier of your nodes or edges comfortably!

@@ -1,1 +1,1 @@
-This package integrates literature-constrained and data-driven methods to infer signalling networks from perturbation experiments. It permits to extends a given network with links derived from the data via various inference methods, and uses information on physical interactions of proteins to guide and validate the integration of links.
+Split-Dist calculates the number of splits (edges) that differs for two trees

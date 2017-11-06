@@ -1,1 +1,1 @@
-Compute distance matrix from nucleotide sequences
+This service will retrieve registry data records from NIF

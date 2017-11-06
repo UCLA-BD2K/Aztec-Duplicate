@@ -1,1 +1,1 @@
-Bayesian MCMC analysis of molecular sequences
+Tools for robust comparative metatranscriptomics.

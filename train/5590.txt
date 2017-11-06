@@ -1,1 +1,1 @@
-Scripting language support for Python (Jython)
+show_simul enables to simulate a hidden state sequence and a DNA sequence under a specified Hidden Markov Model.

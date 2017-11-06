@@ -1,1 +1,1 @@
-Pathway Commons is a collection of publicly available pathways from multiple organisms.
+Provide physician with real-time access to patient's PET/CT information

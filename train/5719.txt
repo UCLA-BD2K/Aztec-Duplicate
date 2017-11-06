@@ -1,1 +1,1 @@
-A versatile free software for quantitative analysis of perfusion and diffusion imaging of cerebrovascular disorders
+In this package, a Hidden Semi Markov Model (HSMM) and one homogeneous segmentation model are designed and implemented for segmentation genomic data, with the aim of assisting in transcripts detection using high throughput technology like RNA-seq or tiling array, and copy number analysis using aCGH or sequencing.

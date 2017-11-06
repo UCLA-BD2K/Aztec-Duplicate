@@ -1,1 +1,7 @@
-display summary statistics for a profile file
+Motivation: Metaproteomic analysis allows studying the interplay of organisms or functional groups and has become increasingly popular also for diagnostic purposes. However, difficulties arise owing to the high sequence similarity between related organisms. Further, the state of conservation of proteins between species can be correlated with their expression level, which can lead to significant bias in results and interpretation. These challenges are similar but not identical to the challenges arising in the analysis of metagenomic samples and require specific solutions.
+        Results: We introduce Pipasic (peptide intensity-weighted proteome abundance similarity correction) as a tool that corrects identification and spectral counting-based quantification results using peptide similarity estimation and expression level weighting within a non-negative lasso framework. Pipasic has distinct advantages over approaches only regarding unique peptides or aggregating results to the lowest common ancestor, as demonstrated on examples of viral diagnostics and an acid mine drainage dataset.
+        Availability and implementation: Pipasic source code is freely available from https://sourceforge.net/projects/pipasic/.
+        Contact:
+RenardB@rki.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online

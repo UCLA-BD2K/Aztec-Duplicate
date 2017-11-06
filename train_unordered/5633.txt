@@ -1,1 +1,0 @@
-Clusters densely connected nodes and node attributes in a given network. 

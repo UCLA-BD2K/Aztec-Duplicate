@@ -1,1 +1,1 @@
-Weather prediction service based on you city and country. 
+Authority: inb.bsc.es  -  Retrieves an ENSEMBL sequence by its region.

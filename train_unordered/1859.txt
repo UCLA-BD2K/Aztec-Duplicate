@@ -1,1 +1,0 @@
-This package is designed to facilitate the automated gating methods in sequential way to mimic the manual gating strategy.

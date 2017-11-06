@@ -1,1 +1,1 @@
-Authority: cgl.imim.es  -  Parses a Blastp output text obtaining a list of objects with the identifiers and namespaces that appears in it with a identitie value bigger or equal to the provided one
+over targeted regions in a genome

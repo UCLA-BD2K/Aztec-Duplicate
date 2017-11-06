@@ -1,2 +1,1 @@
-WS-I compatible BLAST Web Service.
-		
+HemaExplorer provides a plot of gene expression in hematopoietic cells at different maturation stages based on curated microarray data.

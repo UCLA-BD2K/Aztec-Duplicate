@@ -1,1 +1,0 @@
-Analyzes and validates the consistency of regulatory networks with respect to a gene expression profile

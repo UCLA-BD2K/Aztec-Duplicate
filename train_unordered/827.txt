@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Retrieves an entry from a DSSP database.

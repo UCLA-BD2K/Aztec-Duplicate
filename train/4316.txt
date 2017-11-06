@@ -1,1 +1,1 @@
-Download data from GSAF
+Analyze microarray data

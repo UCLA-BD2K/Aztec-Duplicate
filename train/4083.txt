@@ -1,1 +1,1 @@
-For fast contaminant filtering from nextgen reads.  Note: the executable was renamed "duk"
+MRS is a tool to quickly and easily store and index large flat file databanks and in a space efficient manner. It is currently used to index huge bioinformatics databanks but it is not limited to this area.

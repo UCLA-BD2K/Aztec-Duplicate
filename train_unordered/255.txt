@@ -1,1 +1,0 @@
-Parse rules from a motif.

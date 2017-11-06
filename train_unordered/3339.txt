@@ -1,1 +1,0 @@
-A database of human splicing factors and their binding sites

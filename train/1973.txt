@@ -1,1 +1,1 @@
-Interactvive viewing and exploration of graphs, connecting R to Cytoscape.js
+Convert a set of Ensembl IDs from a previous release into their current equivalents

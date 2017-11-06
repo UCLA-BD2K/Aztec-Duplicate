@@ -1,1 +1,1 @@
-A set of functions to analyze and compare multiple ChIP-seq experiments. 
+Transmembrane protein datasets containing experimentally derived topology information.

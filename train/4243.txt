@@ -1,1 +1,1 @@
-Clip adapter sequences
+PetriScape performs discrete simulation of Petri Nets and also convert SBML files into the Petri Net formalism.

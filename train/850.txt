@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Filters a set of sequences based on their length. Only sequences which length is greater than the length cutoff will be returned.
+Contains a tool dependency definition that downloads and extract version 1.2.1 of Piranha

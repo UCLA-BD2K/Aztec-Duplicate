@@ -1,1 +1,1 @@
-usearch by RC Edgar
+Pratt searches for patterns conserved in sets of unaligned protein sequences.

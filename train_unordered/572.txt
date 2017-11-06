@@ -1,2 +1,0 @@
-G-language Genome Analysis Environment provides a greater variety of useful genome analysis tools compared to most existing analysis software packages, and is also easily pluggable. 
-This service allows you to utilize over 100 tools from G-language Genom

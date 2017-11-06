@@ -1,1 +1,1 @@
-Pure Python BAM parser package
+microPITA is a computational tool enabling sample selection in tiered studies. Using tiered-study designs can more efficiently allocate resources, reducing study costs, and maximizing the use of samples. From a survey study, selection of samples can be performed to target various microbial communities 

@@ -1,1 +1,1 @@
-Markov state models (MSMs) for the study of biomolecule folding simulations have emerged as a powerful tool for computational study of folding dynamics. MSMExplorer is a visualization application purpose-built to visualize these MSMs with an aim to increase the efficacy and reach of MSM science.
+Package contains methods for statistical analysis of phenotypic data such as Mixed Models and Fisher Exact Test.

@@ -1,1 +1,0 @@
-YADA can deisotope and decharge high-resolution mass spectra from large peptide molecules, link the precursor monoisotopic peak information to the corresponding tandem mass spectrum, and account for different co-fragmenting ion species (multiplexed spectra).  YADA also enables a pipeline consisting of ProLuCID and DTASelect for analyzing large-scale middle-down proteomics data.

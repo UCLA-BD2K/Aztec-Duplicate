@@ -1,1 +1,2 @@
-This packages provides a targeted pre-processing method for GC-MS data.
+The goal of the NHLBI GO Exome Sequencing Project (ESP) is to discover novel genes and mechanisms contributing to heart, lung and blood disorders by pioneering the application of next-generation sequencing of the protein coding regions of the human genome across diverse, richly-phenotyped populations and to share these datasets and findings with the scientific community to extend and enrich the diagnosis, management and treatment of heart, lung and blood disorders.
+This WSDL enables users to search the Exome Variant Server for genetic variants identified in  patients using a chromosome position (e.g.2:139574) 

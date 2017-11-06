@@ -1,1 +1,0 @@
-Pepspot DB is a web resource designed to provide a central repository for the storage and the analysis of data on domain peptide recognition obtained with interaction assays exploiting peptide chip technology.

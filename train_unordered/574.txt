@@ -1,3 +1,0 @@
-The annotation clearing house exposes and compares annotations for essentially identical microbial proteins from different resources such as the SEED, UniProt/Swiss Prot, JCVI, U Maryland, NCBI, PATRIC, etc.
-
-With either an ID or a protein sequence you 

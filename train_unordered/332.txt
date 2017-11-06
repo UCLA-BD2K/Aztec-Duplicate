@@ -1,1 +1,0 @@
-Returns pdb cross references from an uniprot entry.

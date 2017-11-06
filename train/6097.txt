@@ -1,1 +1,1 @@
-The tool assists users in the set up and execution of publication quality MD research including multi stage minimization heating, constrained equilibration, and multi copy production dynamics.
+HOGENOM is a database of homologous genes from fully sequenced organisms, structured under ACNUC sequence database management system. It allows to select sets of homologous genes among species,

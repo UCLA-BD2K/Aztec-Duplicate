@@ -1,2 +1,0 @@
-WS-I compatible BLAST Web Service.
-		

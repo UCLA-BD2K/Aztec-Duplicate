@@ -1,3 +1,1 @@
-EFetch:  Retrieves records in the requested format from a list of one or more UIs or from user's environment.
-Base URL: http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi
-Home: http://www.ncbi.nlm.nih.gov
+BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images

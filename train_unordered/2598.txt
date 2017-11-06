@@ -1,1 +1,0 @@
-Leon is a software to compress Next Generation Sequencing data

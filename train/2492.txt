@@ -1,1 +1,1 @@
-A curated, sequence-oriented protein database dedicated to in vivo phosphorylation sites. Information in PhosphoSite version 1.0 includes the phosphorylated residue and its surrounding sequence, orthologous sites in other species, the location within domains and motifs, links to other online resources and literature references.
+Blast @ IBCP (http://gbio-pbil.ibcp.fr)

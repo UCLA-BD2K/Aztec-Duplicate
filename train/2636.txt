@@ -1,1 +1,1 @@
-A module to analyze multiple seqs (information content, frequency, ...)
+Package for noise-robust soft clustering of gene expression time-series data (including a graphical user interface)

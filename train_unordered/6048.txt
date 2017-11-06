@@ -1,1 +1,0 @@
-Automatic extraction of salient phrases from a given bio-medical corpus. 

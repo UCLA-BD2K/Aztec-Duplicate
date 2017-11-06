@@ -1,1 +1,1 @@
-RNA STAR 2.4
+Compute average pair probabilities for local base pairs in long sequences

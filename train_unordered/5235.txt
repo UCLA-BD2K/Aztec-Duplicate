@@ -1,1 +1,0 @@
-all dependency for str_fm package and str_fm itself

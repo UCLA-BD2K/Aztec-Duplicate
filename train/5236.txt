@@ -1,1 +1,1 @@
-A set of tools based on vcflib package from 8/2014
+Background: RNA-seq has been widely used for genome-wide expression profiling. RNA-seq data typically consists of tens of millions of short sequenced reads from different transcripts. However, due to sequence similarity among genes and among isoforms, the source of a given read is often ambiguous. Existing approaches for estimating expression levels from RNA-seq reads tend to compromise between accuracy and computational cost.

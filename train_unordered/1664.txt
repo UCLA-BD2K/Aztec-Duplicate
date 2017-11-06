@@ -1,1 +1,0 @@
-A package for plotting genomic data by chromosomal location

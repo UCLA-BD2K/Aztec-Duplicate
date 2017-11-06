@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves GO Terms related to a product.
+sort interval files with header lines

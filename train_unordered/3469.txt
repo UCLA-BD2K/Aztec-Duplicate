@@ -1,1 +1,0 @@
-EBI Metagenomics is a web resource targeted at metagenomic researchers.

@@ -1,1 +1,1 @@
-Identify regions of ChIP experiments with high signal in the input, that lead to spurious peaks during peak calling. Remove reads aligning to these regions prior to peak calling, for cleaner ChIP analysis.
+Annotate genotypes in a VCF dataset using genotypes from another VCF dataset.

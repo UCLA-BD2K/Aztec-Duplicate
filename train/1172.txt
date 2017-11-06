@@ -1,1 +1,1 @@
-Get taxonomy information given taxonomy ID 
+Performs searches on networks based on attributes

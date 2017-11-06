@@ -1,1 +1,1 @@
-MACS - Model-based Analysis of ChIP-Seq 
+the RTopper package is designed to perform and integrate gene set enrichment results across multiple genomic platforms.

@@ -1,1 +1,2 @@
-Software to find motifs in a specific sequence
+#Documentation for the use of the service
+All the asynchronous services (services which have long run runtime) that were developed ex-novo within BioVeL have the same interface

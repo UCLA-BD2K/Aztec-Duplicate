@@ -1,1 +1,0 @@
-Analyze read length, phred scores and alphabet frequency and DNA k-mers on uncompressed and compressed fastq files.

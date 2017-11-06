@@ -1,1 +1,0 @@
- Divide-and-Conquer Multiple Sequence Alignment ( DCA) is a program for producing fast, high quality simultaneous multiple sequence alignments of amino acid, RNA, or DNA sequences. The program is based on the DCA algorithm, a heuristic approach to sum-of-pairs (SP) optimal alignment that has been developed at the FSPM over the years 1995-97.

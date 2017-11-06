@@ -1,1 +1,0 @@
-ConSurf-DB provides evolutionary conservation profiles for proteins of known structure in the PDB

@@ -1,1 +1,0 @@
-MUSCLE (MUltiple Sequence Comparison by Log-Expectation) 1) is claimed to achieve both better average accuracy and better speed than ClustalW or T-Coffee, depending on the chosen options. Multiple alignments of protein sequences are important in many applications, including phylogenetic tree estimation, secondary structure prediction and critical residue identification.

@@ -1,1 +1,0 @@
-RNA-Seq processing pipeline for public ArrayExpress experiments or local datasets

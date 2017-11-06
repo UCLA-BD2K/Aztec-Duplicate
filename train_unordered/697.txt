@@ -1,1 +1,0 @@
-Authority: bioinfo.cipf.es  -  Clustering service for gene expression patterns that runs the the following algorithms: UPGMA, SOTA and K-means

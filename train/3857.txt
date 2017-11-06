@@ -1,1 +1,1 @@
-allows sequences (protein and nucleic) to be scanned against InterPro's signatures
+Galaxy Freebayes Bayesian genetic variant detector tool

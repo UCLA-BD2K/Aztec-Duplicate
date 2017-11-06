@@ -1,1 +1,1 @@
-MOSAiCS: MOdel-based one and two Sample Analysis and inference for ChIP-Seq Data
+The Systems Biology Experiment Analysis System (SBEAMS) provides a customizable framework to meet the needs of modern systems biology research. It is composed of a unified state-of-the-art relational database management system (RDBMS) back end, a collection tools to store, manage, and query experiment information and results in the RDBMS, and a web front end for accessing these tools.

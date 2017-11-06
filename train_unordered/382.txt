@@ -1,1 +1,0 @@
-Query an Amino Acid sequence against InterPro.

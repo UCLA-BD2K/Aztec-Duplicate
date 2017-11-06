@@ -1,1 +1,0 @@
-COPaKB is an integrated, cloud-based platform for shotgun proteomics data analysis. It provides pre-assembled computational pipelines for users to identify proteins from mass spectrometry (MS) data files, retrieve relevant biomedical annotations on protein functions, and generate consolidated reports for data visualizations, all at one centralized location. 

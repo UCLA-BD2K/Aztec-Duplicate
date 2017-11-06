@@ -1,1 +1,0 @@
-Measures functional relationship between two subnetworks

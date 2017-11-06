@@ -1,5 +1,4 @@
-STRING is a database of known and predicted protein interactions. The interactions include direct (physical) and indirect (functional) associations; they are derived from four sources:
-Genomic Context
-High-throughput Experiments
-(Conserved) Coexpression
-Previous Knowledge	 
+Sharing genomic data is crucial to support scientific investigation such as genome-wide association studies. However, recent investigations suggest the privacy of the individual participants in these studies can be compromised, leading to serious concerns and consequences, such as overly restricted access to data.
+                We introduce a novel cryptographic strategy to securely perform meta-analysis for genetic association studies in large consortia. Our methodology is useful for supporting joint studies among disparate data sites, where privacy or confidentiality is of concern. We validate our method using three multisite association studies. Our research shows that genetic associations can be analyzed efficiently and accurately across substudy sites, without leaking information on individual participants and site-level association summaries.
+                Our software for secure meta-analysis of genetic association studies, SecureMA, is publicly available at http://github.com/XieConnect/SecureMA. Our customized secure computation framework is also publicly available at http://github.com/XieConnect/CircuitService.
+                Â© The Author 2014. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

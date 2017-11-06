@@ -1,7 +1,12 @@
-This service provides methods to validate simulation descriptions encoded in the SED-ML standard format (http://sed-ml.org).  The service  provides 4 operations:
-
-
-String sayHello();  A test for connection
-
-
-String applyChanges(String modelID, Strin
+Abstract
+        
+Motivation: Variant calling from next-generation sequencing (NGS) data is susceptible to false positive calls due to sequencing, mapping and other errors. To better distinguish true from false positive calls, we present a method that uses genotype array data from the sequenced samples, rather than public data such as HapMap or dbSNP, to train an accurate classifier using Random Forests. We demonstrate our method on a set of variant calls obtained from 642 African-ancestry genomes from the Consortium on Asthma among African-ancestry Populations in the Americas (CAAPA), sequenced to high depth (30X).
+        
+Results: We have applied our classifier to compare call sets generated with different calling methods, including both single-sample and multi-sample callers. At a False Positive Rate of 5%, our method determines true positive rates of 97.5%, 95% and 99% on variant calls obtained using Illuminas single-sample caller CASAVA, Real Time Genomics multisample variant caller, and the GATK UnifiedGenotyper, respectively. Since NGS sequencing data may be accompanied by genotype data for the same samples, either collected concurrent to sequencing or from a previous study, our method can be trained on each dataset to provide a more accurate computational validation of site calls compared to generic methods. Moreover, our method allows for adjustment based on allele frequency (e.g. a different set of criteria to determine quality for rare versus common variants) and thereby provides insight into sequencing characteristics that indicate call quality for variants of different frequencies.
+        
+Availability and Implementation: Code is available on Github at: https://github.com/suyashss/variant_validation
+        
+Contacts: suyashs@stanford.edu or mtaub@jhsph.edu
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

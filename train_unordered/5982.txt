@@ -1,1 +1,0 @@
-An R package providing ANTs features in R.

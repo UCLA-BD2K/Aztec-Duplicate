@@ -1,1 +1,1 @@
-Scripting support for JavaScript programming language
+Ogles (OpenGL expandable stereotaxy) is a three-dimensional volume and slice data visualization tool based on OpenGL and Ogle. Ogles vision is to integrate a neuro-analytical framework into a stereotactic planning system. Ogles embarked on creating an open source data model that allows to analyze neuro-imaging data in an inter-subject reference system to utilize neuro-analysis for stereotactic planning, and to validate stereotactic procedures in the context of multi modal imaging.

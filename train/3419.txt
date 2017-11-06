@@ -1,1 +1,1 @@
-The Bayesembler is a Bayesian method for doing transcriptome assembly from RNA-seq data.
+Contains a tool dependency definition that downloads and compiles version 0.1.19 of the SAMTools package

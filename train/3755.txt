@@ -1,1 +1,1 @@
-Search SPIKE a database of highly curated human signaling pathways
+Forked versions of tools with smaller resource requirements 

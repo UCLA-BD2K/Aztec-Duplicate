@@ -1,1 +1,1 @@
-dbAnnot allows for easy annotations of biological identifiers. 
+Download and install SHEAR version 0.2.5 (Sample Heterogeneity Estimation and Assembly by Reference)

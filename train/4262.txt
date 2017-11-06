@@ -1,1 +1,1 @@
-against a list of desired column values
+Software for motif discovery and next generation sequencing analysis. Garvan Institute, GVL

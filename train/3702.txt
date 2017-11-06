@@ -1,1 +1,1 @@
-High-performance, full-featured text searches across all EMBL-EBI databases or in selected databases available from EMBL-EBI.
+SimBioNeT is a simulator of biological networks topology in which module structures of different type and size are replicated at different level of network organization and interconnected, so to obtain the desired (i.e. given as input) degree distribution, e.g. scale free, and a clustering coefficient constant with the number of nodes in the network, a typical characteristic of biological networks.

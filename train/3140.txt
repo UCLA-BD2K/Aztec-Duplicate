@@ -1,1 +1,1 @@
-Find RNA sequences with given secondary structure
+explore and analyze *omics data with R and GGobi

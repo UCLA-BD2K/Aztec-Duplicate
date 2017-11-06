@@ -1,1 +1,1 @@
-Coordinates to Sequences: Extract the sequences from a list of coordinates.
+Subtract the intervals of two datasets

@@ -1,1 +1,1 @@
-Merge two alignments by profile alignment
+Sequence similarity search to retrieve sequence and associated records from ENA

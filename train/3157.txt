@@ -1,1 +1,1 @@
-Calculate distances between RNA secondary structures
+Identify variation patterns in a chromosomal region of interest for different individuals

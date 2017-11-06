@@ -1,1 +1,1 @@
-Create and view Krona charts within Galaxy
+A Web Service that exposes methods of the Investigator Manager class of the DiaComp Object Model

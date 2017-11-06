@@ -1,1 +1,0 @@
-DSI Studio is a software for diffusion MR images analysis. The provided functions include reconstruction (DTI, QBI, DSI, and GQI), deterministic fiber tracking, and 3D visualization. It has a window-based interface and operates on Microsoft Windows system.

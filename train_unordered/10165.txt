@@ -1,1 +1,0 @@
-We have developed Cake, a bioinformatics software pipeline that integrates four publicly available somatic variant-calling algorithms to identify single nucleotide variants with higher sensitivity and accuracy than any one algorithm alone. Cake can be run on a high-performance computer cluster or used as a stand-alone application.

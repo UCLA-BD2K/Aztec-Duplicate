@@ -1,1 +1,1 @@
-Tool dependencies for PeptideShaker 0.40
+Comparison between two sequences with Blast (NCBI)

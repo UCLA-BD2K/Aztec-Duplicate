@@ -1,1 +1,1 @@
-Package for noise-robust soft clustering of gene expression time-series data (including a graphical user interface)
+Authority: inb.bsc.es  -  Pepinfo detects and displays various useful metrics about a protein sequence.

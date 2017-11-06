@@ -1,1 +1,1 @@
-Program from SAMtools/BCFtools package (only vcf2fq command is implemented).
+Contains a tool dependency definition that downloads and installs version 1.0 of Galaxy's sequence utilities.

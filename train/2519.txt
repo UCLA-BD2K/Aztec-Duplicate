@@ -1,1 +1,1 @@
-Entrez Protein Clusters
+A web-based tool that objectively quantifies every metabolite peak detected in a set of samples and aligns peaks across multiple samples to enable quantitative comparison of each metabolite between samples. The analysis incorporates quantification of multiple peaks/ions that have different chromatographic retention times but are detected within a single SRM transition.

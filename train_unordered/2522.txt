@@ -1,1 +1,0 @@
-This Database currently contains 12 gels consisting of 1185 protein spots information in which 723 proteins where identified and annotated. Individual protein spots in the existing gels can be displayed, queried, analysed and compared in a tabular format based on varios functional categories enabling quick and subsequent analysis.

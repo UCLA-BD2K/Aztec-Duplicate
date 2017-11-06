@@ -1,1 +1,1 @@
-Fingerprint generation of flow cytometry data, used to facilitate the application of machine learning and datamining tools for flow cytometry.
+Analyses taxoptimizer output file to find the most relevant database's sequence using taxonomics informations (kronaextract output) and draw picture(s) with the mapping of all hsp on it.

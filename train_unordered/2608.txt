@@ -1,1 +1,0 @@
-KEGGanim is a web-based tool for visualizing experimental data in the context of biological pathways. KEGGanim produces animations or static images of KEGG pathways by overlaying public or user uploaded high-thourghput data over handdrawn KEGG pathway maps.

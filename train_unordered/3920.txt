@@ -1,1 +1,0 @@
-GEDEVO, is a software tool for solving the network alignment problem. GEDEVO stands for Graph Edit Distance + EVOlution and it utilizes the evolutionary computing strategies for solving the so-called Graph Edit Distance problem.

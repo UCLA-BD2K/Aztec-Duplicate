@@ -1,1 +1,1 @@
-Information on a multiple sequence alignment
+Provides common characteristics among similar proteins. 

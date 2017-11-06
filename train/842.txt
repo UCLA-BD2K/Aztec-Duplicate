@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Produces alignments of sequences of TF binding sites and returns the predictions in GFF format. You can use runMatScanGFF to produce the input GFF files, specifying the 'log-likelihood' matrix mode
+Contains a tool dependency definition that downloads version 2.4.0 of progressiveMauve.

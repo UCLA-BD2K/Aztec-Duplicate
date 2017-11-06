@@ -1,1 +1,1 @@
-Detects differential interactions across biological conditions in a Hi-C experiment. Methods are provided for read alignment and data pre-processing into interaction counts. Statistical analysis is based on edgeR and supports normalization and filtering. Several visualization options are also available.
+Contains a tool dependency definition that downloads and compiles version 2.7 of Python reportlab library.

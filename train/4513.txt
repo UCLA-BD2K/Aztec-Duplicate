@@ -1,1 +1,1 @@
-OSRA - Optical Structure Recognition Application
+This package provides functions for fitting MOSAiCS, a statistical framework to analyze one-sample or two-sample ChIP-seq data.

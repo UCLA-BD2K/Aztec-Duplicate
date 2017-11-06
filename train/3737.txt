@@ -1,1 +1,2 @@
-Web service to WikiPathways, a wiki for biological pathways.
+This  WSDL file describe the ELM Instance Mapper Web Service. It compares a query protein sequence with sequences known to contain ELM Instances.
+		

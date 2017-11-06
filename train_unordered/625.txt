@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Retrieves headers from a PDB entry in PDB format

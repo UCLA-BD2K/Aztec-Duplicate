@@ -1,1 +1,0 @@
-deepTools: user-friendly tools for the normalization, quality control and visualization of deep-sequencing data

@@ -1,1 +1,1 @@
-Builds sam indexes using the new data table format.
+Finds clusters where member nodes show significant changes in expression levels.

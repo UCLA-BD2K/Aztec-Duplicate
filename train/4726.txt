@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.2.3 of Mapsembler2
+Displays a non-overlapping wordmatch dotplot of two sequences

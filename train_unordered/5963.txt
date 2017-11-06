@@ -1,1 +1,0 @@
-CamBA is a Linux package for statistical analysis, by script/GUI, of neuroimaging data (fMRI/sMRI), developed at the Brain Mapping Unit, University of Cambridge. Non-parametric permutation-based statistics. Input images: 4D NiFTI files, output: HTML/

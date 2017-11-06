@@ -1,1 +1,7 @@
-Authority: inb.bsc.es  -  Estimates phylogenies from nucleotide sequences by maximum likelihood.
+Motivation: The secondary structure of RNA is integral to the variety of functions it carries out in the cell and its depiction allows researchers to develop hypotheses about which nucleotides and base pairs are functionally relevant. Current approaches to visualizing secondary structure provide an adequate platform for the conversion of static text-based representations to 2D images, but are limited in their offer of interactivity as well as their ability to display larger structures, multiple structures and pseudoknotted structures.
+        Results: In this article, we present forna, a web-based tool for displaying RNA secondary structure which allows users to easily convert sequences and secondary structures to clean, concise and customizable visualizations. It supports, among other features, the simultaneous visualization of multiple structures, the display of pseudoknotted structures, the interactive editing of the displayed structures, and the automatic generation of secondary structure diagrams from PDB files. It requires no software installation apart from a modern web browser.
+        Availability and implementation: The web interface of forna is available at http://rna.tbi.univie.ac.at/forna while the source code is available on github at www.github.com/pkerpedjiev/forna.
+        Contact:
+pkerp@tbi.univie.ac.at
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

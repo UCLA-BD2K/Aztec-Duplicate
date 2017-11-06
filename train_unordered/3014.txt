@@ -1,1 +1,0 @@
-Sequence-based Prediction of Minimum Generation Times for Bacteria and Archaea

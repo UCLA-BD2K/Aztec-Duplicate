@@ -1,3 +1,7 @@
-The annotation clearing house exposes and compares annotations for essentially identical microbial proteins from different resources such as the SEED, UniProt/Swiss Prot, JCVI, U Maryland, NCBI, PATRIC, etc.
-
-With either an ID or a protein sequence you 
+Motivation: DNA methylation is an intensely studied epigenetic mark implicated in many biological processes of direct clinical relevance. Although sequencing-based technologies are increasingly allowing high-resolution measurements of DNA methylation, statistical modelling of such data is still challenging. In particular, statistical identification of differentially methylated regions across different conditions poses unresolved challenges in accounting for spatial correlations within the statistical testing procedure.
+        Results: We propose a non-parametric, kernel-based method, M3D, to detect higher order changes in methylation profiles, such as shape, across pre-defined regions. The test statistic explicitly accounts for differences in coverage levels between samples, thus handling in a principled way a major confounder in the analysis of methylation data. Empirical tests on real and simulated datasets show an increased power compared to established methods, as well as considerable robustness with respect to coverage and replication levels.
+        Availability and implementation: R/Bioconductor package M3D.
+        Contact:
+G.Sanguinetti@ed.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

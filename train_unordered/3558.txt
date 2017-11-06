@@ -1,1 +1,0 @@
-Compute the average profile of some genomic coordinates using WIG files (thus covering a large proportion of the genome).

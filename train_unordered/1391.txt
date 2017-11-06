@@ -1,1 +1,0 @@
-This package contains a set of functions that allow CNV calling from Illumina 450k methylation microarrays.

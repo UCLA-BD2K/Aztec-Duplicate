@@ -1,1 +1,3 @@
-An automated tool for glycopeptide identification and glycan composition determination. MAGIC (Mass spectrometry-based Automated Glycopeptide IdentifiCation platform) adopts a novel Trident algorithm for accurate Y1-ion detection and generates in silico peptide MS/MS spectra for database searches. MAGIC provides the flexibility in setting detection criteria, visualization of each spectrum with peak annotated and a summary report for export. MS/MS spectra in Mascot Distiller MGF and Mascot XML are recommended format for input and identification results, respectively.
+iHOP web services were created as a computational API for the functionalities provided by iHOP end user web server (http://www.ihop-net.org/). 
+
+All the iHOP web services share the same XML Schema for the outputs. The documentation of this XML Schema is a

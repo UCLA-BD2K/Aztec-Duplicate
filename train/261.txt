@@ -1,1 +1,5 @@
-Retrieves the PDB ids from the DR lines from a parameter structured as SWISSPROT file.
+Summary: CytoSEED is a Cytoscape plugin for viewing, manipulating and analyzing metabolic models created using the Model SEED. The CytoSEED plugin enables users of the Model SEED to create informative visualizations of the reaction networks generated for their organisms of interest. These visualizations are useful for understanding organism-specific biochemistry and for highlighting the results of flux variability analysis experiments.
+        Availability and Implementation: Freely available for download on the web at http://sourceforge.net/projects/cytoseed/. Implemented in Java SE 6 and supported on all platforms that support Cytoscape.
+        Contact:
+dejongh@hope.edu
+        Supplementary information: Installation instructions, a tutorial, and full-size figures are available at http://www.cs.hope.edu/cytoseed/.

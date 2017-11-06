@@ -1,1 +1,0 @@
-The ConSurf server for the identification of functional regions in proteins

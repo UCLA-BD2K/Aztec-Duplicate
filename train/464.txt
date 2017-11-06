@@ -1,1 +1,7 @@
-Pairwise sequence alignment of DNA or protein sequences using Smith-Waterman local alignment.
+Motivation: With the rapid advances in DNA synthesis and sequencing technologies and the continuing decline in the associated costs, high-throughput experiments can be performed to investigate the regulatory role of thousands of oligonucleotide sequences simultaneously. Nevertheless, designing high-throughput reporter assay experiments such as massively parallel reporter assays (MPRAs) and similar methods remains challenging.
+        Results: We introduce MPRAnator, a set of tools that facilitate rapid design of MPRA experiments. With MPRA Motif design, a set of variables provides fine control of how motifs are placed into sequences, thereby allowing the investigation of the rules that govern transcription factor (TF) occupancy. MPRA single-nucleotide polymorphism design can be used to systematically examine the functional effects of single or combinations of single-nucleotide polymorphisms at regulatory sequences. Finally, the Transmutation tool allows for the design of negative controls by permitting scrambling, reversing, complementing or introducing multiple random mutations in the input sequences or motifs.
+        Availability and implementation: MPRAnator tool set is implemented in Python, Perl and Javascript and is freely available at www.genomegeek.com and www.sanger.ac.uk/science/tools/mpranator. The source code is available on www.github.com/hemberg-lab/MPRAnator/ under the MIT license. The REST API allows programmatic access to MPRAnator using simple URLs.
+        Contact:
+igs@sanger.ac.uk or mh26@sanger.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

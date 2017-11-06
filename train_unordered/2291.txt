@@ -1,1 +1,0 @@
-A module to analyze multiple seqs (information content, frequency, ...)

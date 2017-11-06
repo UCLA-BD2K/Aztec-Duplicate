@@ -1,1 +1,0 @@
-seeQTL is a comprehensive and versatile eQTL database, including various eQTL studies and a meta-analysis of HapMap eQTL information. The database presents eQTL association results in a convenient browser, using both segmented local-association plots and genome-wide Manhattan plots. Availability and implementation: seeQTL is freely available for non-commercial use at

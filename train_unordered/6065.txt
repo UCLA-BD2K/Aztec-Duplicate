@@ -1,1 +1,0 @@
-AutoSense interfaces with a wearable chestband containing a three axis accelerometer, a respiratory inductance plethysmography sensor, an electrocardiogram, a galvonic skin response sensor, and a skin temperature sensor. AutoSense reports this data over an ANT+ radio link to a support smartphone where this application receives and inserts its data streams into DataKit.

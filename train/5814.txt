@@ -1,1 +1,1 @@
-Displays DICOM header from selected files. Has a second window that shows hex equivalent values and offsets within the file.
+Authority: inb.bsc.es  -  Retrieves an entry from a FSSP database.

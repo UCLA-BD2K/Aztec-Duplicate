@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Compares a protein sequence to a sequence database and calculates the statistical significance of matches using the Position Specific Iterative BLAST (PSI-BLAST).

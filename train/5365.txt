@@ -1,1 +1,1 @@
-Removes multi-allelic sites by picking the most common alternate
+The Ontological Discovery Environment allows users to integrate gene-centered data sets across species, tissue and experimental platform. Sets can be stored, shared and compared privately, among user defined groups of investigators, and across all users.

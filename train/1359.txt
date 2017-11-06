@@ -1,1 +1,1 @@
-This package provides a comprehensive collection of various microarray-based classification algorithms both from Machine Learning and Statistics. Variable Selection, Hyperparameter tuning, Evaluation and Comparison can be performed combined or stepwise in a user-friendly environment.
+Predictor of Coiled-Coils Regions in Proteins

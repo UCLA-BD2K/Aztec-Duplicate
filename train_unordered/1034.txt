@@ -1,2 +1,0 @@
-
-		This service provides an external access to the GeneWiz software developed at CBS (Pedersen AG et al

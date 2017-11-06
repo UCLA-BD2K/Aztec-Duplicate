@@ -1,1 +1,0 @@
-EuGene is a gene prediction software for eukaryotic organisms. It is currently mainly tuned for plant and fungal genomes.

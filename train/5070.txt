@@ -1,1 +1,1 @@
-finds rRNA genes in a DNA sequence
+On BAM files.

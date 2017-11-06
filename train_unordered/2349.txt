@@ -1,1 +1,0 @@
-The UniProt Knowledgebase (UniProtKB) is the central hub for the collection of functional information on proteins with accurate, consistent and rich annotation. It consists of: UniProtKB/Swiss-Prot (manually-annotated records and curator-evaluated computational analysis) and UniProtKB/TrEMBL (computationally analyzed records awaiting manual annotation).

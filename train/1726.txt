@@ -1,1 +1,1 @@
-Tools for robust comparative metatranscriptomics.
+Authority: inb.bsc.es  -  Browse cath hierarchical classification. Given a node number, this service returns all its children.

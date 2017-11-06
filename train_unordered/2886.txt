@@ -1,1 +1,0 @@
-Six frame nucleotide sequence translation, with ORF finding

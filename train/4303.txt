@@ -1,1 +1,1 @@
-cufflinks gffread filters and/or converts GFF3/GTF2 records
+Authority: genome.imim.es  -  Converts a generic sequence into a FASTA sequence

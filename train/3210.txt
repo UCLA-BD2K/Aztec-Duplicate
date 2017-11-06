@@ -1,1 +1,1 @@
-Remove poly-A tails from nucleotide sequences
+Installs the kraken tool wrapper for taxonomic designation.

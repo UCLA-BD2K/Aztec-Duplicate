@@ -1,1 +1,1 @@
-RNA secondary structure predictions
+SNP and indel caller.

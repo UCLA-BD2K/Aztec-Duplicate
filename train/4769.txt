@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 8.34 of pcre
+Finds inverted repeats in nucleotide sequences

@@ -1,1 +1,1 @@
-Tool dependency definition for ngs-tools version 0.1.8.
+Object and function to deals with a sequence region (reg:start-end)

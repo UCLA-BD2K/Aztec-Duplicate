@@ -1,1 +1,1 @@
-Cross-correlation analysis package (SPP)
+Contains a tool dependency definition that downloads and compiles version 2.1.0 of the expat library.

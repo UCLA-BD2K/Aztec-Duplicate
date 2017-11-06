@@ -1,1 +1,0 @@
-LightStringGraphs (LSG) is an external memory string graph construction tool

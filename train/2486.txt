@@ -1,1 +1,1 @@
-Two-dimensional polyacrylamide gel electrophoresis federated database.
+Authority: inb.bsc.es  -  Converts a collection of GenericSequence objects into a Fasta object.

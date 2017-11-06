@@ -1,1 +1,1 @@
-This package contains functions enabling data exchange between R and Gaggle enabled bioinformatics software, including Cytoscape, Firegoose and Gaggle Genome Browser.
+Comprehensive enzyme information.

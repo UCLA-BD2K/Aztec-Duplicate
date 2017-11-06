@@ -1,1 +1,1 @@
-Datatypes and converter for cheminformatics 
+L1000 Characteristic Direction Signature Search Engine (L1000CDS2) finds consensus signatures that match usersâ input gene lists or input signatures. The underlying dataset is the LINCS L1000 small molecule expression profiles generated at the Broad Institute by the Connectivity Map team. The differentially expressed (DE) genes of these profiles were calculated using the characteristic direction method.

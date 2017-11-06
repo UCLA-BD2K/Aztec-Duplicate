@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Displays protein hydropathy.
+Complete Genomics cgatools for MacOSX

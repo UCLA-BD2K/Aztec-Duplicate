@@ -1,1 +1,1 @@
-Tools for analyzing and visualizing bisulfite sequencing data
+Geneslico SOAP Service for RNA secondary structure prediction.

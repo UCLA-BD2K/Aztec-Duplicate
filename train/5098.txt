@@ -1,1 +1,1 @@
-recalculate MD/NM tags
+Tool to call CHASM webservice 

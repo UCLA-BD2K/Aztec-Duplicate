@@ -1,1 +1,0 @@
-An open source portable digital lightbox. Runs as app, applet, and non-Java Windows version.

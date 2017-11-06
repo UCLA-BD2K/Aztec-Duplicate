@@ -1,1 +1,1 @@
-Documentation for protein domains, families and functional sites as well as associated patterns and profiles to identify them.
+MkDom2 is the algorithm used to build each new release of ProDom. it can be run on any set of protein sequences in a fasta file.

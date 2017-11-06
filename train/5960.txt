@@ -1,1 +1,1 @@
-A collection of routines and documentation that allows one to perform voxel-wise quantitative analysis of dynamic contrast-enhanced MRI (DEC-MRI) and diffusion-weighted imaging (DWI) data, with emphasis on oncology applications.
+Prediction of Amyloid STructure Aggregation 2.0 (PASTA 2.0) is a web server for the analysis of amino acid sequences.

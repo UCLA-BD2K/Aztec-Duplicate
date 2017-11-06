@@ -1,1 +1,1 @@
-An integrated database for Drosophila and Anopheles genomics
+Makes a pairwise global alingment using the Needleman-Wunsch global alignment algorithm.

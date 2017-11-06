@@ -1,1 +1,1 @@
-Datatypes for the oxli/khmer project
+R package providing functions to perform geneset significance analysis over simple cross-sectional data between 2 and 5 phenotypes of interest.

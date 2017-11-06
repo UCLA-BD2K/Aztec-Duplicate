@@ -1,1 +1,0 @@
-BAM mapping statistics (using samtools idxstats)

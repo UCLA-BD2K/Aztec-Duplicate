@@ -1,1 +1,0 @@
-HMMER is a software suite for protein sequence similarity searches using probabilistic methods. 

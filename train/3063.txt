@@ -1,1 +1,1 @@
-Write a nucleotide sequence and its translation to file
+Retrieves sequence entries from flatfile databases and files

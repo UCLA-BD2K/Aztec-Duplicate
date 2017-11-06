@@ -1,1 +1,0 @@
-MAFFT (Multiple Alignment using Fast Fourier Transform) is a high speed multiple sequence alignment program.

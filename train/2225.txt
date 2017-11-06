@@ -1,1 +1,1 @@
-JS PSICQUIC client
+Contains a tool dependency definition that downloads and compiles version 5.7 of RNAstructure

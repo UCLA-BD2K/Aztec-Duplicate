@@ -1,1 +1,0 @@
-MicroDicom is a DICOM viewer for Windows with standard image viewing features. It can scan directories of DICOM files, and read DICOMDIR files. MicroDicom can read to and from image file formats such as JPG and TIFF. Available in 64-bit version for large data sets. Also available is a Windows shell extension for quick preview of DICOM files from Windows Explorer.

@@ -1,1 +1,0 @@
-fastq-join tool to merge overlapping paired-end reads (from ea-utils package)

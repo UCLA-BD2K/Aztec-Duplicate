@@ -1,1 +1,0 @@
-Utility for integrating sets of genomic features (e.g. canonical genes, CpG islands) with expression data 

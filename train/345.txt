@@ -1,1 +1,6 @@
-It scans the entries from the Blocks databank against a protein sequence.
+Summary: Eukaryotic genomes are hierarchically organized into topologically associating domains (TADs). The computational identification of these domains and their associated properties critically depends on the choice of suitable parameters of TAD-calling algorithms. To reduce the element of trial-and-error in parameter selection, we have developed TADtool: an interactive plot to find robust TAD-calling parameters with immediate visual feedback. TADtool allows the direct export of TADs called with a chosen set of parameters for two of the most common TAD calling algorithms: directionality and insulation index. It can be used as an intuitive, standalone application or as a Python package for maximum flexibility.
+        Availability and implementation: TADtool is available as a Python package from GitHub (https://github.com/vaquerizaslab/tadtool) or can be installed directly via PyPI, the Python package index (tadtool).
+        Contact:
+kai.kruse@mpi-muenster.mpg.de, jmv@mpi-muenster.mpg.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,0 @@
-sampling sequencing library (and text)

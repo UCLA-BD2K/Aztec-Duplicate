@@ -1,2 +1,0 @@
-This is the docking component for the intelligent drug discovery web service 
-                     developed at Dr. Wild's research group at Indiana University

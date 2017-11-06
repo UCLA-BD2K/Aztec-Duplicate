@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads the binary version 23.7 of tbl2asn.
+Authority: cnio.es  -  It returns the PubMed abstract identified by the input, tagged and enriched by the iHOP system

@@ -1,1 +1,1 @@
-Search for protein interactions in the ChEMBL database.
+Search PomBase protein set for a given motif

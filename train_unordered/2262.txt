@@ -1,1 +1,0 @@
-Component to represent one summary feature. Originally design to display protein expression information from the Human Protein Atlas (HPA).

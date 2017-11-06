@@ -1,1 +1,1 @@
-Perform RNA-Seq differential expression analysis using limma voom pipeline
+Pairwise sequence alignment of DNA or protein sequences using Smith-Waterman local alignment.

@@ -1,1 +1,0 @@
-Prediction of distance constraints between amino acids in proteins from the amino acid sequence

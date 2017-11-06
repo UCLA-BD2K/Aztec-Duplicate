@@ -1,1 +1,1 @@
-Sort alignments by leftmost coordinates or read name.
+Compute P-values and Max Variances for Feature Occurrences

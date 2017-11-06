@@ -1,1 +1,0 @@
-Beagle version 4.0 performs genotype calling, genotype phasing, imputation of ungenotyped markers, and identity-by-descent segment detection.

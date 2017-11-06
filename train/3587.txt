@@ -1,1 +1,1 @@
-De novo assembly algorithm of CLC Assembly Cell for  both short and long reads.
+Randomly sample sites from VCF dataset

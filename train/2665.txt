@@ -1,1 +1,1 @@
-Streamable FASTA parser
+This package implements various algorithms for inferring mutual information networks from data.

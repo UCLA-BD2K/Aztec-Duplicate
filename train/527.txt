@@ -1,0 +1,6 @@
+Summary: We present bammds, a practical tool that allows visualization of samples sequenced by second-generation sequencing when compared with a reference panel of individuals (usually genotypes) using a multidimensional scaling algorithm. Our tool is aimed at determining the ancestry of unknown samplesâtypical of ancient DNA dataâparticularly when only low amounts of data are available for those samples.
+        Availability and implementation: The software package is available under GNU General Public License v3 and is freely available together with test datasets https://savannah.nongnu.org/projects/bammds/. It is using R (http://www.r-project.org/), parallel (http://www.gnu.org/software/parallel/), samtools (https://github.com/samtools/samtools).
+        Contact:
+bammds-users@nongnu.org
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

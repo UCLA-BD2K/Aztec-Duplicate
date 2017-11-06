@@ -1,1 +1,1 @@
-Parallel Local Alignment Search Tool for Database Comparison
+Contains a tool dependency definition that downloads and compiles version 0.2.5 of the python library suspenders.

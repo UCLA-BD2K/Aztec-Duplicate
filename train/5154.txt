@@ -1,1 +1,1 @@
-Perform SIFT analysis using http://provean.jcvi.org/genome_submit2.php
+Searches Ensembl Fungi sequences using Exonerate

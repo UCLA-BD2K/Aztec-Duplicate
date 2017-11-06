@@ -1,1 +1,1 @@
-pknotsRG is a tool for folding RNA secondary structures, including the class of simple recursive pseudoknots. It is limited to sequences of length up to 800 bases.
+Provides user interface and database connection code for annotation data packages using SQLite data storage.

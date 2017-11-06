@@ -1,1 +1,1 @@
-Shuffles a set of sequences maintaining composition
+Concatenation of sequences from two fasta files with exactly the same sequence identifiers

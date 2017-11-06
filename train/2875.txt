@@ -1,1 +1,1 @@
-Get a subset of data from a BAM | VCF file
+GorIV @ IBCP (http://gbio-pbil.ibcp.fr)

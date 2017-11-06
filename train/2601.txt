@@ -1,1 +1,1 @@
-The AnnotQTL server is a tool designed to gather the functional annotation of genes from several institutional databases for a specific chromosomal region.
+package_tagrecon

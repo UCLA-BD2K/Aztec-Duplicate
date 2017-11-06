@@ -1,1 +1,1 @@
-A grammar for describing microbial genotypes and phenotypes.
+Sub-sample sequences files (e.g. to reduce coverage)

@@ -1,1 +1,0 @@
-Annotate a VCF file (dbSNP, hapmap)

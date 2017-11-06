@@ -1,1 +1,1 @@
-Comprehensive information resources for Arabidopsis.
+Different data resources for microRNAs and some functions for manipulating them.

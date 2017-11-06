@@ -1,1 +1,1 @@
-Make table of top BLAST match descriptions
+In-silico cleavage of polypeptide sequences. The cleavage rules are taken from: http://web.expasy.org/peptide_cutter/peptidecutter_enzymes.html

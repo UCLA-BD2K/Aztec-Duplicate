@@ -1,1 +1,1 @@
-BASILISK is a probabilistic model of the conformational space of amino acid side chains in proteins. Unlike rotamer libraries, BASILISK models the chi angles in continuous space, including the influence of the protein's backbone.
+Retrieves all sequence of an ENSEMBL homology.

@@ -1,1 +1,1 @@
-xmapBridge can plot graphs in the X:Map genome browser. This package exports plotting files in a suitable format.
+It compares a nucleotide query sequence against a nucleotide sequence database using the Washington University BLAST algorithm.

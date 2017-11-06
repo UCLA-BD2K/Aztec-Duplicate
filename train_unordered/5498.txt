@@ -1,1 +1,0 @@
-Network and Table Data Exporter for D3.js

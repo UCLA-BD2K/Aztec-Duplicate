@@ -1,1 +1,1 @@
-Model-based Analysis of ChIP-Seq
+View image and perform image processing operations such as image resample, image reslice, etc

@@ -1,1 +1,1 @@
-PROSITE consists of documentation entries describing protein domains, families and functional sites as well as associated patterns and profiles to identify them.
+Readseq reads and converts biosequences between a selection of common biological sequence formats, including EMBL, GenBank and fasta sequence formats.

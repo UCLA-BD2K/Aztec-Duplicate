@@ -1,1 +1,1 @@
-This package extends flowCore to provide functionality specific to bead data. One of the goals of this package is to automate analysis of bead data for the purpose of normalisation.
+Calculates overrepresented GO terms in the network and display them as a network of significant GO terms.

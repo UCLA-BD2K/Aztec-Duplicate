@@ -1,1 +1,1 @@
-Convert numerical representation of genotypes to allelic.
+OMA (Orthologous MAtrix) is a database that identifies orthologs among publicly available, complete genomes.

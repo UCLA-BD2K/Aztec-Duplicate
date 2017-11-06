@@ -1,1 +1,5 @@
-T-Coffee is a multiple sequence alignment program. The main characteristic of T-Coffee is that it will allow you to combine results obtained with several alignment methods. By default, T-Coffee will compare all you sequences two by two, producing a global
+Summary: We present ABAEnrichment, an R package that tests for expression enrichment in specific brain regions at different developmental stages using expression information gathered from multiple regions of the adult and developing human brain, together with ontologically organized structural information about the brain, both provided by the Allen Brain Atlas. We validate ABAEnrichment by successfully recovering the origin of gene sets identified in specific brain cell-types and developmental stages.
+        Availability and Implementation: ABAEnrichment was implemented as an R package and is available under GPL (≥ 2) from the Bioconductor website (http://bioconductor.org/packages/3.3/bioc/html/ABAEnrichment.html).
+        Contacts:
+steffi_grote@eva.mpg.de, kelso@eva.mpg.de or michael_dannemann@eva.mpg.de
+        Supplementary information: Supplementary data are available at Bioinformatics online.

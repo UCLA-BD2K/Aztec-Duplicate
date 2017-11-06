@@ -1,1 +1,0 @@
-OpenCL-accelerated Interactive Force-Directed Layouts

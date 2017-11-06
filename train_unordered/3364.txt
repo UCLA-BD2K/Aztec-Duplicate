@@ -1,1 +1,0 @@
-WHAT_CHECK is a suite of programs to assess the "stereochemical quality" of a given protein structure

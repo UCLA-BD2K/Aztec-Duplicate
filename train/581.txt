@@ -1,5 +1,5 @@
-Authority: mmb.pcb.ub.es  -  
-		
-			Returns a 2D graphic from a FeatureAASequence (png image)
-		
-	
+The volume of an internal protein pocket is fundamental to ligand accessibility. Few programs that compute such volumes manage dynamic data from molecular dynamics (MD) simulations. Limited performance often prohibits analysis of large datasets. We present Epock, an efficient command-line tool that calculates pocket volumes from MD trajectories. A plugin for the VMD program provides a graphical user interface to facilitate input creation, run Epock and analyse the results.
+                Epock C++ source code, Python analysis scripts, VMD Tcl plugin, documentation and installation instructions are freely available at http://epock.bitbucket.org.
+                benoist.laurent@gmail.com or baaden@smplinux.de
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2014. Published by Oxford University Press.

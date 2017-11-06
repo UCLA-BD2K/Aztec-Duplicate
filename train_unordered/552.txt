@@ -1,1 +1,0 @@
-KnotInFrame is a pipeline to predict ribosomal -1 frameshift sites with a simple pseudoknot as secondary structure in DNA and RNA sequences. The prediction is based on a comparison between the minimal free energy (mfe) structure calculated by RNAfold ( ht

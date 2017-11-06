@@ -1,1 +1,1 @@
-MoAn is a discriminative pattern finder capable of using a very large negative set to greatly improve its predictive power. It is capable of handling sequences that are not repeat masked given that the negative set is a representative sample of promoters from the organism examined.
+Evaluation of an alignment using Tcoffee.

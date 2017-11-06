@@ -1,3 +1,1 @@
-
- 	This tool converts genome coordinates and genome annotation files between assemblies.
-
+Use log-linear models to perform hypergeometric and chi-squared tests for gene set enrichments for two (based on contingency tables) or three categories (contingency cubes). Categories can be differentially expressed genes, GO terms, sequence length, GC content, chromosmal position, phylostrata, ....

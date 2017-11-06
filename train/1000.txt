@@ -1,1 +1,1 @@
-MRS Blast is a companion service for the text based MRS service. You can use it to blast against protein sequences stored in the databanks that were indexed using MRS. The blast search is performed asynchronously.
+Authority: mmb.pcb.ub.es  -  Extracts amino acid sequence that corresponds to structure in PDB

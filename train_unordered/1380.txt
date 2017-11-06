@@ -1,1 +1,0 @@
-Visualisation of EWAS results in a genomic region. In addition to phenotype-association P-values, coMET also generates plots of co-methylation patterns and provides a series of annotation tracks. It can be used to other omic-wide association scans as long as the data can be translated to genomic level and for any species.

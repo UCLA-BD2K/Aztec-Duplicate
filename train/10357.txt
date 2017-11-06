@@ -1,1 +1,1 @@
-Barcode quality index (B) is a novel, unified measure of sequence quality and contig overlap tailored to the needs of DNA barcoding. Re-analysis of published data demonstrates the utility of B.
+3D-DOCTOR is an advanced 3D modeling, image processing and measurement software for MRI, CT, PET, microscopy, scientific, and industrial imaging applications.

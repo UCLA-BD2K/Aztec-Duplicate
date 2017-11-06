@@ -1,1 +1,0 @@
-hmmbuild: profile HMM construction from multiple sequence alignments 

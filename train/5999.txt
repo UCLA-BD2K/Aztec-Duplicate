@@ -1,1 +1,1 @@
-This is a simple module, which has two main functions: imread (reads an image from a file) and imsave (savs an image to a file)
+BioCyc collection of Pathway/Genome Databases. Each BioCyc database describes the genome and metabolic pathways of a single organism.  This includes Escherichia coli K-12 MG1655 model-organism database (EcoCyc) and Multiorganism metabolic pathway and enzyme database (MetaCyc)

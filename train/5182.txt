@@ -1,1 +1,1 @@
-snpEff SnpSift genesets tool from Pablo Cingolani
+Tool wrappers for various applications that contained in the OpenMS suite.

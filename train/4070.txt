@@ -1,1 +1,1 @@
-Generates column string for input to Cut Columns tool
+An open-source visual data exploration system developed to support analysts in the identification and characterization of tumor subtypes in large patient populations.

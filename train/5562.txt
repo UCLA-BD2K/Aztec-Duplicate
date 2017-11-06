@@ -1,1 +1,1 @@
-Network Dynamics and Structure Analysis
+HAMAP is a system for the classification and annotation of protein sequences. It consists of a collection of manually curated family profiles for protein classification, and associated, manually created annotation rules that specify annotations that apply to family members. HAMAP is applied to bacterial, archaeal and eukaryotic proteins and used to annotate records in UniProtKB via UniProt's automatic annotation pipeline.

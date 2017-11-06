@@ -1,1 +1,1 @@
-Parses newick and extended newick strings(nhx) into JSON 
+Parametric Analysis of Gene Set Enrichment

@@ -1,1 +1,0 @@
-GLISTR is a software package designed for simultaneously segmenting brain scans of glioma patients and registering these scans to a normal atlas.

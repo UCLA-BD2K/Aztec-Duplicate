@@ -1,1 +1,1 @@
-"The LONI ShapeViewer is a simple, portable geometry viewer that supports the file formats used by CCB researchers and provides their most commonly needed viewing functions. Since it is written in Java, it can run on a wide variety of computers."
+A public repository, standards compliant, for proteomics image data published in the literature.

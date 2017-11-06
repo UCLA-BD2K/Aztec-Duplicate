@@ -1,1 +1,0 @@
-&lt; Java 8 REQUIRED! &gt; Language-agnostic, RESTful API module for Cytoscape 3.2.1+

@@ -1,1 +1,0 @@
-MUSCLE (MUltiple Sequence Comparison by Log- Expectation) is a multiple sequence algnment tool.

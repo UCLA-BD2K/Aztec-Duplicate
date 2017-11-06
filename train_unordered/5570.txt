@@ -1,1 +1,0 @@
-Integrates omics data such as expression data, proteome data, etc. onto networks 

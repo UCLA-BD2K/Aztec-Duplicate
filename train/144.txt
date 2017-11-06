@@ -1,1 +1,3 @@
-Displays a non-overlapping wordmatch dotplot of two sequences 
+Summary: We present Galaxy Portal app, an open source interface to the Galaxy system through smart phones and tablets. The Galaxy Portal provides convenient and efficient monitoring of job completion, as well as opportunities for inspection of results and execution history. In addition to being useful to the Galaxy community, we believe that the app also exemplifies a useful way of exploiting mobile interfaces for research/high-performance computing resources in general.
+        Availability and implementation: The source is freely available under a GPL license on GitHub, along with user documentation and pre-compiled binaries and instructions for several platforms: https://github.com/Tarostar/QMLGalaxyPortal. It is available for iOS version 7 (and newer) through the Apple App Store, and for Android through Google Play for version 4.1 (API 16) or newer.
+        Contact: geirksa@ifi.uio.no

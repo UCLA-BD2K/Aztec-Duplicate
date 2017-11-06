@@ -1,1 +1,1 @@
-iSix is a plugin for the popular MacOs software Osirix. It allows the user to perform manual and semi-automatic segmentation using: different size brushes, region growing, and livewire segmentation. 
+Corrects GC and mappability biases for readcounts (i.e. coverage) in non-overlapping windows of fixed length for single whole genome samples, yielding a rough estimate of copy number for furthur analysis.  Designed for rapid correction of high coverage whole genome tumour and normal samples.

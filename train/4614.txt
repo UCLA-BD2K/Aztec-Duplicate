@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.1.2-484 of ea-utils.
+Authority: inb.bsc.es  -  Searches uniprot entries for a text. The text is searched in: comments and keywords.

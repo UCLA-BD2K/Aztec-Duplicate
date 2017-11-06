@@ -1,1 +1,1 @@
-Allow instant review of nuclear cardiology imaging. Provides clinically validated algorithms for image analysis.
+Motivation: Among challenges that hamper reaping the benefits of genome assembly are both unfinished assemblies and the ensuing experimental costs. First, numerous software solutions for genome de novo assembly are available, each having its advantages and drawbacks, without clear guidelines as to how to choose among them. Second, these solutions produce draft assemblies that often require a resource intensive finishing phase.

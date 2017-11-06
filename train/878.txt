@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Runs cross_match to screen out vector sequences from a set of DNA sequences. The vector sequences dataset is stored internally
+Reads a protein sequence and calculates the charges of the amino acids within a window of specified length.

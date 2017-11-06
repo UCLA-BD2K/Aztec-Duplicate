@@ -1,1 +1,1 @@
-Cluster the intervals of a dataset
+OmicCircos is an R application and package for generating high-quality circular plots for omics data.

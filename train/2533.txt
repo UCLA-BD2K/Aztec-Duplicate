@@ -1,1 +1,1 @@
-Sequence data and annotation/curation for Schizosaccharomyces pombe (fission yeast), including known and predicted protein coding genes, pseudogenes, transposons, tRNAs, rRNAs, snRNAs, snoRNAs and other known and predicted non-coding RNAs.
+Clip adapter sequences

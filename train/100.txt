@@ -1,1 +1,3 @@
-A Web Service that exposes methods of the Animal Manager class of the DiaComp Object Model
+Summary: Array-based comparative genomic hybridization (CGH) technology is used to discover and validate genomic structural variation, including copy number variants, insertions, deletions and other structural variants (SVs). The visualization and summarization of the array CGH data outputs, potentially across many samples, is an important process in the identification and analysis of SVs. We have developed a software tool for SV analysis using data from array CGH technologies, which is also amenable to short-read sequence data.
+        Availability and implementation: SnoopCGH is written in java and is available from http://snoopcgh.sourceforge.net/
+        Contact: jg10@sanger.ac.uk; tc5@sanger.ac.uk

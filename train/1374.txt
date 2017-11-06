@@ -1,1 +1,1 @@
-This package facilitates reading, preprocessing and manipulating Codelink microarray data. The raw data must be exported as text file using the Codelink software.
+Tool dependencies for PeptideShaker 0.38

@@ -1,1 +1,0 @@
-Build a profile HMM from an input multiple alignment

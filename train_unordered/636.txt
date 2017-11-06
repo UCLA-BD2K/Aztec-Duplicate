@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Estimates phylogenies from nucleotide sequences by maximum likelihood under the constraint that the trees estimated must be consistent with a molecular clock.

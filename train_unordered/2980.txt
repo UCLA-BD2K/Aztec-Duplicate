@@ -1,1 +1,0 @@
-Searches Ensembl Bacteria sequences using WU-BLAST

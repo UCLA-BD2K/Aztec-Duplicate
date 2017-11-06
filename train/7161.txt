@@ -1,1 +1,1 @@
-Contact:
+This tools converts the tabular format used to describe variants and associate annotation at ACHRI into a standard Variant Calls Format (VCF) version 4.1 file, which i    s accepted by many genetic analysis programs.

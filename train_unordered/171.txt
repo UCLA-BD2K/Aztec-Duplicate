@@ -1,1 +1,0 @@
-Retrieve protein interactions from APID database (http://bioinfow.dep.usal.es/apid/index.htm)

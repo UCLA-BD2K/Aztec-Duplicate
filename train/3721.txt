@@ -1,1 +1,3 @@
-RONN predict whether a protein is disordered, given its amino acid sequence.
+Signature: ./ontologies/download/{OntologyName}
+Return: the owl file.
+Example link: http://nif-services.neuinfo.org/ontoquest/ontologies/download/NIF

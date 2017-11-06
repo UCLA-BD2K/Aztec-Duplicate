@@ -1,3 +1,1 @@
-Entrez Programming Utilities are tools that provide access to Entrez data outside of the regular web query interface and may be helpful for retrieving search results for future use in another environment.
-
-Home: http://www.ncbi.nlm.nih.gov/entrez/query/
+ITK-SNAP is a software application used to segment structures in 3D medical images

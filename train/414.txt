@@ -1,3 +1,5 @@
-This Web Service connects to the Banana module of the TropGene database (http://tropgenedb.cirad.fr).
-We annotated the input and output with ontological terms of the GCP Domain Model Ontology (http://cropontology.org/).
-For given study names (GCP_Study)
+Motivation: The ability to centralize and store data for long periods on an end user’s computational resources is increasingly difficult for many scientific disciplines. For example, genomics data is increasingly large and distributed, and the data needs to be moved into workflow execution sites ranging from lab workstations to the cloud. However, the typical user is not always informed on emerging network technology or the most efficient methods to move and share data. Thus, the user defaults to using inefficient methods for transfer across the commercial internet.
+        Results: To accelerate large data transfer, we created a tool called the Big Data Smart Socket (BDSS) that abstracts data transfer methodology from the user. The user provides BDSS with a manifest of datasets stored in a remote storage repository. BDSS then queries a metadata repository for curated data transfer mechanisms and optimal path to move each of the files in the manifest to the site of workflow execution. BDSS functions as a standalone tool or can be directly integrated into a computational workflow such as provided by the Galaxy Project. To demonstrate applicability, we use BDSS within a biological context, although it is applicable to any scientific domain.
+        Availability and Implementation: BDSS is available under version 2 of the GNU General Public License at https://github.com/feltus/BDSS.
+        Contact:
+ffeltus@clemson.edu

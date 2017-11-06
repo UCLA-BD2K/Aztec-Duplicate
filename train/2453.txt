@@ -1,1 +1,1 @@
-Biomolecular interactions and cellular processes assembled into human signaling pathways.
+BALBES is a system for solving protein structures using x-ray crystallographic data.

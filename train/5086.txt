@@ -1,1 +1,1 @@
-Flexible filtering of BAM/SAM
+BWA-MEM

@@ -1,1 +1,1 @@
-Calculate distance to the nearest variant.
+Gapped-read mapper for RNA-seq data.

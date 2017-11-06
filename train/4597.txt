@@ -1,1 +1,1 @@
-Intsalls CREST (Clipping Reveals Structure)  perl code
+Cytoscape Web is a web-based network visualization toolâmodeled after Cytoscapeâwhich is open source, interactive, customizable and easily integrated into web sites. Multiple file exchange formats can be used to load data into Cytoscape Web, including GraphML, XGMML and SIF. Availability and Implementation: Cytoscape Web is implemented in Flex/ActionScript with a JavaScript API and is freely available at

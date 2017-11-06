@@ -1,1 +1,1 @@
-Get SNPs information given SNP ID list
+Infernal cmscan is used to search the CM-format Rfam database.

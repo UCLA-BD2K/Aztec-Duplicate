@@ -1,1 +1,0 @@
-Sequence Logo generator for fasta

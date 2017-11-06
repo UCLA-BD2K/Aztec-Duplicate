@@ -1,3 +1,1 @@
-The goal of the modENCODE project is to provide the biological research community with a comprehensive encyclopedia of genomic functional elements in the model organisms C. elegans and D. melanogaster.
-
-modENCODE is run as a Research Network and the consortium is formed by 11 primary projects , divided between worm and fly, spanning the domains of gene structure, mRNA and ncRNA expression profiling, transcription factor binding sites, histone modifications and replacement, chromatin structure, DNA replication initiation and timing, and copy number variation.
+Prediction of topology and subcellular localization of Eukaryotic membrane proteins.

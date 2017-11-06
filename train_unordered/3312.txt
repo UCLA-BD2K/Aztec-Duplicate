@@ -1,1 +1,0 @@
-The Pfam database contains information about protein domains and families. For each entry a protein sequence alignment and a Hidden Markov Model is stored.

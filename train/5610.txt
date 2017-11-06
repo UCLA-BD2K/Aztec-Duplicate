@@ -1,1 +1,3 @@
-Assesses similarity of gene ontologies for given genes and their neighbours. All files must be installed in plugin folder.
+Identifier mapping service for genes and proteins from multiple species, and for metabolites. Can translate single identifiers, batches of identifiers, look up common names and do a free text search.
+
+See also http://www.biomedcentral.com/1471-2105/11/5

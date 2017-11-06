@@ -1,1 +1,1 @@
-based on overlap with a named regions BED file
+Generates random network or randomizes already loaded network.

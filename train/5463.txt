@@ -1,1 +1,1 @@
-Clustering based on QCUT, HQCUT, MCL, MCODE.
+Create and view Krona charts within Galaxy

@@ -1,1 +1,1 @@
-plot interval size distribution
+A program to read/write and display multiple medical image formats. Visualization methods will include planar views, orthogonal, multi-planar reconstruction (MPR), maximum intensity projection (MIP), volume rendering, and surface shaded display (SSD).

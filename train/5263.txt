@@ -1,1 +1,1 @@
-Tool to import data from TCGA
+over targeted regions in a genome

@@ -1,1 +1,1 @@
-A pipeline for accurate detection of methylated cytosines and differentially methylated regions
+Authority: inb.bsc.es  -  Compares an amino acid sequence against the six-frame translations of a nucleotide sequence  database and calculates the statistical significance of matches using the Basic Local Alignment Search Tool (BLAST).

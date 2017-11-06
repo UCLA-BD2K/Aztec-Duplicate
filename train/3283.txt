@@ -1,1 +1,1 @@
-identify coexpressed genes or gene coexpression neighborhoods associated with cis-regulatory motifs or GO categories
+World-wide gel-based proteomics database (0006) for hemolymph proteome of the honeybee.

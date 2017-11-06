@@ -1,1 +1,1 @@
-mass selection and fast comparison of annotated PDB residues
+Clusters a network based on network topology using a modified agglomerative clustering algorithm very similar to MCODE.

@@ -1,1 +1,1 @@
-Plant membrane proteins.
+The tool assists users in the set up and execution of publication quality MD research including multi stage minimization heating, constrained equilibration, and multi copy production dynamics.

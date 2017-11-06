@@ -1,1 +1,1 @@
-Extract Orthologous Microsatellites from pair-wise alignments
+JS PSICQUIC client

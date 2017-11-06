@@ -1,1 +1,0 @@
-Displays 3D images slice by slice.Intensity adjusting & slice browsing by mouse

@@ -1,1 +1,1 @@
-Authority: www.bioinfo.uma.es  -  Get the best hits from a Blast report
+De novo assembly algorithm of CLC Assembly Cell for  both short and long reads.

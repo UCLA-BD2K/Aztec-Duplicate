@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.5.3 of Lordec
+Displays a thresholded dotplot of two sequences

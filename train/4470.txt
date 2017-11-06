@@ -1,1 +1,1 @@
-Loads AB Sciex wiff files from URLs
+CTD includes manually curated data describing cross-species chemicalÃÂ¢Ã¢âÂ¬Ã¢â¬Ågene/protein interactions and chemicalÃÂ¢Ã¢âÂ¬Ã¢â¬Å and geneÃÂ¢Ã¢âÂ¬Ã¢â¬Ådisease relationships to illuminate molecular mechanisms underlying variable susceptibility and environmentally influenced diseases.

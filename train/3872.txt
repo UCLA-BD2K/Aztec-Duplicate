@@ -1,1 +1,1 @@
-Geneslico SOAP Service for RNA secondary structure prediction.
+MedView is a medical (Dicom) image viewer able to be used on any html5 capable device. The viewer displays images stored on a standard Dicom Server

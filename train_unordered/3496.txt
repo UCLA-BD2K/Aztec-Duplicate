@@ -1,1 +1,0 @@
-The NetOglyc server produces neural network predictions of mucin type GalNAc O-glycosylation sites in mammalian proteins.

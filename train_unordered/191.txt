@@ -1,1 +1,0 @@
-Scan a database of HMM protein signatures (e.g. Pfam or TreeFam) with a protein sequence.

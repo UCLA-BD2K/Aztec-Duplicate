@@ -1,1 +1,1 @@
-Bioconductor-specific package checks
+Common Access to Biological Resources and Information - A collection of European Biological Resource Centre catalogues.

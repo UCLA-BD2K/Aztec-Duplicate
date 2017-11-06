@@ -1,1 +1,3 @@
-Annotated view of the genomic sequence of organisms with completely deciphered genomes. Currently, Genome Reviews contains the genomes of archaea, bacteria, bacteriophages and selected eukaryota.
+Authority: mmb.pcb.ub.es  -  
+		Given a PDB code, returns all the protein fragments that interact with a ligand
+	

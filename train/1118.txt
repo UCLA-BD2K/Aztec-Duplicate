@@ -1,1 +1,1 @@
-The Systems Biology Ontology is a set of controlled vocabularies and ontologies tailored specifically for the kinds of problems being faced in Systems Biology, especially in the context of computational modelling.
+Functional cluster of MHC class I molecules (MHCI) based on their predicted binding specificity

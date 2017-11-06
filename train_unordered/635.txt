@@ -1,1 +1,0 @@
-Authority: cnio.es  -  Automatic method for predicting functionally important residues using the concept of Relative Entropy in protein sequence alignments (longer than 50 residues and at least 15 sequences). The accepted formats are ALN (Clustalw), FASTA, MSF, and PIR.

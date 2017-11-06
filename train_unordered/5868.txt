@@ -1,1 +1,0 @@
-Allow doctors to securely view patient images and reports

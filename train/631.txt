@@ -1,1 +1,6 @@
-Authority: cnio.es  -  SIAM (Statistical Inferred Annotation Model): Inferring Gene Ontology terms for FunCUT pipeline
+CoRegNet is an R/Bioconductor package to analyze large-scale transcriptomic data by highlighting sets of co-regulators. Based on a transcriptomic dataset, CoRegNet can be used to: reconstruct a large-scale co-regulatory network, integrate regulation evidences such as transcription factor binding sites and ChIP data, estimate sample-specific regulator activity, identify cooperative transcription factors and analyze the sample-specific combinations of active regulators through an interactive visualization tool. In this study CoRegNet was used to identify driver regulators of bladder cancer.
+        Availability: CoRegNet is available at http://bioconductor.org/packages/CoRegNet
+        Contact:
+remy.nicolle@issb.genopole.fr or mohamed.elati@issb.genopole.fr
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

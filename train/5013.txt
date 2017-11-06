@@ -1,1 +1,1 @@
-Find genes
+Protein similarity network generation method for Cytoscape.

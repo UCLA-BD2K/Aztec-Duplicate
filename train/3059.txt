@@ -1,1 +1,1 @@
-Removes vectors from the ends of nucleotide sequence(s)
+Sequentially add profile2 sequences to profile1 alignment

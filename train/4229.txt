@@ -1,1 +1,1 @@
-Filter by quality
+Pathintegrator searches for, and integrates in a single network pathways in which a given gene or protein is involved.

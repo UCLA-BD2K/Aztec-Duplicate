@@ -1,1 +1,0 @@
-Provides quality control and quality assessment tools for gated flow cytometry data.

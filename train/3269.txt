@@ -1,1 +1,1 @@
-Picks PCR primers and hybridization oligos
+Contains a tool dependency definition that downloads and compiles version 3.0 of the hmmer package.

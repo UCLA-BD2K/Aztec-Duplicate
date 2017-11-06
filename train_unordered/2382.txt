@@ -1,1 +1,0 @@
-A collection of genes and proteins involved in human and yeast cell cycle.

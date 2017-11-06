@@ -1,1 +1,1 @@
-plant microRNA analysis tools
+The LINCS Canvas Browser (LCB) is an interactive web app to query, browse and interrogate LINCS L1000 gene expression signatures.

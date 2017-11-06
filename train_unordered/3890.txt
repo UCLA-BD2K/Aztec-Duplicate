@@ -1,1 +1,0 @@
-Generation of a SMILES from a chemical structureGeneration of a chemical structure from a SMILESGeneration of an InChI from a chemical structureGeneration of a chemical structure from an InChIConversion between chemical data formats using OpenBabel

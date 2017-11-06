@@ -1,1 +1,0 @@
-Uses nucleotide sequences to compute a distance matrix, under four different models of nucleotide substitution.

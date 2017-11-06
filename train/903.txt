@@ -1,1 +1,3 @@
-Authority: mmb.pcb.ub.es  -  This web service that runs the following physical properties for a given dna sequence: DNA 3DNA structure, Curvature, Direction wedge, Protein DNA twist, Dna propeller-twist. It returns a collection of WIG files (in a text_plain format), one for each property. See http://mmb2.pcb.ub.es:8080/PhysicalProperties/runStructurePhysicalProperties.html for more info
+
+            These web services provide access to methods for matching user submitted spectra against the GMD.
+            Please send all feedback to hummel@mpimp-golm.mpg.de

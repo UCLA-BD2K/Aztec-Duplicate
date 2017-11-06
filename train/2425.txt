@@ -1,1 +1,1 @@
-Tools for the biologist enabling optimized use of gene trap clones.
+Finds tandem repeats in a nucleotide sequence

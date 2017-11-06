@@ -1,1 +1,0 @@
-Count the allele frequencies across alleles present in each record in the VCF file.

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2012-12 of the RDKit cheminformatics and machine-learning package.
+Biological data models

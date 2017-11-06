@@ -1,1 +1,1 @@
-Tool for analysing human immunoglobulin VDJ recombination
+A tool for identification of CTCF sites

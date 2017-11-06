@@ -1,1 +1,0 @@
-This package provides a pipeline to analyze single-nucleotide resolution methylation data (Illumina 450k methylation array, targeted BS-Seq, etc.). It provides QC metrics, differential methylation for CpG Sites, differential methylation for CpG Islands, integration with gene expression data, and visualization of methylation values.

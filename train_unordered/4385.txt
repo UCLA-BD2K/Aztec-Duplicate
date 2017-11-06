@@ -1,1 +1,0 @@
-Perform Linear Discriminant Analysis

@@ -1,1 +1,0 @@
-Retrieves Genes in the requested format from a list of one or more unique identifiers. 

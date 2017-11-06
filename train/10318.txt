@@ -1,1 +1,1 @@
-Motivation: Cancer is a complex disease, triggered by mutations in multiple genes and pathways. There is a growing interest in the application of systems biology approaches to analyze various types of cancer-related data to understand the overwhelming complexity of changes induced by the disease.
+This REST service allows you to serve up ChEBI structures directly to your content using a few parameters in your URL.

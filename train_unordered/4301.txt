@@ -1,1 +1,0 @@
-Search nucleotide sequences for open reading frames (ORFs), or coding sequences (CDSs)

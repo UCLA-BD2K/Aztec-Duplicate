@@ -1,1 +1,1 @@
-bedtools: a powerful toolset for genome arithmetic
+It constructs a Hidden Markov Model from a multiple sequence alignment.

@@ -1,1 +1,1 @@
-Mapsembler2 is a targeted assembly software
+Analysis of combinatorial cell-based RNAi screens

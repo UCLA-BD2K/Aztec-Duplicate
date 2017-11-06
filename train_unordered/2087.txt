@@ -1,1 +1,0 @@
-This package calculates metrics which assign a level of similarity between ChIP-Seq profiles.

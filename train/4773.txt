@@ -1,1 +1,1 @@
-Tool dependencies for PeptideShaker 0.38
+MUSCLE is a program for creating multiple alignments of amino acid or nucleotide sequences.

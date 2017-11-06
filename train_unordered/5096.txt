@@ -1,1 +1,0 @@
-Flter BAM/SAM on FLAG,MAPQ,RG,LB or by region and produce a BAM/SAM on demand

@@ -1,1 +1,1 @@
-g:Orth is a tool for mapping orthologous genes in related organisms.
+Select lines from the end of a file.

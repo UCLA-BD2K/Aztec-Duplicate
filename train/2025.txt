@@ -1,1 +1,1 @@
-This package implements an interface to proteomics data submitted to the ProteomeXchange consortium.
+fast quantitation of reads mapping to known miRBase precursors

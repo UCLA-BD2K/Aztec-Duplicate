@@ -1,1 +1,1 @@
-Tool dependedency definition for PyVCF
+A windowed adaptive trimming tool for FASTQ files using quality

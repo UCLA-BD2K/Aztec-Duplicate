@@ -1,1 +1,5 @@
-Equicktandem scans a sequence for potential tandem repeats up to a specified size The results can be used to run etandem on the
+Summary: DMEAS is the first user-friendly tool dedicated to analyze the distribution of DNA methylation patterns for the quantification of epigenetic heterogeneity. It supports the analysis of both locus-specific and genome-wide bisulfite sequencing data. DMEAS progressively scans the mapping results of bisulfite sequencing reads to extract DNA methylation patterns for contiguous CpG dinucleotides. It determines the DNA methylation level and calculates methylation entropy for genomic segments to enable the quantitative assessment of DNA methylation variations observed in cell populations.
+        Availability and implementation: DMEAS program, user guide and all the testing data are freely available from http://sourceforge.net/projects/dmeas/files/
+        Contact:
+davidxie@vt.edu
+        Supplementary Information: Supplementary data are available at Bioinformatics online.

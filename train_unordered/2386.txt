@@ -1,1 +1,0 @@
-Information on the residues used in glycan databases.

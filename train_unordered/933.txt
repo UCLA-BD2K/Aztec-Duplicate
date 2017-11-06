@@ -1,3 +1,0 @@
-ClustalW2 is a fully automatic program for global multiple alignment of DNA or protein sequences. The alignment is progressive and considers sequence redundancy.
-
-Note: ClustalW 2 is superseded by the next generation of Clustal multiple sequence alignment: Clustal Omega.

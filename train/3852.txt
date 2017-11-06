@@ -1,1 +1,1 @@
-abiview reads in an ABI sequence trace file and graphically displays the results.
+Allows user to query and modify networks through an XML-RPC connection.

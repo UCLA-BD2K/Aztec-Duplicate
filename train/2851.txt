@@ -1,1 +1,1 @@
-PMDB collects three dimensional protein models obtained by structure prediction methods
+Command-line program to convert Analyst native acquisition (.wiff) files to mzXML. The program requires the Analyst library from ABI/MDS Sciex. The Analyst library is installed with the Analyst software suite; you must obtain this software from your vendor. mzWiff replaces mzStar.

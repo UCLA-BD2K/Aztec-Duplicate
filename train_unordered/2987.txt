@@ -1,1 +1,0 @@
-Search tool for generating probe and primer hit tables

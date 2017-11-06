@@ -1,1 +1,1 @@
-Graphical displays with embedded statistical tests for gated ICS flow cytometry data, and a data class which stores "stacked" data and has methods for computing summary measures on stacked data, such as marginal and polyfunctional degree data.
+The dbfetch services provide access to entries from various up-to-date biological databases using entry identifiers or accession numbers.

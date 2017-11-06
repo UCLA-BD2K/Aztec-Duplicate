@@ -1,1 +1,1 @@
-Discover patterns in unaligned protein sequences
+Search Reactome FIs (http://www.reactome.org/) for interactions using protein ids

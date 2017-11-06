@@ -1,1 +1,1 @@
-Global Alignment Short Sequence Search Tool
+plot features along chromosomes

@@ -1,1 +1,1 @@
-ProTag Update Service; see http://services.bio.ifi.lmu.de/prothesaurus/
+Galaxy applicable data formats for SnpSift snpsift_dbnsfp tool

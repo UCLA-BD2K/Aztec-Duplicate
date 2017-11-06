@@ -1,1 +1,0 @@
-Merge overlapping Illumina paired-end reads and trims adapter sequences

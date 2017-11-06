@@ -1,1 +1,1 @@
-with deleterious AA and splicing change predictions, protein domain disruptions, etc.
+This tool an ABI colorspace sequencing run's variant calls (using LifeScope's diBayes) into a format amenable to many variant processing tools.

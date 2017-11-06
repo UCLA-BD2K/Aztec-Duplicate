@@ -1,1 +1,1 @@
-The ConQuass server for Quality Assessment of Protein Model-Structures using Evolutionary Conservation
+custom compilation of samtools 0.1.19 using -fPIC flag

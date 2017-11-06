@@ -1,1 +1,1 @@
-Get the distribution of exons per transcripts, or mapping per read, or transcript per cluster.
+Contains a tool dependency definition that downloads and compiles version 0.9.18 of FreeBayes.

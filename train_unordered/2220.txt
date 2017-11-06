@@ -1,1 +1,0 @@
-BioJS wrapper for PCViz widget from Pathway Commons team

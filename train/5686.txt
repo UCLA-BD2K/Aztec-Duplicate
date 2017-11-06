@@ -1,1 +1,1 @@
-A proteomics tool developed to calculate protein FDR for both individual experiments and large-scale proteomics projects that combine multiple sample fractions or experiments. 
+This package is intended to facilitate gene-set association with rare CNVs in case-control studies.

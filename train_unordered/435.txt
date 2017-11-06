@@ -1,1 +1,0 @@
-Similar to PSI-BLAST, PSI-Search uses SSEARCH to perform a rigorous Smith & Waterman search of a protein database. From the results, the significant hits are used to create a position-specific scoring matrix (PSSM) profile using NCBI blastpgp. The profile

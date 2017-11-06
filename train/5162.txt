@@ -1,1 +1,1 @@
-SNiPlay3: a package for exploration and large scale analyses of SNP polymorphisms (filtering, density, vcftools, diversity, linkagedisequilibrium, GWAS)
+Compute the structure upon hybridization of two RNA strands

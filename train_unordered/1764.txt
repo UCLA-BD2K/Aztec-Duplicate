@@ -1,1 +1,0 @@
-Perform step by step methylation analysis of Next Generation Sequencing data.

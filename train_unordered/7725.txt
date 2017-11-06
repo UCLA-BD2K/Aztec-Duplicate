@@ -1,1 +1,0 @@
-Result: We have developed miREval 2.0, an online tool that can simultaneously search up to 100 sequences for novel microRNAs (miRNAs) in multiple organisms. miREval 2.0 uses multiple published in silico approaches to detect miRNAs in sequences of interest. This tool can be used to discover miRNAs from DNA sequences or to validate candidates from sequencing data.

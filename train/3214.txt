@@ -1,1 +1,1 @@
-Plot conservation of a sequence alignment
+Format mapping data as UCSC custom track

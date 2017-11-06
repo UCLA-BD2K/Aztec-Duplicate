@@ -1,1 +1,3 @@
-The TogoWS service provides a unified access method for major database resources (including KEGG, NCBI, EBI and DDBJ) through intuitive URIs that can be used to search, retrieve, parse and convert the database entries. 
+Summary: The rtracklayer package supports the integration of existing genome browsers with experimental data analyses performed in R. The user may (i) transfer annotation tracks to and from a genome browser and (ii) create and manipulate browser views to focus on a particular set of annotations in a specific genomic region. Currently, the UCSC genome browser is supported.
+        Availability: The package is freely available from http://www.bioconductor.org/. A quick-start vignette is included with the package.
+        Contact: mflawren@fhcrc.org

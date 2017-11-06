@@ -1,1 +1,0 @@
-Retrieves homologies from ENSEMBL.

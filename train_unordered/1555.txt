@@ -1,1 +1,0 @@
-A collection of meta-analysis tools for analysing high throughput experimental data

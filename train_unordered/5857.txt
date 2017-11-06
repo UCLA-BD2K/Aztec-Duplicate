@@ -1,1 +1,0 @@
-A software for neuro oncology and dementia analysis; it provides higher level of diagnostic confidence over visual imaging analysis.

@@ -1,3 +1,1 @@
-This service allows the CATH database to be searched by protein structure.
-
-NB This service is not currently active. It is still in development -- check back here for updates. The WSDL posted may change b
+Authority: inb.bsc.es  -  Compares a protein sequence against a nucleotide database translated in three forward and three reverse frames using the FASTA (tfastx) algorithm.

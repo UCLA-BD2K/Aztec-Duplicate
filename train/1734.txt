@@ -1,1 +1,1 @@
-Predicts the sex of samples in gene expression microarray datasets
+A R implementation of HVDM (Genome Biol 2006, V7(3) R25)

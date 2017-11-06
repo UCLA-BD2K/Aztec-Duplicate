@@ -1,1 +1,0 @@
-The ConQuass server for Quality Assessment of Protein Model-Structures using Evolutionary Conservation

@@ -1,1 +1,15 @@
-Scan a protein sequence for the occurrence of a pattern.
+Abstract
+        
+Motivation: Flux balance analysis and its variants are widely used methods for predicting steady-state reaction rates in biochemical reaction networks. The exploration of high dimensional networks with such methods is currently hampered by software performance limitations.
+        
+Results:
+DistributedFBA.jl is a high-level, high-performance, open-source implementation of flux balance analysis in Julia. It is tailored to solve multiple flux balance analyses on a subset or all the reactions of large and huge-scale networks, on any number of threads or nodes.
+        
+Availability and Implementation: The code is freely available on github.com/opencobra/COBRA.jl. The documentation can be found at opencobra.github.io/COBRA.jl.
+        
+Contact:
+ronan.mt.fleming@gmail.com
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

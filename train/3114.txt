@@ -1,1 +1,1 @@
-Search for patterns in protein sequences (translated)
+Database of protein disorder and mobility annotations

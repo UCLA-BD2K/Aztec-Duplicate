@@ -1,1 +1,1 @@
-Blackfan Anemia mutation database.
+Authority: cnio.es  -  Produces a measure of per residue reliability for alignments between query sequences and sequences of known structure (ie those from the PDB). The alignment has to be longer than 50 residues and contain at least 15 sequences (no more than 200). The accepted formats are ALN (Clustalw), FASTA, MSF, and PIR.

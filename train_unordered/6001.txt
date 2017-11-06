@@ -1,1 +1,0 @@
-Pymorph is a collection of pure python implementations of many image morphology functions.

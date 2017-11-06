@@ -1,1 +1,1 @@
-Protein solenoid repeat detection from sequence.
+Venn diagram comparison of RXLR motif predictions

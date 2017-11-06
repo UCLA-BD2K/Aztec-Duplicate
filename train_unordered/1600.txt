@@ -1,1 +1,0 @@
-The package implements methods to compare lists of genes based on comparing the corresponding 'functional profiles'.

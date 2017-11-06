@@ -1,1 +1,0 @@
-Tool dependency definition; installs uclust v1.2.22q for PyNAST - GVL

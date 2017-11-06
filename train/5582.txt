@@ -1,1 +1,1 @@
-Evaluates how perturbation of selected nodes affect other nodes in a given network based on the law of mass action. 
+UNITE is a rDNA sequence database focused on ectomycorrhizal asco- and basidiomycetes.

@@ -1,1 +1,3 @@
-The dbfetch services provide access to entries from various up-to-date biological databases using entry identifiers or accession numbers.
+Summary: The MAGE-TAB format for microarray data representation and exchange has been proposed by the microarray community to replace the more complex MAGE-ML format. We present a suite of tools to support MAGE-TAB generation and validation, conversion between existing formats for data exchange, visualization of the experiment designs encoded by MAGE-TAB documents and the mining of such documents for semantic content.
+        Availability: Software is available from http://tab2mage.sourceforge.net/
+        Contact: tfrayner@gmail.com

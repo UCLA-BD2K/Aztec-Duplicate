@@ -1,1 +1,10 @@
-Pairwise sequence alignment of DNA or protein sequences using Smith-Waterman local alignment.
+Summary: Recent advances in sequence technology result in large datasets of sequence variants. For the human genome, several tools are available to predict the impact of these variants on gene and protein functions. However, for model organisms such as yeast such tools are lacking, specifically to predict the effect of protein sequence altering variants on the protein level. We present a python framework that enables users to map in a fully automated fashion large set of variants to protein functional regions and post-translationally modified residues. Furthermore, we provide the user with the possibility to retrieve predicted functional information on modified residues from other resources for example that are predicted to play a role in protein-protein interactions. The results are complemented by statistical tests to highlight the significance of underlying functions and pathways affected by mutations. We show the application of this package on a yeast dataset derived from a recent evolutionary experiment on adaptation to ethanol.
+        
+Availability and Implementation: The package is available from https://github.com/CSB-KUL/yMap and is implemented in Python.
+        
+Contact:
+vera.vannoort@biw.kuleuven.be
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

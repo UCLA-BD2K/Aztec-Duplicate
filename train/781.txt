@@ -1,7 +1,1 @@
-Authority: mmb.pcb.ub.es  -  
-            
-					Solvates a Structure (Protein/Nucleic).                        
-					Runs Leap program from AmberTools package (from a PDB-Text). Reads Ligand libraries and frcmods from input. 
-					Returns an AMBER_MD_Structure (pdb + topology).
-            
-    
+Contains a tool dependency definition that downloads and compiles version 2012-12 of the RDKit cheminformatics and machine-learning package.

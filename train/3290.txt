@@ -1,1 +1,1 @@
-a next-generation stand-alone genome browser and editor. It provides interactive visualization of sequences, annotation, multiple alignments, syntenic mappings, short read alignments and more. Many standard file formats are supported and new functionality can be added using a plugin system.
+A unification tool which dynamically collects and compiles data from many scientific databases, and thereby attempts to encapsulate the genetics and molecular biology of genes from the genomes of Homo sapiens, Mus musculus, Rattus norvegicus into easy to navigate GeneReports.

@@ -1,1 +1,0 @@
-Convert other genotype calling format into ANNOVAR format.

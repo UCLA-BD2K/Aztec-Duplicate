@@ -1,1 +1,0 @@
-The open-source Primer3 software is a widely used application for PCR primer design that includes more accurate thermodynamic models and the ability to use lowercase masked template sequences.

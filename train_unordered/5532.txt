@@ -1,1 +1,0 @@
-Brings some functionality of Igraph such as layouts into Cytoscape. Mac only.

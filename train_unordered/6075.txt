@@ -1,1 +1,0 @@
-PeptideProphet is a tool for generating statistical validation of MS/MS search engines' spectra-to-peptide sequence assignments. 

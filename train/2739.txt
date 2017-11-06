@@ -1,1 +1,1 @@
-Predictor of Disulfide Connectivity in Proteins
+Contains a tool dependency definition that downloads and compiles version 0.11.1 of the pydoop package

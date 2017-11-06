@@ -1,1 +1,7 @@
-WHU LIESMARS WPS services
+Motivation: Leveraging gene expression data through large-scale integrative analyses for multicellular organisms is challenging because most samples are not fully annotated to their tissue/cell-type of origin. A computational method to classify samples using their entire gene expression profiles is needed. Such a method must be applicable across thousands of independent studies, hundreds of gene expression technologies and hundreds of diverse human tissues and cell-types.
+        Results: We present Unveiling RNA Sample Annotation (URSA) that leverages the complex tissue/cell-type relationships and simultaneously estimates the probabilities associated with hundreds of tissues/cell-types for any given gene expression profile. URSA provides accurate and intuitive probability values for expression profiles across independent studies and outperforms other methods, irrespective of data preprocessing techniques. Moreover, without re-training, URSA can be used to classify samples from diverse microarray platforms and even from next-generation sequencing technology. Finally, we provide a molecular interpretation for the tissue and cell-type models as the biological basis for URSA’s classifications.
+        Availability and implementation: An interactive web interface for using URSA for gene expression analysis is available at: ursa.princeton.edu. The source code is available at https://bitbucket.org/youngl/ursa_backend.
+        Contact:
+ogt@cs.princeton.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

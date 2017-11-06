@@ -1,1 +1,0 @@
-support for parallelized estimation of GLMs/GEEs, catering for dispersed data

@@ -1,1 +1,1 @@
-Easy way to display features
+Authority: inb.bsc.es  -  Retrieves an nucleotide sequence from an nucleotide database.

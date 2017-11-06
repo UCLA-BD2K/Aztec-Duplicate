@@ -1,1 +1,1 @@
-This tool allows users to add data in their histories whitout having to upload them through the network
+PROSITE Scan compares a protein sequence against the signatures in PROSITE

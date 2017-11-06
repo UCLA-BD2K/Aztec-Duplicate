@@ -1,1 +1,1 @@
-European nucleotide short read and trace archive (ENA)
+Genomic Short-read Nucleotide Alignment Program.

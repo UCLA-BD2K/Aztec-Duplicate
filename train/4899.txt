@@ -1,1 +1,1 @@
- Contains a tool dependency definition that downloads and compiles version 0.1.6 of the segemehl read mapper. 
+Finds all exact matches of a given minimum size between 2 sequences displaying the start points in each sequence and the match length.

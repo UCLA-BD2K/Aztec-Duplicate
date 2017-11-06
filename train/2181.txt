@@ -1,1 +1,1 @@
-Annotate variants, compute amino acid coding changes, predict coding outcomes
+Search the ubf-ucl database for interations using protein ids

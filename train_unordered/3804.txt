@@ -1,1 +1,0 @@
-Checks sequence variant nomenclature according to the guidelines of the Human Genome Variation Society.

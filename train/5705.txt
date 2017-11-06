@@ -1,0 +1,1 @@
+We introduce FinisherSC, a repeat-aware and scalable tool for upgrading de novo assembly using long reads. Experiments with real data suggest that FinisherSC can provide longer and higher quality contigs than existing tools while maintaining high concordance. Availability and implementation: The tool and data are available and will be maintained at

@@ -1,1 +1,1 @@
-Extends biological networks with regulatory interactions.
+Downloads and compiles the GNOME XSLT libraries.

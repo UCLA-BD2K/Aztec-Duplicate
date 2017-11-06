@@ -1,1 +1,0 @@
-Generates heatmap with nonlinear color mapping options

@@ -1,1 +1,0 @@
-Tools to integrate, annotate, and link phenotypes to cellular organizational units such as protein complexes and pathways.

@@ -1,1 +1,0 @@
-Get a subset of data from a BAM | VCF file

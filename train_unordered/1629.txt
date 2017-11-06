@@ -1,1 +1,0 @@
-representing and modeling data in the NHGRI GWAS catalog

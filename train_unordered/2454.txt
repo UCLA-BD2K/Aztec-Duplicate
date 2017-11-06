@@ -1,1 +1,0 @@
-Gramene adds value to public data sets of grass genomes and helps to compare, identify and understand genes, pathways and phenotypes from different grass species.

@@ -1,3 +1,0 @@
-Authority: mmb.pcb.ub.es  -  
-		Parses secondary structure from a PHD report following the Profile network prediction HeiDelberg
-	

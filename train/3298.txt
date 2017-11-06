@@ -1,1 +1,1 @@
-a web server for the prediction of plant microRNA targets, including target mimics
+Software discoSnp is designed for discovering Single Nucleotide Polymorphism (SNP) from raw set(s) of reads obtained with Next Generation Sequencers (NGS).

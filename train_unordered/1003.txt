@@ -1,2 +1,0 @@
-This service allows the CATH and Gene3D HMM libraries to be searched with a given amino acid sequence (or any one of various database identifiers representing a sequence).
-

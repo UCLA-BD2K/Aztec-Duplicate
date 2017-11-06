@@ -1,1 +1,1 @@
-EMBOSS cpgplot identifies CpG islands in nucleotide sequences.
+MAFFT is a multiple sequence alignment program

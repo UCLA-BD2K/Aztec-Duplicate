@@ -1,1 +1,0 @@
-Authority: genome.imim.es  -  Uses Clover to analyze a collection of DNA sequences for putative transcription factor binding sites from Transfac or Jaspar and reports them in GFF format

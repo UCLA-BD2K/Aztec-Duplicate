@@ -1,1 +1,1 @@
-Manager plugin required for all scripting engines
+Compares a nucleotide query sequence translated in all reading frames against a protein sequence database and calculates the statistical significance of matches using the Basic Local Alignment Tool (BLAST).

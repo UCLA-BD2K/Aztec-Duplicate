@@ -1,3 +1,11 @@
-Identifier mapping service for genes and proteins from multiple species, and for metabolites. Can translate single identifiers, batches of identifiers, look up common names and do a free text search.
-
-See also http://www.biomedcentral.com/1471-2105/11/5
+Motivation: Many peak detection algorithms have been proposed for ChIP-seq data analysis, but it is not obvious which algorithm and what parameters are optimal for any given dataset. In contrast, regions with and without obvious peaks can be easily labeled by visual inspection of aligned read counts in a genome browser. We propose a supervised machine learning approach for ChIP-seq data analysis, using labels that encode qualitative judgments about which genomic regions contain or do not contain peaks. The main idea is to manually label a small subset of the genome, and then learn a model that makes consistent peak predictions on the rest of the genome.
+        
+Results: We created 7 new histone mark datasets with 12 826 visually determined labels, and analyzed 3 existing transcription factor datasets. We observed that default peak detection parameters yield high false positive rates, which can be reduced by learning parameters using a relatively small training set of labeled data from the same experiment type. We also observed that labels from different people are highly consistent. Overall, these data indicate that our supervised labeling method is useful for quantitatively training and testing peak detection algorithms.
+        
+Availability and Implementation: Labeled histone mark data http://cbio.ensmp.fr/~thocking/chip-seq-chunk-db/, R package to compute the label error of predicted peaks https://github.com/tdhock/PeakError
+        
+Contacts:
+toby.hocking@mail.mcgill.ca or guil.bourque@mcgill.ca
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

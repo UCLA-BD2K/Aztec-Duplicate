@@ -1,1 +1,0 @@
-Runs PANDA, an algorithm for discovering novel network structure by combining information from multiple complimentary data sources.

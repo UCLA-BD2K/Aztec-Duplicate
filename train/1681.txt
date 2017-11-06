@@ -1,1 +1,1 @@
-iPAC is a novel tool to identify somatic amino acid mutation clustering within proteins while taking into account protein structure.
+The FEM package performs a systems-level integrative analysis of DNA methylation and gene expression data. It seeks modules of functionally related genes which exhibit differential promoter DNA methylation and differential expression, where an inverse association between promoter DNA methylation and gene expression is assumed. For full details, see Jiao et al Bioinformatics 2014.

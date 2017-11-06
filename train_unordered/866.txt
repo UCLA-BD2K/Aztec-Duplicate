@@ -1,1 +1,0 @@
-Authority: genome.imim.es  -  Ab initio gene prediction service that runs geneid with synteny evidences and returns the output predictions in GFF format. To generate the synteny evidences, use a tblastx service

@@ -1,1 +1,0 @@
-A system for the annotation, analysis and display of vertebrate genomes and for bacteria, protists, fungi, plants and invertebrate metazoa.

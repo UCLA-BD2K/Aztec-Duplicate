@@ -1,1 +1,1 @@
-Finds paths, filters them based on node and edge attributes and saves them.
+Database of osteogenesis imperfecta and type III collagen variants.

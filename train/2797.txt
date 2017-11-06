@@ -1,1 +1,1 @@
-Maxcounts is a novel approach to estimate gene expression from RNA-seq data (Finotello at al., 2014) that reduces length bias. Once reads have been aligned to a reference genome or transcriptome, using any alignment tool, the expression of a genomic feature, such as a gene, transcript or exon, can be estimated as the maximum read coverage along its sequence. The method is available as a patch for bedtools (Quinlan et al., 2010).
+Takes SAM files and outputs a table of counts that can be used with edgeR.

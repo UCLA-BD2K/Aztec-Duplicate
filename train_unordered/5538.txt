@@ -1,1 +1,0 @@
-File reader and pathway visualizer for KEGG XML (KGML) files 

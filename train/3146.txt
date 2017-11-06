@@ -1,1 +1,1 @@
-Plots an unrooted tree diagram
+The package provides functions to read raw RT-qPCR data of different platforms.

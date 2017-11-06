@@ -1,1 +1,0 @@
-Pairwise sequence alignment of DNA or protein sequences using Myers and Miller global alignment.

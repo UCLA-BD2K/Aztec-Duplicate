@@ -1,1 +1,1 @@
-TopNet-like Yale Network Analyzer (tYNA) is a Web system for managing, comparing and mining multiple networks, both directed and undirected.
+Galaxy wrappers for the Bowtie short read mapping tools.

@@ -1,1 +1,0 @@
-CellBase implements a set of RESTful web services that query a centralized database containing: (i) core features such as genes, transcripts and exons or proteins; (ii) regulatory elements; (iii) functional ontologies; (iv) variation data and (v) systems biology information such as pathways or protein interactome.

@@ -1,1 +1,0 @@
-Generate customized protein sequence database from RNA-Seq data for proteomics search

@@ -1,1 +1,0 @@
-featureCounts counts the number of reads aligned to defined masked regions in a reference genome

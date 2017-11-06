@@ -1,1 +1,1 @@
-Mycobacterium leprae genome database.
+Display basic information about sequences

@@ -1,1 +1,1 @@
-Calculate and plot hydrophobic moment for protein sequence(s)
+Computational Identification of Predictive Regulatory Sequence Features in Genomic Datasets  

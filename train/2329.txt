@@ -1,1 +1,1 @@
-This service is like a DNA search engine.
+A set of tools based on vcflib package from 8/2014

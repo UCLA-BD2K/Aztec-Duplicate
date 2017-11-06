@@ -1,1 +1,1 @@
-Galaxy workflow for the identification of candidate genes clusters
+A circular network component

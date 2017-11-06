@@ -1,1 +1,1 @@
-Illumina HiSeq QSEQ output to FASTQ format
+Find internal duplications by calculating non-intersecting local sequence alignments

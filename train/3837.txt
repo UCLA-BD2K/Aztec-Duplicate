@@ -1,1 +1,1 @@
-Displays a wordmatch dotplot of two sequences
+Authority: bioinfo.cipf.es  -  This service returns a GIF image representing a tree of clusters including their profiles. In addition, an URL to the image is returned in the output field 'legend'

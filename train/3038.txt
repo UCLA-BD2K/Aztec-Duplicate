@@ -1,1 +1,1 @@
-Reformats the results of a Multiple alignment
+Identifies small molecules likely to bind to given protein

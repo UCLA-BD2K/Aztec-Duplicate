@@ -1,1 +1,0 @@
-GoMiner is a tool for biological interpretation of ‘omic’ data

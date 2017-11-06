@@ -1,1 +1,1 @@
-Creates classes used in model-view-controller (MVC) design
+Detects highly-connected sub-networks where most genes show similar expression behavior.

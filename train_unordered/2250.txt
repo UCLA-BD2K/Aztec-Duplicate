@@ -1,1 +1,0 @@
-SAM format parser, with the hability to retrive regions from  a ws

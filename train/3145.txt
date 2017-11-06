@@ -1,1 +1,1 @@
-Identify nucleic acid-binding motifs in protein sequences
+Uses affinity propagation described in Frey BJ and Duec D (2007) to perform clustering.

@@ -1,1 +1,1 @@
-EMBOSS seqret reads and writes (returns) sequences. It is useful for a variety of tasks, including extracting sequences from databases, displaying sequences, reformatting sequences, producing the reverse complement of a sequence, extracting fragments of a sequence, sequence case conversion or any combination of the above functions.
+Contains a tool dependency definition that downloads and compiles version 2.1.1 of the cufflinks RNA-Seq suite.

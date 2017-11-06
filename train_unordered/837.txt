@@ -1,1 +1,0 @@
-Authority: genome.imim.es  -  Converts a DNA FASTA sequence into a DNA sequence

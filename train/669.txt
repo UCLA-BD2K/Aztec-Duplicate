@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Compares a protein sequence against a protein database using the FASTA algorithm.
+Filter out lines of a BED file that have junctions that are in in the reference bed file of known junctions.

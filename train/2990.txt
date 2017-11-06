@@ -1,1 +1,1 @@
-Predict transmembrane topology and signal peptides from the amino acid sequence of a protein
+Search Molecular Connections data for protein interactions using a protein id

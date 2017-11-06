@@ -1,1 +1,3 @@
-variant-transcription factor-phenotype networks, inspired by Maurano et al., Science (2012), PMID 22955828
+The MetaGramLocN is a method for subcellular localization prediction of Gram-negative proteins.
+
+The MetaGramLocN is a gateway to a number of primary prediction methods (various types: signal peptide, beta-barrel, transmembrane helices and subcellular loc

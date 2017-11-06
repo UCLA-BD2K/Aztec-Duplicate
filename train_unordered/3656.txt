@@ -1,1 +1,0 @@
-Search MBInfo database for interactions using a protein id

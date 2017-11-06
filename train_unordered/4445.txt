@@ -1,1 +1,0 @@
-MiRDeep2 Mapper - process and map reads to a reference genome

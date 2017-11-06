@@ -1,1 +1,0 @@
-Enables simultaneous comparison of interaction network of two species. protein domain information can be visualized.

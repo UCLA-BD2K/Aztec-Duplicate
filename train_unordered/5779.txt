@@ -1,1 +1,0 @@
-This software integrates a number of 3D/4D data display and fusion routines together with 3D rigid volume registration using Normalised Mutual information. It also contains many interactive volume segmentation and painting functions for structural data analysis.

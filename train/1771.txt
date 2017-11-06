@@ -1,1 +1,1 @@
-This is a package for the discovery of regulatory regions from Bis-seq data
+sample sequence(s) from a profile HMM

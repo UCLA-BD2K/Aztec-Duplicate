@@ -1,1 +1,0 @@
-ChemSpider is a free chemical structure database providing fast access to over 34 million structures, properties, and associated information. Service converts 'what' stuff from 'fromFormat' to 'toFormat'. 

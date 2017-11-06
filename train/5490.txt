@@ -1,1 +1,1 @@
-Allows network motifs discovery
+an RNA-seq quality control package

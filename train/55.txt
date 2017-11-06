@@ -1,1 +1,5 @@
-WormBase (http://www.wormbase.org) contains data on multiple species of nematode including Caenorhabditis elegans.
+Motivation: KEGG PATHWAY is a service of Kyoto Encyclopedia of Genes and Genomes (KEGG), constructing manually curated pathway maps that represent current knowledge on biological networks in graph models. While valuable graph tools have been implemented in R/Bioconductor, to our knowledge there is currently no software package to parse and analyze KEGG pathways with graph theory.
+        Results: We introduce the software package KEGGgraph in R and Bioconductor, an interface between KEGG pathways and graph models as well as a collection of tools for these graphs. Superior to existing approaches, KEGGgraph captures the pathway topology and allows further analysis or dissection of pathway graphs. We demonstrate the use of the package by the case study of analyzing human pancreatic cancer pathway.
+        Availability:KEGGgraph is freely available at the Bioconductor web site (http://www.bioconductor.org). KGML files can be downloaded from KEGG FTP site (ftp://ftp.genome.jp/pub/kegg/xml).
+        Contact: j.zhang@dkfz-heidelberg.de
+        Supplementary information: Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,0 @@
-A web server for automatic identification of hot spots for engineering enzymes with substrate specificity, activity or enantioselectivity and for annotation of protein structures. Hot spots for mutagenesis are selected based on the integration of structural, functional and evolutionary information from various databases and tools.

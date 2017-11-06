@@ -1,1 +1,6 @@
-Service for converting native formats into xml and back
+Summary: Mutational signatures are patterns in the occurrence of somatic single-nucleotide variants that can reflect underlying mutational processes. The SomaticSignatures package provides flexible, interoperable and easy-to-use tools that identify such signatures in cancer sequencing data. It facilitates large-scale, cross-dataset estimation of mutational signatures, implements existing methods for pattern decomposition, supports extension through user-defined approaches and integrates with existing Bioconductor workflows.
+        Availability and implementation: The R package SomaticSignatures is available as part of the Bioconductor project. Its documentation provides additional details on the methods and demonstrates applications to biological datasets.
+        Contact:
+julian.gehring@embl.de, whuber@embl.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

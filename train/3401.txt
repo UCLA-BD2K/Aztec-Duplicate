@@ -1,1 +1,1 @@
-ConSurf-DB provides evolutionary conservation profiles for proteins of known structure in the PDB
+PMDB collects three dimensional protein models obtained by structure prediction methods

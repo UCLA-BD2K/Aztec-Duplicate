@@ -1,1 +1,1 @@
-Somatic mutations caller. PeterMac. GVL
+Compiled vcflib binaries for x86_64

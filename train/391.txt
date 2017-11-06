@@ -1,1 +1,5 @@
-Muscle multiple sequence alignment.
+Abstract
+        Summary: We introduce the caspo toolbox, a python package implementing a workflow for reasoning on logical networks families. Our software allows researchers to (i) learn a family of logical networks derived from a given topology and explaining the experimental response to various perturbations; (ii) classify all logical networks in a given family by their input-output behaviors; (iii) predict the response of the system to every possible perturbation based on the ensemble of predictions; (iv) design new experimental perturbations to discriminate among a family of logical networks; and (v) control a family of logical networks by finding all interventions strategies forcing a set of targets into a desired steady state.
+        Availability and Implementation: caspo is open-source software distributed under the GPLv3 license. Source code is publicly hosted at http://github.com/bioasp/caspo.
+        Contact:
+anne.siegel@irisa.fr

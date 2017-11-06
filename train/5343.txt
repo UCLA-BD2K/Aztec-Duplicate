@@ -1,1 +1,1 @@
-Annotate a VCF file (dbSNP, hapmap)
+Coils @ IBCP (http://gbio-pbil.ibcp.fr)

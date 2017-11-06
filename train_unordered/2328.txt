@@ -1,1 +1,0 @@
-NetMHCstab-1.0 predicts the stability of peptide binding to a number of different MHC molecules using artificial neural networks (ANNs).

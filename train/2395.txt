@@ -1,1 +1,1 @@
-Information on rare diseases and orphan drugs.
+Intersect VCF records with BED annotations

@@ -1,1 +1,0 @@
-Spatial Ancestry analysis (SPA) is a method for predicting ancestry or where an individual is from using the individual's DNA. Accurately modeling ancestry is an important step in identifying genetic variation involved in disease.

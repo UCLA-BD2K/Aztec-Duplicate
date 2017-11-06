@@ -1,1 +1,1 @@
-Make windows
+GPCR family profiles, mutation data (in various formats), ligand binding data, sequence annotations and cross-references to other databases.

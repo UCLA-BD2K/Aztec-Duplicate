@@ -1,1 +1,1 @@
-EMBOSS pepstats calculates statistics for a protein such as molecular weight and isoelectric point.
+The TFmodeller program scans a protein sequence P against a library of protein-DNA complexes and builds comparative models of P if good templates are found.

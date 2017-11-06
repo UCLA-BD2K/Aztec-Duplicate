@@ -1,1 +1,0 @@
-a web server for the identification of structural motifs in a set of non-homologous protein structures

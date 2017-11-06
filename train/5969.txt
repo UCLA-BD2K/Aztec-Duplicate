@@ -1,1 +1,1 @@
-Various methods for MRI tissue classification.
+Database of Streptocarpus rexii transcriptome

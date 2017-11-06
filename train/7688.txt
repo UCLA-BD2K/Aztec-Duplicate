@@ -1,1 +1,7 @@
-Identification of metabolites using high-resolution multi-stage mass spectrometry (MS n) data is a significant challenge demanding access to all sorts of computational infrastructures. MetiTree is a user-friendly, web application dedicated to organize, process, share, visualize and compare MS n data. It integrates several features to export and visualize complex MS n data, facilitating the exploration and interpretation of metabolomics experiments. A dedicated spectral tree viewer allows the simultaneous presentation of three related types of MS n data, namely, the spectral data, the fragmentation tree and the fragmentation reactions. MetiTree stores the data in an internal database to enable searching for similar fragmentation trees and matching against other MS n data. As such MetiTree contains much functionality that will make the difficult task of identifying unknown metabolites much easier. Availability: MetiTree is accessible at
+This  WSDL file describe the Structure Filter Web Service. 
+	    This web service is useful for evaluating the location of candidate short regulatory sequences in proteins (linear motifs) 
+	    which need to be accessible to interact with their ligand domains. The StructureFilter web-service calculates an accessibility 
+	    score, secondary structure score and total score (as well as various other features) for each match of a regular expression or 
+	    ELM in the query sequence for which structural information is available. (If a regular expression match is determined as having
+	    no associated structural information available, no reference is made to this match in the result set.)
+        

@@ -1,1 +1,0 @@
-The Genomic Name Server is an innovative data integration system that incorporates a large set of heterogeneous biological data under a simple yet powerful schema. GeNS also addresses the cross-database low identifier coverage issue by proposing a new met

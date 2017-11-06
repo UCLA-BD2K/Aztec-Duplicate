@@ -1,2 +1,0 @@
-The Information Hyperlinked over Proteins (iHOP) is a network of genes and proteins extends through the scientific literature, touching on phenotypes, pathologies and gene function. iHOP can access more than 10 million abstracts in PubMed.
-It navigates t

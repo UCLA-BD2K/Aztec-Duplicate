@@ -1,1 +1,1 @@
-Identify and normalize transcription start sites in high-throughput sequencing data.
+Contains a tool dependency definition that downloads and compiles libncurses 5.9.

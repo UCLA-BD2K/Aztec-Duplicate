@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves an entry from a DSSP database.
+Package providing LibSVM 3.16

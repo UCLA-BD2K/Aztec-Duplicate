@@ -1,1 +1,6 @@
-Cancer-Related Analysis of Variants Toolkit (CRAVAT) is designed to facilitate the high-throughput assessment and prioritization of genes and missense alterations important for cancer tumorigenesis.
+Summary: We provide a new statistical algorithm and software package called ‘eigen-R2’ for dissecting the variation of a high-dimensional biological dataset with respect to other measured variables of interest. We apply eigen-R2 to two real-life examples and compare it with simply averaging R2 over many features.
+        Availability: An R-package eigenR2 is available at http://www.genomine.org/eigenr2/ and will be made publicly available via Bioconductor.
+        Contact:
+jstorey@princeton.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

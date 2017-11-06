@@ -1,1 +1,1 @@
-Convert column case.
+Package includes functions to analyze and mask microarray expression data.

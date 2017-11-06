@@ -1,1 +1,0 @@
-Trim Reads of Tandem Repeat in a fastq file.

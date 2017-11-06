@@ -1,1 +1,0 @@
-Weather prediction service based on you city and country. 

@@ -1,1 +1,1 @@
-Keep the coordinates which are located in a given position.
+Layout algorithm for hierarchical biological networks.

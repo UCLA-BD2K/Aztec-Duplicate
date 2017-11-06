@@ -1,1 +1,1 @@
-Identifies small molecules likely to bind to given protein
+Documentation for protein domains, families and functional sites as well as associated patterns and profiles to identify them.

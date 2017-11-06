@@ -1,1 +1,1 @@
-Compute RCVE
+Compare and report features of two similar sequences

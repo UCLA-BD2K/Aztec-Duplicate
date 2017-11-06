@@ -1,1 +1,1 @@
-JavaScript track viewer
+Filter SAM on bitwise flag values

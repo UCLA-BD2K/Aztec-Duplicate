@@ -1,1 +1,0 @@
-Estimates phylogenies from nucleotide sequences by branch and bound method.

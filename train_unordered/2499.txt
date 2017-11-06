@@ -1,1 +1,0 @@
-An integrative database of germ-line variable genes from the immunoglobulin loci of human and mouse. All variable gene sequences are extracted from the EMBL-Bank.

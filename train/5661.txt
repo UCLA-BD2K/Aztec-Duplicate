@@ -1,1 +1,1 @@
-A fast and lightweight python-based linear mixed-model solver for use in genome-wide association studies.
+Identification of residue level genotype phenotype correlation in protein multiple sequence alignments by identifying amino acid residues significantly associated with the phenotype of the data set

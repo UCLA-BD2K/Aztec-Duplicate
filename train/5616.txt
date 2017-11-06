@@ -1,1 +1,1 @@
-Access your data on Synapse.org from within Cyoscape
+Authority: mmb.pcb.ub.es  -  Performs secondary structure and accessibility predictions using PHD

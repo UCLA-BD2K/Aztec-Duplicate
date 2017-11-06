@@ -1,1 +1,1 @@
-Compute sequence length
+Routines for parsing Affymetrix data files based upon file format information. Primary focus is on accessing the CEL and CDF file formats.

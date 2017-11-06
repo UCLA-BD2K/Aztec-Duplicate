@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Runs RepeatMasker to mask repeat sequences a set of DNA sequences
+Contains a tool dependency definition that downloads and compiles version 24_07_14 of Commet

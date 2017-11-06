@@ -1,1 +1,0 @@
-Tool dependencies for SearchGUI 1.28

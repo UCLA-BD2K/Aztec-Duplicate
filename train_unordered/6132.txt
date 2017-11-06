@@ -1,1 +1,0 @@
-This article reports the development of SDOP-DB, which can provide definite, detailed and easy comparison of experimental protocols used in mouse phenotypic analyses among institutes or laboratories. Because SDOP-DB is fully compliant with international standards, it can act as a practical foundation for international sharing and integration of mouse phenotypic information.

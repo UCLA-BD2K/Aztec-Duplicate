@@ -1,1 +1,0 @@
-Select the elements of a list of sequences or transcripts with a given size.

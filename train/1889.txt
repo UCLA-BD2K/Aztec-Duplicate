@@ -1,1 +1,1 @@
-Statistical analysis of peptide microarrays
+Graphical displays with embedded statistical tests for gated ICS flow cytometry data, and a data class which stores "stacked" data and has methods for computing summary measures on stacked data, such as marginal and polyfunctional degree data.

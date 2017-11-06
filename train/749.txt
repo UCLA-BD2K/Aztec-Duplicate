@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Returns pdb cross references from an uniprot entry.
+Returns all accessions of a Uniprot entry identified by the input id.

@@ -1,1 +1,0 @@
-all dependency for microsattelite_ngs package and microsattelite_ngs itself

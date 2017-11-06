@@ -1,1 +1,1 @@
-Convert BAM file to fastq
+Tool dependency definition for python-bs4

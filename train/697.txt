@@ -1,1 +1,1 @@
-Authority: bioinfo.cipf.es  -  Clustering service for gene expression patterns that runs the the following algorithms: UPGMA, SOTA and K-means
+Information about viruses, viroids and satellites of plants, fungi and protozoa, with some additional data on related animal viruses.

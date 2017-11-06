@@ -1,1 +1,0 @@
-FlaiMapper: computational annotation of small ncRNA derived fragments using RNA-seq high throughput data

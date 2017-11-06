@@ -1,1 +1,6 @@
-Coiled coil region prediction.
+Summary: Bioclipse, a graphical workbench for the life sciences, provides functionality for managing and visualizing life science data. We introduce Bioclipse-R, which integrates Bioclipse and the statistical programming language R. The synergy between Bioclipse and R is demonstrated by the construction of a decision support system for anticancer drug screening and mutagenicity prediction, which shows how Bioclipse-R can be used to perform complex tasks from within a single software system.
+        Availability and implementation: Bioclipse-R is implemented as a set of Java plug-ins for Bioclipse based on the R-package rj. Source code and binary packages are available from https://github.com/bioclipse and http://www.bioclipse.net/bioclipse-r, respectively.
+        Contact:
+martin.eklund@farmbio.uu.se
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

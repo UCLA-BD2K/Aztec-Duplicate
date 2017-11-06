@@ -1,1 +1,1 @@
-Apply VCF variants to a fasta file to create a new consensus sequence.
+VCF to pgSnp

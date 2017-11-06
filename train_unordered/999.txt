@@ -1,1 +1,0 @@
-MRS Clustal W is a companion service to the text based MRS service. It is merely a wrapper around clustalw and it only allows short running multiple sequence alignment jobs since the running time is limited to 30 seconds.

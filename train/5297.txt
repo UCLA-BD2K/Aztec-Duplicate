@@ -1,1 +1,1 @@
-Trim Galore adaptive quality and adapter trimmer
+A Cytoscape App for multiple local alignment of protein-protein interaction (PPI) networks

@@ -1,1 +1,1 @@
-Histogram of high quality score reads
+Short read assembler

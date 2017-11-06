@@ -1,1 +1,1 @@
-BioMAJ is a workflow engine dedicated to data synchronization and processing. The Software automates the update cycle and the supervision of the locally mirrored databank repository.
+ngsap

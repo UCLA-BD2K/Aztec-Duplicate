@@ -1,1 +1,6 @@
-Converts a GenericSequence object into a NucleotideSequence.
+Designing an RNA-seq study depends critically on its specific goals, technology and underlying biology, which renders general guidelines inadequate. We propose a Bayesian framework to customize experiments so that goals can be attained and resources are not wasted, with a focus on alternative splicing.
+                We studied how read length, sequencing depth, library preparation and the number of replicates affects cost-effectiveness of single-sample and group comparison studies. Optimal settings varied strongly according to the target organism or tissue (potential 50-500% cost cuts) and, interestingly, short reads outperformed long reads for standard analyses. Our framework learns key characteristics for study design from the data, and predicts if and how to continue experimentation. These predictions matched several follow-up experimental datasets that were used for validation. We provide default pipelines, but the framework can be combined with other data analysis methods and can help assess their relative merits.
+                casper package at www.bioconductor.org/packages/release/bioc/html/casper.html, Supplementary Manual by typing casperDesign() at the R prompt.
+                rosselldavid@gmail.com
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2015. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

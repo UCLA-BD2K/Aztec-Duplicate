@@ -1,1 +1,1 @@
-An interface to the fast-access storage format for VCF data provided in SeqArray, with tools for common operations and analysis.
+Pairwise sequence alignment of DNA or protein sequences using Waterman-Eggert local alignment.

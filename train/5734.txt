@@ -1,2 +1,1 @@
-MetaboLights is a database for Metabolomics experiments and derived information.
-The database is cross-species, cross-technique and covers metabolite structures and their reference spectra as well as their biological roles, locations and concentrations, and experimental data from metabolic experiments.We will provide search services around spectral similarities and chemical structures.
+BASILISK is a probabilistic model of the conformational space of amino acid side chains in proteins. Unlike rotamer libraries, BASILISK models the chi angles in continuous space, including the influence of the protein's backbone.

@@ -1,1 +1,1 @@
-Tool dependency package for blas
+Contains a tool dependency definition that downloads and compiles version 0.5.3 of Lordec

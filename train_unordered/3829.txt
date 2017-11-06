@@ -1,1 +1,0 @@
-Search the Exome Variant Server for genetic variants identified in patients using a chromosome position 

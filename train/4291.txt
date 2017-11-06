@@ -1,1 +1,1 @@
-GEMINI: a flexible framework for exploring genome variation
+Provides effective visualization and analysis platform to analyse expression data on a given network.

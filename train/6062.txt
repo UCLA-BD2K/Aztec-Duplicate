@@ -1,1 +1,1 @@
-Comet is an open source tandem mass spectrometry (MS/MS) sequence database search tool
+Galaxy workflow for the analysis of differential expressed genes between two prokaryote transcriptome datasets.

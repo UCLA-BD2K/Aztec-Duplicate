@@ -1,1 +1,0 @@
-Read QC reports using FastQC

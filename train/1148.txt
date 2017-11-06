@@ -1,4 +1,1 @@
- 
-  SIDDbase-WS is a SOAP based Web Service created in a collaboration between the
-  Comparative Microbial Genomics Group at CBS, The Technical University of Denmark and
-  Prof
+An R package for identification of differentially methylated regions (DMRs) from high density chip, for example Illumina 450K, data.

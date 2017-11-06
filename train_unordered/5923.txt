@@ -1,1 +1,0 @@
-The tool can achieve Automatic Brain Regions by T1-MRI Parcellation, Automatic Brain Regions by Probabilistic Hammers Atlas and Normal Brain PET Databases

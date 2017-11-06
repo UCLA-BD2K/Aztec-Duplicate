@@ -1,1 +1,1 @@
-Report overlaps between two feature files.
+Functional and physical interactions among conserved protein-domains, including experimental data and computational predictions.

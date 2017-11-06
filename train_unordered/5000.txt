@@ -1,1 +1,0 @@
-pipeline for RNAseq data analysis

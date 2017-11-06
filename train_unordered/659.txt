@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Searches a HMM profile database (Pfam) with a query sequence. Use this if you are trying to annotate an unknown sequence.

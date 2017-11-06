@@ -1,1 +1,1 @@
-Parses 2D matrices (e.g. PAM)
+A simple snippet parser

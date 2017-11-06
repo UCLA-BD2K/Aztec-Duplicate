@@ -1,1 +1,1 @@
-Clustered sets of sequences from UniProt Knowledgebase (including splice variants and isoforms) and selected UniParc records, in order to obtain complete coverage of sequence space at several resolutions while hiding redundant sequences (but not their descriptions) from view.
+This project aims to process free text from ProMED emails and other electronic resources to visualize outbreak/epidemic summaries using combined natural language processing and visualization algorithms.

@@ -1,1 +1,0 @@
-SNVMix-based tools for variant calling from aligned Illumina sequence data

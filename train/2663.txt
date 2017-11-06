@@ -1,1 +1,1 @@
-Node.js module for working with the NCBI API (aka e-utils) using Streams.
+Contains a tool dependency definition that downloads and compiles version 1.42.9 of e2fsprogs.

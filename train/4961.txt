@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles a version from 11-08-2014 of the vt tool.
+A Graphical User Interface for affy analysis using the limma Microarray package

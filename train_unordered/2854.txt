@@ -1,1 +1,0 @@
-Fast and accurate multiple sequence alignment which handles large sequences

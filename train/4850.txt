@@ -1,1 +1,1 @@
-Downloads and compiles version 6.2 of the readline libraries.
+Section of the UniProt knowledgebase, containing computationally analysed records waiting for full manual annotation

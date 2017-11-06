@@ -1,1 +1,0 @@
-MIRU-VNTRplus allows users to analyse genotyping data of their strains alone or in comparison with a reference database of strains representing the major Mycobacterium tuberculosis lineages

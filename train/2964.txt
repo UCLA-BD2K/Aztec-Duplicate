@@ -1,1 +1,1 @@
-Searches Ensembl Protists sequences using Exonerate
+WSxVO_Symatlas_Features

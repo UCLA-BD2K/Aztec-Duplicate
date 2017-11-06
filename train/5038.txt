@@ -1,1 +1,1 @@
-Rarefaction calculation based on mothur's rarefaction.single command - GVL
+Align two sequences assuming the sequences share colinear conserved blocks separated by gaps

@@ -1,1 +1,1 @@
-Allows optionally defining a new DBKEY and retrieves a FASTA file and populate the all_fasta.loc data table.
+Select samples from a VCF dataset

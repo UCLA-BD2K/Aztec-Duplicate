@@ -1,1 +1,1 @@
-MUSCLE is a program for creating multiple alignments of amino acid or nucleotide sequences.
+Blackfan Anemia mutation database.

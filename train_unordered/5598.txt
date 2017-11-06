@@ -1,1 +1,0 @@
-Calculates remaining degree (excess degree) distribution.

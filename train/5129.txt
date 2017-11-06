@@ -1,1 +1,1 @@
-create Markov model from fasta sequence
+Merge two sets of assembled contig sequences

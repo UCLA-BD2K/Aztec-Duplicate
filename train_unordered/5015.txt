@@ -1,1 +1,0 @@
-Proportional Venn Diagrams for 2 and 3 Sets using Google Charts 

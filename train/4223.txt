@@ -1,1 +1,1 @@
-FASTQ joiner on paired end reads
+Functions to estimate a bipartite graph of protein complex membership using AP-MS data.

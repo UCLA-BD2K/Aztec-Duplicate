@@ -1,1 +1,0 @@
-The Expression Atlas provides information on gene expression patterns under different biological conditions.

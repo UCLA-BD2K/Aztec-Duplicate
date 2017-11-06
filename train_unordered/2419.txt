@@ -1,1 +1,0 @@
-A two-dimensional polyacrilamide gel electrophoresis federated database.

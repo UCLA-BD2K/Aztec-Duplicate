@@ -1,1 +1,1 @@
-Visualises data in network small multiples
+Authority: inb.bsc.es  -   It constructs a Hidden Markov Model from a multiple sequence alignment.

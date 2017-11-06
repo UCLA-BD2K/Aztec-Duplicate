@@ -1,1 +1,1 @@
-UNITE is a rDNA sequence database focused on ectomycorrhizal asco- and basidiomycetes.
+Reports on signal cleavage sites in a protein sequence

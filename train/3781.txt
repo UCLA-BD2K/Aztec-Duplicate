@@ -1,1 +1,1 @@
-This service provides various ways to retrieve information from The Nuclear Protein Database
+Camino is an open-source software toolkit for diffusion MRI processing. The toolkit implements standard techniques, such as diffusion tensor fitting, mapping fractional anisotropy and mean diffusivity, deterministic and probabilistic tractography

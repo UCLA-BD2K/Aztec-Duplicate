@@ -1,1 +1,0 @@
-Multi-dimensional volume visualization and analysis software, from NIH. Supports volume/surface rendering, multiple file formats, plugin architecture.

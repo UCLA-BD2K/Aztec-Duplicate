@@ -1,1 +1,3 @@
-Parses sequence IDs from the hits of a blast report.
+pileup.js is a new browser-based genome viewer. It is designed to facilitate the investigation of evidence for genomic variants within larger web applications. It takes advantage of recent developments in the JavaScript ecosystem to provide a modular, reliable and easily embedded library.
+        Availability and implementation: The code and documentation for pileup.js is publicly available at https://github.com/hammerlab/pileup.js under the Apache 2.0 license.
+        Contact: correspondence@hammerlab.org

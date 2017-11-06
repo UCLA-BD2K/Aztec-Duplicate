@@ -1,1 +1,1 @@
-A simple menu builder
+Locus-specific databases for immunodeficiency-causing mutations.

@@ -1,1 +1,0 @@
-Reference database and analysis platform for corynebacterial transcription factors and gene regulatory networks

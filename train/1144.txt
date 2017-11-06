@@ -1,1 +1,1 @@
-Blast @ IBCP (http://gbio-pbil.ibcp.fr)
+Edit the contents and row/column labels of a tabular file using python statements

@@ -1,1 +1,0 @@
-This web service gives programmatic access to all of the publications and related information in Europe PubMed Central (Europe PMC).

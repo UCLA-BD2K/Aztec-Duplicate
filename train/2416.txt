@@ -1,1 +1,1 @@
-The CORUM database provides a resource of manually annotated protein complexes from mammalian organisms. Annotation includes protein complex function, localization, subunit composition, literature references and more. All information is obtained from individual experiments published in scientific articles, data from high-throughput experiments is excluded.
+Sequence similarity searching against genomic, cds, cdna and protein sequence. BLAT is available for genomic sequence and WU-Blast is used for BLASTing

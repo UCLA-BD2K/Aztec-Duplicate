@@ -1,1 +1,0 @@
-Phaistos is a framework for all-atom Monte Carlo simulations of proteins. It incorporates several advanced probabilistic models of protein structure for conformational sampling, efficient move-algorithms and the OPLS and PROFASI forcefields

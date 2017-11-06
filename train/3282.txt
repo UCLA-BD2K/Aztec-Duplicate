@@ -1,1 +1,1 @@
-Add a sequence reference (a full USA) to a list file
+Two-dimensional polyacrylamide gel electrophoresis federated database.

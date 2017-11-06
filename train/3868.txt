@@ -1,1 +1,1 @@
-iteratively search a protein sequence against a protein database
+The package contains functions to perform the PDNN method described by Li Zhang et al.

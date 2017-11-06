@@ -1,1 +1,0 @@
-Contains a tool dependency definition that downloads and compiles version 2.1.0 of the Bowtie package

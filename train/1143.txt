@@ -1,2 +1,1 @@
-This service performs the basic mapping of ELM motifs to a query sequence. The service returns all matching ELMs to a query sequence. Note that this is not a complete prediction of functional site. Extensive filtering of the resulting list of ELMs will be necessary.
-		
+Annotate a VCF file using ANNOVAR annotations to produce a tabular file that can be filtered

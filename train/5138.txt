@@ -1,1 +1,1 @@
-create MEME motif file from multiple aligned sequences
+Galaxy applicable data formats for Multiple Sequence Alignments.

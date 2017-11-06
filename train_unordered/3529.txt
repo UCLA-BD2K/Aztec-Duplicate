@@ -1,1 +1,0 @@
-Map some reads to some reference sequences.

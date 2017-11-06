@@ -1,1 +1,1 @@
-A CRISPR Interactive database
+A package for processing protein mass spectrometry data.

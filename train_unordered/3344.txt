@@ -1,1 +1,0 @@
-EasyCluster is a python program devised to create gene-oriented clusters of ESTs/FL-cDNAs given a genomic sequence

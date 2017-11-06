@@ -1,1 +1,1 @@
-Prediction of 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences
+Galaxy wrappers for the Cuffmerge tool.

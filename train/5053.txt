@@ -1,1 +1,1 @@
-Installs motif databases and reference files for use with region_motif_enrichment.
+Rapid reconstruction of phylogenies by the Neighbor-Joining method

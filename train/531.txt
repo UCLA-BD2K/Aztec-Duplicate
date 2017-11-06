@@ -1,0 +1,5 @@
+Summary: Coordinated Gene Activity in Pattern Sets (CoGAPS) provides an integrated package for isolating gene expression driven by a biological process, enhancing inference of biological processes from transcriptomic data. CoGAPS improves on other enrichment measurement methods by combining a Markov chain Monte Carlo (MCMC) matrix factorization algorithm (GAPS) with a threshold-independent statistic inferring activity on gene sets. The software is provided as open source C++ code built on top of JAGS software with an R interface.
+        Availability: The R package CoGAPS and the C++ package GAPS-JAGS are provided open source under the GNU Lesser Public License (GLPL) with a users manual containing installation and operating instructions. CoGAPS is available through Bioconductor and depends on the rjags package available through CRAN to interface CoGAPS with GAPS-JAGS.
+        URL: http://www.cancerbiostats.onc.jhmi.edu/cogaps.cfm
+        Contact: ejfertig@jhmi.edu; mfo@jhu.edu
+        Supplementary Information: Supplementary data is available at Bioinformatics online.

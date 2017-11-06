@@ -1,1 +1,1 @@
-Pairwise sequence alignment of DNA or protein sequences using Needleman-Wunsch global alignment.
+Convert a Genbank/EMBL file into the .ffn (gene) file, .faa (protein fasta file) and ptt file (protein table), or sequin file.

@@ -1,1 +1,1 @@
-Mutate Codons with SNPs
+Get a subset of data from a BAM or VCF file

@@ -1,1 +1,1 @@
-Contains a galaxy tool wrapper for the kraken-translate command.
+A Web Service that exposes methods of the PhenotypeAssay Manager class of the DiaComp Object Model

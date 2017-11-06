@@ -1,1 +1,0 @@
-The Collaborative Computing Project for NMR serves as a nucleus for collaborative, open source software development and provides integrated software for NMR spectroscopists.

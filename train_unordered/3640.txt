@@ -1,1 +1,0 @@
-PROSITE Scan compares a protein sequence against the signatures in PROSITE

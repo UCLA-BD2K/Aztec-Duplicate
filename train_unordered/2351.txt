@@ -1,1 +1,0 @@
-UniCarbKB is a curated and annotated glycan database which curates information from the scientific literature on glycoprotein derived glycan structures.

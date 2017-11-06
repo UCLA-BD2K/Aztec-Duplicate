@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Get a molecular weight array from plain text (one weight per line).
+GlimmerHMM is a new gene finder based on a Generalized Hidden Markov Model (GHMM).

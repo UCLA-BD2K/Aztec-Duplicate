@@ -1,1 +1,1 @@
-Performs ID mapping using BridgeDb and other public or custom database sources.
+fork of existing package_libxml2_2_9_1 from devteam with some additional environment variable exports

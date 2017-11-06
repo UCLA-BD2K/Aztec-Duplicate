@@ -1,1 +1,0 @@
-A grammar for describing microbial genotypes and phenotypes.

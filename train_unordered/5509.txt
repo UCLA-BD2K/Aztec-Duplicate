@@ -1,1 +1,0 @@
-Makes a similarity network where nodes are genes, and edges denote highly correlated genes.

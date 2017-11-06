@@ -1,1 +1,0 @@
-DSCoMAN is used to process T2* weighted dynamic susceptibility contrast (DSC) MRI.

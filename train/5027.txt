@@ -1,1 +1,1 @@
-PyNAST is a sequence aligner for adding new 16S rDNA sequences to existing 16S rDNA alignments - GVL
+Search against small molecules stored in ChEMBL database

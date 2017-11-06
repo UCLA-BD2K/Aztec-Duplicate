@@ -1,1 +1,1 @@
-Provides standard formatting styles for Bioconductor PDF and HTML documents. Package vignettes illustrate use and functionality.
+Information on gene mapping and genetic diseases.

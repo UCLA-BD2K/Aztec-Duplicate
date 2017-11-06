@@ -1,1 +1,1 @@
-Protein Sequence Parsimony Method
+Contains a tool dependency definition that downloads and compiles version 2013_08_14 of trinity

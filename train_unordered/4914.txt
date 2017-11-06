@@ -1,1 +1,0 @@
-Contains a tool dependency definition that installs version 4.0 SnpEff, a variant annotation and effect prediction tool.

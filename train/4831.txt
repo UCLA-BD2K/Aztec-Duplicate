@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 5.1.x of the Qt library.
+Cheminformatic tools from siliocs-it

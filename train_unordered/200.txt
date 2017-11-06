@@ -1,2 +1,0 @@
-DIANA-miRPath v2 
-A REST service for DIANA-miRPath v2.1 microRNA functional analysis

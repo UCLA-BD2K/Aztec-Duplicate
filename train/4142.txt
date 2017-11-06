@@ -1,1 +1,1 @@
-DeFuse - gene fusion discovery using RNA-Seq data
+Send Email upon job completion

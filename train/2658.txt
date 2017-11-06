@@ -1,1 +1,1 @@
-A simple menu builder
+Object and function to deals with a sequence region (reg:start-end)

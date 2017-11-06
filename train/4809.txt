@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles the latest version 0.8.2.* of pysam.
+Meta packages for bio parser

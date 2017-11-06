@@ -1,1 +1,14 @@
-Local pairwise sequence alignment of DNA or protein sequences using lalign, part of the FASTA suite. 
+Abstract
+        
+Motivation: The aim of this study is to assess the performance of RNA–RNA interaction prediction tools for all domains of life.
+        
+Results: Minimum free energy (MFE) and alignment methods constitute most of the current RNA interaction prediction algorithms. The MFE tools that include accessibility (i.e. RNAup, IntaRNA and RNAplex) to the final predicted binding energy have better true positive rates (TPRs) with a high positive predictive values (PPVs) in all datasets than other methods. They can also differentiate almost half of the native interactions from background. The algorithms that include effects of internal binding energies to their model and alignment methods seem to have high TPR but relatively low associated PPV compared to accessibility based methods.
+        
+Availability and Implementation: We shared our wrapper scripts and datasets at Github (github.com/UCanCompBio/RNA_Interactions_Benchmark). All parameters are documented for personal use.
+        
+Contact:
+sinan.umu@pg.canterbury.ac.nz
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

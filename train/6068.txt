@@ -1,1 +1,1 @@
-l1_tf is software for l1 trend filtering as described in the paper l1 Trend Filtering
+A PyMOL plugin for identification and analysis of tunnels and channels in static protein structures.

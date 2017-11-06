@@ -1,1 +1,1 @@
-ITSx -- Identifies ITS sequences and extracts the ITS region
+Contains a tool dependency definition that downloads and compiles version 0.7.7 of the BWA package

@@ -1,1 +1,0 @@
-Contains a tool dependency definition that downloads and compiles version 1.126.0 of the Picard package.

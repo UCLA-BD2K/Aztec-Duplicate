@@ -1,1 +1,1 @@
-Barcode Splitter
+Reads a file in phylogenetic tree format (Phylip or phyloXML) and visualizes it as a network.

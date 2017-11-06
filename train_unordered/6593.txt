@@ -1,1 +1,0 @@
-Motivation: Information concerning the gene expression pattern in four dimensions (species, genes, anatomy and developmental stage) is crucial for unraveling the roles of genes through time. There are a variety of anatomical gene expression databases, but extracting information from them can be hampered by their diversity and heterogeneity.

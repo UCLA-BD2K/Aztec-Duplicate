@@ -1,1 +1,1 @@
-Companion to the paper "MicroRNA transfection and AGO-bound CLIP-seq datasets reveal distinct determinants of miRNA action" and provides predictions for miRNA targets for human and mouse using the two predictive models described in the paper: a model trained from microarry studies following transfection, and a model trained from PAR-CLIP datasets.
+It scans the entries from the Blocks databank against a protein sequence.

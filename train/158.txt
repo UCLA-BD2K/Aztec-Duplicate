@@ -1,1 +1,9 @@
-Search MBInfo database for interactions using a protein id
+Motivation:
+De novo transcriptome assembly is an integral part for many RNA-seq workflows. Common applications include sequencing of non-model organisms, cancer or meta transcriptomes. Most de novo transcriptome assemblers use the de Bruijn graph (DBG) as the underlying data structure. The quality of the assemblies produced by such assemblers is highly influenced by the exact word length k. As such no single kmer value leads to optimal results. Instead, DBGs over different kmer values are built and the assemblies are merged to improve sensitivity. However, no studies have investigated thoroughly the problem of automatically learning at which kmer value to stop the assembly. Instead a suboptimal selection of kmer values is often used in practice.
+        Results: Here we investigate the contribution of a single kmer value in a multi-kmer based assembly approach. We find that a comparative clustering of related assemblies can be used to estimate the importance of an additional kmer assembly. Using a model fit based algorithm we predict the kmer value at which no further assemblies are necessary. Our approach is tested with different de novo assemblers for datasets with different coverage values and read lengths. Further, we suggest a simple post processing step that significantly improves the quality of multi-kmer assemblies.
+        Conclusion: We provide an automatic method for limiting the number of kmer values without a significant loss in assembly quality but with savings in assembly time. This is a step forward to making multi-kmer methods more reliable and easier to use.
+        Availability and Implementation:A general implementation of our approach can be found under: https://github.com/SchulzLab/KREATION.
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.
+        Contact:
+mschulz@mmci.uni-saarland.de

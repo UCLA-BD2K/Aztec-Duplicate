@@ -1,1 +1,1 @@
-GMAP GSNAP  mapping and alignment 
+A Web Service that exposes methods of the Publication Manager class of the AMDCC Object Model

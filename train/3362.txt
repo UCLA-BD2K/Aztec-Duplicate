@@ -1,1 +1,1 @@
-Software suite for the automated determination of macromolecular structures using X-ray crystallography and other methods
+Contains a tool dependency definition that downloads and compiles version 2.023 of the perl PDF API

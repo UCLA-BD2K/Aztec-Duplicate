@@ -1,1 +1,1 @@
-access point for plant comparative genomics
+An aphid genome database

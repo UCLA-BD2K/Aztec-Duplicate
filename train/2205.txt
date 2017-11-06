@@ -1,1 +1,1 @@
-Parses 2D matrices (e.g. PAM)
+Detects Gene Ontology and/or other user defined categories which are over/under represented in RNA-seq data

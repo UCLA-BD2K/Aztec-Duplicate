@@ -1,1 +1,7 @@
-Authority: inb.bsc.es  -   It constructs a Hidden Markov Model from a multiple sequence alignment.
+Brief Overview
+
+JACOP/FuncNet provides an implementation of the FuncNet prediction service defined at http://funcnet.eu
+
+Background
+
+The JACOP/FuncNet Web service reuses a majority of the technologies and methods that wer

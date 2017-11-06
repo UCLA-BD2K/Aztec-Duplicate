@@ -1,1 +1,0 @@
-ProbCons is a tool for progressive protein multiple sequence alignment based on probabilistic consistency.

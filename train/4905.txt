@@ -1,1 +1,1 @@
-Download and install SHEAR version 0.2.11 (Sample Heterogeneity Estimation and Assembly by Reference)
+search a protein sequence against a protein database

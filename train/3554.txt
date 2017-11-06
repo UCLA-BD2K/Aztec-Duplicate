@@ -1,1 +1,1 @@
-Get the introns of a set of transcripts.
+Downloads and integrates multiple pathways from Wikipathways.

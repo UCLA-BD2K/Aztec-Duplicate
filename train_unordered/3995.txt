@@ -1,1 +1,0 @@
-Generate DNA scaffold from blastn alignment of Contigs

@@ -1,1 +1,1 @@
-A set of tools to work with alternative splicing
+A suite of Galaxy utilities associated with version 0.1.19 of the SAMTools package.

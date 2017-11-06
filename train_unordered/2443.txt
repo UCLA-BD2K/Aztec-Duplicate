@@ -1,1 +1,0 @@
-A compendium of protein fingerprints, or group of conserved motifs used to characterise a protein family.

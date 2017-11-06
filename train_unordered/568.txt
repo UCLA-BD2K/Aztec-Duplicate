@@ -1,6 +1,0 @@
-Tuiuiu removes from a sequence or from a set of sequences areas as large as possible that do not contain researched repeats.
-
-Tuiuiu is used as a preliminary step before applying a multiple local aligner tool.
-
-OPTIONS:
---excellent|--good : algorithm

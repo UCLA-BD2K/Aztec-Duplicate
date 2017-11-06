@@ -1,1 +1,0 @@
-hmmalign: align sequences to a profile HMM

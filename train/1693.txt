@@ -1,1 +1,1 @@
-Multi sample aCGH analysis package using kernel convolution
+Retrieves interactions associated with input IDs. Sophisticated UI gives links to GO, KEGG, etc.

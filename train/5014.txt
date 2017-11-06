@@ -1,1 +1,1 @@
-Prokka
+Predictions of non-classical (i.e. not signal peptide triggered) protein secretion

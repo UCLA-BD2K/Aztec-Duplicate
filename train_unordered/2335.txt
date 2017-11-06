@@ -1,1 +1,0 @@
-ab initio predictions of enzyme class (if any) from sequence

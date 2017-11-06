@@ -1,2 +1,0 @@
-GOPHER attempts to combine the high speed of BLAST MBH-based methods with the accuracy obtained by phylogenetic inference. 
-This service is for the downloading of pre-computed alignments generated using gopher and the Quest for Orthologues reference and UniProt Complete Proteomes datasets.

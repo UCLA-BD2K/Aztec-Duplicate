@@ -1,1 +1,1 @@
-Calculates remaining degree (excess degree) distribution.
+Compares a protein sequence against a protein database and calculates the statistical significance of matches using the Basic Local Alignment Tool (BLAST).

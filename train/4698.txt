@@ -1,1 +1,1 @@
-The recipe for installing lastz version 1.03.52 as a compiled binary or from source.
+HTML blast results formatter

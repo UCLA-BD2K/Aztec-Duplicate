@@ -1,1 +1,0 @@
-Mapping of ELM (Eucaryotic Linear Motifs) motifs to a query sequence.

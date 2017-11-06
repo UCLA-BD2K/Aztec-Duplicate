@@ -1,4 +1,1 @@
-Python module for manipulation of Crystallographic Information Framework (CIF) files.
-
-PyCIFRW provides facilities for reading, manipulating and writing CIF and STAR files. In addition, CIF files
-and dictionaries may be validated against DDL1/2 dictionaries.
+EMBOSS isochore plots GC content in windows over a DNA sequence.

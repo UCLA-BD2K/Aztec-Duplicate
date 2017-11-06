@@ -1,1 +1,0 @@
-Prepare paired-end reads for use with Velvet

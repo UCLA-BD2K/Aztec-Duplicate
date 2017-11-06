@@ -1,1 +1,0 @@
-The CRA lets you access large cluster computers to run a variety of phylogenetic codes, at no charge. You can access parallel  BEAST, BEAST2, DPPDIV, GARLI, jModelTest2, MAFFT, Migrate-N, MrBayes, RAxML  

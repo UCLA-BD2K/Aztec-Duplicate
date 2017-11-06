@@ -1,1 +1,1 @@
-MMsINC is web-oriented database of commercially-available compounds for virtual screening and chemoinformatics applications. MMsINC contains over 4 million non-redundant chemical compounds in 3D formats.
+featureCounts counts the number of reads aligned to defined masked regions in a reference genome

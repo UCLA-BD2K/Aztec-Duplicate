@@ -1,0 +1,4 @@
+Summary: SensA is a web-based application for sensitivity analysis of mathematical models. The sensitivity analysis is based on metabolic control analysis, computing the local, global and time-dependent properties of model components. Interactive visualization facilitates interpretation of usually complex results. SensA can contribute to the analysis, adjustment and understanding of mathematical models for dynamic systems.
+        Availability and implementation: SensA is available at http://gofid.biologie.hu-berlin.de/ and can be used with any modern browser. The source code can be found at https://bitbucket.org/floettma/sensa/ (MIT license)
+        Contact:
+max.floettmann@biologie.hu-berlin.de or thomas.spiesser@biologie.hu-berlin.de

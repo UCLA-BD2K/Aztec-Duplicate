@@ -1,1 +1,0 @@
-The STRINGdb package provides a user-friendly interface to the STRING protein-protein interactions database ( http://www.string-db.org ).

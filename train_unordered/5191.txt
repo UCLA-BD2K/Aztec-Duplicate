@@ -1,1 +1,0 @@
-SortMeRNA - Fast and accurate filtering of ribosomal RNAs in metatranscriptomic data

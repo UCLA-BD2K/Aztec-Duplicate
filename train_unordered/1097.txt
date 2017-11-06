@@ -1,1 +1,0 @@
-Provides programmatic access to a subset of the data available from the Integr8 Web Portal ( http://www.ebi.ac.uk/integr8/EBI-Integr8-HomePage.do?currentclicked=HOME ) . Access to complete genomes and proteomes 

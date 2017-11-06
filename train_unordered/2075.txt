@@ -1,1 +1,0 @@
-Interactive tool for visualizing Illumina's 450k array data

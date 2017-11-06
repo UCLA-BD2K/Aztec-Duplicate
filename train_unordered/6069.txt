@@ -1,1 +1,0 @@
-The large-scale gate sizing (lsgs) MATLAB toolbox provides an implementation of the algorithm described in the paper “An efficient method for large-scale gate sizing”, S. Joshi and S. Boyd.

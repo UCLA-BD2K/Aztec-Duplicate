@@ -1,1 +1,1 @@
-Charges is a software application for simple and straightforward calculation of partial atomic charges in biomacromolecules and proteins via Electronegativity Equalization Method.
+A package to visualise Gene Ontology (GO) enrichment analysis results on gene lists arising from different analyses such clustering or PCA. The significant GO categories are visualised as word clouds that can be combined with different plots summarising the underlying data.

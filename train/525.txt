@@ -1,0 +1,6 @@
+Motivation: The reference CRAM file format implementation is in Java. We present ‘Scramble’: a new C implementation of SAM, BAM and CRAM file I/O.
+        Results: The C implementation of for CRAM is 1.5–1.7× slower than BAM at decoding but 1.8–2.6× faster at encoding. We see file size savings of 34–55%.
+        Availability and implementation: Source code is available at http://sourceforge.net/projects/staden/files/io_lib/ under the BSD software licence.
+        Contact:
+jkb@sanger.ac.uk
+        Supplementary information: Supplementary data are available at Bioinformatics online.

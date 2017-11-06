@@ -1,1 +1,1 @@
-Tools for performing taxonomic assignment based on phylogeny using pplacer and clst.
+To give the exactly p-value and q-value of MeDIP-seq and MRE-seq data for different samples comparation.

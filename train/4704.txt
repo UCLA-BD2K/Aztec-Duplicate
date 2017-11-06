@@ -1,1 +1,1 @@
-Provides the 1.2.x branch of libpng
+Mutate a sequence

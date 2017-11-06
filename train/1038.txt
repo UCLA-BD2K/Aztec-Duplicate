@@ -1,1 +1,1 @@
-Please send all feedback to development-at-chemspider-dot-comNOTE: Some operations require a "Security Token". To obtain a token please complete the registration process. Security Token is listed at Profile page.
+FlowSOM offers visualization options for cytometry data, by using Self-Organizing Map clustering and Minimal Spanning Trees

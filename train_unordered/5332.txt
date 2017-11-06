@@ -1,1 +1,0 @@
-VarScan wrapper used on usegalaxy.org (the public Galaxy server)

@@ -1,1 +1,6 @@
-Summarizes how individuals are connected by building networks where nodes represent authors and edges represent publications.
+Given an concept name it returns an object including concept id, name (a.k.a. NIFSTD_ID), pref_label, description/comments, list of synonyms.
+
+Signatures:
+./concepts/{NIFSTD_ID}[?{optional_args}]
+./concepts/oid/{OntoQuest_ID}[?{optional_args}]
+./conc

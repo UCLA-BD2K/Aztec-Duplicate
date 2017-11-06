@@ -1,1 +1,0 @@
-Patmatmotifs takes a protein sequence and compares it to the PROSITE database of motifs.

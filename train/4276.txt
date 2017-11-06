@@ -1,1 +1,1 @@
-Flexbar - flexible barcode and adapter removal
+Authority: inb.bsc.es  -  ClustalW multiple sequence alignments (full method).

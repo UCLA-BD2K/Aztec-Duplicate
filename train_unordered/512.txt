@@ -1,1 +1,0 @@
-Pathway Commons is a collection of publicly available pathways from multiple organisms. It provides researchers with convenient access to a comprehensive collection of pathways from multiple sources represented in a common language. Access is via a web po

@@ -1,1 +1,0 @@
-BLAST search against protein targets stored in ChEMBL database

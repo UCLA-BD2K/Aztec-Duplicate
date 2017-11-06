@@ -1,1 +1,1 @@
-RNAhybrid is a tool for finding the minimum free energy hybridisation of a long and a short RNA. The hybridisation is performed in a kind of domain mode, ie. the short sequence is hybridised to the best fitting part of the long one. The tool is primarily 
+MotifSampler tries to find over-represented motifs in the upstream region of a set of co-regulated genes. This motif finding algorithm uses Gibbs sampling (http://en.wikipedia.org/wiki/Gibbs_sampling) to find the position probability matrix that represent

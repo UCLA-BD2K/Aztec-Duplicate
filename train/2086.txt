@@ -1,1 +1,1 @@
-SimBindProfiles identifies common and unique binding regions in genome tiling array data. This package does not rely on peak calling, but directly compares binding profiles processed on the same array platform. It implements a simple threshold approach, thus allowing retrieval of commonly and differentially bound regions between datasets as well as events of compensation and increased binding.
+Authority: inb.bsc.es  -  It compares a protein sequence against another protein sequence (used as a database) using the Washington University BLAST algorithm.

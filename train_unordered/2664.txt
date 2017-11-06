@@ -1,1 +1,0 @@
-represent a network of protein interactions

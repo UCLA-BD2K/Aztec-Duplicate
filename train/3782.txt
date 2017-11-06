@@ -1,1 +1,1 @@
-This service returns the Ontologies registered on the NIF Ontoquest Server.
+Dimension Reduction for Array CGH Data with Minimal Information Loss

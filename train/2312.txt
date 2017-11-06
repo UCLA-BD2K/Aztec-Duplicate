@@ -1,1 +1,1 @@
-Neural network predictions of splice sites in Arabidopsis thaliana DNA
+Provides filtered, sorted HTML and tabular reports of Blast XML format search results

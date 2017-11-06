@@ -1,1 +1,1 @@
-Venn diagram comparison of RXLR motif predictions
+MUSCLE (MUltiple Sequence Comparison by Log- Expectation) is a multiple sequence algnment tool.

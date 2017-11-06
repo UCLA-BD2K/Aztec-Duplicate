@@ -1,1 +1,3 @@
-A Web Service that exposes methods of the Publication Manager class of the DiaComp Object Model
+Summary: ShortRead is a package for input, quality assessment, manipulation and output of high-throughput sequencing data. ShortRead is provided in the R and Bioconductor environments, allowing ready access to additional facilities for advanced statistical analysis, data transformation, visualization and integration with diverse genomic resources.
+        Availability and Implementation: This package is implemented in R and available at the Bioconductor web site; the package contains a ‘vignette’ outlining typical work flows.
+        Contact: mtmorgan@fhcrc.org

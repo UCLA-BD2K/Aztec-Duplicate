@@ -1,1 +1,1 @@
-Draw phylogeny
+Installs motif databases and reference files for use with region_motif_enrichment.

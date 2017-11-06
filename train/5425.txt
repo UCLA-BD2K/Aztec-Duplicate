@@ -1,1 +1,1 @@
-test
+Genome assembler for regular and single-cell projects

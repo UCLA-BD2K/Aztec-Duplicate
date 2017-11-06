@@ -1,1 +1,0 @@
-Rat genome database (RGD) goal is to collect, consolidate, and integrate data generated from ongoing rat genetic and genomic research efforts and make these data widely available to the scientific community. A secondary, but critical goal is to provide curation of mapped positions for quantitative trait loci, known mutations and other phenotypic data.

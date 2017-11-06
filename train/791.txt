@@ -1,5 +1,1 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Runs an Energy Minimization of the Structure (Using Gromacs package).
-            
-    
+eMouseAtlas (www.emouseatlas.org) is a comprehensive online resource to visualise mouse development and investigate gene expression in the mouse embryo.

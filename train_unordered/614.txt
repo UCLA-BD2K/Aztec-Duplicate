@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Multiple sequence alignment usinf T-coffee.

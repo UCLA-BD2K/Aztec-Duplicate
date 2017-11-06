@@ -1,1 +1,1 @@
-Extract a single sequence or set of sequences from a multifasta file - GVL
+Flexible, quantitative, and integrative genomic visualizations for publication-quality multi-panel figures

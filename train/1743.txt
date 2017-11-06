@@ -1,1 +1,1 @@
-This package includes a function for combining preprocessing and classification methods to calculate misclassification errors
+Freeview is a visualization tool similar in functionality to tkmedit, tksurfer, and scuba. It differs from tkmedit in that it can load multiple volumes at once and can be used to visualize high resolution (100um) data as well as tractography splines.

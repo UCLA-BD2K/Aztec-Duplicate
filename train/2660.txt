@@ -1,1 +1,1 @@
-Component to represent a chromosome with its bands
+Wraper functions for description/comparison of oligo ID list using Gene Ontology database

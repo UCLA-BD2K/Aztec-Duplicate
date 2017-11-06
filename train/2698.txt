@@ -1,1 +1,1 @@
-SiteBinder is a software for fast and accurate superimposition of protein fragments. It can process thousands of fragments in few seconds, it provides also an average structure and it searches for the best pairing among fragments.
+representing and modeling data in the NHGRI GWAS catalog

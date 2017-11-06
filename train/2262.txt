@@ -1,1 +1,1 @@
-Component to represent one summary feature. Originally design to display protein expression information from the Human Protein Atlas (HPA).
+The TFmodeller program scans a protein sequence P against a library of protein-DNA complexes and builds comparative models of P if good templates are found. These models are used to get an idea of the P-DNA interface, its evolution and the putative recogn

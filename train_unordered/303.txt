@@ -1,1 +1,0 @@
-Estimates phylogenies from distance matrix data using the Neighbor-Joining method or the UPGMA method of clustering.

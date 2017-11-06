@@ -1,1 +1,1 @@
-Graphical user interface for the OLIN package
+Authority: inb.bsc.es  -  Compares the six-frame translations of a nucleotide query sequence against the six-frame translations of a nucleotide sequence (used as a database) using the Basic Local Alignment Tool (BLAST).

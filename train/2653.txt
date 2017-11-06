@@ -1,1 +1,1 @@
-Meta packages for bio parser
+Authority: mmb.pcb.ub.es  -  Coumpute correlations between residues

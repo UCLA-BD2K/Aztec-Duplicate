@@ -1,1 +1,1 @@
-IceLogo generates sequence logos to visualize conserved patterns in nucleotide and protein sequences.
+Validate files in PSI-MI XML 2.5 and PSI-PAR format, and generate a table with error messages

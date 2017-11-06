@@ -1,1 +1,1 @@
-Import/Export of System Biology file formats (BioPAX level 3, SBML, CellDesigner). Analysis and manipulation of biological networks.
+A Web Service that exposes methods of the Validation Criteria Manager class of the DiaComp Object Model

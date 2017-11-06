@@ -1,1 +1,6 @@
-Glimmer is a system for finding genes in microbial DNA, especially the genomes of bacteria, archaea, and viruses. 
+Geneslico SOAP Service for RNA secondary structure prediction.
+Exposed operations are part of RNA metaserver (http://genesilico.pl/rnametaserver/).
+
+All operations take raw text nucleotide sequence as input (both G and T allowed) sucg as:
+
+And return

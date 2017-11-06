@@ -1,1 +1,1 @@
-Assigns secondary structural information to PDB entries.
+Pairwise alignment of structures using DaliLite.

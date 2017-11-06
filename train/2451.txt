@@ -1,1 +1,1 @@
-Cell line integrated molecular authentication.
+GUI for IMOD

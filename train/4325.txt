@@ -1,1 +1,1 @@
-Generates heatmap with nonlinear color mapping options
+This package provides functions for annotation-agnostic differential expression analysis of RNA-seq data.

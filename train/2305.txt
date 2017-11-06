@@ -1,1 +1,1 @@
-Multi Locus Sequence Typing (MLST) from an assembled genome or from a set of reads
+Add input name as column on an existing tabular file

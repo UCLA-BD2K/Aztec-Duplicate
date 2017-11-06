@@ -1,1 +1,1 @@
-Public registry of nucleic acid reagents designed for use in a wide variety of biomedical research applications, together with information on reagent distributors, probe effectiveness, and computed sequence similarities.
+Provides basic S4 data structures and routines for analyzing plate based flow cytometry data.

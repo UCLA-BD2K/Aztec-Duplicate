@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.1.5 of the Vienna RNA package.
+Extensible framework for interacting with multiple genome browsers (currently UCSC built-in) and manipulating annotation tracks in various formats (currently GFF, BED, bedGraph, BED15, WIG, BigWig and 2bit built-in). The user may export/import tracks to/from the supported browsers, as well as query and modify the browser state, such as the current viewport.

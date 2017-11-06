@@ -1,1 +1,3 @@
-A tool for identification of CTCF sites
+This is a wsdl interface for the CICC (Chemical Informatics and Cyberinfrastructure Collaboratory) 
+      database projects developed at school of informatics of Indiana University. The current version supports canonical
+      smile search, which is based on the gNova Cartridge offered by gNova Scientific Software.

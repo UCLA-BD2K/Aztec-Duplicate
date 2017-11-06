@@ -1,1 +1,1 @@
-Downloads and installs current version of cap3 executable from Iowa State
+Motivation: BioJava is an open-source project for processing of biological data in the Java programming language. We have recently released a new version (3.0.5), which is a major update to the code base that greatly extends its functionality.

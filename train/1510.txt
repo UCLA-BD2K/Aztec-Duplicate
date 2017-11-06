@@ -1,1 +1,1 @@
-A package to analyze flow cytometric data using gate information to follow population/community dynamics
+Coordinates to Sequences: Extract the sequences from a list of coordinates.

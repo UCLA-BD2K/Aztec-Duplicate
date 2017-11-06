@@ -1,1 +1,1 @@
-Genephys
+Integrated Complex Traits Network (iCTNet) assembles human disease, tissue, gene and drug-target interactions.

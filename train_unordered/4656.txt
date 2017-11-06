@@ -1,1 +1,0 @@
-installs ucsc application gfClient for running a blat service

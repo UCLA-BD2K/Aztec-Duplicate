@@ -1,1 +1,0 @@
-Sequences post-transcriptionally modified by RNA editing from primary databases and literature. All editing information such as substitutions, insertions and deletions occurring in a wide range of organisms is stored.

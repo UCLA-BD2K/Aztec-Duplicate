@@ -1,1 +1,1 @@
-This suite contains MUMmer genome alignment tools and parsers
+Get a subset of data from a BAM | VCF file

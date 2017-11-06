@@ -1,1 +1,1 @@
-Find splice junctions using RNA-seq data.
+Provides network interface to MiSink-enabled Web sites, including DIP.

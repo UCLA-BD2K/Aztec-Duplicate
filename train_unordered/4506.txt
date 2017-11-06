@@ -1,1 +1,0 @@
-This suite contains tools for managing ontologies that are represented in the OBO flat file format

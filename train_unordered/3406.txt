@@ -1,1 +1,0 @@
-The TOM toolbox supports a wide range of functions for tomography.

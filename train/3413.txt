@@ -1,1 +1,1 @@
-A program for Molecular Replacement with search ensembles generated from uncoventional models.
+Builds a network in Cytoscape from a user-provided OWL/RDF ontology and it implements a SPARQL module

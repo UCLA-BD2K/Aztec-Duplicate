@@ -1,1 +1,0 @@
-SVDetect: a tool to detect genomic structural variations from paired-end and mate-pair sequencing data

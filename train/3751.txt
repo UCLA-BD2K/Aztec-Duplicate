@@ -1,1 +1,1 @@
-Input some source text and retrieve a list of terms discovered, ranked by their importance within the text
+Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler

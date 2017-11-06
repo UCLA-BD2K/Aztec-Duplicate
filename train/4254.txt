@@ -1,1 +1,1 @@
-Fetch fasta sequences from NCBI using eutils wrappers
+Plotting functions for derfinder

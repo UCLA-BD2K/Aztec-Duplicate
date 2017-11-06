@@ -1,1 +1,0 @@
-IMAGIC is an image analysis software package for electron microscopy, which is also used to process images from other devices, spectra and other multi-dimensional data-sets.

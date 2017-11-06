@@ -1,4 +1,1 @@
-
-			INTRODUCTION
-
-			This Web Service implements hERG 1.0
+ODE add-on to CellNOptR

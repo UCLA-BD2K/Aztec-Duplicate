@@ -1,1 +1,1 @@
-Sequence/Alignment format converter
+Manage GEMINI annotation data

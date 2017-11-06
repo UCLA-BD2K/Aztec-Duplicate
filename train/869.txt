@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Runs dust to mask low-complexity regions within a DNA sequence
+Kalign is a fast and accurate multiple sequence alignment algorithm for DNA and protein sequences. 

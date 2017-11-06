@@ -1,1 +1,1 @@
-Wrapper for the Bioconductor cummeRbund library
+Transposes tabular-delimited data.

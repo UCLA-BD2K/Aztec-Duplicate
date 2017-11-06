@@ -1,1 +1,0 @@
-SEL.TS.AREA is an R script to select differentially expressed genes from time series expression data in data poor conditions, i.e. when few replicates are available

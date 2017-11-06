@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 3.2.0 of the the eigen template library.
+Authority: inb.bsc.es  -  Parses the FeatureeAASequence having the input article.

@@ -1,1 +1,1 @@
-Installs the libwww-perl module from CRAN
+A program for carrying out simulations of Protein Crystallographic diffraction images and analysing the unique data coverage for one or more crystal settings and series of diffraction images.

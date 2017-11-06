@@ -1,1 +1,0 @@
-Dbfetch provides an easy way to retrieve entries from various databases available at EMBL-EBI in a consistent manner.

@@ -1,1 +1,1 @@
-Database of Untranslated regions (UTRs)
+Calculate distances between thermodynamic RNA secondary structures ensembles

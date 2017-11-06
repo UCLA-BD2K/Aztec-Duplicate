@@ -1,1 +1,1 @@
-Prediction of the subcellular location of eukaryotic proteins
+cd-hit - reduce a collection of sequences to a representative sample

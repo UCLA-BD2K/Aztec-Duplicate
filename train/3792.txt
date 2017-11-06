@@ -1,1 +1,1 @@
-The EFetch services retrieve records in the requested format from several databases hosted by the NCBI.
+EMBOSS cpgplot identifies CpG islands in nucleotide sequences.

@@ -1,1 +1,1 @@
-Merge the elements of two lists of genomic coordinates.
+Finds user defined network motifs in a given network. network motif can be created and edited using original GUI.

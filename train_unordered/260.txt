@@ -1,1 +1,0 @@
-Estimates phylogenies from protein sequences by unrooted parsimony.

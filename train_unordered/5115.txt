@@ -1,1 +1,0 @@
-Scatterplot of two numeric columns

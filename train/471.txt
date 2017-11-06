@@ -1,1 +1,17 @@
-Dbfetch is an acronym for "database fetch". Dbfetch provides an easy way to retrieve entries from various databases available at EMBL-EBI in a consistent manner. It can be used from any browser, via a web-aware scripting tool (e.g. curl, lynx, elinks or w
+Summary
+          Discussion of point mutations is ubiquitous in biomedical literature, and manually compiling databases or literature on mutations in specific genes or proteins is tedious. We present an open-source, rule-based system, MutationFinder, for extracting point mutation mentions from text. On blind test data, it achieves nearly perfect precision and a markedly improved recall over a baseline.
+        
+        
+          Availability
+          MutationFinder, along with a high-quality gold standard data set, and a scoring script for mutation extraction systems have been made publicly available. Implementations, source code and unit tests are available in Python, Perl and Java. MutationFinder can be used as a stand-alone script, or imported by other applications.
+        
+        
+          Project URL
+          
+            http://bionlp.sourceforge.net
+          
+        
+        
+          Contact
+          
+            gregcaporaso@gmail.com

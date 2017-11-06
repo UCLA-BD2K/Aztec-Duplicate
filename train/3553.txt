@@ -1,1 +1,1 @@
-Differential expression analysis for reads count data.
+Creates node or edge hyperlinks that open other networks.

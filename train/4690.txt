@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 1.1.11 of jellyfish.
+Reads and writes a feature table

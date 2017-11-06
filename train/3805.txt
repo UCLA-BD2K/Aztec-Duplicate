@@ -1,1 +1,1 @@
-the Mouse Resource Browser (MRB) is a resource management project that provides a dynamic and interactive view of world wide available mouse resources.
+Control-based ChIP-seq Analysis Tool

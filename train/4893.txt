@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.12.x of the scipy package with Atlas support.
+MyGene.info provides simple-to-use REST web services to query/retrieve gene annotation data. Itâs designed with simplicity and performance emphasized. You can use it to power a web application which requires querying genes and obtaining common gene annotations. For example, MyGene.info services are used to power BioGPS; or use it in an analysis pipeline to retrieve always up-to-date gene annotations.

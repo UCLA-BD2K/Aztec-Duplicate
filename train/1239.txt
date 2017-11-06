@@ -1,1 +1,1 @@
-An R package for subset-based analysis of heterogeneous traits and subtypes
+Neurostat/3D-SSP is a software library for processing neurological and biomedical image including multiple modalities.

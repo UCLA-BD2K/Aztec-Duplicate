@@ -1,1 +1,1 @@
-A Node.js wrapper for the Burrow-Wheeler Aligner (BWA).
+Authority: cnio.es  -  It returns all the sentences which show evidences of interactions between the iHOP gene or protein symbol related to the input and other iHOP symbols

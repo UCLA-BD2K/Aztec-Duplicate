@@ -1,1 +1,1 @@
-A non-redundant collection of 125 sequence-based classifiers for linear motifs in phosphorylation-dependent signaling
+BLAST Reciprocal Best Hits (RBH) from two FASTA files

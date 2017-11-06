@@ -1,1 +1,1 @@
-On BAM files.
+Summarizes functions of interacting clusters as logos, where sizes of logo represents frequencies of these functions.

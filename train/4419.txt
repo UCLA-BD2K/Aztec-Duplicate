@@ -1,1 +1,1 @@
-ngs-tools merge-fna-qual
+Protein families based on hidden Markov models (HMMs).

@@ -1,1 +1,1 @@
-IMOD is a set of image processing, modelling and display programs used for tomographic reconstruction and for 3D reconstruction of EM serial sections and optical sections.
+The rnaSeqMap library provides classes and functions to analyze the RNA-sequencing data using the coverage profiles in multiple samples at a time

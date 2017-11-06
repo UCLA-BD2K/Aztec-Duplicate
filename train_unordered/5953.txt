@@ -1,1 +1,0 @@
-The ACID-Toolbox contains a number of tools for Artifact Correction in dMRI. It contains an implementation of msPOAS in Matlab. It can be used withing the neuroimaging software SPM

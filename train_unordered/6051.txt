@@ -1,1 +1,0 @@
-To measure reproducibility of ChIP-chip data correctly, a correlation coefficient that is robust to the amount of signal present should be used. QCC is one such measure. The QCC statistic can also be applied in a variety of other contexts for measuring reproducibility, including analysis of array CGH data for DNA copy number and gene expression data.

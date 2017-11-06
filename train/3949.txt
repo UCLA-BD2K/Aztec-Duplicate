@@ -1,1 +1,1 @@
-Summarise an assembly (e.g. N50 metrics)
+Naive Variant Caller tool

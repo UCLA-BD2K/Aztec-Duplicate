@@ -1,1 +1,1 @@
-The ConSurf server for the identification of functional regions in proteins
+Contains a tool dependency definition that downloads and compiles version 0.14.x of the the scikit-learn package.

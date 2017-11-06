@@ -1,1 +1,1 @@
-Easy access to results of publications and genetic or drug information in other databases that are relevant to a clinical trials.
+Tool dependency definition; installs uclust v1.2.22q for PyNAST - GVL

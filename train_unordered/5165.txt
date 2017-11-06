@@ -1,1 +1,0 @@
-snp_analysis_conversion 	 Conversion tools for SNP Analysis

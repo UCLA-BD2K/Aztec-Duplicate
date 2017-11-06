@@ -1,1 +1,1 @@
-BeautifulSoup 3.2.1
+GMD is a package for non-parametric distance measurement between two discrete frequency distributions.

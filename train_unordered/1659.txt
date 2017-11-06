@@ -1,1 +1,0 @@
-integrated Bayesian Modeling of eQTL data

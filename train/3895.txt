@@ -1,1 +1,1 @@
-Identifier mapping service for genes and proteins from multiple species, and for metabolites. Can translate single identifiers, batches of identifiers, look up common names and do a free text search.
+Merge the overlapping intervals of a dataset

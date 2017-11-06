@@ -1,1 +1,0 @@
-DICOM viewer and PACS console based on Python, wxPython, and the Zope database.

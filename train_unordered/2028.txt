@@ -1,1 +1,0 @@
-Seamlessly interfaces RDP classifier (version 2.9).

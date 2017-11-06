@@ -1,1 +1,1 @@
-Epitopes Presence is a web service that retrieves all genes whose encoding protein has an epitope identified by the Immune Epitope Database and Analysis Resource with the confidence specified by the user.
+Dependencies for FreeBayes and LeftAlign wrappers

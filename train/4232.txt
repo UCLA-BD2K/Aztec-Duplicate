@@ -1,1 +1,1 @@
-fastq pair synchronization
+Quickly match reads to a reference genome or sequence file

@@ -1,1 +1,0 @@
-DicomWorks is a DICOM viewer and converter for Windows. It includes: a smart DICOM viewer with 4 panel display,an export wizard, DICOM CD-ROM reader and writer, archiver, database, and many other features. It supports a programming API with plugin architecture.

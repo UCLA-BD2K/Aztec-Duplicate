@@ -1,1 +1,1 @@
-meet
+Provides probabilistic base calling, quality checks and diagnostic plots for Solexa sequencing data

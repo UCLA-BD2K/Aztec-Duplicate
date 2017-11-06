@@ -1,1 +1,1 @@
-Clustering based on FAG-EC, EAGLE or MCODE. Found cluster can be subjected to GO enrichment analysis.
+Search nucleotide sequences for open reading frames (ORFs), or coding sequences (CDSs)

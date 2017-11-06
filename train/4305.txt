@@ -1,1 +1,1 @@
-Fetch taxonomic representation
+Authority: genome.imim.es  -  Ab initio gene prediction tool that returns the gene predictions in GFF format (GFF version 3). It also returns a set of translated aminoacid sequences.

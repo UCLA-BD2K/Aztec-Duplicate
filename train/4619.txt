@@ -1,1 +1,3 @@
-Contains a tool dependency definition that downloads and extract version 2.0.x of the the eigen template library.
+Authority: mmb.pcb.ub.es  -  
+		Run a Discrete Molecular Dynamic Simulation. Returns a MD_TrajectoryCRD.
+	

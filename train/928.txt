@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Scans DNA sequences for transcription factors.
+VT: a variant tool set that discovers short variants from Next Generation Sequencing data.

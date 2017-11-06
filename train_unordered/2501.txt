@@ -1,1 +1,0 @@
-Secondary structure assignments (and much more) for all protein entries in the Protein Data Bank (PDB).

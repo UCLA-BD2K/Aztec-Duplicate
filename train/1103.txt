@@ -1,4 +1,1 @@
-Whatizit is a text processing system that allows you to do textmining tasks on text.
-Whatizit is great at identifying molecular biology terms and linking them to publicly available databases. 
-
-web interface: http://www.ebi.ac.uk/webservices/whatizit/i
+This package contains functions to ease the analyses of DNA micro arrays. It utilizes principal component analysis as the initial multivariate analysis, followed by functional interpretation of the principal component dimensions with overrepresentation analysis for GO terms and regulatory interpretations using overrepresentation analysis of predicted transcription factor binding sites with the primo algorithm.

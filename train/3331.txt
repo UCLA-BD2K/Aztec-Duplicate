@@ -1,1 +1,1 @@
-A Laboratory Information Management System (LIMS) to support the unpredictable workflows of Molecular biology and Protein production labs of all sizes.
+Contains a tool dependency definition that downloads and installs UCSC tools.

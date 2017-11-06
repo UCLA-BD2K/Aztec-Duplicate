@@ -1,1 +1,1 @@
-Meta packages for biojs visulizations 
+Transeq translates nucleic acid sequences to the corresponding peptide sequences.

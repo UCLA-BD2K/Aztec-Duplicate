@@ -1,1 +1,1 @@
-Remove unwanted characters from start and end of sequence(s)
+RNA virus genome database.

@@ -1,1 +1,0 @@
-Provides version 1.5.0 of the X client library.

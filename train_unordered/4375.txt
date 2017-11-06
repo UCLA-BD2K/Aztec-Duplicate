@@ -1,1 +1,0 @@
-Installs the kraken tool wrapper for taxonomic designation.

@@ -1,1 +1,1 @@
-Galaxy wrappers for the BWA short read aligner.
+Some basic functions for filtering genes

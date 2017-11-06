@@ -1,1 +1,1 @@
-Search Reactome data for interactions using protein ids
+Map your data to the current assembly

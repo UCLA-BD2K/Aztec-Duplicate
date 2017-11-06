@@ -1,1 +1,2 @@
-All published accounts of variants resulting in osteogenesis imperfecta. Such variants occur in the COL1A1, COL1A2, CRTAP and LEPRE1 genes.
+This service performs the basic mapping of ELM motifs to a query sequence. The service returns all matching ELMs to a query sequence. Note that this is not a complete prediction of functional site. Extensive filtering of the resulting list of ELMs will be necessary.
+		

@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Given the number of the principal component and the report, this service returns a collection of 4 FeatureAASequence objects for that component that later can be drawn

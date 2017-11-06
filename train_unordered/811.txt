@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Returns interresidue stiffness from PCZ_Report

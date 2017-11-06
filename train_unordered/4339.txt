@@ -1,1 +1,0 @@
-Tool for mapping identifiers in a tabular file using a lookup table

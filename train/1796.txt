@@ -1,1 +1,1 @@
-This package provide a method for doing gene set analysis based on multiple omics data.
+Functions and classes for DNA copy number profiling of array-CGH data

@@ -1,1 +1,1 @@
-Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles.
+sam-stats generates basic sam/bam stats (from ea-utils package)

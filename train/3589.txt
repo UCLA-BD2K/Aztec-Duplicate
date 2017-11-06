@@ -1,1 +1,1 @@
-Search nucleotide database with nucleotide query sequence(s).
+ANGSD is a software for analyzing next generation sequencing data. The software can handle a number of different input types from mapped reads to imputed genotype probabilities. Most methods take genotype uncertainty into account instead of basing the analysis on called genotypes. This is especially useful for low and medium depth data.

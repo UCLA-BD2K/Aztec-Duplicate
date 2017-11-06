@@ -1,1 +1,1 @@
-over targeted regions in a genome
+This web service offers various operations related to the Anni concept profile matching application from the BioSemantics group. It is an update of the now obsolete ConceptRecognizerService which was previously located at: http://ws.biosemantics.org/ConceptRecognizerService.

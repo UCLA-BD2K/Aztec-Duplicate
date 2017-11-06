@@ -1,1 +1,7 @@
-Authority: inb.bsc.es  -  It  compares an amino acid query sequence against a protein sequence database using the Washington University BLAST algorithm.
+Motivation: With improvements in next-generation sequencing technologies and reductions in price, ordered RNA-seq experiments are becoming common. Of primary interest in these experiments is identifying genes that are changing over time or space, for example, and then characterizing the specific expression changes. A number of robust statistical methods are available to identify genes showing differential expression among multiple conditions, but most assume conditions are exchangeable and thereby sacrifice power and precision when applied to ordered data.
+        Results: We propose an empirical Bayes mixture modeling approach called EBSeq-HMM. In EBSeq-HMM, an auto-regressive hidden Markov model is implemented to accommodate dependence in gene expression across ordered conditions. As demonstrated in simulation and case studies, the output proves useful in identifying differentially expressed genes and in specifying gene-specific expression paths. EBSeq-HMM may also be used for inference regarding isoform expression.
+        Availability and implementation: An R package containing examples and sample datasets is available at Bioconductor.
+        Contact:
+kendzior@biostat.wisc.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

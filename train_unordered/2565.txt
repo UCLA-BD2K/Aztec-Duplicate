@@ -1,1 +1,0 @@
-Structural alignments for proteins with non-trivial relationships.

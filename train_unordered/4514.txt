@@ -1,1 +1,0 @@
-Datatypes for the oxli/khmer project

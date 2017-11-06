@@ -1,1 +1,1 @@
-Versatile omics shotgun and amplicon read simulator
+ModuleOrganizer is a software package proposing a synthetic view of a set of DNA sequences by providing both a segmentation of them into domains and a classification on the basis of these domains. It indexes the maximal repeats in the sequences and assemb

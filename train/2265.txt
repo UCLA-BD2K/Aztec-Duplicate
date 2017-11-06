@@ -1,1 +1,2 @@
-A module for parsing, reading & writing microtiter plate layouts in XSLX format.
+Pathbase is a database of histopathology photomicrographs and macroscopic images derived from mutant or genetically manipulated mice.
+The searchPathbase services retrieve image ID's by various input parameters. getImageDetails retrieves all information a

@@ -1,1 +1,6 @@
-Analysis of genomic regions containing completely or partially duplicated genes: it all high scoring pairwise alignments (HSPs) and provides the disposition of all independent copies along the genomic fragment from a BLAST report.
+Summary: Spatial Kappa is a simulator of models written in a variant of the rule-based stochastic modelling language Kappa, with spatial extensions.
+        Availability: The spatial kappa simulator is an open-source project licensed under the LGPLv3, with Java source, binaries and manual available at http://github.com/lptolik/SpatialKappa.
+        Contact:
+oksana.sorokina@ed.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

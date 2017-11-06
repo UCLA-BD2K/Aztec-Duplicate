@@ -1,1 +1,1 @@
-MSGF+ Galaxy Wrapper
+Continous integration of BioJS components into Galay

@@ -1,1 +1,0 @@
-DIAMOND is a new high-throughput program for aligning a file of short reads against a protein reference

@@ -1,1 +1,0 @@
-Assign name to selected nodes, and after unselection, enables user to re-select the nodes according to the name.

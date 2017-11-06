@@ -1,1 +1,1 @@
-Draw RNA Secondary Structures
+Pattern-Hit Initiated BLAST

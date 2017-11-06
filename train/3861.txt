@@ -1,1 +1,1 @@
-convert between profile HMM file formats
+Hadoop-Galaxy integration

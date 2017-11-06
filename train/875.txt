@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Runs Phrap to Assemble a set of DNA sequences
+Contains a tool dependency definition that downloads and compiles CoFold.

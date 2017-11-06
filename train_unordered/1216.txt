@@ -1,1 +1,0 @@
-AnalysisPageServer is a modular system that enables sharing of customizable R analyses via the web.

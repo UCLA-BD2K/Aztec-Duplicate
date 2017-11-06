@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.2.x of the the python matplotlib package.
+Displays a wordmatch dotplot of two sequences

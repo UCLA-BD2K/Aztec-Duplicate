@@ -1,3 +1,10 @@
-This Web Service connects to the Rice module of the TropGene database (http://tropgenedb.cirad.fr).
-We annotated the input and output with ontological terms of the GCP Domain Model Ontology (http://cropontology.org/).
-For given study names (GCP_Study) w
+Motivation: The application of a genomics assay to samples from a cohort is a frequently applied experimental design in cancer genomics studies. The collection and analysis of cancer sequencing data in the clinical setting is an elaborate process that may involve consenting patients, obtaining possibly-multiple DNA samples, sequencing and analysis. Many of these steps are manual. At any stage mistakes can occur that cause a DNA sample to be labelled incorrectly. However, there is a paucity of methods in the literature to identify such swaps specifically in cancer studies.
+        Results: Here, we introduce a simple method, HYSYS, to estimate the relatedness of samples and test for sample swaps and contamination. The test uses the concordance of homozygous SNPs between samples. The method is motivated by the observation that homozygous germline population variants rarely change in the disease and are not affected by loss of heterozygosity. Our tools include visualization and a testing framework to flag possible sample swaps. We demonstrate the utility of this approach on a small cohort.
+        
+          Availability and Implementation:
+          http://github.com/PapenfussLab/HaveYouSwappedYourSamples
+        
+        Contact:
+papenfuss@wehi.edu.au
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

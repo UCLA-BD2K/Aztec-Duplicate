@@ -1,1 +1,1 @@
-Workflow to process tandem MS files and build MassBank records. Functions include automated extraction of tandem MS spectra, formula assignment to tandem MS fragments, recalibration of tandem MS spectra with assigned fragments, spectrum cleanup, automated retrieval of compound information from Internet databases, and export to MassBank records.
+filter lines of a tabular file by whether a field is a substring of a field in any line of a reference file

@@ -1,1 +1,0 @@
-The REPuter program family provides state of the art software solutions to compute and visualize repeats in whole genomes or chromosomes.

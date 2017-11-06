@@ -1,1 +1,0 @@
-PfamScan is used to search a FASTA sequence against a library of Pfam HMM.

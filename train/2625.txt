@@ -1,1 +1,3 @@
-A slush generator for BioJS modules
+ptsa (pronounced pizza) is a Python module for performing time series analysis. Although it is specifically designed with neural data in mind (EEG, MEG, fMRI, etc. ...), the code should be applicable to almost any type of time series.
+
+ptsa stands for Python Time Series Analysis.

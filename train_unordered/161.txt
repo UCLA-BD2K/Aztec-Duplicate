@@ -1,1 +1,0 @@
-Search Microbial Protein Interaction database (http://jcvi.org/mpidb/about.php) for protein interactions using a protein id

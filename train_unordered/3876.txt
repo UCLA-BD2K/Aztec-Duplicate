@@ -1,1 +1,0 @@
-FireDB is a curated inventory of catalytic and biologically relevant small ligand-binding residues 

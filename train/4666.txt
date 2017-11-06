@@ -1,1 +1,1 @@
-Package containing python bindings to gnuplot
+Normalization of Agilent miRNA arrays.

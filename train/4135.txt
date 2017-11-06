@@ -1,1 +1,1 @@
-This tool allows users to download protein databases from common sources.
+Builds Seqtk version 1.0.0

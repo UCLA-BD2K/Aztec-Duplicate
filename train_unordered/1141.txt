@@ -1,3 +1,0 @@
-
-		This is a Web service interface to the ELM database. The ELM database contains descriptions of functional sites, representations of functional sites (ELMs) and known instances of ELMs (ELMInstances).
-			

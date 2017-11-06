@@ -1,1 +1,1 @@
-sort interval files with header lines
+Retrieves an entry from PDB database.

@@ -1,1 +1,0 @@
-A public archive for functional genomics data compliant with MIAME- and MINSEQE requirements in accordance with compliant data in accordance with MGED recommendations. Includes gene-indexed expression profiles.

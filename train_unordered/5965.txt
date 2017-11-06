@@ -1,1 +1,0 @@
-Activated Region Fitting (ARF) is a program for functional Magnetic Resonance Imaging (fMRI) data analysis. ARF uses Gaussian shape spatial models to parameterize active brain regions.

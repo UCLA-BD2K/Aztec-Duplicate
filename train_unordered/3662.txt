@@ -1,1 +1,0 @@
-The Interologous Interaction Database (I2D) integrates known, experimental and predicted PPIs for five model organisms and humans. Search the I2D using a protein identifier

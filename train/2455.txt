@@ -1,1 +1,1 @@
-Single nucleotide polymorphisms.
+Package to find genetic inversions in genotype (SNP array) data.

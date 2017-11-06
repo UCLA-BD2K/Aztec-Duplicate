@@ -1,1 +1,1 @@
-JBrowse static site generator
+Test two sets of gene lists and visualize the results.

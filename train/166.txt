@@ -1,1 +1,4 @@
-The Interologous Interaction Database (I2D) integrates known, experimental and predicted PPIs for five model organisms and humans. Search the I2D using a protein identifier
+Motivation: The growing field of systems biology has driven demand for flexible tools to model and simulate biological systems. Two established problems in the modeling of biological processes are model selection and the estimation of associated parameters. A number of statistical approaches, both frequentist and Bayesian, have been proposed to answer these questions.
+        Results: Here we present a Python package, ABC-SysBio, that implements parameter inference and model selection for dynamical systems in an approximate Bayesian computation (ABC) framework. ABC-SysBio combines three algorithms: ABC rejection sampler, ABC SMC for parameter inference and ABC SMC for model selection. It is designed to work with models written in Systems Biology Markup Language (SBML). Deterministic and stochastic models can be analyzed in ABC-SysBio.
+        Availability: http://abc-sysbio.sourceforge.net
+        Contact: christopher.barnes@imperial.ac.uk; ttoni@imperial.ac.uk

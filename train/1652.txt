@@ -1,1 +1,1 @@
-This package implements a filtering procedure for replicated transcriptome sequencing data based on a global Jaccard similarity index in order to identify genes with low, constant levels of expression across one or more experimental conditions.
+Contains a tool dependency definition that downloads and compiles version 3.0 of CCAT.

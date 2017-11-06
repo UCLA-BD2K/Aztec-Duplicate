@@ -1,1 +1,0 @@
-Perform deformable registration using deeds, which employs a discrete dense displacement sampling for the deformable registration of high resolution CT volumes

@@ -1,1 +1,1 @@
-NetMHCcons 1.0 server predicts binding of peptides to any known MHC class I molecule.
+Contains a tool dependency definition that downloads and compiles version 20131122 of GNU parallel.

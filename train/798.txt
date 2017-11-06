@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Run byodyn oed.
+It compares an amino acid query sequence against a protein sequence database using the Washington University BLAST algorithm.

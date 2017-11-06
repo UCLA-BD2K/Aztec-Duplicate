@@ -1,1 +1,1 @@
-Comparative analysis of protein sequences derived from the same transcript by alternative splicing, genome variation data (SNPs) or protein families from one or more organisms
+The HiTC package was developed to explore high-throughput 'C' data such as 5C or Hi-C. Dedicated R classes as well as standard methods for quality controls, normalization, visualization, and further analysis are also provided.

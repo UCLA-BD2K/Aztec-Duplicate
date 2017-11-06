@@ -1,1 +1,1 @@
-For a selected node in child network, adds neighboring nodes from a parent network .
+CNVrd2 uses next-generation sequencing data to measure human gene copy number for multiple samples, indentify SNPs tagging copy number variants and detect copy number polymorphic genomic regions.

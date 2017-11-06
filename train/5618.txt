@@ -1,1 +1,1 @@
- Tied Diffusion Through Interacting Events
+Authority: inb.bsc.es  -  Query an Amino Acid sequence against InterPro.

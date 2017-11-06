@@ -1,1 +1,0 @@
-Generate FPKM tables from cuffdiff read_group_tracking files

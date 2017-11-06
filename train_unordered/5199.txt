@@ -1,1 +1,0 @@
-scoring of splice sites with max entropy model

@@ -1,1 +1,0 @@
-Methods to create complex IGV genome browser sessions and dynamic IGV reports in HTML pages.

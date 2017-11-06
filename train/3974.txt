@@ -1,1 +1,1 @@
-collapse intervals
+Automatically creates a mask based on the 'foreground' of an anatomical scan volume

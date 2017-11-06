@@ -1,1 +1,1 @@
-The package contains functions for inferece of target gene regulation by miRNA, based on only target gene expression profile.
+MRS Blast is a companion service for the text based MRS service. You can use it to blast against protein sequences stored in the databanks that were indexed using MRS. The blast search is performed asynchronously.

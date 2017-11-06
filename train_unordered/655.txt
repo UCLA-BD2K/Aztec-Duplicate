@@ -1,1 +1,0 @@
-Authority: cnio.es  -  Clustering application that groups the homolog sequences -subfamilies- and weights its closeness to the query sequence

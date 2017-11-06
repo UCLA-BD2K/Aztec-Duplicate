@@ -1,1 +1,0 @@
-The purpose of this package is to analyze (i.e. Normalize and select significant spots) data issued from 2D GEl experiments

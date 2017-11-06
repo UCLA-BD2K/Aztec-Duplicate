@@ -1,1 +1,1 @@
-Read the output of an aligner, print statistics and possibly translate into BED or GBrowse formats.
+VarScan wrapper used on usegalaxy.org (the public Galaxy server)

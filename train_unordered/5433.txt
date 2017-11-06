@@ -1,1 +1,0 @@
-ANIMO (Analysis of Networks with Interactive MOdeling) lets you model biological networks and compare their dynamics with experimental data.

@@ -1,1 +1,0 @@
-Differential expression analysis of RNA-seq using the Poisson-Tweedie family of distributions.

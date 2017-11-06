@@ -1,1 +1,1 @@
-The package provides a method to infer the set of proteins that are more probably to work together to maintain chormatin interaction given a ChIA-PET experiment results.
+Identifies cell populations in Flow Cytometry data using non-parametric clustering and segmented-regression-based change point detection. Note: R 2.11.0 or newer is required.

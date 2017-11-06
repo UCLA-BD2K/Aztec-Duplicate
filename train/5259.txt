@@ -1,1 +1,1 @@
-to locate and display tandem repeats in DNA sequences
+Fetch substitutions from pairwise alignments

@@ -1,1 +1,0 @@
-Search for protein interactions in the Binding Database

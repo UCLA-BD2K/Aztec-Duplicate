@@ -1,1 +1,1 @@
-RDKit tools
+Reformats the results of a Multiple alignment

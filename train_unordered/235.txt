@@ -1,1 +1,0 @@
-Retrieves an aminoacid sequence from an aminoacid database.

@@ -1,1 +1,0 @@
-Modeling count data using Dirichlet-multinomial and beta-binomial mixtures with applications to single-cell assays.

@@ -1,1 +1,0 @@
-Perform in silico complementation analysis on multiple tabular snpEff output files 

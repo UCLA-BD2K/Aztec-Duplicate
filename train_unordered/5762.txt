@@ -1,1 +1,0 @@
-DICOM server and web-based viewer.

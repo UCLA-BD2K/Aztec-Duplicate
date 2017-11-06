@@ -1,1 +1,0 @@
-Scripts use by "detrprok_wf" galaxy workflow: splitTranscript.pl, listGff.sh, colorGff.pl

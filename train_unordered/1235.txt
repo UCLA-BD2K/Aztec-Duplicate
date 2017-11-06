@@ -1,1 +1,0 @@
-Wave correction for genotyping and copy number arrays

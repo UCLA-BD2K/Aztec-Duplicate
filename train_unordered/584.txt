@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Predicts secondary structure and accessibility using PHD program

@@ -1,1 +1,1 @@
-calculating Feature Frequency Profiles (FFP) from fasta sequence and text data.
+Generate DNA scaffold from blastx alignment of Contigs

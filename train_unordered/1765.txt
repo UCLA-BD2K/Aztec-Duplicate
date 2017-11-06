@@ -1,1 +1,0 @@
-The package 'methVisual' allows the visualization of DNA methylation data after bisulfite sequencing.

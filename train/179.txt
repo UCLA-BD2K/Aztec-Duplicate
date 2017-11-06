@@ -1,1 +1,5 @@
-HPIDB is a host-pathogen protein-protein intteraction (PPI) database, which serves as a unified resource for host-pathogen interactions. HPIDB integrates experimental PPIs from several public databases into a single, non-redundant web accessible resource. 
+Summary: The R/Bioconductor package Protein Array Analyzer (PAA) facilitates a flexible analysis of protein microarrays for biomarker discovery (esp., ProtoArrays). It provides a complete data analysis workflow including preprocessing and quality control, uni- and multivariate feature selection as well as several different plots and results tables to outline and evaluate the analysis results. As a main feature, PAA’s multivariate feature selection methods are based on recursive feature elimination (e.g. SVM-recursive feature elimination, SVM-RFE) with stability ensuring strategies such as ensemble feature selection. This enables PAA to detect stable and reliable biomarker candidate panels.
+        Availability and implementation:
+PAA is freely available (BSD 3-clause license) from http://www.bioconductor.org/packages/PAA/.
+        Contact:
+michael.turewicz@rub.de or martin.eisenacher@rub.de

@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Digest finds the positions where a specified proteolytic enzyme or reagent might cut a peptide sequence.

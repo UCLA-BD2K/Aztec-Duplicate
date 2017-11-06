@@ -1,1 +1,1 @@
-DEGseq is an R package to identify differentially expressed genes from RNA-Seq data.
+iQuant is a tool that performs tag based isobaric quantification

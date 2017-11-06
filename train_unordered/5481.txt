@@ -1,1 +1,0 @@
-Launching arbitrary external apps (such as viewers) for nodes/edges

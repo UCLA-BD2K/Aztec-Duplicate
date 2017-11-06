@@ -1,1 +1,1 @@
-An R package for classification of alternative splicing and prediction of coding potential from RNA-seq data.
+tool to retrieve sparql endpoint

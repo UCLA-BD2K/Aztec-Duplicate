@@ -1,1 +1,0 @@
-Glimmer is a system for finding genes in microbial DNA, especially the genomes of bacteria, archaea, and viruses. 

@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  Coumpute correlations between residues
+Create an IGV screenshot

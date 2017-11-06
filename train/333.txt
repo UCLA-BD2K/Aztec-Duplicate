@@ -1,1 +1,7 @@
-It compares the six-frame translations of a nucleotide query sequence against the six-frame translations of a nucleotide sequence (used as a database) using the Washington University BLAST algorithm.
+Motivation: In the Wright–Fisher diffusion, the transition density function describes the time evolution of the population-wide frequency of an allele. This function has several practical applications in population genetics and computing it for biologically realistic scenarios with selection and demography is an important problem.
+        Results: We develop an efficient method for finding a spectral representation of the transition density function for a general model where the effective population size, selection coefficients and mutation parameters vary over time in a piecewise constant manner.
+        Availability and implementation: The method, called SpectralTDF, is available at https://sourceforge.net/projects/spectraltdf/.
+        Contact:
+yss@berkeley.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

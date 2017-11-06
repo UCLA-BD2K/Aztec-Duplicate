@@ -1,1 +1,0 @@
-Workbench for remote access to R/Bioconductor on EBI's cluster

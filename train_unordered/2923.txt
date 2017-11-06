@@ -1,1 +1,0 @@
-Annotation of protein sequence with structural info from similar proteins in the PDB

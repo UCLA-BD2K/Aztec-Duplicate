@@ -1,1 +1,1 @@
-Diamond data manager
+Intersect two VCF datasets

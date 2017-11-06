@@ -1,1 +1,8 @@
-EMBOSS cpgplot identifies CpG islands in nucleotide sequences.
+Motivation: Several algorithms exist for detecting copy number variants (CNVs) from human exome sequencing read depth, but previous tools have not been well suited for large population studies on the order of tens or hundreds of thousands of exomes. Their limitations include being difficult to integrate into automated variant-calling pipelines and being ill-suited for detecting common variants. To address these issues, we developed a new algorithm—Copy number estimation using Lattice-Aligned Mixture Models (CLAMMS)—which is highly scalable and suitable for detecting CNVs across the whole allele frequency spectrum.
+        Results: In this note, we summarize the methods and intended use-case of CLAMMS, compare it to previous algorithms and briefly describe results of validation experiments. We evaluate the adherence of CNV calls from CLAMMS and four other algorithms to Mendelian inheritance patterns on a pedigree; we compare calls from CLAMMS and other algorithms to calls from SNP genotyping arrays for a set of 3164 samples; and we use TaqMan quantitative polymerase chain reaction to validate CNVs predicted by CLAMMS at 39 loci (95% of rare variants validate; across 19 common variant loci, the mean precision and recall are 99% and 94%, respectively). In the Supplementary Materials (available at the CLAMMS Github repository), we present our methods and validation results in greater detail.
+        Availability and implementation:
+https://github.com/rgcgithub/clamms (implemented in C).
+        Contact:
+jeffrey.reid@regeneron.com
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

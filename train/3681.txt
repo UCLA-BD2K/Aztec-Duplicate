@@ -1,1 +1,1 @@
-Similar to PSI-BLAST, PSI-Search uses SSEARCH to perform a rigorous Smith &amp; Waterman search of a protein database. 
+Write to file a subset of an input stream of sequences

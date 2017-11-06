@@ -1,1 +1,1 @@
-This package is used to install and update Bioconductor, CRAN, and (some) github packages.
+A fork of @karpathy's tSNE library

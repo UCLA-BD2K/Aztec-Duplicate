@@ -1,1 +1,0 @@
-Assigns secondary structural information to PDB entries.

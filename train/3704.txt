@@ -1,1 +1,1 @@
-Designed for the detection of regulatory signals in non-coding sequences.
+Finds shortest pathway between two selected nodes.

@@ -1,1 +1,0 @@
-BALBES is a system for solving protein structures using x-ray crystallographic data.

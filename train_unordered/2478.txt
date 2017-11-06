@@ -1,1 +1,0 @@
-Database for identifying, genotyping, and modelling the associations between single nucleotide polymorphisms (SNPs) in candidate genes and pathways that underlie inflammatory responses in humans.

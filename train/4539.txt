@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.22 of bedtools.
+The 'Rariant' package identifies single nucleotide variants from sequencing data based on the difference of binomially distributed mismatch rates between matched samples.

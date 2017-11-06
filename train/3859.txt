@@ -1,1 +1,1 @@
-hmmalign: align sequences to a profile HMM
+Scripts to create a fragment recruitment plot

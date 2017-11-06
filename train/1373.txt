@@ -1,1 +1,1 @@
-A collection of software tools for dealing with co-citation data.
+HMMer tools

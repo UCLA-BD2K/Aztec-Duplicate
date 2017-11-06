@@ -1,1 +1,0 @@
-The eXtensible Imaging Platform (XIP) project is an Open Source framework and platform for rapidly developing Medical Imaging applications that are "plug-and-play" across multiple computing environments. It offers an extensible set of modules for researchers to develop and evaluate software solutions for research and clinical problems.

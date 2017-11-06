@@ -1,1 +1,7 @@
-Authority: inb.bsc.es  -  Digest finds the positions where a specified proteolytic enzyme or reagent might cut a peptide sequence.
+Summary: AnnTools is a versatile bioinformatics application designed for comprehensive annotation of a full spectrum of human genome variation: novel and known single-nucleotide substitutions (SNP/SNV), short insertions/deletions (INDEL) and structural variants/copy number variation (SV/CNV). The variants are interpreted by interrogating data compiled from 15 constantly updated sources. In addition to detailed functional characterization of the coding variants, AnnTools searches for overlaps with regulatory elements, disease/trait associated loci, known segmental duplications and artifact prone regions, thereby offering an integrated and comprehensive analysis of genomic data. The tool conveniently accepts user-provided tracks for custom annotation and offers flexibility in input data formats. The output is generated in the universal Variant Call Format. High annotation speed makes AnnTools suitable for high-throughput sequencing facilities, while a low-memory footprint and modest CPU requirements allow it to operate on a personal computer. The application is freely available for public use; the package includes installation scripts and a set of helper tools.
+        Availability:
+http://anntools.sourceforge.net/
+        Contact:
+vladimir.makarov@mssm.edu; chris.yoon@mssm.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

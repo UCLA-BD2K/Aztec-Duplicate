@@ -1,1 +1,1 @@
-DICOM viewer and PACS console based on Python, wxPython, and the Zope database.
+Collection of techniques to remove inter-study bias when combining gene expression data originating from different studies.

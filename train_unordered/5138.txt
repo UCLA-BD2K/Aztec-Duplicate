@@ -1,1 +1,0 @@
-create MEME motif file from multiple aligned sequences

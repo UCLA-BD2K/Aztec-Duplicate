@@ -1,1 +1,1 @@
-K-mer abundance histograms and estimation of the best k-mer length for de novo assembly
+Contains a tool dependency definition that downloads and compiles version 1.2.10 of Velvet

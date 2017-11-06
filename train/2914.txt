@@ -1,1 +1,1 @@
-ZOOMA 2 is a search engine for automatic curation and a repository of annotation knowledge. It facilitates automated data annotation against a variety of ontologies by exploring context and previous annotation efforts as well as lexical matching
+Parses 2D matrices (e.g. PAM)

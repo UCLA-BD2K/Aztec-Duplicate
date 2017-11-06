@@ -1,1 +1,0 @@
-Generate a decoy database from an input set of protein sequences

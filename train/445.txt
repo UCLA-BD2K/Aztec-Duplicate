@@ -1,1 +1,12 @@
-Transmembrane topology and signal peptides prediction from the amino acid sequence of a protein using Phobius.
+Abstract
+        
+Summary: Detecting significant associations between genetic variants and disease may prove particularly challenging when the variants are rare in the population and/or act together with other variants to cause the disease. We have developed a statistical framework named Mutation Enrichment Gene set Analysis of Variants (MEGA-V) that specifically detects the enrichments of genetic alterations within a process in a cohort of interest. By focusing on the mutations of several genes contributing to the same function rather than on those affecting a single gene, MEGA-V increases the power to detect statistically significant associations.
+        
+Availability and Implementation: MEGA-V is available at https://github.com/ciccalab/MEGA
+        
+Contact:
+francesca.ciccarelli@kcl.ac.uk
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,1 @@
-Normalization of Agilent miRNA arrays.
+Authority: genome.imim.es  -  Runs Meta-alignment software on a multiple running mode, receiving a collection of maps, making pairs of them and, foreach pair, producing, in 'Meta-alignment' format, alignments of sequences of TF binding sites

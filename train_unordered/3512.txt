@@ -1,1 +1,0 @@
-Coordinates to Sequences: Extract the sequences from a list of coordinates.

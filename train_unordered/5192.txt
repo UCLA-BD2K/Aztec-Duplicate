@@ -1,1 +1,0 @@
-SortMeRNA is a software designed to rapidly filter ribosomal RNA fragments from metatransriptomic data produced by next-generation sequencers.

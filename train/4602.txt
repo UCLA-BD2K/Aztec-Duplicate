@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.8 of cutadapt
+Provides three-dimensional visualization and layout of Cytoscape networks.

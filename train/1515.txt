@@ -1,1 +1,1 @@
-Matching cell populations and building meta-clusters and templates from a collection of FC samples.
+Change the chromosome name or gene name of a singla fasta, gff or sam file. For this tool, it can not treat mutiple-chromosome, gene files.

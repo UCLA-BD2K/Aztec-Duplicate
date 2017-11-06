@@ -1,1 +1,1 @@
-circular feature viewer
+Herein, we present CONSRANK, a web tool for analyzing, comparing and ranking proteinâprotein and proteinânucleic acid docking models, based on the conservation of inter-residue contacts and its visualization in 2D and 3D interactive contact maps.

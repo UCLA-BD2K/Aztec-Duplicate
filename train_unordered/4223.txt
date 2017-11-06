@@ -1,1 +1,0 @@
-FASTQ joiner on paired end reads

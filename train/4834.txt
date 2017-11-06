@@ -1,1 +1,1 @@
-r 2.15
+A windowed adaptive trimming tool for FASTQ files using quality

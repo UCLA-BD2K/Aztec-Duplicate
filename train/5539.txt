@@ -1,1 +1,1 @@
-File reader and pathway visualizer for KEGG XML (KGML) files 
+Classes and methods for handling pedigree data. It also includes functions to calculate genetic relationship measures as relationship and inbreeding coefficients and other utilities. Note that package is not yet stable. Use it with care!

@@ -1,1 +1,0 @@
-Version 2.0 of the E-utility web service provides access to all seven E-utilities (ESearch, ESummary, EFetch, ELink, EPost, EGQuery and ESpell).

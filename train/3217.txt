@@ -1,1 +1,1 @@
-Draw a non-overlapping wordmatch dotplot of two sequences
+package_hifive_1_0_3

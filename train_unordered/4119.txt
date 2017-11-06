@@ -1,1 +1,0 @@
-Index a FASTA file using the Burrows-Wheeler algorithm and populate the bwa_index.loc file.

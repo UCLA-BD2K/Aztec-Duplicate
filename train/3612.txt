@@ -1,1 +1,5 @@
-Webserver for Aligning non-coding RNAs. WAR is an easy-to-use webserver that makes it possible to simultaneously use the best methods for aligning and predicting the consensus secondary structure for a set of non-coding RNA sequences.
+Authority: mmb.pcb.ub.es  -  
+            
+                    Build a NAMD Configuration File to run a Molecular Dynamic Simulation with (Using Namd program). Returns a NAMD_Conf_Text.
+            
+    

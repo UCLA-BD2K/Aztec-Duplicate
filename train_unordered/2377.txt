@@ -1,1 +1,0 @@
-A database designed to provide access to reliable annotations of the alternative splicing pattern of human genes, obtained by ASPic algorithm (Castrignano' et al. 2006), and to the functional annotation of predicted isoforms.

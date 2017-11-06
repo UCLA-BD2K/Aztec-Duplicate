@@ -1,1 +1,0 @@
-clusteval is a free and extendable opensource platform for objective performance comparison of arbitrary Clustering Methods on different datasets. It is designed to support the standard processes related to Cluster Analyses.

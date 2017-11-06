@@ -1,1 +1,0 @@
-sample sequence(s) from a profile HMM

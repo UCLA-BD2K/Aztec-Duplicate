@@ -1,1 +1,0 @@
-BioMaS (Bioinformatic analysis of Metagenomic AmpliconS) is a bioinformatic pipeline designed to support biomolecular researchers involved in taxonomic studies of environmental microbial communities by a completely automated workflow

@@ -1,1 +1,1 @@
-REPRODUCTION-2DPAGE 2D gel protein database.
+Mr Bump is an automated scheme for Molecular Replacement.

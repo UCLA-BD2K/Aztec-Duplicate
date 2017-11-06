@@ -1,1 +1,0 @@
-The Charge Prediction Machine (CPM) is a tool for Inferring Precursor Charge States of Low Resolution Electron Transfer Dissociation Tandem Mass Spectra. 

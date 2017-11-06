@@ -1,1 +1,1 @@
-Count the allele frequencies across alleles present in each record in the VCF file.
+MUSCLE (MUltiple Sequence Comparison by Log-Expectation) multiple sequence alignment tool.

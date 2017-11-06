@@ -1,6 +1,1 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Solvates a Structure (Protein/Nucleic).
-					Reads Ligand libraries and frcmods from input. 
-            
-    
+Retrieves interaction evidences for given pair of genes or proteins

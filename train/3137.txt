@@ -1,1 +1,1 @@
-Predict edge strands from protein or from model protein secondary structures in a PDB file format.
+Europe PMC citations viewer (http://www.europepmc.org). It retrieves and displays the principal data (such as authors list, title, journal and source) either of a single citation or of the citations list that matches the query specified in the Europe PMC 

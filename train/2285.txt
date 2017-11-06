@@ -1,1 +1,1 @@
-For retrieving article metadata from Europe PMC (http://www.europepmc.org). Covers all of PubMed (updated daily) and 3 million full text articles and other sources. A single article or list view can be returned.
+QuickVol II is a simple tool designed to enable quick browsing and visualization of MRI and fMRI data, transformation and co-registration of volume data sets, and ad-hoc computations using transformed volumes as inputs, from any JavaÂ® enabled platform.

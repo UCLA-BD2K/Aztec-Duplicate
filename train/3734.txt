@@ -1,1 +1,1 @@
-SIMAP is a database containing the similarity space formed by about all amino-acid sequences from public databases and completely sequenced genomes.
+Authority: inb.bsc.es  -  Compares a protein sequence against another protein sequence (used as a database) using the Basic Local Alignment Tool (BLAST).

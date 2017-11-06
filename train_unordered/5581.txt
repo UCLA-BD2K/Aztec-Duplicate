@@ -1,1 +1,0 @@
-Evaluates the biological activity of genes and processes in pathways

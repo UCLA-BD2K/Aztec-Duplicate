@@ -1,1 +1,1 @@
-MaZda is a computer program for calculation of texture parameters (features) in digitized images
+Software tool for parameterization of EEM (Electronegativity Equalization Method) for calculation of empirical atomic charges.

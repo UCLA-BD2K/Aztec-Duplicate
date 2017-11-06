@@ -1,1 +1,1 @@
-Convert between various FASTQ quality formats.
+Find meaningful pathways / complexes connecting a protein set members within a PPI-network using multi-objective optimization

@@ -1,1 +1,0 @@
-Neuroimage is an R library that provides data structures and io for functional brain imaging data. It reads and writes nifti-1 images and provides S4 classes for handling multi-dimensional images.

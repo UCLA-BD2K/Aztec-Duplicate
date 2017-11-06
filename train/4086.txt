@@ -1,1 +1,1 @@
-Galaxy's file format converter
+Tool dependedency definition for PyVCF

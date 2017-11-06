@@ -1,0 +1,4 @@
+Motivation: Analysis of genomic sequencing data requires efficient, easy-to-use access to alignment results and flexible data management tools (e.g. filtering, merging, sorting, etc.). However, the enormous amount of data produced by current sequencing technologies is typically stored in compressed, binary formats that are not easily handled by the text-based parsers commonly used in bioinformatics research.
+        Results: We introduce a software suite for programmers and end users that facilitates research analysis and data management using BAM files. BamTools provides both the first C++ API publicly available for BAM file support as well as a command-line toolkit.
+        Availability: BamTools was written in C++, and is supported on Linux, Mac OSX and MS Windows. Source code and documentation are freely available at http://github.org/pezmaster31/bamtools.
+        Contact: barnetde@bc.edu

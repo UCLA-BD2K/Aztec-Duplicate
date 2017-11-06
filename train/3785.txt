@@ -1,1 +1,1 @@
-Download a NIF ontology file.
+Gets all the regions of the genome, except the one given or get all the elements from the first set which does not ovelap with the second set (at the nucleotide level).

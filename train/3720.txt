@@ -1,1 +1,1 @@
-AACon is a set of tools implementing different conservation scores.
+Search for patterns conserved in a set of protein sequences.

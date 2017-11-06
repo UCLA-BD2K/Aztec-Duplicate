@@ -1,1 +1,0 @@
-Calculate distances between RNA secondary structures

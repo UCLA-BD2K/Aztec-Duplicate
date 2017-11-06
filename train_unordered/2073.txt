@@ -1,1 +1,0 @@
-An interface to the fast-access storage format for VCF data provided in SeqArray, with tools for common operations and analysis.

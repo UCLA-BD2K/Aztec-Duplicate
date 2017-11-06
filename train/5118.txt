@@ -1,1 +1,1 @@
-PeptideShaker helper scripts built using the SearchGUI framework. 
+Genephys

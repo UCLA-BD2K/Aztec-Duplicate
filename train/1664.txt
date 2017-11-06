@@ -1,1 +1,1 @@
-A package for plotting genomic data by chromosomal location
+Variant Effect Predictor Webservice

@@ -1,1 +1,1 @@
-MinCED - Mining CRISPRs in Environmental Datasets
+Colib'read tool suite

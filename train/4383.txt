@@ -1,1 +1,1 @@
-Galaxy wrapper for the Lastz alignment tool on paired reads
+A Web Service that exposes methods of the Experiment Manager class of the DiaComp Object Model

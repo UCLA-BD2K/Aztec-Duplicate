@@ -1,1 +1,0 @@
-NOT to be installed on public Galaxy instances

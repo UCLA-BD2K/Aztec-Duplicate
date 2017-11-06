@@ -1,1 +1,1 @@
-Statistical merge of SAXS curves
+Streamable FASTA parser

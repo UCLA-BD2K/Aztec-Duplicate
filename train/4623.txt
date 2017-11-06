@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 5.0.0 of the EMBOSS tool suite.
+Authority: mmb.pcb.ub.es  -  Searching for a pattern of a given record, in a PDB formatted file

@@ -1,1 +1,0 @@
-search profile(s) against a sequence database

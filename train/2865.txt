@@ -1,1 +1,1 @@
-BLAST search against protein targets stored in Malaria Data database
+Java DICOM Tools with extensive server capabilities.

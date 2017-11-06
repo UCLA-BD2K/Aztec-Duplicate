@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.22.6 of GNU gengetopt
+Simple barchart to show expression levels across experiments

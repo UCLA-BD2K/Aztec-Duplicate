@@ -1,1 +1,1 @@
-Provides a framework for allelic specific expression investigation using RNA-seq data.
+Authority: mmb.pcb.ub.es  -  Parses a FSOLVText report into a PropertySequence (where N means NORMAL and O means OUTSIDE)

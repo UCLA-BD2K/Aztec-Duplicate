@@ -1,1 +1,0 @@
-Downloads and compiles version 1.6.7 of the PNG libraries.

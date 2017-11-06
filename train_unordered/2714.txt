@@ -1,1 +1,0 @@
-BactgeneSHOW analyses bacterial sequences and detects genes.

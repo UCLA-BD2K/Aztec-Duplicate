@@ -1,1 +1,1 @@
-Count and extract unique words in molecular sequence(s)
+This package provides functions to identify genomic regions of interests based on segmented copy number data from multiple samples.

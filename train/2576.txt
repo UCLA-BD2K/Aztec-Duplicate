@@ -1,1 +1,1 @@
-Functional and physical interactions among conserved protein-domains, including experimental data and computational predictions.
+Quantify the abundances of a set of target sequences from sampled subsequences

@@ -1,1 +1,1 @@
-T-Coffee
+Unified Genotyper SNP and indel caller

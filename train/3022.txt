@@ -1,1 +1,1 @@
-Draw a helical net for a protein sequence
+A set of tools for interacting with GO and microarray data. A variety of basic manipulation tools for graphs, hypothesis testing and other simple calculations.

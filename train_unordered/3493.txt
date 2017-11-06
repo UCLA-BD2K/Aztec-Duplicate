@@ -1,1 +1,0 @@
-Neural network predictions for O-Beta-GlcNAc attachment sites in eukaryotic protein sequences

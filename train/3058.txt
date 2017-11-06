@@ -1,1 +1,1 @@
-Retrieve sequences in databases from list of identifier (USA list)
+Plot bending and curvature data for B-DNA

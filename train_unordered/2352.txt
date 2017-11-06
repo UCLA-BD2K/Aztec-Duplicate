@@ -1,1 +1,0 @@
-SugarBind provides a list of known carbohydrate sequences to which pathogenic organisms specifically adhere via lectins or adhesins. The data were compiled through an exhaustive search of literature published over the past 30 years by glycobiologists, microbiologists, and medical histologists.

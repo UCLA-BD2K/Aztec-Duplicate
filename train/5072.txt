@@ -1,1 +1,1 @@
-RNAz - predicting structural noncoding RNAs
+- perform local realignment.

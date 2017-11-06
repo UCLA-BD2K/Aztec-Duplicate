@@ -1,1 +1,1 @@
-ITKGray is a segmentation tool adapted and developed from ITKSnap by Bob Dougherty. ITKGray is a branch of the ITKSnap project. Bob added functionality from MrGray-Retired, including topology checking/fixing and a new flood-fill paintbrush that is similar to the MrGray-Retired auto-segmentation methods, but is run on small sections of an image rather than the entire image at once.
+BaCelLo is a predictor for the subcellular localization of proteins in eukaryotes.

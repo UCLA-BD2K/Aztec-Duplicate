@@ -1,1 +1,0 @@
-Authority: bioinfo.cipf.es  -  runFatiGO allows you to compare two lists of genes in terms of PubMed bio-entities (chimical and diseases), Gene Ontology terms (cellular component, biological process and molecular function), InterPro motifs, KEGG pathways, SwissProt keywords, Transcriptor factors, cis-regulatory elements (cisRED) and tissues

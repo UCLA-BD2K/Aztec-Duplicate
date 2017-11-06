@@ -1,1 +1,1 @@
-Prediction of CTL epitopes in protein sequences
+Convert Blast XML output into a visual HTML page

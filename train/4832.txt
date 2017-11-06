@@ -1,1 +1,1 @@
-quicktree 1.1
+Similarity search with openbabel or chemfp

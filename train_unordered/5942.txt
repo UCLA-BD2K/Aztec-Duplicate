@@ -1,1 +1,0 @@
-This Windows command line tool performs fully automatic segmentation of tissues (cerebrospinal fluid, gray matter, white matter) in MR images of healthy subjects. It requires a skull-stripped volumetric T1-weighted image. We recommend to use the stripTs tool from this website for skull-stripping.

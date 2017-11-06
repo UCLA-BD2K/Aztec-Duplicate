@@ -1,1 +1,0 @@
-The ProteomeXchange consortium has been set up to provide a coordinated submission of MS proteomics data to the main existing proteomics repositories, and to encourage optimal data dissemination. 

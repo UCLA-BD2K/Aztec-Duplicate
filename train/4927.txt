@@ -1,1 +1,1 @@
-package_tagrecon
+It compares the six-frame translations of a nucleotide query sequence against the six-frame translations of a nucleotide sequence database using the Washington University BLAST algorithm.

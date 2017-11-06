@@ -1,1 +1,1 @@
-Write a sequence with masked regions
+Merge two alignments by profile alignment

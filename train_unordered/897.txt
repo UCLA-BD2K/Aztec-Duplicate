@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  This web service that runs the following physical properties for a given dna sequence: Denaturation, Melting temperature, Stability. It returns a collection of WIG files (in a text_plain format), one for each property. See http://mmb2.pcb.ub.es:8080/PhysicalProperties/runStabilityPhysicalProperties.html for more info

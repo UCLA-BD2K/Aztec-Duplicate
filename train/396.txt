@@ -1,1 +1,6 @@
-Returns pdb cross references from an uniprot entry.
+Summary: We present Mutascope, a sequencing analysis pipeline specifically developed for the identification of somatic variants present at low-allelic fraction from high-throughput sequencing of amplicons from matched tumor-normal specimen. Using datasets reproducing tumor genetic heterogeneity, we demonstrate that Mutascope has a higher sensitivity and generates fewer false-positive calls than tools designed for shotgun sequencing or diploid genomes.
+        Availability: Freely available on the web at http://sourceforge.net/projects/mutascope/.
+        Contact:
+oharismendy@ucsd.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

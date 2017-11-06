@@ -1,1 +1,0 @@
-Map query reads onto the reference sequences

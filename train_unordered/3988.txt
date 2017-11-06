@@ -1,1 +1,0 @@
-Converts a bigWig file to Wiggle (WIG) format 

@@ -1,1 +1,1 @@
-"ExploreDTI" is a graphical toolbox, developed by Alexander Leemans, for exploratory diffusion (tensor) MRI and fiber tractography.
+Identification of interactions between binary variables using Logic Regression. Can, e.g., be used to find interesting SNP interactions. Contains also a bagging version of logic regression for classification.

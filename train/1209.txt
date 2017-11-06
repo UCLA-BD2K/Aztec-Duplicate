@@ -1,1 +1,1 @@
-Processing and Analysis of Agilent microRNA data
+Pepinfo detects and displays various useful metrics about a protein sequence.

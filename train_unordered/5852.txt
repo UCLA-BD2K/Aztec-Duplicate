@@ -1,1 +1,0 @@
-Provide physician with real-time access to patient's PET/CT information

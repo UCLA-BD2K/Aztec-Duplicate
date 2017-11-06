@@ -1,5 +1,1 @@
-
-
-		INTRODUCTION
-
-		This Web Service implements NetChop v
+Summarize taxonomy

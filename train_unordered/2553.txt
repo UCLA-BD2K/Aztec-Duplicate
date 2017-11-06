@@ -1,1 +1,0 @@
-Curated annotations in an environment for comparative analysis of genomes and biological subsystems, with an emphasis on the food-borne pathogens Campylobacter, Listeria, Staphylococcus, Streptococcus, and Vibrio as well as the STD pathogens Chlamydiaceae, Haemophilus, Mycoplasma, Neisseria, Treponema, and Ureaplasma.

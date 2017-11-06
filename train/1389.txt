@@ -1,1 +1,1 @@
-COPA is a method to find genes that undergo recurrent fusion in a given cancer type by finding pairs of genes that have mutually exclusive outlier profiles.
+Position Specific Iterative Blast

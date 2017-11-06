@@ -1,1 +1,1 @@
-HISAT is a fast and sensitive spliced alignment program.
+vdt tool dependency

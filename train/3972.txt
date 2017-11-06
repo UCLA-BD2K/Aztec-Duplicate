@@ -1,1 +1,1 @@
-clean up a bed file
+Layouts node positions according to reference Cytoscape session file.

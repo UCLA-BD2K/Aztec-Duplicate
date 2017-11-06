@@ -1,0 +1,1 @@
+Detector (Detection tool of Elements controlling Translation of Open Reading frame) is a diagnostic tool which return the propensity of a given mRNA to be translated into peptide.

@@ -1,1 +1,1 @@
-NetMHCpan server predicts binding of peptides to any known MHC molecule using artificial neural networks (ANNs).
+Contains a tool dependency definition that downloads and compiles version 8.22 of the GNU coreutils.

@@ -1,1 +1,1 @@
-Discovering sequence motifs in quantitative peptide data
+clean up a bed file

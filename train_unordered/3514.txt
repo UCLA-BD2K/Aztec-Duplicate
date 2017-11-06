@@ -1,1 +1,0 @@
-Clean a transcript file so that it is useable for S-MART.

@@ -1,1 +1,1 @@
-Authority: cnio.es  -  firestar predicts functional residues from structural templates and alignment reliability.
+Authority: inb.bsc.es  -  Uses nucleotide sequences to compute a distance matrix, under four different models of nucleotide substitution.

@@ -1,1 +1,1 @@
-Makes a similarity network where nodes are genes, and edges denote highly correlated genes.
+The package pRolocGUI comprises functions to interactively visualise organelle (spatial) proteomics data on the basis of pRoloc, pRolocdata and shiny.

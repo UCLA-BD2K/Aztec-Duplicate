@@ -1,1 +1,1 @@
-Tool to call CHASM webservice 
+Contains a tool dependency definition that downloads and compiles version 1.16 of gsl.

@@ -1,1 +1,0 @@
-Enables users to analyze array-CGH data with multiple algorithims simultaneously 

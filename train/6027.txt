@@ -1,1 +1,1 @@
-sigPathway is an R package that performs pathway (gene set) analysis on microarray data. It calculates two gene set statistics, the NTk (Q1) and NEk (Q2), by permutation, ranks the pathways based on the magnitudes of the two statistical tests, and estimates q-values for each pathway (Tian et al., 2005). T
+Leon is a software to compress Next Generation Sequencing data

@@ -1,1 +1,0 @@
-In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more

@@ -1,1 +1,1 @@
-Search the WoRMS taxonomy
+ Displays a wordmatch dotplot of two sequences 

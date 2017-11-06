@@ -1,1 +1,0 @@
-Retrieves objects related to the input object. The result contains referencing or referenced objects.

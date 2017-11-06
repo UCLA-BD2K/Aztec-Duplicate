@@ -1,1 +1,1 @@
-Given an R function and its manual page, make the documented function available in Galaxy.
+Cluster the intervals of a dataset

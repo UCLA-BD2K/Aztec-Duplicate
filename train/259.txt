@@ -1,1 +1,6 @@
-Returns the names or ids of a uniprot entry identified by the input accession.
+Summary: NetPathMiner is a general framework for mining, from genome-scale networks, paths that are related to specific experimental conditions. NetPathMiner interfaces with various input formats including KGML, SBML and BioPAX files and allows for manipulation of networks in three different forms: metabolic, reaction and gene representations. NetPathMiner ranks the obtained paths and applies Markov model-based clustering and classification methods to the ranked paths for easy interpretation. NetPathMiner also provides static and interactive visualizations of networks and paths to aid manual investigation.
+        Availability: The package is available through Bioconductor and from Github at http://github.com/ahmohamed/NetPathMiner
+        Contact:
+mohamed@kuicr.kyoto-u.ac.jp
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

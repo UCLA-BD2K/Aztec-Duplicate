@@ -1,1 +1,4 @@
-GorIV @ IBCP (http://gbio-pbil.ibcp.fr)
+Summary: Saint is a web application which provides a lightweight annotation integration environment for quantitative biological models. The system enables modellers to rapidly mark up models with biological information derived from a range of data sources.
+        Availability and Implementation: Saint is freely available for use on the web at http://www.cisban.ac.uk/saint. The web application is implemented in Google Web Toolkit and Tomcat, with all major browsers supported. The Java source code is freely available for download at http://saint-annotate.sourceforge.net. The Saint web server requires an installation of libSBML and has been tested on Linux (32-bit Ubuntu 8.10 and 9.04).
+        Contact: helpdesk@cisban.ac.uk; a.l.lister@ncl.ac.uk
+        Supplementary information: Supplementary data are available at Bioinformatics online.

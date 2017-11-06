@@ -1,1 +1,0 @@
-A set of tools for statistical relative protein significance analysis in DDA, SRM and DIA experiments.

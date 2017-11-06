@@ -1,1 +1,0 @@
-Search against small molecules stored in ChEMBL NTD database

@@ -1,1 +1,1 @@
-Downloads and installs the X keyboard protocol headers.
+Identify nucleic acid-binding motifs in protein sequences

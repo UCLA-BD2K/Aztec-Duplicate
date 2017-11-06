@@ -1,1 +1,0 @@
-Retrieves the PDB ids from the DR lines from a parameter structured as SWISSPROT file.

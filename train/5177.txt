@@ -1,1 +1,1 @@
-over targeted regions in a genome
+Opal Package - GVL

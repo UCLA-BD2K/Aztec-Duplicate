@@ -1,1 +1,0 @@
-Iterative protein sequence similarity search based on BLAST: search with a custom, position-specific, scoring matrix which can help find distant evolutionary relationships

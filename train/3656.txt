@@ -1,1 +1,1 @@
-Search MBInfo database for interactions using a protein id
+Generate protein backbone and side chain co-ordinates from a C(alpha) trace

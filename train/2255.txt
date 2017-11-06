@@ -1,1 +1,1 @@
-Parser for annotation files
+Authority: inb.bsc.es  -  Creates a consensus from multiple alignments.

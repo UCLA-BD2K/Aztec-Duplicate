@@ -1,1 +1,1 @@
-Calculate and annotate variants (SNPs, MNPs and InDels). 
+UCSF Chimera is a highly extensible program for interactive visualization and analysis of molecular structures.

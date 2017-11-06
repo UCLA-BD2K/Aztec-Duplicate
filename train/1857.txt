@@ -1,1 +1,1 @@
-This package was developed to simplify the use of Bioconductor tools for beginners having limited or no experience in writing R code. This library provides a graphical interface for microarray gene and exon level analysis as well as miRNA/mRNA-seq data analysis
+Authority: genome.imim.es  -  Filters a set of sequences based on their length. Only sequences which length is greater than the length cutoff will be returned. It also filters out the quality data associated with the removed sequences.

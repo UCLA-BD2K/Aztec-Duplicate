@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 4.10.0 of the MEME suite
+Finds the best local alignments between two sequences. It compares two sequences looking for local sequence similarities using a rigorous algorithm

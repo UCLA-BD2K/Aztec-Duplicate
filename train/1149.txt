@@ -1,4 +1,1 @@
-
-
-    This service creates maps of genome homology of a list of sequences against a reference
-    genome using either blastp, blastn, tblastn, or blastx
+This package provides a pipeline for gene expression analysis (primarily for RNA-Seq data).  The normalization function is specific for RNA-Seq analysis, but all other functions (Quality Control Figures, Differential Expression and Visualization, and Functional Enrichment via BD-Func) will work with any type of gene expression data.

@@ -1,1 +1,6 @@
-InnateDB is a publicly available database of the genes, proteins, experimentally-verified interactions and signaling pathways involved in the innate immune response of humans, mice and bovines to microbial infection.
+Summary: A successful approach for predicting functional associations between non-homologous genes is to compare their phylogenetic distributions. We have devised a phylogenetic profiling algorithm, SVD-Phy, which uses truncated singular value decomposition to address the problem of uninformative profiles giving rise to false positive predictions. Benchmarking the algorithm against the KEGG pathway database, we found that it has substantially improved performance over existing phylogenetic profiling methods.
+        Availability and implementation: The software is available under the open-source BSD license at https://bitbucket.org/andrea/svd-phy
+        Contact:
+lars.juhl.jensen@cpr.ku.dk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

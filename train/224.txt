@@ -1,1 +1,5 @@
-eHabitat with generic geometry. Finding similar habitat ecosystems
+A genetic variant can be represented in the Variant Call Format (VCF) in multiple different ways. Inconsistent representation of variants between variant callers and analyses will magnify discrepancies between them and complicate variant filtering and duplicate removal. We present a software tool vt normalize that normalizes representation of genetic variants in the VCF. We formally define variant normalization as the consistent representation of genetic variants in an unambiguous and concise way and derive a simple general algorithm to enforce it. We demonstrate the inconsistent representation of variants across existing sequence analysis tools and show that our tool facilitates integration of diverse variant types and call sets.
+                The source code is available for download at http://github.com/atks/vt. More detailed documentation is available at http://genome.sph.umich.edu/wiki/Variant_Normalization.
+                hmkang@umich.edu
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2015. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

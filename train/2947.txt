@@ -1,1 +1,1 @@
-Search of TreeFam's HMM collection, allows query sequence to be aligned (MAFFT) and inserted into tree (RAxML) to significantly matching models
+Restful Web service for submitting, tracking and downloading results of parameter fittings  of SBML models to experimental data. See www.sbsi.ed.ac.uk for more details.

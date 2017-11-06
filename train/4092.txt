@@ -1,1 +1,1 @@
-CoVennTree compares up to three rooted trees at the same time.
+This package provides efficient tools to read and integrate structural variations predicted by popular softwares. Annotation and visulation of structural variations are also implemented in the package.

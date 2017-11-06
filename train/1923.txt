@@ -1,1 +1,1 @@
-This package implements pattern recognition techniques on quantitiative mass spectrometry data to infer protein sub-cellular localisation.
+Seamlessly interfaces RDP classifier (version 2.9).

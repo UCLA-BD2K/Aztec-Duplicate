@@ -1,1 +1,1 @@
-Structural and functionnal annotation of plant gene and protein families by a network of experts.
+Get FASTA from NCBI taxonomy ID

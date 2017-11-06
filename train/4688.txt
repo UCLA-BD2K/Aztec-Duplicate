@@ -1,1 +1,1 @@
-X.org InputProto protocol headers.
+Split sequence(s) into smaller sequences

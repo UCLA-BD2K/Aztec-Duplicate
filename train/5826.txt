@@ -1,1 +1,1 @@
-Kradview is a simple DICOM image viewer for Linux. It allows local DICOM files to be individually viewed, and provides for zoom and window level adjustment. It is available through Linux package distributions such as yum.
+The package provides functions for calculation of linear-quadratic cell survival curves and for ANOVA of experimental 2-way designs along with the colony formation assay.

@@ -1,1 +1,1 @@
-A collection of software tools for calculating distance measures.
+COMMET (Ã¢â¬ÅCOmpare Multiple METagenomesÃ¢â¬x9d) provides a global similarity overview between all datasets of a large metagenomic project.

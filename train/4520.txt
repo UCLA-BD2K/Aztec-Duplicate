@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 3.10 of the the Automatically Tuned Linear Algebra Software.
+Tools to integrate, annotate, and link phenotypes to cellular organizational units such as protein complexes and pathways.

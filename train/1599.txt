@@ -1,1 +1,1 @@
-Provides an R package to interact with the Google Genomics API.
+Contains a tool dependency definition that downloads and compiles version 1.126.0 of the Picard package.

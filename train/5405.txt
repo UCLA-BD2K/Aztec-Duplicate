@@ -1,1 +1,1 @@
-The ViennaRNA Package consists of several stand-alone programs for the prediction and comparison of RNA secondary structures. 
+Retrieves an EMBL entry given an object with id and namespace.

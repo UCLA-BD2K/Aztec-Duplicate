@@ -1,1 +1,1 @@
-Clusters a given similarity graph.
+Data in the ArrayExpress Archive, Warehouse and Atlas of gene expression can be programmatically accessed via REST and SOAP interfaces.

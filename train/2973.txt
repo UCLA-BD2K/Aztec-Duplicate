@@ -1,1 +1,1 @@
-Search UniProt sequences with BLAST
+Gene expression profiling using dynamic changes in the transcriptome of mouse embryonic stem cells experiments from FunGenES Consortium

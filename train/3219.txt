@@ -1,1 +1,1 @@
-Draw a hydropathy plot for a protein sequence
+Multiple alignment program for amino acid or nucleotide sequences

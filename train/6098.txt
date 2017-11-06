@@ -1,1 +1,1 @@
-This project aims to process free text from ProMED emails and other electronic resources to visualize outbreak/epidemic summaries using combined natural language processing and visualization algorithms.
+A coalescent based tool for fine-scale association mapping

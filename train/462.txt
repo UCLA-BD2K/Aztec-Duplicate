@@ -1,1 +1,7 @@
-Create Neighbor-joining or UPGMA phylogentic trees from a multiple sequence alignment using ClustalW. This service separates the phylogeny features of ClustalW from the multiple sequence alignment functionality (http://www.biocatalogue.org/services/2182).
+Motivation: The de novo assembly of large, complex genomes is a significant challenge with currently available DNA sequencing technology. While many de novo assembly software packages are available, comparatively little attention has been paid to assisting the user with the assembly.
+        Results: This article addresses the practical aspects of de novo assembly by introducing new ways to perform quality assessment on a collection of sequence reads. The software implementation calculates per-base error rates, paired-end fragment-size distributions and coverage metrics in the absence of a reference genome. Additionally, the software will estimate characteristics of the sequenced genome, such as repeat content and heterozygosity that are key determinants of assembly difficulty.
+        Availability: The software described is freely available online (https://github.com/jts/sga) and open source under the GNU Public License.
+        Contact:
+jared.simpson@oicr.on.ca
+        Supplementary Information:
+Supplementary data are available at Bioinformatics online.

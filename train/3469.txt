@@ -1,1 +1,1 @@
-EBI Metagenomics is a web resource targeted at metagenomic researchers.
+Tuiuiu removes from a sequence or from a set of sequences areas as large as possible that do not contain researched repeats.

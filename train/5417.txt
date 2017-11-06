@@ -1,1 +1,1 @@
-This suite contains all the tools required to add Web service Operations as Tools to Galaxy 
+A compendium of protein fingerprints, or group of conserved motifs used to characterise a protein family.

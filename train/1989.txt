@@ -1,1 +1,1 @@
-Algorithm for recalibrating the base quality scores for aligned sequencing data in BAM format.
+As a user or developer you can use the PESI webservice to feed your own application with standard PESI taxonomy.

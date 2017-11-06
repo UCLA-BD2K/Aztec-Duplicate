@@ -1,1 +1,5 @@
-The DIP database catalogs experimentally determined interactions between proteins. It combines information from a variety of sources to create a single, consistent set of protein-protein interactions. The data stored within the DIP database were curated, both, manually by expert curators and also automatically using computational approaches that utilize the the knowledge about the protein-protein interaction networks extracted from the most reliable, core subset of the DIP data.
+Motivation: For many classes of disease the same genetic risk variants underly many related phenotypes or disease subtypes. Multinomial logistic regression provides an attractive framework to analyze multi-category phenotypes, and explore the genetic relationships between these phenotype categories. We introduce Trinculo, a program that implements a wide range of multinomial analyses in a single fast package that is designed to be easy to use by users of standard genome-wide association study software.
+        Availability and implementation: An open source C implementation, with code and binaries for Linux and Mac OSX, is available for download at http://sourceforge.net/projects/trinculo
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.
+        Contact: lj4@well.ox.ac.uk

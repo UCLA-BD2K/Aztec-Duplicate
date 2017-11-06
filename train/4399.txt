@@ -1,1 +1,1 @@
-MACS 2.1.0 (Model-based Analysis of ChIP-Seq) peak calling Galaxy tool used at UoM
+Graphically displays correlation in microarray data that is due to insufficient normalization

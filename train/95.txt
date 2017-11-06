@@ -1,1 +1,3 @@
-A Web Service that exposes methods of the Investigator Manager class of the DiaComp Object Model
+Summary: Experimental techniques that survey an entire genome demand flexible, highly interactive visualization tools that can display new data alongside foundation datasets, such as reference gene annotations. The Integrated Genome Browser (IGB) aims to meet this need. IGB is an open source, desktop graphical display tool implemented in Java that supports real-time zooming and panning through a genome; layout of genomic features and datasets in moveable, adjustable tiers; incremental or genome-scale data loading from remote web servers or local files; and dynamic manipulation of quantitative data via genome graphs.
+        Availability: The application and source code are available from http://igb.bioviz.org and http://genoviz.sourceforge.net.
+        Contact: aloraine@uncc.edu

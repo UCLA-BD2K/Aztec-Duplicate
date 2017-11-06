@@ -1,1 +1,0 @@
-Predicted Signal Peptide is a web service which allows users to search genes based on organism and other criteria such as minimum signalp sum score, minimum signalp D score and minimum signalp probability.

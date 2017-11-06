@@ -1,1 +1,1 @@
-Search the UniProt database for interactions using protein ids
+MapMi is a tool designed to locate miRNA precursor sequences in existing genomic sequences (e.g Ensembl and Ensembl Metazoa), using potential mature miRNA sequences as input

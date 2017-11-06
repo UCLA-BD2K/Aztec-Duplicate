@@ -1,1 +1,1 @@
-NeuroElectro RESTful API enables the extraction, visualization, and summarization of published data on neurons’ electrophysiological properties.
+Maps reads on reference sequences.

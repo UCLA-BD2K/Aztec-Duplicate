@@ -1,1 +1,0 @@
-It fits correlation motif model to multiple studies to detect study specific differential expression patterns.

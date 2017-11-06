@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.9.x of the python library dill.
+A field-validated sensor data analytics framework for mHealth sensing applications by MD2K.

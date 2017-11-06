@@ -1,1 +1,5 @@
-ClustalW finds the best global alignment for a set of input sequences (nucleic acid or protein)
+Authority: mmb.pcb.ub.es  -  
+		
+			Returns a 2D graphic from a FeatureAASequence (png image)
+		
+	

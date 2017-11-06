@@ -1,1 +1,1 @@
-Intersect VCF records with BED annotations
+PcProf @ IBCP (http://gbio-pbil.ibcp.fr)

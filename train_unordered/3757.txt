@@ -1,1 +1,0 @@
-The Online SBML Validator allows you to check the syntax and internal consistency of files in SBML (The Systems Biology Markup Language) format.

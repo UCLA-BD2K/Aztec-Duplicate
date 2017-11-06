@@ -1,3 +1,0 @@
-Authority: mmb.pcb.ub.es  -  
-		Given a PDB code, returns all the ligands Id associated to it
-	

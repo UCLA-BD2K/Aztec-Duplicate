@@ -1,1 +1,6 @@
-Digest finds the positions where a specified proteolytic enzyme or reagent might cut a peptide sequence.
+Summary: Pathview is a novel tool set for pathway-based data integration and visualization. It maps and renders user data on relevant pathway graphs. Users only need to supply their data and specify the target pathway. Pathview automatically downloads the pathway graph data, parses the data file, maps and integrates user data onto the pathway and renders pathway graphs with the mapped data. Although built as a stand-alone program, Pathview may seamlessly integrate with pathway and functional analysis tools for large-scale and fully automated analysis pipelines.
+        Availability: The package is freely available under the GPLv3 license through Bioconductor and R-Forge. It is available at http://bioconductor.org/packages/release/bioc/html/pathview.html and at http://Pathview.r-forge.r-project.org/.
+        Contact:
+luo_weijun@yahoo.com
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,1 @@
-Visualiser for the SAM format 
+Calculates &quot;graphlet&quot; (small connected non-isomorphic subgraph) degree distribution.

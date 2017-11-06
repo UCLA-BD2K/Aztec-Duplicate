@@ -1,1 +1,1 @@
-A web server for detection and extraction of protein fragments from Protein Data Bank files. The fragments are described by molecular language, which is called also MotiveQuery. Also protein metadata can be used for determination of fragment properties. The server is able to find appropriate fragments from the whole Protein Data Bank in less than three hours.
+Model-based Gene Set Analysis (MGSA) is a Bayesian modeling approach for gene set enrichment. The package mgsa implements MGSA and tools to use MGSA together with the Gene Ontology.

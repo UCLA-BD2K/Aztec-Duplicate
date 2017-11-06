@@ -1,1 +1,1 @@
-Draw a sequence alignment with pretty formatting
+Contains a tool dependency definition that downloads and compiles version 1.57 of the boost C++ libraries

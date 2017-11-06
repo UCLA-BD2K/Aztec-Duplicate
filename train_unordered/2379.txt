@@ -1,1 +1,0 @@
-A sister database of HUGE protein database which has accumulated the results of comprehensive sequence analysis of human long cDNAs (KIAA cDNAs). The ROUGE protein database has been created to publicize the information obtained from mouse homologues of the KIAA cDNAs (mKIAA cDNAs).

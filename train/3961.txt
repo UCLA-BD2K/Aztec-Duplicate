@@ -1,1 +1,1 @@
-Converts BAM format to SAM format.
+Query the Ensembl Variant Effect Predictor via the perl API

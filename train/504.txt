@@ -1,1 +1,7 @@
-The Ontological Discovery Environment allows users to integrate gene-centered data sets across species, tissue and experimental platform. Sets can be stored, shared and compared privately, among user defined groups of investigators, and across all users. 
+Motivation: Several state-of-the-art methods for isoform identification and quantification are based on ℓ1-regularized regression, such as the Lasso. However, explicitly listing the—possibly exponentially—large set of candidate transcripts is intractable for genes with many exons. For this reason, existing approaches using the ℓ1-penalty are either restricted to genes with few exons or only run the regression algorithm on a small set of preselected isoforms.
+        Results: We introduce a new technique called FlipFlop, which can efficiently tackle the sparse estimation problem on the full set of candidate isoforms by using network flow optimization. Our technique removes the need of a preselection step, leading to better isoform identification while keeping a low computational cost. Experiments with synthetic and real RNA-Seq data confirm that our approach is more accurate than alternative methods and one of the fastest available.
+        Availability and implementation: Source code is freely available as an R package from the Bioconductor Web site (http://www.bioconductor.org/), and more information is available at http://cbio.ensmp.fr/flipflop.
+        Contact:
+Jean-Philippe.Vert@mines.org
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

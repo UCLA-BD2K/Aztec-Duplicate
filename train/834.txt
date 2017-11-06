@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  Calculate atom - atom cartesian distances from PDB
+Convert interproscan raw or xml output to an Excel file

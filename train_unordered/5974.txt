@@ -1,1 +1,0 @@
-An R interface to the NiftyReg medical image registration library. Linear and nonlinear registration are supported, in two and three dimensions.

@@ -1,1 +1,0 @@
-A reader for Genomica NDB files

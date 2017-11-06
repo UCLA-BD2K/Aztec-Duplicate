@@ -1,1 +1,1 @@
-Waterman-Eggert local alignment of two sequences
+Creates classes used in model-view-controller (MVC) design

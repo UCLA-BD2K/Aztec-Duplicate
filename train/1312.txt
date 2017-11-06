@@ -1,1 +1,1 @@
-Implements statistical & computational tools for analyzing mass spectrometry imaging datasets, including methods for efficient pre-processing, spatial segmentation, and classification.
+Importing data from Illumina SNP experiments and performing copy number calculations and reports.

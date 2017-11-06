@@ -1,1 +1,1 @@
-Can recover human or mouse gene symbols from dates (usually caused by Excel)
+Translates a NDB-Text format to a PDB-Text format.

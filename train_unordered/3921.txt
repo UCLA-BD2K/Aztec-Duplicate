@@ -1,1 +1,0 @@
-Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler

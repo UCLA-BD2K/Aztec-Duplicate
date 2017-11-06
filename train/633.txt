@@ -1,1 +1,6 @@
-Authority: cnio.es  -  Produces a measure of per residue reliability for alignments between query sequences and sequences of known structure (ie those from the PDB). The alignment has to be longer than 50 residues and contain at least 15 sequences (no more than 200). The accepted formats are ALN (Clustalw), FASTA, MSF, and PIR.
+Summary: We present DisVis, a Python package and command line tool to calculate the reduced accessible interaction space of distance-restrained binary protein complexes, allowing for direct visualization and quantification of the information content of the distance restraints. The approach is general and can also be used as a knowledge-based distance energy term in FFT-based docking directly during the sampling stage.
+        Availability and implementation: The source code with documentation is freely available from https://github.com/haddocking/disvis.
+        Contact:
+a.m.j.j.bonvin@uu.nl
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

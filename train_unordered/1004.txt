@@ -1,1 +1,0 @@
-web form: http://www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/index.php

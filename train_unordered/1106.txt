@@ -1,1 +1,0 @@
-Passta (Protein annotation by secondary-structure based alignment) helps to decide whether a protein sequence is related to a protein with known structure. Given a protein query, Passta tries to "explain" it with secondary structure elements (SSEs) from r

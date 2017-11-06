@@ -1,1 +1,3 @@
-Kazusa Molecular Formula Searcher (MFSearcher) is a RESTful web service for high-throughput prediction of elemental compositions from accurate mass values detected by high-resolution mass spectrometers.
+ 
+			TMHMM is a method for prediction transmembrane helices based on a hidden Markov model and 
+			developed by Anders Krogh and Erik Sonnhammer

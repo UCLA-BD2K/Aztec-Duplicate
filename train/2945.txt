@@ -1,1 +1,1 @@
-Align two sequences assuming the sequences share colinear conserved blocks separated by gaps
+Retrieves the SEQRES lines for each chain from a parameter structured as PDB file.

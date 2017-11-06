@@ -1,1 +1,1 @@
-normalization tool for matrix formatted data
+Automated Affymetrix Array Analysis Umbrella Package

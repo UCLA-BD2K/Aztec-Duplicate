@@ -1,1 +1,1 @@
-Wig math (avg/log/Z-score/etc), NGS processing (ChIP-seq, MNase-seq, FAIRE-seq, DNase-seq), and visualization (heatmaps, clustering)
+Contains a tool dependency definition that downloads and compiles a version from 11-08-2014 of the vt tool.

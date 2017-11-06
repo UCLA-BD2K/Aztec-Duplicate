@@ -1,1 +1,0 @@
-IUPred recognizes  unstructured/disordered regions from the amino acid sequence based on the estimated pairwise energy content.

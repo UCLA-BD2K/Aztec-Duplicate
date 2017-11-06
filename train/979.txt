@@ -1,2 +1,1 @@
-This service allows you to access the Mouse Resource Browser database (MBR). 
-MRB was developed in the context of the European Commission framework programs MUGEN (Animal models of human immunological diseases) and CASIMIR (Coordination and Sustainabilit
+MPAgenomics is a package for multi-patients analysis of genomic markers. It is devoted to (i) efficient segmentation and (ii) genomic marker selection from multi-patient copy number and SNP data profiles.

@@ -1,1 +1,1 @@
-A Web Service that exposes methods of the Publication Manager class of the AMDCC Object Model
+R is a free software environment for statistical computing and graphics.

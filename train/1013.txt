@@ -1,3 +1,1 @@
-PairsDB is a collection of protein sequences and the BLAST and PSI-BLAST alignments between them.
-		PairsDB has been developed by Prof. Liisa Holm and Dr. Andreas Heger is jointly maintained by CSC Scientific Computing Ltd., Finland.
-		For more information, please see http://pairsdb.csc.fi.
+Contains a tool dependency definition that downloads and compiles version 1.9 of the the python numpy package.

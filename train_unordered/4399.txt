@@ -1,1 +1,0 @@
-MACS 2.1.0 (Model-based Analysis of ChIP-Seq) peak calling Galaxy tool used at UoM

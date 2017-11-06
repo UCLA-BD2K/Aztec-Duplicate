@@ -1,1 +1,1 @@
-data_manager_gatk_picard_index_builder
+Merge multiple VCF datasets into a single dataset

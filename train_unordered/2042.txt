@@ -1,1 +1,0 @@
-This package provides a web interface to compute transcriptional regulatory modules with rTRM.

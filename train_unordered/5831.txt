@@ -1,1 +1,0 @@
-Knowledge.Bio is an open access web-based “rich client desktop” computer application that provides value-added access to the network of interconnected knowledge mined in the scientific literature from more than 20,000,000 PubMed abstracts.

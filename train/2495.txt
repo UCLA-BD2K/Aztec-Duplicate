@@ -1,1 +1,1 @@
-University College Dublin 2-DE Proteome Database
+Infrastructure for eQTL, mQTL and similar studies.

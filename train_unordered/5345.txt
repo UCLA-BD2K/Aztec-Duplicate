@@ -1,1 +1,0 @@
-Annotate genotypes in a VCF dataset using genotypes from another VCF dataset.

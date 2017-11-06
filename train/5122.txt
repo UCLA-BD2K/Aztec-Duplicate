@@ -1,1 +1,1 @@
-RNA-Folding including predefined segments including K-turns
+MIRA 4.0 assembler

@@ -1,1 +1,0 @@
-ModeRNA is a program for comparative modeling of RNA 3D structures.

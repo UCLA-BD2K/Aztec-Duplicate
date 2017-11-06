@@ -1,1 +1,0 @@
-It compares a protein sequence against another protein sequence (used as a database) using the Washington University BLAST algorithm.

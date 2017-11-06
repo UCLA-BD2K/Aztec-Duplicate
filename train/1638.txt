@@ -1,1 +1,1 @@
-This package fits heterogeneous error models for analysis of microarray data
+A MATLAB toolkit to view, and do modification (e.g., reslice) for NIfT1 images

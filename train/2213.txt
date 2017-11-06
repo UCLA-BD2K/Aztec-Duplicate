@@ -1,1 +1,1 @@
-A plasmid visualizer
+Pathway Commons (BioPAX L3 database) web service GUI client app

@@ -1,1 +1,1 @@
-The iterative Bayesian Model Averaging (BMA) algorithm is a variable selection and classification algorithm with an application of classifying 2-class microarray samples, as described in Yeung, Bumgarner and Raftery (Bioinformatics 2005, 21: 2394-2402).
+DICOM viewer from a spin-off of the University of Witten/Herdecke. Runs on Windows, Mac, and Linux, and features a full set of viewing options. Supplied with a 60-page manual in German and English. Can only read limited number of files due to licensing restriction.

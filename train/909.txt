@@ -1,5 +1,1 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Run a Normal Mode Analysis from pdb structure. Returns a MD_TrajectoryCRD.
-            
-    
+Authority: cnio.es  -  It looks for iHOP protein or gene symbols related to the input (free text is an ID living under Global_Keyword or Global namespaces), and it returns an iHOP XML document with the result

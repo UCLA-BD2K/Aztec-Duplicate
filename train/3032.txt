@@ -1,1 +1,1 @@
-Draw a nucleic acid density plot
+Prediction whether an amino acid is located in a Beta-turn or not

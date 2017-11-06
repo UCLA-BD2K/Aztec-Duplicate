@@ -1,1 +1,1 @@
-Gene3D structural and functional annotation of protein families incorporates several different sources including CATH, DRUGBANK, PFAM etc.
+Displays DICOM header from selected files. Has a second window that shows hex equivalent values and offsets within the file.

@@ -1,3 +1,1 @@
-
-	This Web Service accesses the database records and various tools of the 
-  GenomeAtlas database v3
+DisEMBL is a computational tool for prediction of disordered/unstructured regions within a protein sequence.

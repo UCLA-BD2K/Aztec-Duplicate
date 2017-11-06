@@ -1,1 +1,1 @@
-MGEScan
+Displays protein domains

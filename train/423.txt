@@ -1,1 +1,10 @@
-Pairwise sequence alignment of DNA or protein sequences using Needleman-Wunsch global alignment.
+Summary: One of the key characteristics of any genetic variant is its geographic distribution. The geographic distribution can shed light on where an allele first arose, what populations it has spread to, and in turn on how migration, genetic drift, and natural selection have acted. The geographic distribution of a genetic variant can also be of great utility for medical/clinical geneticists and collectively many genetic variants can reveal population structure. Here we develop an interactive visualization tool for rapidly displaying the geographic distribution of genetic variants. Through a REST API and dynamic front-end, the Geography of Genetic Variants (GGV) browser (http://popgen.uchicago.edu/ggv/) provides maps of allele frequencies in populations distributed across the globe.
+        
+Availability and Implementation: GGV is implemented as a website (http://popgen.uchicago.edu/ggv/) which employs an API to access frequency data (http://popgen.uchicago.edu/freq_api/). Python and javascript source code for the website and the API are available at: http://github.com/NovembreLab/ggv/ and http://github.com/NovembreLab/ggv-api/.
+        
+Contact:
+jnovembre@uchicago.edu
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

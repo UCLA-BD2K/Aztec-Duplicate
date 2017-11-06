@@ -1,1 +1,1 @@
-Determine metal coordination geometry.
+Builds most UCSC user applications

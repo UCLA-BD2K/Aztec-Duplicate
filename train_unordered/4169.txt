@@ -1,1 +1,0 @@
-Generate simulated reads from a fasta sequence using dwgsim

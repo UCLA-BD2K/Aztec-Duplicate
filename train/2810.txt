@@ -1,1 +1,1 @@
-Network Phylogeny
+Enables one to create hyper-edge by Cytoscape editor.

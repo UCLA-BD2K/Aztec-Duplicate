@@ -1,1 +1,1 @@
-Generate statistics for a BAM or SAM file
+Compute P-values and Second Moments for Feature Occurrences

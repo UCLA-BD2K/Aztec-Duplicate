@@ -1,1 +1,0 @@
-CyanoLyase is a manually curated sequence and amino acid motif database gathering all the different phycobilin lyases and related protein sequences available in public databases.

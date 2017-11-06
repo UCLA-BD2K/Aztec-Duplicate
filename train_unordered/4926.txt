@@ -1,1 +1,0 @@
-Tabix: Generic indexer for TAB-delimited genome position files + bgzip

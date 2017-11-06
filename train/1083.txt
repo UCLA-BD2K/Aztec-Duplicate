@@ -1,1 +1,1 @@
-This is PDB Ligand component
+Authority: inb.bsc.es  -  It compares an amino acid query sequence against the six-frame translations of a nucleotide sequence database using the Washington University BLAST algorithm.

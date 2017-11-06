@@ -1,1 +1,7 @@
-Compares a nucleotide query sequence translated in all reading frames against a protein sequence database and calculates the statistical significance of matches using the Basic Local Alignment Tool (BLAST).
+Motivation: In many organisms, including humans, recombination clusters within recombination hotspots. The standard method for de novo detection of recombinants at hotspots is sperm typing. This relies on allele-specific PCR at single nucleotide polymorphisms. Designing allele-specific primers by hand is time-consuming. We have therefore written a package to support hotspot detection and analysis.
+        Results: hotspot consists of four programs: asp looks up SNPs and designs allele-specific primers; aso constructs allele-specific oligos for mapping recombinants; xov implements a maximum-likelihood method for estimating the crossover rate; six, finally, simulates typing data.
+        Availability and Implementation: hotspot is written in C. Sources are freely available under the GNU General Public License from http://github.com/evolbioinf/hotspot/
+        Contact:
+haubold@evolbio.mpg.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

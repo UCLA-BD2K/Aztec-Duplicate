@@ -1,1 +1,1 @@
-Nucleotide sequence manipulation and analysis library
+SVDetect: a tool to detect genomic structural variations from paired-end and mate-pair sequencing data

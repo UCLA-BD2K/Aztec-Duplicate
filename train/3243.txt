@@ -1,1 +1,1 @@
-Search the textual description of sequence(s)
+This call lists the latest version of all ontologies in BioPortal. 

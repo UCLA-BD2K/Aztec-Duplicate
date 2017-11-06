@@ -1,1 +1,1 @@
-This tool concatenates multiple MSAs.
+MSAProbs is a multiple alignment algorithm for protein sequences. 

@@ -1,1 +1,0 @@
-Geneslico SOAP Service for RNA secondary structure prediction.

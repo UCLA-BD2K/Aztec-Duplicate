@@ -1,1 +1,0 @@
-A Database of Drosophila genes and genomes.

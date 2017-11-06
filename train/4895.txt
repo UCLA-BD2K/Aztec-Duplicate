@@ -1,1 +1,1 @@
-Package definition for SearchGUI
+Prediction of the subcellular location of eukaryotic proteins

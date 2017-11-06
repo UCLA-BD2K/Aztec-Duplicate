@@ -1,1 +1,1 @@
-Reorders the entries of an MSA
+GNU Datamash is a grouping and summarizing tool on tabular data files

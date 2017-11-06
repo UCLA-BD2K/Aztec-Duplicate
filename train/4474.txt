@@ -1,1 +1,1 @@
-trim Multiplicom primer sequences from paired FastQ files
+A PyMOL plugin for program MOLE 2.0. It allows rapid and accurate location and characterization of channels and pores in molecular   structures. It contains extended options for channel starting point automatic detection and for filtering of obtained channels to select   the relevant channels. Additionally, it allows estimation of basic physicochemical properties of channels.

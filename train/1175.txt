@@ -1,4 +1,1 @@
-EFetch:  Retrieves records in the requested format from a list of one or more UIs or from user's environment.
-
-Base URL: http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?
-
+Version 2.0 of the E-utility web service provides access to all seven E-utilities (ESearch, ESummary, EFetch, ELink, EPost, EGQuery and ESpell).

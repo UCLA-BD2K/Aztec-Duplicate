@@ -1,1 +1,1 @@
-NONCODE database integrates expression and functional long noncoding RNAs (lncRNA) data.
+Displays a non-overlapping wordmatch dotplot of two sequences 

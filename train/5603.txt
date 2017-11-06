@@ -1,1 +1,1 @@
-Represents structural protein families and their homologs by graph on Cytoscape.
+Searches a sequence database with a HMM profile.

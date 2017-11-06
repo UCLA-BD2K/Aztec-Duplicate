@@ -1,1 +1,1 @@
-Galaxy workflow for the identification of candidate genes clusters with three known genes
+Returns Ensembl cross references from an uniprot entry.

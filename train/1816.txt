@@ -1,1 +1,1 @@
-Estimates gene expressions from several laser scans of the same microarray
+A comprehensive database of public nucleotide sequences for more than 300 000 organisms named, from small and large-scale sequencing projects. Data exchange with the European Molecular Biology Laboratory Nucleotide Sequence Database in Europe and the DNA Data Bank of Japan ensures worldwide coverage.

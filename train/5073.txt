@@ -1,1 +1,1 @@
-Full analysis of whole-genome DNA methylation data
+Clusterizes the reads when their genomic intervals overlap.

@@ -1,1 +1,1 @@
-A curated mitochondrial genome database of metazoans for comparative genomics studies
+GNU Datamash is a grouping and summarizing tool on tabular data files

@@ -1,1 +1,1 @@
-PIntron is a pipeline for gene-structure prediction based on spliced alignment of transcript sequences (ESTs and mRNAs) against a genomic sequence.
+Compare VCF files to get overlap and uniqueness statistics

@@ -1,1 +1,0 @@
-Command-line program to convert Xcalibur native acquisition (.RAW) files to mzXML. The program requires the XRawfile library from ThermoFinnigan. The XRawfile library is installed with the Xcalibur software suite; you must obtain this software from ThermoFinnigan.

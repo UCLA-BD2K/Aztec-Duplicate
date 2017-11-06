@@ -1,1 +1,1 @@
-Map accession numbers between databases. It will also retrieve the UPI(UniProt Archive (UniParc) identifier of the given accession number.
+High-performance, full-featured text searches across all EMBL-EBI databases or in selected databases available from EMBL-EBI.

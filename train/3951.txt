@@ -1,1 +1,1 @@
-based on the medical literature
+multiple sequence alignment

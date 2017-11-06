@@ -1,1 +1,0 @@
-Integrated protein informatics resource for genomic, proteomic and systems biology research.

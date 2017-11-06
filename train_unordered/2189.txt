@@ -1,1 +1,0 @@
-variant-transcription factor-phenotype networks, inspired by Maurano et al., Science (2012), PMID 22955828

@@ -1,1 +1,1 @@
-A set of functions to dentify regional expression biases
+For use in local realignment.

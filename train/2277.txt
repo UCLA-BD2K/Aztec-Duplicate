@@ -1,1 +1,1 @@
-TnT tree display
+Randomly subsample records.

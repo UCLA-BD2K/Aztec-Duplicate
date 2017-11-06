@@ -1,1 +1,1 @@
-Prediction system for GPI-anchored proteins
+Provides BioRuby 1.4

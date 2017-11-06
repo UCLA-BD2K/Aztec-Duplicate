@@ -1,1 +1,0 @@
-Retrieves records in the requested format from a list of one or more UIs or from user’s environment

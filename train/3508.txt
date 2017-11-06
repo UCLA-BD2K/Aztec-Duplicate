@@ -1,1 +1,1 @@
-Get the exons of a set of transcripts.
+Remove PCR duplicates

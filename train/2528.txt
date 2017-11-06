@@ -1,1 +1,1 @@
-ArchDB database of loop structures.
+Galaxy wrappers for the Cufflinks tool.

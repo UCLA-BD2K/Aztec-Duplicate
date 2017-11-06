@@ -1,1 +1,0 @@
-Retrieves molecular interactions and interaction attributes from MiMI and displays the interaction networks and attributes.

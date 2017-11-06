@@ -1,1 +1,1 @@
-Find internal duplications by calculating non-intersecting local sequence alignments
+Authority: inb.bsc.es  -  Estimates phylogenies from nucleotide sequences by branch and bound method.

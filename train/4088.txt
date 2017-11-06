@@ -1,1 +1,1 @@
-Gene copy number corrector for microbial amplicon data
+Downloads and compiles version 2.15.0 of the R interpreter.

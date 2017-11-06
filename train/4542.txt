@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and builds the Bioconductor qvalue R library.
+Extract sequences from a FASTA file based on a list of IDs

@@ -1,1 +1,0 @@
-Align two protein structures or two binding sites defined by their ligands with ProBiS program.

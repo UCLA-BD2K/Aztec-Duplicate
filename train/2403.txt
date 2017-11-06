@@ -1,1 +1,1 @@
-ATCC cultures and bioproducts.
+Sequence Logo generator for fasta

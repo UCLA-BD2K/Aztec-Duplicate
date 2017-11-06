@@ -1,1 +1,0 @@
-A set of tools to work with alternative splicing

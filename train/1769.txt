@@ -1,1 +1,6 @@
-To give the exactly p-value and q-value of MeDIP-seq and MRE-seq data for different samples comparation.
+Tuiuiu removes from a sequence or from a set of sequences areas as large as possible that do not contain researched repeats.
+
+Tuiuiu is used as a preliminary step before applying a multiple local aligner tool.
+
+OPTIONS:
+--excellent|--good : algorithm

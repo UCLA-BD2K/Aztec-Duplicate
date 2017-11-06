@@ -1,1 +1,0 @@
-The Duplicated Genes Database contains a list a duplicated and co-located genes found in different genomes. This service allows users to retrieve co-located similar genes corresponding to each Ensembl gene Id given as input.

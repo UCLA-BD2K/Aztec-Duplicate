@@ -1,1 +1,1 @@
- Contains a tool dependency definition that downloads and compiles version 4.2.2 of the GNU sed + an addidtion sandbox feature. 
+Tools for performing taxonomic assignment based on phylogeny using pplacer and clst.

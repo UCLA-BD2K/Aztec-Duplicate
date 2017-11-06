@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Reads a protein sequence and calculates the charges of the amino acids within a window of specified length.
+Scripts use by "detrprok_wf" galaxy workflow: splitTranscript.pl, listGff.sh, colorGff.pl

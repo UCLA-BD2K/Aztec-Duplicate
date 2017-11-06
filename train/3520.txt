@@ -1,1 +1,1 @@
-Is a short-read aligner.
+Metapackage for the installation of linkyx suite of tools.

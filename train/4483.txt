@@ -1,1 +1,1 @@
-Naive Variant Caller tool
+Functions and classes for de novo prediction of transcription factor binding consensus by heuristic search

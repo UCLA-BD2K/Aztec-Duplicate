@@ -1,1 +1,0 @@
-DICOM Vista 2.5 is a system for processing and visualization of CT & MR images. It is a DICOM Storage SCP, allowing a simple PC to receive images from any system that supports DICOM Storage SCU

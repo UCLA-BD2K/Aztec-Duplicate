@@ -1,2 +1,0 @@
-GASSST finds global alignments of short DNA sequences against large DNA banks. GASSST strong point is its ability to perform fast gapped alignments.
-It works well for both short and longer reads. It currently has been tested for reads up to 500bp.

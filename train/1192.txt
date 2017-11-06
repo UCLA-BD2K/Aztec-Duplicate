@@ -1,1 +1,1 @@
-The package contains functions for exploratory oligonucleotide array analysis. The dependence on tkWidgets only concerns few convenience functions. 'affy' is fully functional without it.
+Prediction system for GPI-anchored proteins

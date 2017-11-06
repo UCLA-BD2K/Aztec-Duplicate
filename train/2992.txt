@@ -1,1 +1,1 @@
-Upload a set of SNPs in our standard format and export a file containing consequence types
+Cocoa is a dense annotator for biological text. It annotates macromolecules, chemicals, protein/DNA parts, organisms, processes, anatomical parts, locations, physiological terms, parameters, values, experimental techniques, and foods. In addition to a Web

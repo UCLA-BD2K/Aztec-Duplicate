@@ -1,1 +1,1 @@
-Implementation of seven methods for topology-based pathway analysis of both RNASeq and microarray data: SPIA, DEGraph, TopologyGSA, TAPPA, TBS, PWEA and a visualization tool for a single pathway.
+BioJS wrapper for PCViz widget from Pathway Commons team

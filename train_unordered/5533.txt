@@ -1,1 +1,0 @@
-Evaluates the topological effects of node removal like Radiality, Closeness, Betweenness, Centroid Value and Eccentricity.

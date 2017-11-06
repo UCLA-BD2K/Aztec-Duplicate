@@ -1,1 +1,1 @@
-Tools to integrate, annotate, and link phenotypes to cellular organizational units such as protein complexes and pathways.
+An R package that computes a robust measurement of the reproducibility of ChIP-chip data.

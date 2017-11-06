@@ -1,1 +1,1 @@
-Ensembl is a joint project between EMBL - EBI and the Sanger Institute  to develop a software system which produces and maintains automatic annotation on selected eukaryotic genomes. This collections also references outgroup organisms.
+GenomeTester analyses whether PCR primers have excessive number of binding sites in large genomes, how many PCR products would be amplified in the reaction and where are they located.

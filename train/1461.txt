@@ -1,1 +1,1 @@
-EBarrays provides tools for the analysis of replicated/unreplicated microarray data.
+Use A Resampling-Based Empirical Bayes Approach to Assess Differential Expression in Two-Color Microarrays and RNA-Seq data sets.

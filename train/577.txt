@@ -1,2 +1,5 @@
-The Duplicated Genes Database contains a list a duplicated and co-located genes found in different genomes.
-This service allows to retrieve co-located similar genes corresponding to each Ensembl gene Id given as input.
+Current strategies for SNP and INDEL discovery incorporate sequence alignments from multiple individuals to maximize sensitivity and specificity. It is widely accepted that this approach also improves structural variant (SV) detection. However, multisample SV analysis has been stymied by the fundamental difficulties of SV calling, e.g. library insert size variability, SV alignment signal integration and detecting long-range genomic rearrangements involving disjoint loci. Extant tools suffer from poor scalability, which limits the number of genomes that can be co-analyzed and complicates analysis workflows. We have developed an approach that enables multisample SV analysis in hundreds to thousands of human genomes using commodity hardware. Here, we describe Hydra-Multi and measure its accuracy, speed and scalability using publicly available datasets provided by The 1000 Genomes Project and by The Cancer Genome Atlas (TCGA).
+                Hydra-Multi is written in C++ and is freely available at https://github.com/arq5x/Hydra.
+                aaronquinlan@gmail.com or ihall@genome.wustl.edu
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2014. Published by Oxford University Press.

@@ -1,1 +1,1 @@
-The ProteomeXchange consortium has been set up to provide a coordinated submission of MS proteomics data to the main existing proteomics repositories, and to encourage optimal data dissemination. 
+A package that provides a client interface to the KEGG REST server. Based on KEGGSOAP by J. Zhang, R. Gentleman, and Marc Carlson, and KEGG (python package) by Aurelien Mazurie.

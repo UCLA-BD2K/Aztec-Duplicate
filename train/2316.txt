@@ -1,1 +1,1 @@
-Predicts pH-dependent aqueous solubility of druglike molecules
+A pipeline for accurate detection of methylated cytosines and differentially methylated regions

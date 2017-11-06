@@ -1,1 +1,1 @@
-Get FASTA from NCBI taxonomy ID
+Retrieves an entry from UniProt database.

@@ -1,2 +1,7 @@
-#Documentation for the use of the service
-All the asynchronous services (services which have long run runtime) that were developed ex-novo within BioVeL have the same interface
+HPG Aligner applies suffix arrays for DNA read mapping. This implementation produces a highly sensitive and extremely fast mapping of DNA reads that scales up almost linearly with read length. The approach presented here is faster (over 20× for long reads) and more sensitive (over 98% in a wide range of read lengths) than the current state-of-the-art mappers. HPG Aligner is not only an optimal alternative for current sequencers but also the only solution available to cope with longer reads and growing throughputs produced by forthcoming sequencing technologies.
+        Availability and implementation:
+https://github.com/opencb/hpg-aligner.
+        Contact:
+jdopazo@cipf.es or imedina@ebi.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

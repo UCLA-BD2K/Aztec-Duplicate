@@ -1,1 +1,1 @@
-Biological Plasmid Visualization Component using AngularJS
+Authority: mmb.pcb.ub.es  -  Retrieves structure from PDB (PDB format) from a PDB Id Allows to specify a single chain using the format XXXX_X.

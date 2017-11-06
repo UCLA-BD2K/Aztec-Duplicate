@@ -1,1 +1,10 @@
-Accurate prediction of amyloid-forming amino acid sequences remains an important challenge. We here present an online database that provides open access to the largest set of experimentally characterized amyloid forming hexapeptides. To this end, we expanded our previous set of 280 hexapeptides used to develop the Waltz algorithm with 89 peptides from literature review and by systematic experimental characterisation of the aggregation of 720 hexapeptides by transmission electron microscopy, dye binding and Fourier transform infrared spectroscopy. This brings the total number of experimentally characterized hexapeptides in the WALTZ-DB database to 1089, of which 244 are annotated as positive for amyloid formation. Availability and implementation: The WALTZ-DB database is freely available without any registration requirement at http://waltzdb.
+
+
+WSDbfetch: entry retrieval using entry identifiers or accession numbers for 
+various biological databases, including EMBL-Bank, InterPro, MEDLINE, Patent 
+Proteins, PDB, RefSeq, UniParc, UniProtKB and UniRef.
+
+Note: this interface is deprecated and is only provided for compatibility with 
+old clients, for other interfaces please see the documentation 
+(http://www.ebi.ac.uk/Tools/webservices/services/dbfetch).
+  

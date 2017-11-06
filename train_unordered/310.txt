@@ -1,1 +1,0 @@
-Compares a nucleotide sequence against another nucleotide sequence (used as a database) using the Basic Local Alignment Tool (BLAST).

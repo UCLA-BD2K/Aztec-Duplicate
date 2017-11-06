@@ -1,1 +1,0 @@
-NetMHCII 2.2 server predicts binding of peptides to HLA-DR, HLA-DQ, HLA-DP and mouse MHC class II alleles using articial neuron networks.

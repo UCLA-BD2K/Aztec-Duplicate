@@ -1,1 +1,0 @@
-This service retrieves data per NIF source in xml.

@@ -1,1 +1,0 @@
-Convert numerical representation of genotypes to allelic.

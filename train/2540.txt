@@ -1,1 +1,1 @@
-A multi-organism compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. Mass spectrometer output files are collected for human, mouse, yeast, and several other organisms, and searched using the latest search engines and protein sequences.
+Feature Alignment of peakgroups below a FDR

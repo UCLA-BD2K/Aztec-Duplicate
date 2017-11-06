@@ -1,1 +1,1 @@
-snpEff tools from Pablo Cingolani
+Display a nucleotide sequence and translation in pretty format

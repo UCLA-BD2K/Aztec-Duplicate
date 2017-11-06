@@ -1,1 +1,1 @@
-Multiple sequence alignment tool
+ArchDB database of loop structures.

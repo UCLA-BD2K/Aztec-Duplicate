@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Runs Meta-alignment software on a multiple running mode, receiving a collection of maps, making pairs of them and, foreach pair, producing, in GFF format, alignments of sequences of TF binding sites
+AnalysisPageServer is a modular system that enables sharing of customizable R analyses via the web.

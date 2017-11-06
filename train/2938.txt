@@ -1,1 +1,1 @@
-Sequence alignment using the Multiple Sequence Comparison by Log-Expectation (MUSCLE) method
+World-wide gel-based proteomics database (0005) for Botrytis cinerea mycelium cultured in carboxymethyl cellulose.

@@ -1,1 +1,1 @@
-Multi-Image Genome (MIG) viewer is a web-based application for visualizing, querying and filtering many thousands of genome browser regions as well as for exporting the data in a variety of formats. This methodology has been used successfully to analyze ChIP-Seq data and RNA-Seq data and to detect somatic mutations in genome resequencing projects.
+This package contains a systems biology markup language (SBML) interface to R.

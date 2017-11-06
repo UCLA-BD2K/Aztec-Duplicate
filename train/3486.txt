@@ -1,1 +1,1 @@
-Prioritization of the entire protein-coding part of the human genome based on heterogeneous user-specified data sets
+Simulator for Illumina, 454, and SOLiD sequencing data

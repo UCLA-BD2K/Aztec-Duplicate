@@ -1,1 +1,1 @@
-Merge feature annotation from same loci
+Authority: inb.bsc.es  -  Pepwindow produces a graph of the classic Kyte and Doolittle hydropathy plot of a protein.

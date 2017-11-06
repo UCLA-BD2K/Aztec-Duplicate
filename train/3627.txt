@@ -1,1 +1,1 @@
-EMBOSS pepwindow draws a hydropathy plot for a protein sequence.
+Human, Mouse and Rat promoter extraction service

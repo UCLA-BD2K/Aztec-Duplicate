@@ -1,1 +1,0 @@
-World-wide gel-based proteomics database (0003) for Arabidopsis thaliana leaf proteome.

@@ -1,1 +1,0 @@
-IntAct provides a freely available, open source database system and analysis tools for molecular interaction data.

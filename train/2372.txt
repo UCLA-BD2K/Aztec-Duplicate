@@ -1,1 +1,1 @@
-Database on the impact of human genetic variations on drug response. PharmGKB curates primary genotype and phenotype data, annotate gene variants and gene-drug-disease relationships via literature review, and summarize important PGx genes and drug pathways.
+Split paired end reads

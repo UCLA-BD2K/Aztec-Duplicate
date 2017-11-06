@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.4 of RSeQC.
+Clusters a given similarity graph.

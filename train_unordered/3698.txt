@@ -1,1 +1,0 @@
-Whatizit is a text processing system that allows you to do textmining tasks on text. It identifyies molecular biology terms and links them to publicly available databases.

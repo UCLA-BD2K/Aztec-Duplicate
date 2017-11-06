@@ -1,1 +1,1 @@
-Fast and accurate multiple sequence alignment method.
+A BLAST post-processing filter

@@ -1,1 +1,0 @@
-Retrieves the SEQRES lines for each chain from a parameter structured as PDB file.

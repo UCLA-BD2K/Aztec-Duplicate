@@ -1,1 +1,1 @@
-Multivariate correlation estimation and statistical inference. See package vignette.
+Downloads and compiles OpenMS in version 2.0.

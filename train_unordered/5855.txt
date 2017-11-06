@@ -1,1 +1,0 @@
-Allow instant review of nuclear cardiology imaging. Provides clinically validated algorithms for image analysis.

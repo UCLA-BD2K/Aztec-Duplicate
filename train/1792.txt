@@ -1,1 +1,1 @@
-This package applies several machine learning methods, including SVM, bagSVM, Random Forest and CART, to RNA-Seq data.
+A computational biology project aimed at developing statistical methods and computational tools for integrative analysis of the data produced by the Library of Integrated Network-based Cellular Signatures (LINCS) program.

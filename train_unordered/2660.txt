@@ -1,1 +1,0 @@
-Component to represent a chromosome with its bands

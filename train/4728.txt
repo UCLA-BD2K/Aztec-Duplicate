@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.4.x of the the python matplotlib package.
+Prediction of functional sites in protein sequences

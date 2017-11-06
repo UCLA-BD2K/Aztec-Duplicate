@@ -1,1 +1,0 @@
-Subset of VCFtools fonctionalities : Filtering, Statistics, Diversity (slidingWindow)

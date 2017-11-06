@@ -1,1 +1,1 @@
-Identify and report CpG-rich regions in nucleotide sequence(s)
+Contains a tool dependency definition that downloads and compiles version 2.22.6 of GNU gengetopt

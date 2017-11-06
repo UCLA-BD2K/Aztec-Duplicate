@@ -1,3 +1,0 @@
-List the metadata for the latest version of an ontology based on the virtual identifier. The virtual identifier is the ontology identifier prefixed by virtual/ and always returns information for the latest version of the ontology. 
-
-An example of the pa

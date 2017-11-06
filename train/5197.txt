@@ -1,1 +1,1 @@
-permutation test for spatial proximity of intervals 
+Fido is a method for protein identification in MS/MS proteomics

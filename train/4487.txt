@@ -1,1 +1,3 @@
-NCBI BLAST+
+The NCBO resource index allow you to retrieve data sets from GEO, AE, etc... based on ontological concepts. See the list of resources at:
+http://rest.bioontology.org/resource_index/resources/list/
+Using the annotation workflow of the Annotator Web Servi

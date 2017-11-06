@@ -1,1 +1,1 @@
-MultiPLX is a tool that uses state-of-the-art nearest neighbour DNA binding thermodynamics to estimate possible unwanted pairings between PCR samples and calculates automatically optimal multiplexing (grouping) solution.
+Select lines from the beginning of a file.

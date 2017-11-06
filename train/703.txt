@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Retrieves an aminoacid sequence from an aminoacid database.
+BioMart web service provides unified access to several databases housed at EBI/Sanger such as Ensembl Vertebrates, Ensembl Bacteria, Ensembl Protists, Ensembl Metazoa, Ensembl Variation, Ensembl Vega, Uniprot, PRIDE, HGNC &amp; EU Rat Mart.

@@ -1,1 +1,1 @@
-This service will retrieve registry data records from NIF
+A database genome index for GMAP and GSNAP.

@@ -1,1 +1,1 @@
-Create random protein sequences
+One-line description of Blast program filtering

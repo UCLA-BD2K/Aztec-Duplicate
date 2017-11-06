@@ -1,1 +1,4 @@
-Translates files in mmCIF format into files in PDB format.
+Motivation: It is important for the quality of biological ontologies that similar concepts be expressed consistently, or univocally. Univocality is relevant for the usability of the ontology for humans, as well as for computational tools that rely on regularity in the structure of terms. However, in practice terms are not always expressed consistently, and we must develop methods for identifying terms that are not univocal so that they can be corrected.
+        Results: We developed an automated transformation-based clustering methodology for detecting terms that use different linguistic conventions for expressing similar semantics. These term sets represent occurrences of univocality violations. Our method was able to identify 67 examples of univocality violations in the Gene Ontology.
+        Availability: The identified univocality violations are available upon request. We are preparing a release of an open source version of the software to be available at http://bionlp.sourceforge.net.
+        Contact: karin.verspoor@ucdenver.edu

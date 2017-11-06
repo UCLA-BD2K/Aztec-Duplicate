@@ -1,1 +1,7 @@
-from MiSeq paired-end FASTQ files
+Enables querying of KEGG databases (pathway, ligand, disease, gene, drug etc). 
+Use general form of URL http://rest.kegg.jp/{operation}/{argument}/{argument2 or option}
+where operation is one of info, list, find, get, conv, link
+arguments are  databases or database entries 
+
+Try http://rest.kegg.jp/{operation}/{database}/{term}
+operation = list, database = pathway and term = hsa   

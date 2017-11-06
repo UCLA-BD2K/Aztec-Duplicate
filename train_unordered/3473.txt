@@ -1,1 +1,0 @@
-Rfam is a curated database of non-coding RNA families, each represented by multiple sequence alignments, consensus secondary structures and covariance data.

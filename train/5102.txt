@@ -1,1 +1,1 @@
-BAM mapping statistics (using samtools idxstats)
+An R package for analysis of case-control studies in genetic epidemiology

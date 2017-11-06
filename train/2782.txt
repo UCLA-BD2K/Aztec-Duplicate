@@ -1,1 +1,1 @@
-Prediction of Amyloid STructure Aggregation 2.0 (PASTA 2.0) is a web server for the analysis of amino acid sequences.
+Contains a tool dependency definition that downloads and compiles version 2.0 of ruby.

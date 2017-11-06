@@ -1,1 +1,0 @@
-Creates image from attribute values (URL) using the Google Chart API.

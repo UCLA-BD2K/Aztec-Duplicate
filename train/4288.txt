@@ -1,1 +1,1 @@
-GBS Pipeline
+Break multiple alleles into multiple records, or combine overallpoing alleles into a single record

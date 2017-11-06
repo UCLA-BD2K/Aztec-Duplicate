@@ -1,1 +1,0 @@
-Brad Chapman lib for GFF parsing to Biopython SeqFeatures.

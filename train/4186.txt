@@ -1,1 +1,1 @@
-Map a mutation by linkage to regions of high mutation density using WGS data
+Authority: inb.bsc.es  -  Retrives the list of INB Log Report coming from all services of given authURI.

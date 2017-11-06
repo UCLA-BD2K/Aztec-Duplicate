@@ -1,5 +1,5 @@
-Authority: mmb.pcb.ub.es  -  
-		
-			Converts a feature AA sequence into GFF
-		
-	
+Seq2pathway is an R/Python wrapper for pathway (or functional gene-set) analysis of genomic loci, adapted for advances in genome research. Seq2pathway associates the biological significance of genomic loci with their target transcripts and then summarizes the quantified values on the gene-level into pathway scores. It is designed to isolate systematic disturbances and common biological underpinnings from next-generation sequencing (NGS) data. Seq2pathway offers Bioconductor users enhanced capability in discovering collective pathway effects caused by both coding genes and cis-regulation of non-coding elements.
+                The package is freely available at http://www.bioconductor.org/packages/release/bioc/html/seq2pathway.html.
+                xyang2@uchicago.edu
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2015. Published by Oxford University Press.

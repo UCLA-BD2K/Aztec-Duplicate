@@ -1,1 +1,1 @@
-plant siRNA analysis toolkits
+Searches Ensembl Fungi sequences using Exonerate

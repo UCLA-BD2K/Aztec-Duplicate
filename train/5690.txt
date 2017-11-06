@@ -1,1 +1,1 @@
-The Harmonizome is a knowledge engine for a diverse set of integrated resources built on top of information about genes and proteins from 114 datasets. To create the Harmonizome, we distilled information from original datasets into attribute tables that define significant associations between genes and attributes, where attributes could be genes, proteins, cell lines, tissues, experimental perturbations, diseases, phenotypes, or drugs, depending on the dataset.
+NetCTLpan 1.1 server predicts CTL epitopes in protein sequences.

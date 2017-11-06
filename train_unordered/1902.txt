@@ -1,1 +1,0 @@
-Provides basic S4 data structures and routines for analyzing plate based flow cytometry data.

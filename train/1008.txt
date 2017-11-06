@@ -1,4 +1,1 @@
-
-			INTRODUCTION
-
-			This Web Service implements NetNGlyc 1.0b
+Contains a tool dependency definition that downloads and compiles version 0.9.6 of PEAR

@@ -1,1 +1,0 @@
-Database of human missense variants mapped to 3D protein structures

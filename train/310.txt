@@ -1,1 +1,7 @@
-Compares a nucleotide sequence against another nucleotide sequence (used as a database) using the Basic Local Alignment Tool (BLAST).
+Motivation: Recent developments in experimental methods facilitate increasingly larger signal transduction datasets. Two main approaches can be taken to derive a mathematical model from these data: training a network (obtained, e.g., from literature) to the data, or inferring the network from the data alone. Purely data-driven methods scale up poorly and have limited interpretability, whereas literature-constrained methods cannot deal with incomplete networks.
+        Results: We present an efficient approach, implemented in the R package CNORfeeder, to integrate literature-constrained and data-driven methods to infer signalling networks from perturbation experiments. Our method extends a given network with links derived from the data via various inference methods, and uses information on physical interactions of proteins to guide and validate the integration of links. We apply CNORfeeder to a network of growth and inflammatory signalling. We obtain a model with superior data fit in the human liver cancer HepG2 and propose potential missing pathways.
+        Availability: CNORfeeder is in the process of being submitted to Bioconductor and in the meantime available at www.cellnopt.org.
+        Contact:
+saezrodriguez@ebi.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

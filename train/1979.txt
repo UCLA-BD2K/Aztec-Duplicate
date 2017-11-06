@@ -1,1 +1,1 @@
-The package provides functions to read raw RT-qPCR data of different platforms.
+ACPYPE stands for AnteChamber PYthon Parser interfacE and is pronounced "ace + pipe".

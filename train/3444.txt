@@ -1,1 +1,1 @@
-A coalescent based tool for fine-scale association mapping
+BioModels Database is a data resource that allows biologists to store, search and retrieve published mathematical models of biological interests.

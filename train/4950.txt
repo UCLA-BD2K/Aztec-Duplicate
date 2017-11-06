@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles verions 6.0 of unzip.
+Authority: genome.imim.es  -  Phred writes the base calls from a set of chromatograms and returns a set of DNA sequences and FASTA base quality data

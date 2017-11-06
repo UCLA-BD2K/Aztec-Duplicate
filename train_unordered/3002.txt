@@ -1,1 +1,0 @@
-MageComet is an online tool that facilitates curation of MAGE-TAB. It combines text-mining and the Experimental Factor Ontology (EFO) to create a semi-automatic environment for faster annotation, guided data-manipulation and content summary

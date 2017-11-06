@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  Get protein secondary structure from PDB Text
+Compares a protein sequence against a protein database using the FASTA algorithm.

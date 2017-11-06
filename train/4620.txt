@@ -1,1 +1,5 @@
-Contains a tool dependency definition that downloads, compiles and extracts version 3.1.x of the the eigen template library.
+Authority: mmb.pcb.ub.es  -  
+            
+                    Run a Brownian Molecular Dynamic Simulation. Returns a MD_TrajectoryCRD.
+            
+    

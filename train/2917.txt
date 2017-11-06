@@ -1,1 +1,1 @@
-Functional analysis of protein sequences by classifying them into families and predicting the presence of domains and important sites, via search of InterPro
+Statistical tools for building random mutagenesis libraries for prokaryotes. The package has functions for handling the occupancy distribution for a multinomial and for estimating the number of essential genes in random transposon mutagenesis libraries.

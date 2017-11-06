@@ -1,1 +1,1 @@
-Many functions for computing the NPMLE for censored and truncated data.
+SortMeRNA - Fast and accurate filtering of ribosomal RNAs in metatranscriptomic data

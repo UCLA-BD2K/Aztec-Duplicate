@@ -1,1 +1,0 @@
-G-language Genome Analysis Environment (G-language GAE) is a set of Perl libraries for genome sequence analysis.

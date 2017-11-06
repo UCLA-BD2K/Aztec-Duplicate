@@ -1,1 +1,1 @@
-Authority: bioinfo.cipf.es  -  This webservice extracts a weighted list of genes from a differential expession test
+targetHub is a CouchDB database of miRNA-gene interactions.

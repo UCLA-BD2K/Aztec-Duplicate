@@ -1,1 +1,0 @@
-WormBase (http://www.wormbase.org) contains data on multiple species of nematode including Caenorhabditis elegans.

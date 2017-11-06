@@ -1,1 +1,0 @@
-Edit the contents and row/column labels of a tabular file using python statements

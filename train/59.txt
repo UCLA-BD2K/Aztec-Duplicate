@@ -1,1 +1,7 @@
-targetHub is a CouchDB database of miRNA-gene interactions.
+Motivation: Inferring lengths of inherited microsatellite alleles with single base pair resolution from short sequence reads is challenging due to several sources of noise caused by the repetitive nature of microsatellites and the technologies used to generate raw sequence data.
+        Results: We have developed a program, GenoTan, using a discretized Gaussian mixture model combined with a rules-based approach to identify inherited variation of microsatellite loci from short sequence reads without paired-end information. It effectively distinguishes length variants from noise including insertion/deletion errors in homopolymer runs by addressing the bidirectional aspect of insertion and deletion errors in sequence reads. Here we first introduce a homopolymer decomposition method which estimates error bias toward insertion or deletion in homopolymer sequence runs. Combining these approaches, GenoTan was able to genotype 94.9% of microsatellite loci accurately from simulated data with 40x sequence coverage quickly while the other programs showed <90% correct calls for the same data and required 5∼30× more computational time than GenoTan. It also showed the highest true-positive rate for real data using mixed sequence data of two Drosophila inbred lines, which was a novel validation approach for genotyping.
+        Availability: GenoTan is open-source software available at http://genotan.sourceforge.net.
+        Contact:
+garner@vbi.vt.edu
+        Supplementary Information:
+Supplementary data are available at Bioinformatics online

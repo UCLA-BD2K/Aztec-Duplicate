@@ -1,1 +1,1 @@
-Simpa96 @ IBCP (http://gbio-pbil.ibcp.fr)
+Contains a tool dependency definition that downloads and compiles version 0.12.x of the scipy package with Atlas support.

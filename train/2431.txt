@@ -1,1 +1,1 @@
-Biological information about the crop plant Zea mays ssp. mays. The following datatypes are accessible through this site: genetic, genomic, sequence, gene product, functional characterization, literature reference, and person/organization contact information.
+Draw a White-Wimley protein hydropathy plot

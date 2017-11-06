@@ -1,1 +1,1 @@
-Scan a protein sequence against PRINTS to identify the closest matching PRINTS sequence motifs/fingerprints
+Authority: inb.bsc.es  -  Run a Simple Molecular Dynamic Simulation (optimization) with Protein-Solvent system (Using Namd program).

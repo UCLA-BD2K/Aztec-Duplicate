@@ -1,1 +1,0 @@
-Highlights the current node and all its neighboring nodes and edges when the user hovers the mouse over it.

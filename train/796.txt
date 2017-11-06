@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Generates AMBER parameter files from a ligand structure (Using Antechamber and LeaP programs).
+Compares a nucleotide sequence against another nucleotide sequence (used as a database) using the Basic Local Alignment Tool (BLAST).

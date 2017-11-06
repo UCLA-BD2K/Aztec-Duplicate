@@ -1,1 +1,1 @@
-Cancer-Related Analysis of Variants Toolkit (CRAVAT) is designed to facilitate the high-throughput assessment and prioritization of genes and missense alterations important for cancer tumorigenesis.
+Predicts the site of cleavage between a singal sequence and the mature exported protein.

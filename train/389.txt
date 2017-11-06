@@ -1,1 +1,5 @@
-Parses the FeatureeAASequence having the input article.
+Motivation: To provide consistent computable descriptions of phenotype data, PomBase is developing a formal ontology of phenotypes observed in fission yeast.
+        Results: The fission yeast phenotype ontology (FYPO) is a modular ontology that uses several existing ontologies from the open biological and biomedical ontologies (OBO) collection as building blocks, including the phenotypic quality ontology PATO, the Gene Ontology and Chemical Entities of Biological Interest. Modular ontology development facilitates partially automated effective organization of detailed phenotype descriptions with complex relationships to each other and to underlying biological phenomena. As a result, FYPO supports sophisticated querying, computational analysis and comparison between different experiments and even between species.
+        Availability: FYPO releases are available from the Subversion repository at the PomBase SourceForge project page (https://sourceforge.net/p/pombase/code/HEAD/tree/phenotype_ontology/). The current version of FYPO is also available on the OBO Foundry Web site (http://obofoundry.org/).
+        Contact:
+mah79@cam.ac.uk or vw253@cam.ac.uk

@@ -1,1 +1,1 @@
-A graph visualisation tool for PSICQUIC servers
+GenomeVIP is web-based platform for conducting variant discovery on Amazon's Web Service (AWS) cloud or on a local high-performance compute cluster.

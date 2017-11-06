@@ -1,1 +1,1 @@
-WSx3DEM
+Authority: inb.bsc.es  -  Converts a GenericSequence object into a NucleotideSequence.

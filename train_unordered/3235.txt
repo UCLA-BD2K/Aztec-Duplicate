@@ -1,1 +1,0 @@
-Retrieve an HMM from pfam an HMM database

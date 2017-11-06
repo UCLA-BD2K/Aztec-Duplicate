@@ -1,1 +1,1 @@
-WISP is capable of rapidly identifying additional suboptimal pathways that may also play important roles in the transmission of allosteric signals.
+Graph theory (a.k.a. network) library for analysis and visualisation

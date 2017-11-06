@@ -1,1 +1,1 @@
-GMD is a package for non-parametric distance measurement between two discrete frequency distributions.
+Loads a persistent object and returns its reference.

@@ -1,1 +1,1 @@
-Tool wrapper for the commercial proteomics application Scaffold.
+Generate A Matrix for using PC and LDA

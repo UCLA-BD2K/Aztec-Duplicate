@@ -1,1 +1,1 @@
-A collection of multiple sequence alignments for ancient domains and full-length proteins.
+Parameter-free Alignment-free comparison of regulatory sequences (cis-regulatory modules)

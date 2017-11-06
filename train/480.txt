@@ -1,1 +1,3 @@
-Sensitivity analysis web service provides operations for calculating sensitivities of biochemical model with respect to various model parameters.
+Summary: Here, we present PRINSEQ for easy and rapid quality control and data preprocessing of genomic and metagenomic datasets. Summary statistics of FASTA (and QUAL) or FASTQ files are generated in tabular and graphical form and sequences can be filtered, reformatted and trimmed by a variety of options to improve downstream analysis.
+        Availability and Implementation: This open-source application was implemented in Perl and can be used as a stand alone version or accessed online through a user-friendly web interface. The source code, user help and additional information are available at http://prinseq.sourceforge.net/.
+        Contact: rschmied@sciences.sdsu.edu; redwards@cs.sdsu.edu

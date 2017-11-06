@@ -1,1 +1,1 @@
-Search Molecular Connections data for protein interactions using a protein id
+Bubastis is an ontology change tool which is able to analyse two ontologies (typically two versions of the same ontology) to highlight logical changes which have occurred and to present these changes in more or less detail, as required

@@ -1,1 +1,0 @@
-Network inference algorithm to address a wide range of network deconvolution problems available through Cyni

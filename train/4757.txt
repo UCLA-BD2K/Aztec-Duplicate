@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.7 of the python numpy package with Atlas
+A BioJS 2.0 component to view protein structures

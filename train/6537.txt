@@ -1,1 +1,1 @@
-Wave-spec is a pre-processing package for mass spectrometry (MS) data. The package includes several novel algorithms that overcome conventional difficulties with the pre-processing of such data. In this application note, we demonstrate step-by-step use of this package on a real-world MALDI dataset. Availability: The package can be downloaded at http://www.vicc.org/biostatistics/supp.php. A shared mailbox (wave-spec@vanderbilt.edu) also is available for questions regarding application of the package.
+Authority: inb.bsc.es  -  Retrieves an entry from PDB database.

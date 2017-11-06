@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Parses a collection of meta-alignment outputs to produce a text-formatted sequence similarity score matrix
+Downloads and compiles version 2.1.0 of the GD graphics library.

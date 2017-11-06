@@ -1,1 +1,0 @@
-Realtime Genomic Analysis. IOBIOuses immediate visual feedback to make understanding complex genomic datasets more intuitive, and analysis more interactive

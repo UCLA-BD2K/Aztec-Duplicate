@@ -1,1 +1,0 @@
-A visual analytics approach for integrated data-knowledge networks.

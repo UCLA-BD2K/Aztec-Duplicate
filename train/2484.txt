@@ -1,1 +1,5 @@
-Allergome; a platform for allergen knowledge
+Authority: mmb.pcb.ub.es  -  
+		
+			FSolv report 3D representation
+		
+	

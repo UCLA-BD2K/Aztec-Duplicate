@@ -1,1 +1,1 @@
-ModuleOrganizer is a software package proposing a synthetic view of a set of DNA sequences by providing both a segmentation of them into domains and a classification on the basis of these domains.
+EMBOSS backtranambig reads a protein sequence and writes the nucleic acid sequence it could have come from. It does this by using nucleotide ambiguity codes that represent all possible codons for each amino acid.

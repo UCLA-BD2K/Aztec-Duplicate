@@ -1,1 +1,1 @@
-Extract CDS, mRNA and translations from feature tables
+Predictor of Signal Peptide and Lipoprotein Cleavage Sites in Proteins

@@ -1,4 +1,6 @@
-LoCo (Low-Complexity Web Service) 
-The LoCo (Low-Complexity) web-service allows to search Low-complexity regions and tandem repeats in UniProt sequences.
-There are three available methods: LCRegSearch, RepRegSearch, and RepSearch.
-LCRegSearch returns UniP
+Summary: Microbial communities have an important role in natural ecosystems and have an impact on animal and human health. Intuitive graphic and analytical tools that can facilitate the study of these communities are in short supply. This article introduces Microbial Community Analysis GUI, a graphical user interface (GUI) for the R-programming language (R Development Core Team, 2010). With this application, researchers can input aligned and clustered sequence data to create custom abundance tables and perform analyses specific to their needs. This GUI provides a flexible modular platform, expandable to include other statistical tools for microbial community analysis in the future.
+        Availability: The mcaGUI package and source are freely available as part of Bionconductor at http://www.bioconductor.org/packages/release/bioc/html/mcaGUI.html
+        Contact:
+wade@kingcopeland.com; zabdo@uidaho.edu
+        Supplementary Information:
+Supplementary data and figures are available at Bioinformatics online.

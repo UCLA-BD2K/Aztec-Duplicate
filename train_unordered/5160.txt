@@ -1,1 +1,0 @@
-S-MART manages your RNA-Seq and ChIP-Seq data. It also produces many different plots to visualize your data.

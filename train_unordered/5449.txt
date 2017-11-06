@@ -1,1 +1,0 @@
-Performs ID mapping using BridgeDb and other public or custom database sources.

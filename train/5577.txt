@@ -1,1 +1,1 @@
-PSICQUIC Web Service Client for importing interactions from public databases 
+High-throughput expression data relevant for germline development and fertility across species.

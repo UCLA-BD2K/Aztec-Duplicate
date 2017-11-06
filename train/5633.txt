@@ -1,1 +1,1 @@
-Clusters densely connected nodes and node attributes in a given network. 
+PhyML is a phylogeny software based on the maximum-likelihood principle.

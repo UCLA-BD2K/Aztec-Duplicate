@@ -1,1 +1,0 @@
-ThematicMap visualizes the relationships between node attributes. It can help simplify complex networks and highlight hidden relationships.

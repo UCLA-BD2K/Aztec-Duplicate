@@ -1,1 +1,0 @@
-Genetic Algorithm for Rapid Likelihood Inference

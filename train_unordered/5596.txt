@@ -1,1 +1,0 @@
-Accesses to Reactome Functional interaction (FI) network to perform pathway analyses.

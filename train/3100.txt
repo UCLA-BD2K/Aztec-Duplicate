@@ -1,1 +1,1 @@
-Scan one or more sequences with a simple frequency matrix
+Probabilistic inference of ChIP-Seq using an empirical Bayes mixture model approach.

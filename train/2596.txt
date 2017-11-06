@@ -1,1 +1,0 @@
-Performs detection and assembly of DNA insertion variants in NGS read datasets with respect to a reference genome.

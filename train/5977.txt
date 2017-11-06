@@ -1,1 +1,1 @@
-rovide a compact storage for medical imaging data with access and display possibilities. Basic tools for processing brain imaging data are proposed like extraction of brain voxels, morphological image segmentation, and filtering / normalization of contrast parameters. Specific tools are also provided for blood perfusion imaging to calculate hypoperfusion and reperfusion volumes.
+A variety of data files and functions for the analysis of genetic interactions

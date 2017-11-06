@@ -1,1 +1,1 @@
-Mr Bump is an automated scheme for Molecular Replacement.
+Identify preferential usage of APA sites, comparing two biological conditions, starting from known alternative sites and alignments obtained from standard RNA-seq experiments.

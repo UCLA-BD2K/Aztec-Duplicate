@@ -1,1 +1,1 @@
-The ontoCAT R package provides a simple interface to ontologies described in widely used standard formats, stored locally in the filesystem or accessible online.
+Authority: genome.imim.es  -  Analyzes a collection of DNA sequences for putative motifs (transcription or splicing factor binding sites) and reports them in GFF format. The collection of motifs is given by the user as a set of Position Weight Matrices (PWMs)

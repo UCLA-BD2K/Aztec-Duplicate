@@ -1,1 +1,0 @@
-This package contains an implementation of the S-Score algorithm as described by Zhang et al (2002).

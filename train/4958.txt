@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.1 of the Vienna RNA package. 
+This is a package for the discovery of regulatory regions from Bis-seq data

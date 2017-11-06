@@ -1,1 +1,1 @@
-bwa binaries for version 0.7.10
+A synopsis

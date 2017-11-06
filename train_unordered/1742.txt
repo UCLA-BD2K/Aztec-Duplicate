@@ -1,1 +1,0 @@
-Microbial community analysis GUI for R using gWidgets.

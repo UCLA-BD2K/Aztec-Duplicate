@@ -1,1 +1,1 @@
-Bowtie2: Fast and sensitive read alignment
+igvtools dependency package v.2.3.32

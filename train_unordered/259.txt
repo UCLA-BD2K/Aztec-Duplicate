@@ -1,1 +1,0 @@
-Returns the names or ids of a uniprot entry identified by the input accession.

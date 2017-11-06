@@ -1,1 +1,1 @@
-BioModels Database is a data resource that allows biologists to store, search and retrieve published mathematical models of biological interests.
+g:Convert is a gene ID mapping tool that allows conversion of genes, proteins, microarray probes, standard names, various database identifiers, etc. A mix of IDs of different types may be inserted to g:Convert. The user needs to select a target database; all input IDs will be converted into target database format based on mapping information from Ensembl database.

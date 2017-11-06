@@ -1,1 +1,6 @@
-Global Biodiversity Information Facility web service for occurrence data (specimens, observations) from the global GBIF data portal.
+Summary: Immunoinformatics approaches are widely used in a variety of applications from basic immunological to applied biomedical research. Complex data integration is inevitable in immunological research and usually requires comprehensive pipelines including multiple tools and data sources. Non-standard input and output formats of immunoinformatics tools make the development of such applications difficult. Here we present FRED 2, an open-source immunoinformatics framework offering easy and unified access to methods for epitope prediction and other immunoinformatics applications. FRED 2 is implemented in Python and designed to be extendable and flexible to allow rapid prototyping of complex applications.
+        Availability and implementation: FRED 2 is available at http://fred-2.github.io
+        Contact:
+schubert@informatik.uni-tuebingen.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

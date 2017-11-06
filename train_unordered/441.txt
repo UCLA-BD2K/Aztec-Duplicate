@@ -1,1 +1,0 @@
-DataCite provides a service for data centres to mint DOIs and store associated metadata. Before using the service, data centres are required to create an account with a DataCite Member. For information on setting up an account, see the 'Frequently asked q

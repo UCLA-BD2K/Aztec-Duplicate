@@ -1,1 +1,1 @@
-Wrapper for the R package riboSeqR
+Reorders the entries of an MSA

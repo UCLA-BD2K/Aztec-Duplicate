@@ -1,1 +1,1 @@
-Convert from pgSnp to gd_snp
+affyILM is a preprocessing tool which estimates gene expression levels for Affymetrix Gene Chips. Input from physical chemistry is employed to first background subtract intensities before calculating concentrations on behalf of the Langmuir model.

@@ -1,1 +1,1 @@
-Iterative protein sequence similarity search based on BLAST: search with a custom, position-specific, scoring matrix which can help find distant evolutionary relationships
+This package creates a QC report for an AffyBatch object. The report is intended to allow the user to quickly assess the quality of a set of arrays in an AffyBatch object.

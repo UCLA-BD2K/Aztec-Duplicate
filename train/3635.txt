@@ -1,1 +1,1 @@
-The Wise2 DNA Block Aligner (DBA) aligns two DNA sequences using the assumption that the sequences share a number of colinear blocks of conservation separated by potentially large and varied lengths of DNA in the two sequences.
+Workflow to create Proteomics Search DB from RNA-seq novel splice detection

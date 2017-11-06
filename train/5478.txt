@@ -1,1 +1,1 @@
-A reader for CyTable attribute files
+Downloads and compiles version 7.0.23 of the X core protocol libraries.

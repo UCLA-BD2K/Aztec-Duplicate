@@ -1,1 +1,1 @@
-Authority: cnio.es  -  It translates an iHOP XML document to a MOBY object (iHOPsymbol, iHOPabstract, iHOPinteractionList, iHOPdefinitionList, iHOPfoundSymbols)
+Authority: inb.bsc.es  -  Translate a PDB text format to NDB text format.

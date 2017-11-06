@@ -1,1 +1,1 @@
-Merge two sets of assembled contig sequences
+Convert numerical representation of genotypes to allelic.

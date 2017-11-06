@@ -1,1 +1,1 @@
-On BAM files.
+Converts VCF files into tab-delimited format

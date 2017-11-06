@@ -1,1 +1,0 @@
-An annotated and curated relational database of glycan structures.

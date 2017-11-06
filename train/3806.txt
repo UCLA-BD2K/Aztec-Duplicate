@@ -1,1 +1,1 @@
-The RxNorm API is a web service for accessing the current RxNorm data set from your program via SOAP/WSDL. It provides developers with functions for retrieving RxNorm data from the most current RxNorm data set. RxNorm provides normalized names for clinic
+Compute fractional identity between trusted alignment and test alignment

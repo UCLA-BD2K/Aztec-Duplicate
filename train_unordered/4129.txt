@@ -1,1 +1,0 @@
-Manage SnpEff genome reference data

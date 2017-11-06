@@ -1,1 +1,0 @@
-Inference of structured signals in multiple sequences

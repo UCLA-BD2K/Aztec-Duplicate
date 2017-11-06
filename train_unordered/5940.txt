@@ -1,1 +1,0 @@
-mudicom is a Python library providing an interface to gdcm to validate, read, and extracts images from a DICOM file. mudicom can interact with data elements by tag group or element, and value representation. Image data can be extracted in several formats. Complete documentation and a tutorial are provided.

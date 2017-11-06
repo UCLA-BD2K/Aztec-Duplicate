@@ -1,1 +1,0 @@
-LeMoNe is a software package for Learning Module Networks from gene expression data

@@ -1,5 +1,0 @@
-Authority: mmb.pcb.ub.es  -  
-            
-                    Build a NAMD Configuration File to run a Molecular Dynamic Simulation with (Using Namd program). Returns a NAMD_Conf_Text.
-            
-    

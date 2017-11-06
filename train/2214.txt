@@ -1,1 +1,1 @@
-Parses clustal files
+Clusters a network based on three-node motifs.

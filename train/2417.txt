@@ -1,1 +1,1 @@
-Data on proteins identified on various 2-D PAGE and SDS-PAGE reference maps.
+Searches PomBase sequences using Exonerate

@@ -1,1 +1,1 @@
-Tools for classification and feature selection for 'omics' level datasets.  It is a tool to provide multiple multivariate classification and feature selection techniques complete with multiple stability metrics and aggregation techniques.  It is primarily designed for analysis of metabolomics datasets but potentially extendable to proteomics and transcriptomics applications.
+Authority: inb.bsc.es  -  Retrieves a hierarchical non domain entry from SCOP database given a dot separated number list.

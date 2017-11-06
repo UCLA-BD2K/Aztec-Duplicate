@@ -1,1 +1,1 @@
-Tools for storing, accessing, analyzing and visualizing genomic data.
+Graph-based clustering and characterization of repetitive sequences.

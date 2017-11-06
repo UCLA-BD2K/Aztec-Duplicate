@@ -1,1 +1,7 @@
-Retrieves GO Terms related to a product.
+Motivation: Whole genome sequencing (WGS) of parent-offspring trios is a powerful approach for identifying disease-associated genes via detecting copy number variations (CNVs). Existing approaches, which detect CNVs for each individual in a trio independently, usually yield low-detection accuracy. Joint modeling approaches leveraging Mendelian transmission within the parent-offspring trio can be an efficient strategy to improve CNV detection accuracy.
+        Results: In this study, we developed TrioCNV, a novel approach for jointly detecting CNVs in parent-offspring trios from WGS data. Using negative binomial regression, we modeled the read depth signal while considering both GC content bias and mappability bias. Moreover, we incorporated the family relationship and used a hidden Markov model to jointly infer CNVs for three samples of a parent-offspring trio. Through application to both simulated data and a trio from 1000 Genomes Project, we showed that TrioCNV achieved superior performance than existing approaches.
+        Availability and implementation: The software TrioCNV implemented using a combination of Java and R is freely available from the website at https://github.com/yongzhuang/TrioCNV.
+        Contact:
+ydwang@hit.edu.cn
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

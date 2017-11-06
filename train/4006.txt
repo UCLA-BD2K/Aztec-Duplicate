@@ -1,1 +1,1 @@
- Detection of blocks of overlapping reads 
+Annotates mutations with CRAVAT

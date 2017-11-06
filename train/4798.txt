@@ -1,1 +1,1 @@
-Installer for the Proteowizard package
+Assemble with MIRA v3. Takes Sanger, Roche, and Illumina data

@@ -1,1 +1,1 @@
-A that allows biologists to store, search and retrieve published mathematical models of biological interests. Models present in BioModels Database are annotated and linked to relevants, such as publications, databases of compounds and pathways, controlled vocabularies, etc.
+Convert a .mpileup file into a SynTView .coverage file.

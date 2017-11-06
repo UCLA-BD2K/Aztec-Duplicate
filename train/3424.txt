@@ -1,1 +1,1 @@
-ANGSD is a software for analyzing next generation sequencing data. The software can handle a number of different input types from mapped reads to imputed genotype probabilities. Most methods take genotype uncertainty into account instead of basing the analysis on called genotypes. This is especially useful for low and medium depth data.
+Links R to libsbml for SBML parsing, validating output, provides an S4 SBML DOM, converts SBML to R graph objects. Optionally links to the SBML ODE Solver Library (SOSLib) for simulating models.

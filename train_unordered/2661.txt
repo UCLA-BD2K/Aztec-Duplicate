@@ -1,1 +1,0 @@
-Parses newick and extended newick strings(nhx) into JSON 

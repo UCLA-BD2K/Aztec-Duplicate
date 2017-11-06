@@ -1,1 +1,0 @@
-Fastx Barcode Splitter that allows barcodes to be in a separate index read and loads the results into the Galaxy history

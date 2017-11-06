@@ -1,1 +1,0 @@
-Loads any pathway in bioCyc database. Original panel provides useful information for each node.

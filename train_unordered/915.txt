@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Generate PDB with only Alpha carbons, from a generic PDB

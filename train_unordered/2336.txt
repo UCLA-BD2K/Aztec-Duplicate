@@ -1,1 +1,0 @@
-Comparative analysis of protein sequences derived from the same transcript by alternative splicing, genome variation data (SNPs) or protein families from one or more organisms

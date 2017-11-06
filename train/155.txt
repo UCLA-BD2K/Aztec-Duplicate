@@ -1,1 +1,6 @@
-Search the Spike database (http://www.cs.tau.ac.il/~spike/) for interactions using protein ids
+Summary: We present a REST web service to assess the geospatial quality of primary biodiversity data. It enables access to basic and advanced functions to detect completeness and consistency issues as well as general errors in the provided record or set of records. The API uses JSON for data interchange and efficient parallelization techniques for fast assessments of large datasets.
+        Availability and implementation: The Geospatial Data Quality API is part of the VertNet set of APIs. It can be accessed at http://api-geospatial.vertnet-portal.appspot.com/geospatial and is already implemented in the VertNet data portal for quality reporting. Source code is freely available under GPL license from http://www.github.com/vertnet/api-geospatial.
+        Contact:
+javier.otegui@gmail.com or rguralnick@flmnh.ufl.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

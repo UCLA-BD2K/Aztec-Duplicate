@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Translates the GeneID gene predictions, given in GFF format, into a set of aminoacid sequences
+Contains a tool dependency definition that downloads and compiles version 2.1 of ClustalW2.

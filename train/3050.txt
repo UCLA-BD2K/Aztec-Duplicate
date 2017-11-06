@@ -1,1 +1,1 @@
-Sisplay summary statistics for a profile file
+Upload a set of SNPs in our standard format and export a file containing consequence types

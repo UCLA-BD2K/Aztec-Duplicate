@@ -1,1 +1,1 @@
-This add-on to the package CellNOptR handles time-course data, as opposed to steady state data in CellNOptR. It scales the simulation step to allow comparison and model fitting for time-course data. Future versions will optimize delays and strengths for each edge.
+A tool for fast canonical neighbor-joining tree construction but use RapidNJ instead

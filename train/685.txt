@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Patmatmotifs takes a protein sequence and compares it to the PROSITE database of motifs.
+Molecular Weight is a web service that retrieves all genes whose unmodified protein product has a molecular weight in a range that user specify.

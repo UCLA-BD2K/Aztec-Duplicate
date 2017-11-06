@@ -1,1 +1,0 @@
-Downloads and installs current version of cap3 executable from Iowa State

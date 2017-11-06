@@ -1,1 +1,0 @@
-ProteinProphet automatically validates protein identifications made on the basis of peptides assigned to MS/MS spectra by database search programs such as SEQUEST. It is based on PeptideProphet or iProphet results. 

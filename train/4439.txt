@@ -1,1 +1,1 @@
-Assemble with MIRA v3. Takes Sanger, Roche, and Illumina data
+Explores a given similarity graph.

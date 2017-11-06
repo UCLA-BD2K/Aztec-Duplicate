@@ -1,1 +1,1 @@
-Multalin @ IBCP (http://gbio-pbil.ibcp.fr)
+Tool dependency package for scikit-learn-0.15

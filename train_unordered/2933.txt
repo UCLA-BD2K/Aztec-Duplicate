@@ -1,1 +1,0 @@
-Interactive sequence alignment tool with help page available

@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Reads a CDS sequence and calculates a codon frequency table.
+Assemble2 allows you to design your RNA 2D structure interactively and to create and assemble the corresponding RNA 3D modules directly in UCSF Chimera

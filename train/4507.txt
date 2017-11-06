@@ -1,1 +1,1 @@
-Opal Package - GVL
+MUSCLE performs multiple sequence alignments of nucleotide or amino acid sequences.

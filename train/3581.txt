@@ -1,1 +1,1 @@
-And identify structural variants.
+Yeast GFP fusion localization database

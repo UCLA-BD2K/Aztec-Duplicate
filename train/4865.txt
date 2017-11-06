@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.3.6 of RPy2.
+Regulatory Network Enhancing Plugin - ReNE allows users to enhance standard KEGG/Reactome pathways wit

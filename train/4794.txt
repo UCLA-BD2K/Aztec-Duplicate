@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads version 2.2.12 of pkiss of the RNAShapesStudio.
+all dependency for microsattelite_ngs package and microsattelite_ngs itself

@@ -1,1 +1,0 @@
-We present a new R package for training gapped-kmer SVM classifiers for DNA and protein sequences. We describe an improved algorithm for kernel matrix calculation that speeds run time by about 2 to 5-fold over our original gkmSVM algorithm. This package supports several sequence kernels, including: gkmSVM, kmer-SVM, mismatch kernel and wildcard kernel.

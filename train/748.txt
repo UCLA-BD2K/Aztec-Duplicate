@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Converts a GenericSequence object into a Fasta object.
+Coiled coil region prediction.

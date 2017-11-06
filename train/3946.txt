@@ -1,1 +1,1 @@
-Tools to manage archive
+create MEME motif file from one short sequence

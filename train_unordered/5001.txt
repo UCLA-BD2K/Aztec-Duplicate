@@ -1,1 +1,0 @@
-Python reimplementation of predictNLS for Galaxy

@@ -1,1 +1,1 @@
-MyGene.Info_ provides simple-to-use REST web services to query/retrieve gene annotation data. It's designed with simplicity and performance emphasized. *mygene*, is an easy-to-use R wrapper to access MyGene.Info_ services.
+Enables user to define a group of nodes as a &quot;meta node&quot;. Meta nodes can have hierarchy and can be expanded and collapsed.

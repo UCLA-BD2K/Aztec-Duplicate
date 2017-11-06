@@ -1,1 +1,0 @@
- Detection of blocks of overlapping reads 

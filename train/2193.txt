@@ -1,1 +1,1 @@
-This package provides enhancements on the Sweave() function in the base package.  In particular a facility for caching code chunk results is included.
+Compares a nucleotide sequence to a nucleotide sequence database and calculates the statistical significance of matches using the Basic Local Alignment Search Tool (BLAST).

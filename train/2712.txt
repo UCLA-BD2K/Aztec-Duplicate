@@ -1,1 +1,0 @@
-A web server for detection, extraction and visualization of protein fragments in input sets of proteins. The fragments are described by molecular language, which is calledMotiveQuery. Also protein metadata can be used for determination of fragment properties.

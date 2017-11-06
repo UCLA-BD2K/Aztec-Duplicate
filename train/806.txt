@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Return the decomposition in domains of a protein.
+Filter mapped reads on MD tag string

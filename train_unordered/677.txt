@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Predicts the site of cleavage between a singal sequence and the mature exported protein.

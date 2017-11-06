@@ -1,1 +1,1 @@
-PSICQUIC is an effort from the HUPO Proteomics Standard Initiative (HUPO-PSI) to standardise the access to molecular interaction databases programmatically.This specific implementation provides remote access to the IntAct database, at the EBI.
+clusteval is a free and extendable opensource platform for objective performance comparison of arbitrary Clustering Methods on different datasets. It is designed to support the standard processes related to Cluster Analyses.

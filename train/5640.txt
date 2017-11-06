@@ -1,1 +1,1 @@
-Dynamically change colors of nodes like a movie according to their expression level across many conditions.
+computationally efficient analysis of eQTL, mQTL, dsQTL, etc.

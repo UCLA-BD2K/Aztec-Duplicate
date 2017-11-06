@@ -1,1 +1,0 @@
-Replaces names of nodes in one or more networks with random names, while preserving correspondence across networks.

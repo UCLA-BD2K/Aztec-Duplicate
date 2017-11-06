@@ -1,1 +1,0 @@
-The package provides tools and reports for the analysis of amplicon sequencing panels, such as AmpliSeq

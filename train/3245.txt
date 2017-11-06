@@ -1,1 +1,1 @@
-Finds neighbouring pairs of features in sequence(s)
+Search for patterns in nucleotide sequences

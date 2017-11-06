@@ -1,1 +1,1 @@
-Get the differential expression between 2 conditions using Fisher's exact test, on regions defined by a third file.
+A suite of Galaxy utilities associated with version 0.0.13 of the FASTX-Toolkit package.

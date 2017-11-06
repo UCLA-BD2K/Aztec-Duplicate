@@ -1,1 +1,0 @@
-Mines scientific literature to find publications related to search terms and to create interaction networks based on the search result.

@@ -1,1 +1,1 @@
-Tool dependency definition for python-bs4
+FASTA stands for FAST-All, reflecting the fact that it can be used for a fast protein comparison or a fast nucleotide comparison.

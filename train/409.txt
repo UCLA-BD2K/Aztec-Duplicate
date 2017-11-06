@@ -1,1 +1,10 @@
-BLAT on DNA is designed to quickly find sequences of 95% and greater similarity of length 40 bases or more.
+Summary: Ancient DNA has emerged as a remarkable tool to infer the history of extinct species and past populations. However, many of its characteristics, such as extensive fragmentation, damage and contamination, can influence downstream analyses. To help investigators measure how these could impact their analyses in silico, we have developed gargammel, a package that simulates ancient DNA fragments given a set of known reference genomes. Our package simulates the entire molecular process from post-mortem DNA fragmentation and DNA damage to experimental sequencing errors, and reproduces most common bias observed in ancient DNA datasets.
+        
+Availability and Implementation: The package is publicly available on github: https://grenaud.github.io/gargammel/ and released under the GPL.
+        
+Contact:
+gabriel.renaud@snm.ku.dk
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

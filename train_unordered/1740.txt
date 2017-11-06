@@ -1,1 +1,0 @@
-This package provides a model-based background correction method, which incorporates the negative control beads to pre-process Illumina BeadArray data.

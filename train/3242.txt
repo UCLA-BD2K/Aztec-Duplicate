@@ -1,1 +1,1 @@
-Replace or delete sequence sections
+This call returns the metadata for all versions of an ontology in BioPortal given the ontology identifier as a parameter. An example of the fully parameterized URL is: http://rest.bioontology.org/bioportal/ontologies/versions/1104.  

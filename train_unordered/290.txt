@@ -1,1 +1,0 @@
-It converts a Clustalw data type into a Phylip Interleaved data type.

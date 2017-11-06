@@ -1,1 +1,0 @@
-EBarrays provides tools for the analysis of replicated/unreplicated microarray data.

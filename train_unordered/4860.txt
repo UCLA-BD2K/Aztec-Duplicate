@@ -1,1 +1,0 @@
-Contains a tool dependency definition that downloads version 3.2.5 of RNAshapes of the RNAShapesStudio.

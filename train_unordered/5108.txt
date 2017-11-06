@@ -1,1 +1,0 @@
-Slice BAM by provided regions

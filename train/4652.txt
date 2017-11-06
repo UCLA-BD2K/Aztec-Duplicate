@@ -1,1 +1,1 @@
-oases package
+PASS: a program to align short sequences

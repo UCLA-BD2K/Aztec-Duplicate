@@ -1,1 +1,1 @@
-Tool wrappers for various applications that contained in the OpenMS suite.
+Structural variation discovery and genotyping

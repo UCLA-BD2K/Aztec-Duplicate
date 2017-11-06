@@ -1,1 +1,1 @@
-DNA and protein sequence alignment based on segment-to-segment comparison
+Database of tandem repeat protein annotations

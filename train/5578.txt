@@ -1,1 +1,1 @@
-Integrated analysis and visualization of physical and genetic interactions to infer genetic module maps
+Biological information about the crop plant Zea mays ssp. mays. The following datatypes are accessible through this site: genetic, genomic, sequence, gene product, functional characterization, literature reference, and person/organization contact information.

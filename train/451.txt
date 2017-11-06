@@ -1,2 +1,14 @@
-The RxNorm API is a web service for accessing the current RxNorm data set from your program via SOAP/WSDL. It provides developers with functions for retrieving RxNorm data from the most current RxNorm data set.
-RxNorm provides normalized names for clinic
+Abstract
+        
+Motivation: Flow, hyperspectral and mass cytometry are experimental techniques measuring cell marker expressions at the single cell level. The recent increase of the number of markers simultaneously measurable has led to the development of new automatic gating algorithms. Especially, the SPADE algorithm has been proposed as a novel way to identify clusters of cells having similar phenotypes in high-dimensional cytometry data. While SPADE or other cell clustering algorithms are powerful approaches, complementary analysis features are needed to better characterize the identified cell clusters.
+        
+Results: We have developed SPADEVizR, an R package designed for the visualization, analysis and integration of cell clustering results. The available statistical methods allow highlighting cell clusters with relevant biological behaviors or integrating them with additional biological variables. Moreover, several visualization methods are available to better characterize the cell clusters, such as volcano plots, streamgraphs, parallel coordinates, heatmaps, or distograms. SPADEVizR can also generate linear, Cox or random forest models to predict biological outcomes, based on the cell cluster abundances. Additionally, SPADEVizR has several features allowing to quantify and to visualize the quality of the cell clustering results. These analysis features are essential to better interpret the behaviors and phenotypes of the identiﬁed cell clusters. Importantly, SPADEVizR can handle clustering results from other algorithms than SPADE.
+        
+Availability and Implementation: SPADEVizR is distributed under the GPL-3 license and is available at https://github.com/tchitchek-lab/SPADEVizR.
+        
+Contact:
+nicolas.tchitchek@gmail.com
+
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

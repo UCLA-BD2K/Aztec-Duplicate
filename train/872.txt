@@ -1,1 +1,1 @@
-Authority: genome.imim.es  -  Ab initio gene prediction tool that returns the gene predictions in GFF format.
+Contains a tool dependency definition that downloads and compiles version 1.0.17 of the the DESeq2 package.

@@ -1,1 +1,11 @@
-This is a utility to retrieve a codon table from EMBOSS data files.
+Abstract
+        
+Summary: Protein-protein interaction (PPI) studies have dramatically expanded our knowledge about cellular behaviour and development in different conditions. A multitude of high-throughput PPI techniques have been developed to achieve proteome-scale coverage for PPI studies, including the microarray based Mammalian Protein-Protein Interaction Trap (MAPPIT) system. Because such high-throughput techniques typically report thousands of interactions, managing and analysing the large amounts of acquired data is a challenge. We have therefore built the MAPPIT cell microArray Protein Protein Interaction-Data management & Analysis Tool (MAPPI-DAT) as an automated data management and analysis tool for MAPPIT cell microarray experiments. MAPPI-DAT stores the experimental data and metadata in a systematic and structured way, automates data analysis and interpretation, and enables the meta-analysis of MAPPIT cell microarray data across all stored experiments.
+        
+Availability and Implementation: MAPPI-DAT is developed in Python, using R for data analysis and MySQL as data management system. MAPPI-DAT is cross-platform and can be ran on Microsoft Windows, Linux and OS X/macOS. The source code and a Microsoft Windows executable are freely available under the permissive Apache2 open source license at https://github.com/compomics/MAPPI-DAT.
+        
+Contact:
+jan.tavernier@vib-ugent.be or lennart.martens@vib-ugent.be
+        
+Supplementary information:
+Supplementary data are available at Bioinformatics online.

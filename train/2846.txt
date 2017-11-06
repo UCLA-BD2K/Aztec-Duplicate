@@ -1,1 +1,1 @@
-A web server designed to facilitate the functional interpretation of differential expression analysis. It is aimed at allowing experimentalists to "play with" their RNA-Seq data in an easy and at the same time exhaustive fashion within a single tool.
+Information on diverse sources of chemicals with the aim to explore human health risk from chemical exposure

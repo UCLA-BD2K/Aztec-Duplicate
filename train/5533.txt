@@ -1,1 +1,1 @@
-Evaluates the topological effects of node removal like Radiality, Closeness, Betweenness, Centroid Value and Eccentricity.
+Authority: mmb.pcb.ub.es  -  Perform 2 iterations of protein PSI Blast against non-redundant database with standard settings

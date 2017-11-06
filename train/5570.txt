@@ -1,1 +1,1 @@
-Integrates omics data such as expression data, proteome data, etc. onto networks 
+PROSITE consists of documentation entries describing protein domains, families and functional sites as well as associated patterns and profiles to identify them.

@@ -1,1 +1,1 @@
-WebGL protein viewer 
+Authority: mmb.pcb.ub.es  -  Get protein secondary structure from PDB Text

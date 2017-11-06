@@ -1,1 +1,1 @@
-Count, rank, sort and normalize sequence reads in a selection population.
+This package allows to query EBI's Ontology Lookup Service (OLS) using Simple Object Access Protocol (SOAP).

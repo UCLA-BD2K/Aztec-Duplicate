@@ -1,1 +1,1 @@
-representing and modeling data in the NHGRI GWAS catalog
+Contains a tool dependency definition that downloads and compiles version 1.135 of the Picard package.

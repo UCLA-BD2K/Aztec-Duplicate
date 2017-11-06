@@ -1,1 +1,1 @@
-A MATLAB toolkit to view, and do modification (e.g., reslice) for NIfT1 images
+Provides an interface to several normalization and statistical testing packages for RNA-Seq gene expression data. Additionally, it creates several diagnostic plots, performs meta-analysis by combinining the results of several statistical tests and reports the results in an interactive way.

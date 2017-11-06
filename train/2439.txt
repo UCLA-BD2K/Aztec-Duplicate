@@ -1,1 +1,1 @@
-A comprehensive collection of annotations and structures for protein modifications including amino-terminal, carboxyl-terminal and peptide chain cross-link post-translational modifications.
+Create frequency matrix or profile from a multiple alignment

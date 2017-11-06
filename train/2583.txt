@@ -1,1 +1,1 @@
-The PDBFINDER holds for each PDB file a structured, search-engine-friendly-formatted entry that holds the data-items most likely needed for people search for certain types of PDB entries. The PDBFINDER is not useful to search in atomic coordinates: it is meant to ad searches in the administrative records of PDB files.
+Tools suite for ChIP-seq data analysis

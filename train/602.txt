@@ -1,1 +1,6 @@
-Authority: inb.bsc.es  -  Query an Amino Acid sequence against InterPro.
+Summary: The R/Bioconductor package HiTC facilitates the exploration of high-throughput 3C-based data. It allows users to import and export ‘C’ data, to transform, normalize, annotate and visualize interaction maps. The package operates within the Bioconductor framework and thus offers new opportunities for future development in this field.
+        Availability and implementation: The R package HiTC is available from the Bioconductor website. A detailed vignette provides additional documentation and help for using the package.
+        Contact:
+nicolas.servant@curie.fr
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

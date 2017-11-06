@@ -1,1 +1,0 @@
-UCSF Chimera is a highly extensible program for interactive visualization and analysis of molecular structures.

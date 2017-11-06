@@ -1,1 +1,0 @@
-Provides X Network Transport layer shared code.

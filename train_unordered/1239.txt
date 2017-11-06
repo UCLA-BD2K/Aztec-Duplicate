@@ -1,1 +1,0 @@
-An R package for subset-based analysis of heterogeneous traits and subtypes

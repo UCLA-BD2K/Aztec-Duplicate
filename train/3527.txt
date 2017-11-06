@@ -1,1 +1,1 @@
-Genomic Mapping and Alignment Program for mRNA and EST sequences.
+CEAS Cis-regulatory Element Annotation System

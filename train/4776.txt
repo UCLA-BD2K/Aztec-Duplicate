@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 5.18.x of the the perl language.
+Add a sequence reference (a full USA) to a list file

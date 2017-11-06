@@ -1,1 +1,1 @@
-Concatenate FASTA alignment by species
+rTRM identifies transcriptional regulatory modules (TRMs) from protein-protein interaction networks.

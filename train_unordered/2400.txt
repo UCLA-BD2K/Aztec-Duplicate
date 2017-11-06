@@ -1,1 +1,0 @@
-Homology-derived secondary structure of proteins database.

@@ -1,1 +1,0 @@
-Fetch Indels from 3-way alignments

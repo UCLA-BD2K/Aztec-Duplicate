@@ -1,1 +1,1 @@
-PiNGO is a Java-based tool to easily find unknown genes in a network that are significantly associated with user-defined target Gene Ontology (GO) categories.
+Performs detection and assembly of DNA insertion variants in NGS read datasets with respect to a reference genome.

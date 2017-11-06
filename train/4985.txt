@@ -1,1 +1,1 @@
-Assemble long reads/short contigs
+Mean Log P Analysis

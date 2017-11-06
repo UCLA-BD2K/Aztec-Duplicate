@@ -1,1 +1,1 @@
-Database of genes from NCBI RefSeq genomes
+Functions and data used in Balasubramanian, et al. (2004)

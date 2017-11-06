@@ -1,1 +1,0 @@
-Importing data from Illumina SNP experiments and performing copy number calculations and reports.

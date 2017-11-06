@@ -1,1 +1,5 @@
-Web Services interface for remote invocation of openModeller
+Summary: We present Goldilocks: a Python package providing functionality for collecting summary statistics, identifying shifts in variation, discovering outlier regions and locating and extracting interesting regions from one or more arbitrary genomes for further analysis, for a user-provided definition of interesting.
+        Availability and implementation: Goldilocks is freely available open-source software distributed under the MIT licence. Source code is hosted publicly at https://github.com/SamStudio8/goldilocks and the package may also be installed using pip install goldilocks. Documentation can be found at https://goldilocks.readthedocs.org.
+        Contact: msn@aber.ac.uk
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

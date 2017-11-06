@@ -1,1 +1,0 @@
-Global multiple sequence alignment using anchor regions from BLAST results

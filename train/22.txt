@@ -1,1 +1,6 @@
-GeneWise compares a protein sequence to a genomic DNA sequence, allowing for introns and frameshifting errors.
+Motivation: Chromatin immunoprecipitation coupled to next-generation sequencing (ChIP-seq) is widely used to study the in vivo binding sites of transcription factors (TFs) and their regulatory targets. Recent improvements to ChIP-seq, such as increased resolution, promise deeper insights into transcriptional regulation, yet require novel computational tools to fully leverage their advantages.
+        Results: To this aim, we have developed peakzilla, which can identify closely spaced TF binding sites at high resolution (i.e. resolves individual binding sites even if spaced closely), as we demonstrate using semisynthetic datasets, performing ChIP-seq for the TF Twist in Drosophila embryos with different experimental fragment sizes, and analyzing ChIP-exo datasets. We show that the increased resolution reached by peakzilla is highly relevant, as closely spaced Twist binding sites are strongly enriched in transcriptional enhancers, suggesting a signature to discriminate functional from abundant non-functional or neutral TF binding. Peakzilla is easy to use, as it estimates all the necessary parameters from the data and is freely available.
+        Availability and implementation: The peakzilla program is available from https://github.com/steinmann/peakzilla or http://www.starklab.org/data/peakzilla/.
+        Contact: stark@starklab.org
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

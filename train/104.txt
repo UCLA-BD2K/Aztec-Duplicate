@@ -1,2 +1,5 @@
-The goal of the NHLBI GO Exome Sequencing Project (ESP) is to discover novel genes and mechanisms contributing to heart, lung and blood disorders by pioneering the application of next-generation sequencing of the protein coding regions of the human genome across diverse, richly-phenotyped populations and to share these datasets and findings with the scientific community to extend and enrich the diagnosis, management and treatment of heart, lung and blood disorders.
-This WSDL enables users to search the Exome Variant Server for genetic variants identified in  patients using a chromosome position (e.g.2:139574) 
+Summary: We introduce Path2PPI, a new R package to identify protein–protein interaction (PPI) networks for fully sequenced organisms for which nearly none PPI are known. Path2PPI predicts PPI networks based on sets of proteins from well-established model organisms, providing an intuitive visualization and usability. It can be used to combine and transfer information of a certain pathway or biological process from several reference organisms to one target organism.
+        Availability and implementation: Path2PPI is an open-source tool implemented in R. It can be obtained from the Bioconductor project: http://bioconductor.org/packages/Path2PPI/
+        Contact: ina.koch@bioinformatik.uni-frankfurt.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

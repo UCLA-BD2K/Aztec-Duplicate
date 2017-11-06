@@ -1,1 +1,0 @@
-Tools for meta-analysis in the presence of hierarchical (and/or sampling) dependence, including with gene expression studies

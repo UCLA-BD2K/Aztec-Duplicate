@@ -1,1 +1,1 @@
-Tool dependency definition; installs the PyCogent package version 1.5.2 and its dependencies - GVL
+Contains a tool dependency definition that downloads and compiles version 2.0.9 of TopHat2.

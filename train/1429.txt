@@ -1,1 +1,1 @@
-Identifying distinct subpopulations through multiscale time series analysis
+MaAsLin is a multivariate statistical framework that finds associations between clinical metadata and microbial community abundance or function

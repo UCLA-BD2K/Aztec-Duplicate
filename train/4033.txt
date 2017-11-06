@@ -1,1 +1,1 @@
-Categorize Elements satisfying criteria.
+Convert Mapping to a simple Visualization and Analysis tools for RNA-Seq data (Prokaryote).

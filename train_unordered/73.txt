@@ -1,1 +1,0 @@
-T-Coffee is a multiple sequence alignment package that can be used for DNA, RNA and protein sequences. It can be used to align sequences or to combine the output of other  alignment methods (Clustal, Mafft, Probcons, Muscle...) into one unique alignment

@@ -1,4 +1,1 @@
-
-		INTRODUCTION
-
-		This Web Service implements SignalP v
+The probabilities by one-sided NOISeq are combined by Fisher's method or Stouffer's method

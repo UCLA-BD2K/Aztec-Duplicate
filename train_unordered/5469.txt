@@ -1,1 +1,0 @@
-Provides Gaggle Boss, which routes data from one application to another.

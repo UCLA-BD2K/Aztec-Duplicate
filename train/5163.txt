@@ -1,1 +1,1 @@
-SNiPlay3 complete workflow: exploration and large scale analyses of genomic variations
+Calculate energy of RNA sequences on given secondary structure

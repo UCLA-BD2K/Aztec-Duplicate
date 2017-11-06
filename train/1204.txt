@@ -1,1 +1,1 @@
-This package creates a QC report for an AffyBatch object. The report is intended to allow the user to quickly assess the quality of a set of arrays in an AffyBatch object.
+Tools for advanced use of the frma package.

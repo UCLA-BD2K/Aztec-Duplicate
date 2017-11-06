@@ -1,1 +1,1 @@
-Provides basic S4 data structures and routines for analyzing plate based flow cytometry data.
+BactgeneSHOW analyses bacterial sequences and detects genes.

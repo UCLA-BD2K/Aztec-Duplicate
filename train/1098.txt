@@ -1,4 +1,1 @@
-
-			INTRODUCTION
-
-			This Web Service implements NetPhos 3.1b
+Launching arbitrary external apps (such as viewers) for nodes/edges

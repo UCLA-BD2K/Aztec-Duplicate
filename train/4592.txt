@@ -1,1 +1,3 @@
-CMake, the cross-platform, open-source build system.
+PSICQUIC is an effort from the HUPO Proteomics Standard Initiative (HUPO-PSI) to standardise the access to molecular interaction databases programmatically.
+
+This specific implementation provides remote access to the BioGrid database.

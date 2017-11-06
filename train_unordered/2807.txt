@@ -1,1 +1,0 @@
-SATRAP: a SOLiD Assembly TRAnslation Program

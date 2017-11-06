@@ -1,1 +1,0 @@
-Search terms starting for the query used for auto-complete service.

@@ -1,1 +1,1 @@
-ProdomCG_evoscen is a set of webservices allowing to browse ProDom-CG267 evolutionary scenarios
+"ExploreDTI" is a graphical toolbox, developed by Alexander Leemans, for exploratory diffusion (tensor) MRI and fiber tractography.

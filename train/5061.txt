@@ -1,1 +1,1 @@
-Generate FPKM tables from cuffdiff read_group_tracking files
+Draw a helical wheel diagram for a protein sequence

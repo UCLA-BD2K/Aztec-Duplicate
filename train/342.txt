@@ -1,1 +1,6 @@
-Outputs a report of simple protein sequence information.
+Motivation: Gene expression experiments aim to accurately quantify thousands of transcripts in parallel. Factors posterior to RNA extraction can, however, impair their accurate representation. RNA degradation and differences in the efficiency of amplification affect raw intensity measurements using Affymetrix expression arrays. The positional intensity decay of specifically hybridized probes along the transcript they intend to interrogate is used to estimate the RNA quality in a sample and to correct probe intensities for the degradation bias. This functionality, for which no previous software solution is available, is implemented in the R/Bioconductor package AffyRNADegradation presented here.
+        Availability: The package is available via Bioconductor at the URL http://bioconductor.org/packages/release/bioc/html/AffyRNA Degradation.html
+        Contact:
+Fasold@izbi.uni-Leipzig.de
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

@@ -1,1 +1,0 @@
-InVesalius generates STL-format 3D surfaces from CT and MRI DICOM input files. Multiple masks can be defined and stored as a project. Standard viewing options including MPI are also available. The program is written in Python and runs on Windows and Linux.

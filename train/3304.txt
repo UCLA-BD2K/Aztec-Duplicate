@@ -1,1 +1,1 @@
-ChEMBL is a database of bioactive compounds, their quantitative properties and bioactivities (binding constants, pharmacology and ADMET, etc). The data is abstracted and curated from the primary scientific literature.
+MultiPLX is a tool that uses state-of-the-art nearest neighbour DNA binding thermodynamics to estimate possible unwanted pairings between PCR samples and calculates automatically optimal multiplexing (grouping) solution.

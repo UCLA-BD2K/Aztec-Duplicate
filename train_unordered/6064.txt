@@ -1,1 +1,0 @@
-An R package that computes a robust measurement of the reproducibility of ChIP-chip data.

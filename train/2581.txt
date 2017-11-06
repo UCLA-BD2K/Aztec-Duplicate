@@ -1,1 +1,1 @@
-Mouse genome database including DNA and protein sequences, annotation, gene models and mapping etc.
+ngs.plot is a program that allows you to easily visualize your next-generation sequencing (NGS) samples at functional genomic regions.

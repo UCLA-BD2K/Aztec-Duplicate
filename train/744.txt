@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Scan a protein sequence for the occurrence of patterns and profiles stored in the PROSITE database.
+gSOAP 2.7.9d generated service definition

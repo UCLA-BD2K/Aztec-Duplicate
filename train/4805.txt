@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.11.1 of the pydoop package
+Contains a tool dependency definition that downloads the binary version 23.7 of tbl2asn.

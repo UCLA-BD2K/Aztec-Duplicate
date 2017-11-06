@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Given a PCZ_Report and a desired principal component (0 for ALL), this service extracts Hinge Points with the "Slope Change" method and returns the residue sequence with the number of hits: positive for uphill and negative for downhill predictions. 

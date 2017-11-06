@@ -1,1 +1,1 @@
-Interactive tool for visualizing Illumina's 450k array data
+Pairwise sequence alignment of DNA or protein sequences using Needleman-Wunsch global alignment.

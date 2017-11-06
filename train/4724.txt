@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.4.2-1 of MACS.
+Displays all-against-all dotplots of a set of sequences

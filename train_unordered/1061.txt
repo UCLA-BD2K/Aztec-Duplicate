@@ -1,5 +1,0 @@
-
-
-	INTRODUCTION
-	
-	This Web Service implements SignalP v

@@ -1,1 +1,1 @@
-Bubastis is an ontology change tool which is able to analyse two ontologies (typically two versions of the same ontology) to highlight logical changes which have occurred and to present these changes in more or less detail, as required
+Tools for the analysis of protein interaction data.

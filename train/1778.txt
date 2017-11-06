@@ -1,1 +1,5 @@
-Modeling count data using Dirichlet-multinomial and beta-binomial mixtures with applications to single-cell assays.
+Authority: mmb.pcb.ub.es  -  
+            
+                    Solvates a Structure (Protein/Nucleic).
+            
+    

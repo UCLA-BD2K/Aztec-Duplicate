@@ -1,1 +1,0 @@
-A Cytoscape App for multiple local alignment of protein-protein interaction (PPI) networks

@@ -1,1 +1,0 @@
-Authority: inb.bsc.es  -  Translates a NDB-Text format to a PDB-Text format.

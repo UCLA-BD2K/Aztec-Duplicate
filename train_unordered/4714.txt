@@ -1,1 +1,0 @@
-Provides the X.org XExtProto protocol headers.

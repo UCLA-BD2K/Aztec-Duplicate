@@ -1,1 +1,0 @@
-Graphically displays correlation in microarray data that is due to insufficient normalization

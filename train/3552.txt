@@ -1,1 +1,1 @@
-Compute the coverage of a set with respect to another set.
+A reader for Genomica NDB files

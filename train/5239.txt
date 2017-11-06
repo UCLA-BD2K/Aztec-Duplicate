@@ -1,1 +1,1 @@
-vcftools collection 
+Realigner Target Creator for use in local realignment

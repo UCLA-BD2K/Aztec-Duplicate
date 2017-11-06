@@ -1,1 +1,1 @@
-SABIO-RK is a curated database that contains information about biochemical reactions,their kinetic rate equations with parameters and experimental conditions.
+Compute Motif Frequencies For All Motifs, motif by motif.

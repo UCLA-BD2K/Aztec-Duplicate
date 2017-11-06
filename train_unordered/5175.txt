@@ -1,1 +1,0 @@
-snpFreq significant SNPs in case-control data

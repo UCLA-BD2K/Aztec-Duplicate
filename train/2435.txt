@@ -1,1 +1,1 @@
-Three-dimensional protein models calculated by comparative modelling.
+Predict and plot transmembrane segments in protein sequences

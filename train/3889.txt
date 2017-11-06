@@ -1,1 +1,1 @@
-Search by molecular mass or elemental composition within ChemSpider or within particular data source(s)
+Filter FASTQ reads by quality score and length

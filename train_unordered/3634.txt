@@ -1,1 +1,0 @@
-Infernal cmscan is used to search the CM-format Rfam database.

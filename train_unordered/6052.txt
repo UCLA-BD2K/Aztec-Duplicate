@@ -1,1 +1,0 @@
-The LINCS Dataset Registry (LDR) was developed to enable the LINCS Data and Signature Generation Centers to submit their data releases in a consistent manner. The system enables users to submit metadata about a dataset so it can be listed on the LINCS data portal. 

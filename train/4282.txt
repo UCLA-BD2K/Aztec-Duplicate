@@ -1,1 +1,1 @@
-Call SNPS with Freebayes
+Fasta @ IBCP (http://gbio-pbil.ibcp.fr)

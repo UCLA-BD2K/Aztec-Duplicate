@@ -1,1 +1,3 @@
-collect profile HMM score distributions on random sequences
+Summary: Associations between DNA polymorphisms and mRNA abundance are a natural target of genetic investigations, and microarrays facilitate genome-wide and transcriptome-wide surveys of these associations. This work is motivated by emerging requirements for data architectures and algorithm interfaces to allow flexible exploration of public and private archives of genotyping and expression arrays. Using R/Bioconductor facilities, Phase II HapMap genotypes and Illumina 47K expression assay results archived on multiple populations may be interactively explored and analyzed using commodity hardware.
+        Availability and Implementation: Open Source. Bioconductor 2.3 packages GGtools, GGBase, GGdata, hmyriB36. Freely available on the web at http://www.bioconductor.org
+        Contact: stvjc@channing.harvard.edu

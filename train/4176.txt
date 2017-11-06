@@ -1,1 +1,1 @@
-RNA-Seq Differential Expression Analysis on both gene and isoform level
+Authority: mmb.pcb.ub.es  -  This service returns the variance (eigenvalues) for every principal component.

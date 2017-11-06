@@ -1,1 +1,1 @@
-Experimental support for Clojure scripts
+Draw nucleotides distribution chart

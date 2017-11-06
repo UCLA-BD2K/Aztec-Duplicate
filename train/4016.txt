@@ -1,1 +1,1 @@
-Bisulfite sequencing mapper, DNA methylation aligner, BS-Seeker2, BS Seeker 2
+Computes Mantel cluster correlations from a (p x n) numeric data matrix (e.g. microarray gene-expression data).

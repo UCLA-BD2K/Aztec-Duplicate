@@ -1,1 +1,0 @@
-StructureFold is to predict RNA secondary structures from high throughput RNA structure profiling data

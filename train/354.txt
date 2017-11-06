@@ -1,1 +1,6 @@
-Retrieves an entry from UniProt database.
+Summary
+          We have implemented a High Performance Computing (HPC) version of ProtTest (Abascal et al., 2007) that can be executed in parallel in multi-core desktops and clusters. This version, called ProtTest 3, includes new features and extended capabilities.
+        
+        
+          Availability
+          ProtTest 3 source code and binaries are freely available under GNU license for download from http://darwin.uvigo.es/software/prottest3, linked to a Mercurial repository at Bitbucket (https://bitbucket.org/).

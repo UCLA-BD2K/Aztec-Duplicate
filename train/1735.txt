@@ -1,1 +1,1 @@
-Processing Mass Spectrometry spectrum by using wavelet based algorithm
+Methods for segmenting, normalising and processing aCGH data; including plotting functions for visualising raw and segmented data for individual and multiple arrays.

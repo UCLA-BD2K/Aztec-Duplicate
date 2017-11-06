@@ -1,1 +1,0 @@
-Calculation of protein turnover rates from heavy water labeling mass spectrometry experiments. 

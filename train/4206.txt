@@ -1,1 +1,1 @@
-Produce basic statistics on a fasta/multifasta file - GVL
+Automated Affymetrix Array Analysis

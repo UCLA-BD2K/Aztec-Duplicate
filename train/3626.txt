@@ -1,1 +1,1 @@
-SAPS (Statistical Analysis of Protein Sequences) evaluates a wide variety of protein sequence properties using statistics.
+TopNet-like Yale Network Analyzer (tYNA) is a Web system for managing, comparing and mining multiple networks, both directed and undirected.

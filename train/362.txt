@@ -1,1 +1,7 @@
-Retrieves the Gene Ontology graph from a term.
+Motivation: B-cell receptor (BCR) repertoire profiling is an important tool for understanding the biology of diverse immunologic processes. Current methods for analyzing adaptive immune receptor repertoires depend upon PCR amplification of VDJ rearrangements followed by long read amplicon sequencing spanning the VDJ junctions. While this approach has proven to be effective, it is frequently not feasible due to cost or limited sample material. Additionally, there are many existing datasets where short-read RNA sequencing data are available but PCR amplified BCR data are not.
+        Results: We present here V’DJer, an assembly-based method that reconstructs adaptive immune receptor repertoires from short-read RNA sequencing data. This method captures expressed BCR loci from a standard RNA-seq assay. We applied this method to 473 Melanoma samples from The Cancer Genome Atlas and demonstrate V’DJer’s ability to accurately reconstruct BCR repertoires from short read mRNA-seq data.
+        Availability and Implementation: V’DJer is implemented in C/C ++, freely available for academic use and can be downloaded from Github: https://github.com/mozack/vdjer
+        Contact:
+benjamin_vincent@med.unc.edu or parkerjs@email.unc.edu
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

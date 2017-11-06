@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs UCSC tools.
+The system is developed on top of the Apache Lucene project framework, which is an Open-source, high-performance, full-featured text search engine library written entirely in Java. It uses this technology to index EBI databases in various formats (e.g. fl

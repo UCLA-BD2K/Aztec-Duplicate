@@ -1,1 +1,1 @@
-Search Microbial Protein Interaction database for protein interactions using a protein id
+Map your data to the current assembly

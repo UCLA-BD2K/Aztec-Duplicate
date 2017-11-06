@@ -1,1 +1,1 @@
-Parse blast outputs and compile hits
+Small variant and CNV annotation pipeline

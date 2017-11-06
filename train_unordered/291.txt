@@ -1,1 +1,0 @@
-Converts a GenericSequence object into a Fasta object.

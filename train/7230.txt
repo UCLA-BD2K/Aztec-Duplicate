@@ -1,1 +1,8 @@
-Motivation: Recent genomic studies have confirmed that cancer is of utmost phenotypical complexity, varying greatly in terms of subtypes and evolutionary stages. When classifying cancer tissue samples, subnetwork marker approaches have proven to be superior over single gene marker approaches, most importantly in cross-platform evaluation schemes. However, prior subnetwork-based approaches do not explicitly address the great phenotypical complexity of cancer. Results: We explicitly address this and employ density-constrained biclustering to compute subnetwork markers, which reflect pathways being dysregulated in many, but not necessarily all samples under consideration. In breast cancer we achieve substantial improvements over all cross-platform applicable approaches when predicting TP53 mutation status in a well-established non-cross-platform setting. In colon cancer, we raise prediction accuracy in the most difficult instances from 87% to 93% for cancer versus non-cancer and from 83% to (astonishing) 92%, for with versus without liver metastasis, in well-established cross-platform evaluation schemes. Availability: Software is available on request. Contact:
+
+WSDbfetch: entry retrieval using entry identifiers or accession numbers for 
+various biological databases, including EMBL-Bank, InterPro, MEDLINE, Patent 
+Proteins, PDB, RefSeq, UniParc, UniProtKB and UniRef.
+
+Note: this is a document/literal wrapped SOAP interface to the WSDbfetch service, for 
+other interfaces please see the documentation 
+(http://www.ebi.ac.uk/Tools/webservices/services/dbfetch).  

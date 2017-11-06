@@ -1,1 +1,1 @@
-Calculates the coverage of high-throughput short-reads against a genome of reference and summarizes it per feature of interest (e.g. exon, gene, transcript). The data can be normalized as 'RPKM' or by the 'DESeq' or 'edgeR' package.
+Nifty Sim is a high-performance nonlinear finite element solver, developed at University College London. A key feature is the option of GPU-based execution, which allows the solver to significantly out-perform equivalent commercial packages.

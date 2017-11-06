@@ -1,1 +1,1 @@
-Align 2 profiles (alignments)
+(Crystallographic Object)-Oriented Toolkit.

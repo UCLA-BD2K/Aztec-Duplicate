@@ -1,1 +1,1 @@
-seqLogo takes the position weight matrix of a DNA sequence motif and plots the corresponding sequence logo as introduced by Schneider and Stephens (1990).
+Predicts linear motifs in a protein sequence based on our neural network which was trained on Short Linear Motif containing proteins. 

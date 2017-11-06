@@ -1,1 +1,5 @@
-Retrieves objects with the identifier supplied as input that appear in some namespace.
+We present a method to identify approximately independent blocks of linkage disequilibrium in the human genome. These blocks enable automated analysis of multiple genome-wide association studies.
+                code: http://bitbucket.org/nygcresearch/ldetect; data: http://bitbucket.org/nygcresearch/ldetect-data.
+                tberisa@nygenome.org
+                Supplementary data are available at Bioinformatics online.
+                Â© The Author 2015. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.

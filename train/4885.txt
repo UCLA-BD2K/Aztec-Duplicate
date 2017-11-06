@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 1.2 of the SAMTools package. 
+Matlab implementations of continuous max flow variants. Features fast parallel continuous max flow solvers in 2D/3D. 

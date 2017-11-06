@@ -1,1 +1,1 @@
-test tool repository
+A flexible read trimming tool for Illumina NGS data

@@ -1,1 +1,1 @@
-Annotate genotypes in a VCF dataset using genotypes from another VCF dataset.
+Simpa96 @ IBCP (http://gbio-pbil.ibcp.fr)

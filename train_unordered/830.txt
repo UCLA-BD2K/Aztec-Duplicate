@@ -1,1 +1,0 @@
-Authority: mmb.pcb.ub.es  -  Get structure from MD_Compressed_Trajectory

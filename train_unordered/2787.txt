@@ -1,1 +1,0 @@
-Protein solenoid repeat detection from sequence.

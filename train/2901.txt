@@ -1,1 +1,1 @@
-Authors use Europe PMC plus to link grants to their articles.
+This service returns the Ontologies registered on the NIF Ontoquest Server.

@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 2.1.7 of DiscoSNP++
+Authority: mmb.pcb.ub.es  -  Given a PCZ_Report and a desired principal component (0 for ALL), this service extracts Hinge Points with the "Dynamic Domain" method and returns the result of the clustering.

@@ -1,1 +1,9 @@
-NCBI BLAST is a sequence similarity search program. The emphasis is to find regions of sequence similarity, which will yield functional and evolutionary clues about the structure and function of the query sequence. WU-BLAST and NCBI BLAST are distinctly d
+Abstract
+        Motivation: Bayesian inference is widely used nowadays and relies largely on Markov chain Monte Carlo (MCMC) methods. Evolutionary biology has greatly benefited from the developments of MCMC methods, but the design of more complex and realistic models and the ever growing availability of novel data is pushing the limits of the current use of these methods.
+        Results: We present a parallel Metropolis-Hastings (M-H) framework built with a novel combination of enhancements aimed towards parameter-rich and complex models. We show on a parameter-rich macroevolutionary model increases of the sampling speed up to 35 times with 32 processors when compared to a sequential M-H process. More importantly, our framework achieves up to a twentyfold faster convergence to estimate the posterior probability of phylogenetic trees using 32 processors when compared to the well-known software MrBayes for Bayesian inference of phylogenetic trees.
+        Availability and Implementation:
+https://bitbucket.org/XavMeyer/hogan
+        Contact:
+nicolas.salamin@unil.ch
+        Supplementary information:
+Supplementary data are available at Bioinformatics online.

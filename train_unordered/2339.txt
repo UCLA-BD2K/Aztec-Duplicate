@@ -1,1 +1,0 @@
-SNPs phylogenetic tree from assembled genomes or sets of reads

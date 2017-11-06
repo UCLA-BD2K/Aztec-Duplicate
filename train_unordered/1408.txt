@@ -1,1 +1,0 @@
-Power computation for ChIP-Seq data based on Bayesian estimation for local poisson counting process.

@@ -1,1 +1,0 @@
-Scripting support for JavaScript programming language

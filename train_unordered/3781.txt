@@ -1,1 +1,0 @@
-This service provides various ways to retrieve information from The Nuclear Protein Database

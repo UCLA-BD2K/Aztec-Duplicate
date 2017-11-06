@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  compress MD trajectories with PCAZIP
+Retrieves an entry from PDB database.

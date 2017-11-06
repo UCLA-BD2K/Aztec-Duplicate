@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  Given one or more cutoff values, converts a FeatureAASequence object in a PropertySequence object
+Comprised of a large array of sophisticated programs, this comprehensive package is from the Brain Imaging Center at the Montreal Neurological Institute, McGill University. All the tools are based around the MINC file format. Utilities are provided for conversion, viewing, editing, registering, segmentation, and a wide array of analysis. Many programs are in Perl.

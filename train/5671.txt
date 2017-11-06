@@ -1,1 +1,1 @@
-Bayesian haplotype-based polymorphism discovery and genotyping
+The package contains functions for exploratory oligonucleotide array analysis. The dependence on tkWidgets only concerns few convenience functions. 'affy' is fully functional without it.

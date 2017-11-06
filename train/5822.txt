@@ -1,1 +1,1 @@
-Native Windows DICOM viewer with isosurface and various projection techniques
+NetSeed is a web tool and Perl module for analyzing the topology of metabolic networks and calculating the set of exogenously acquired compounds. NetSeed is based on the seed detection algorithm, developed and validated in previous studies. Availability: The NetSeed web-based tool, open-source Perl module, examples and documentation are freely available online at: http://depts.washington.edu/elbogs/NetSeed.

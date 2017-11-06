@@ -1,1 +1,1 @@
-HTML blast results formatter
+Contains a tool dependency definition that downloads and compiles version 3.1 of Augustus

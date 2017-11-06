@@ -1,1 +1,1 @@
-Authority: inb.bsc.es  -  Returns cross references from another cross reference.
+Browse for wiggle files from the NCBI Epigenomics server

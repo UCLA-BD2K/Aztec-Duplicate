@@ -1,1 +1,0 @@
-Automated Affymetrix Array Analysis Preprocessing Package

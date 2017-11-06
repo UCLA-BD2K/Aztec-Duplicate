@@ -1,1 +1,0 @@
-CoNet is a Cytoscape plugin that detects significant associations in presence/absence and abundance matrices.

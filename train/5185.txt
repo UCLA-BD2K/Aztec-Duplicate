@@ -1,1 +1,1 @@
-Sensitive Structural Varient detection(SV) tool
+Contains a tool dependency definition that downloads and compiles version 1.61 of BioPython

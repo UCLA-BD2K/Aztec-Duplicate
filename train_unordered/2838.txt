@@ -1,1 +1,0 @@
-A Local Structural Comparison Program That Allows for User-Defined Structure Representations

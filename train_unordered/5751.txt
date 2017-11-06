@@ -1,1 +1,0 @@
-An open source, freely distributed 3D volume viewer. Cross-platform. MicroView includes numerous image analysis tools and plug-ins. Features include isosuraces, volume rendering, surface shading, reslicing.

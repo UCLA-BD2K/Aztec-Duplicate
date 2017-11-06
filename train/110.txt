@@ -1,1 +1,5 @@
-GWASdb is a one stop shop which combines collections of GVs from GWAS and their comprehensive functional annotations, as well as disease classifications. We aim to help researchers and clinicians to maximize the utilility of the most recent GWAS data and gain biological insights through an integrative, multi-dimensional functional annotation portal. The database provides following functions:
+Summary: With their many replicates and their random layouts, Illumina BeadArrays provide greater scope fordetecting spatial artefacts than do other microarray technologies. They are also robust to artefact exclusion, yet there is a lack of tools that can perform these tasks for Illumina. We present BASH, a tool for this purpose. BASH adopts the concepts of Harshlight, but implements them in a manner that utilizes the unique characteristics of the Illumina technology. Using bead-level data, spatial artefacts of various kinds can thus be identified and excluded from further analyses.
+        Availability: The beadarray Bioconductor package (version 1.10 onwards), www.bioconductor.org
+        Contact:
+andy.lynch@cancer.org.uk
+        Supplementary information: Additional information and a vignette are included in the beadarray package.

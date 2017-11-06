@@ -1,1 +1,1 @@
-Displays a non-overlapping wordmatch dotplot of two sequences
+Authority: inb.bsc.es  -  Displays protein hydropathy.

@@ -1,1 +1,1 @@
-Authority: mmb.pcb.ub.es  -  Searching for a pattern of a given record, in a PDB formatted file
+STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is a database of known and predicted protein-protein interactions. The database contains information from numerous sources, including experimental repositories, computational prediction 

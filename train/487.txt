@@ -1,1 +1,11 @@
-search sequence(s) against a profile database
+Summary
+          Computer simulations play an important role in studies of non-random mating populations. Because of implementation difficulties, only very limited types of non-random mating schemes are provided in the currently available simulation programs. Starting with version 0.8.5, simuPOP provides a few mating schemes that can be used to simulate arbitrary non-random mating models. This article describes the concepts and methods behind these mating schemes and demonstrates their uses in a few examples, including partial self-mating, positive assortative mating, non-random out-breeding, and simulation of overlapping generations in age-structured populations.
+        
+        
+          Availability
+          simuPOP is freely available at http://simupop.sourceforge.net, distributed under a GPL license. Cited examples are in the doc/cookbook directory of a simuPOP distribution.
+        
+        
+          Contact
+          
+            bpeng@mdanderson.org

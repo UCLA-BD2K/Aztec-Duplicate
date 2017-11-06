@@ -1,1 +1,0 @@
-NCBI BLAST is a sequence similarity search program. The emphasis is to find regions of sequence similarity, which will yield functional and evolutionary clues about the structure and function of the query sequence.

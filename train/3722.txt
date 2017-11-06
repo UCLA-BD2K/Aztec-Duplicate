@@ -1,1 +1,3 @@
-DisEMBL is a computational tool for prediction of disordered/unstructured regions within a protein sequence.
+Signature: ./ontologies/detail/{OntologyName}
+Return: one ontology entry.
+Example link: http://nif-services.neuinfo.org/ontoquest/ontologies/detail/NIF

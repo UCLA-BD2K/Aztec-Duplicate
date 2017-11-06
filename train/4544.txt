@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 1.61 of BioPython
+Merge feature annotation from same loci

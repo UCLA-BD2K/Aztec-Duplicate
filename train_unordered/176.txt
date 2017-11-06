@@ -1,1 +1,0 @@
-InnateDB is an integrated analysis platform that has been specifically designed to facilitate systems-level analyses of mammalian innate immunity networks, pathways and genes

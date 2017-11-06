@@ -1,1 +1,0 @@
-CoVennTree compares up to three rooted trees at the same time.

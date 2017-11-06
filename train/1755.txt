@@ -1,1 +1,5 @@
-1) Data transformation for meta-analysis of microarray Data: Transformation of gene expression data to signed probability scale (MCMC/EM methods) 2) Combined differential expression on raw scale: Weighted Z-score after stabilizing mean-variance relation within platform
+Authority: mmb.pcb.ub.es  -  
+                
+                        Run a Simple Molecular Dynamic Simulation (optimization) with Protein-Solvent system (Using Namd program).
+                
+        

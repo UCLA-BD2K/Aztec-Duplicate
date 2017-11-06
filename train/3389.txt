@@ -1,1 +1,1 @@
-A software system designed as a user friendly, platform-independent software package for electron crystallography.
+PeptideShaker Application Package

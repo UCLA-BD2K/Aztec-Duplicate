@@ -1,1 +1,1 @@
-OpenSegSPIM is an open access and user friendly 3D automatic quantitative analysis tool for Single Plane Illumination Microscopy data. The software is designed to extract, in a user-friendly way, quantitative relevant information from SPIM image stacks, such as the number of nu-clei or cells. It provides quantitative measurement (volume, sphericity, distance, intensity) on Light Sheet Fluorescent Microscopy images. Availability and implementation: freely available from
+DeFuse - gene fusion discovery using RNA-Seq data

@@ -1,1 +1,0 @@
-While standard alignment methods rely on comparing single residues and imposing gap penalties, DIALIGN constructs pairwise and multiple alignments by comparing entire segments of the sequences. No gap penalty is used. This approach can be used for both global and local alignment, but it is particularly successful in situations where sequences share only local homologies.

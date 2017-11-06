@@ -1,1 +1,0 @@
-This suite contains Abyss and Abyss-PE config files and wrappers for Galaxy

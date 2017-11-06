@@ -1,1 +1,1 @@
-Protein similarity network generation method for Cytoscape.
+Contains a tool dependency definition that downloads and compiles version 0.6.x of sailfish.

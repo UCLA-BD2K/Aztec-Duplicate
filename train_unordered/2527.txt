@@ -1,1 +1,0 @@
-Sequences from peroxidase superfamilies with annotation on putative functions and transcription regulation.

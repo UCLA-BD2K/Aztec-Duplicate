@@ -1,1 +1,0 @@
-Displays sequences with features in pretty format

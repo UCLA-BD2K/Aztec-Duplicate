@@ -1,7 +1,0 @@
-UniProt is a protein sequence and annotation database. 
-
-query example using this REST service: 
-http://www.uniprot.org/uniprot/P68441
-http://www.uniprot.org/uniref/UniRef90_P33810.xml
-http://www.uniprot.org/uniparc/UPI000000001F
-

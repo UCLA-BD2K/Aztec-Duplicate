@@ -1,1 +1,2 @@
-This package implements a model of per-position sequencing bias in high-throughput sequencing data using a simple Bayesian network, the structure and parameters of which are trained on a set of aligned reads and a reference genome sequence.
+DIANA-miRPath v2 
+A REST service for DIANA-miRPath v2.1 microRNA functional analysis

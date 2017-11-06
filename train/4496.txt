@@ -1,1 +1,1 @@
-ngsap
+Authority: bioinfo.cipf.es  -  This webservice extracts a list of genes from a differential expession test according to your input parameters: the list size and the extraction mode (from top to bottom, or from bottom to top)

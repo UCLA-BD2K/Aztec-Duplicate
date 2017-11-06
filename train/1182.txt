@@ -1,1 +1,1 @@
-Automated Affymetrix Array Analysis Core Package
+Processing annotation data from public data repositories and building protein-centric annotation data packages.

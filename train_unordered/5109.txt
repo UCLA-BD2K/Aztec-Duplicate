@@ -1,1 +1,0 @@
-Sort alignments by leftmost coordinates or read name.

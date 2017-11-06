@@ -1,1 +1,1 @@
-Automated Affymetrix Array Analysis Classification Package
+The package contains functions to perform normalization of high-throughput qPCR data. Basic functions for processing raw Ct data plus functions to generate diagnostic plots are also available.

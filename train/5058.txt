@@ -1,1 +1,1 @@
-reqruitment plot
+Neighbor-Joining and UPGMA methods

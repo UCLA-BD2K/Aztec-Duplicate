@@ -1,1 +1,1 @@
-Creates a peptide fasta from a SnpEff VCF output and an Ensembl all_peps.fa
+cap3 wrapper

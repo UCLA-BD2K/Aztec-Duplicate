@@ -1,1 +1,1 @@
-The Dinucleotide Property Database is designed to collect and analyse thermodynamic, structural and other dinucleotide properties. The table presenting all the dinucleotide properties can be pruned and rearranged by different criteria. The database contains different export and analysis functions.
+Visualiser for the SAM format 

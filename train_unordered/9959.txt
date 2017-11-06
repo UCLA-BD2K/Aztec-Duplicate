@@ -1,1 +1,0 @@
-TREAT (Targeted RE-sequencing Annotation Tool) is a tool for facile navigation and mining of the variants from both targeted resequencing and whole exome sequencing. It provides a rich integration of publicly available as well as in-house developed annotations and visualizations for variants, variant-hosting genes and host-gene pathways.

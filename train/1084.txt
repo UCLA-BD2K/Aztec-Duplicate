@@ -1,2 +1,1 @@
-The service allows you to retrieve or access pathways from the REACTOME database. REACTOME is a free, online, open-source, curated pathway database encompassing many areas of human biology.
-Website: http://www.reactome.org/
+Authority: inb.bsc.es  -  It compares the six-frame translations of a nucleotide query sequence against the six-frame translations of a nucleotide sequence database using the Washington University BLAST algorithm.

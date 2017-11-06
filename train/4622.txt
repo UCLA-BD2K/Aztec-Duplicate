@@ -1,1 +1,1 @@
-eigensoft 5.0.1
+Authority: inb.bsc.es  -  Scan a protein sequence for the occurrence of a pattern.

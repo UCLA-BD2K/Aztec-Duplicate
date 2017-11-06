@@ -1,1 +1,1 @@
-Search PomBase protein set for a given motif
+Sequence data and annotation/curation for the whole range of organisms sequenced by the PSU (Sanger Institute Pathogen Sequencing Units).

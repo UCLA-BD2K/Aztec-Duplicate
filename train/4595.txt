@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and installs version 0.1-4 of the kernlab R library.
+Please send all feedback to development-at-chemspider-dot-comNOTE: Some operations require a "Security Token". To obtain a token please complete the registration process. Security Token is listed at Profile page.

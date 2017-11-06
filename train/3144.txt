@@ -1,1 +1,1 @@
-Search repeats in DNA sequence
+Simply calcuates degree for selected node.

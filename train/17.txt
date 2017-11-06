@@ -1,1 +1,6 @@
-EMBOSS seqret reads and writes (returns) sequences. It is useful for a variety of tasks, including extracting sequences from databases, displaying sequences, reformatting sequences, producing the reverse complement of a sequence, extracting fragments of a sequence, sequence case conversion or any combination of the above functions.
+Summary: MNase-Seq and ChIP-Seq have evolved as popular techniques to study chromatin and histone modification. Although many tools have been developed to identify enriched regions, software tools for nucleosome positioning are still limited. We introduce a flexible and powerful open-source R package, PING 2.0, for nucleosome positioning using MNase-Seq data or MNase– or sonicated– ChIP-Seq data combined with either single-end or paired-end sequencing. PING uses a model-based approach, which enables nucleosome predictions even in the presence of low read counts. We illustrate PING using two paired-end datasets from Saccharomyces cerevisiae and compare its performance with nucleR and ChIPseqR.
+        Availability: PING 2.0 is available from the Bioconductor website at http://bioconductor.org. It can run on Linux, Mac and Windows.
+        Contact:
+rgottard@fhcrc.org
+        Supplementary Information:
+Supplementary material is available at Bioinformatics online.

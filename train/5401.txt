@@ -1,1 +1,1 @@
-Draw Venn Diagram (PDF) from lists, FASTA files, etc
+Formats a database into NCBI BLAST format.

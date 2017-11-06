@@ -1,1 +1,1 @@
-Get a subset of data from a BAM or VCF file
+PRINCIPLE is a Java application implemented as a Cytoscape plug-in, based on a previously published algorithm, PRINCE. Given a query disease, it prioritizes disease-related genes based on their closeness in a proteinâprotein interaction network to genes causing phenotypically similar disorders to the query disease. Availability: Implemented in Java, PRINCIPLE runs over Cytoscape 2.7 or newer versions. Binaries, default input files and documentation are freely available at

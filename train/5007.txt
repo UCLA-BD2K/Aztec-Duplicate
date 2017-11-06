@@ -1,1 +1,1 @@
-R environment dependencies for PRIMS-metabolomics tool set
+GraphiteWeb is a public web server for the analysis and visualization of biological pathways using high-throughput gene and miRNA expression data. It supports five different gene set analysis, three species and two databases of pathways. Graphite web has a powerful pathway visualization that makes results interpretation easily accessible to the user.

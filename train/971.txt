@@ -1,1 +1,1 @@
-The Online SBML Validator allows you to check the syntax and internal consistency of files in SBML (The Systems Biology Markup Language) format. You can upload (or access at an URL) an SBML file (1) by web interface (http://sbml.org/validator/), or (2) by
+Prediction biologically relevant protein interactions and cellular network evolution

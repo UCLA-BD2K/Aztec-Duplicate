@@ -1,1 +1,1 @@
-Calculate secondary structures of RNAs
+This package selects genes associated with survival.

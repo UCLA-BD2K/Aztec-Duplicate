@@ -1,1 +1,1 @@
-Interactive Cluster Heatmap library
+Creates classes used in model-view-controller (MVC) design

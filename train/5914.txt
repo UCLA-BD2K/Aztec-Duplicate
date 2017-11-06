@@ -1,1 +1,1 @@
-ITK-SNAP is a software application used to segment structures in 3D medical images
+Program MOLE 2.0 is a universal toolkit for rapid and accurate location and characterization of channels and pores in molecular   structures. It contains extended options for channel starting point automatic detection and for filtering of obtained channels to select   the relevant channels. Additionally, it allows estimation of basic physicochemical properties of channels.

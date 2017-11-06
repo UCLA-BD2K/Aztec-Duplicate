@@ -1,1 +1,1 @@
- short read mapping with gaps 
+Estimate microsatellite mutability by specified attributes

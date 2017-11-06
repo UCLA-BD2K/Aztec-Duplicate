@@ -1,1 +1,0 @@
-The SpecArray software suite generates a peptide vs. sample expression array from a set of LC-MS data, obtained by analyzing peptide samples under identical LC-MS settings.

@@ -1,1 +1,5 @@
-Align EST and genomic DNA sequences
+Authority: mmb.pcb.ub.es  -  
+            
+                    Runs an Energy Minimization of the Structure (Using Gromacs package).
+            
+    

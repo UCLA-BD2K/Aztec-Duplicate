@@ -1,1 +1,0 @@
-Flexible tools for genome arithmetic and NGS analysis.

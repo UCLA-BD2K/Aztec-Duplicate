@@ -1,1 +1,1 @@
-Call miseq variants using a BAM file
+A sequence logo visualizer

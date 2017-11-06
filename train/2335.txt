@@ -1,1 +1,1 @@
-ab initio predictions of enzyme class (if any) from sequence
+A normalization tool for RNA-Seq data, implementing the conditional quantile normalization method.

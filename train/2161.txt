@@ -1,1 +1,1 @@
-Methods to create complex IGV genome browser sessions and dynamic IGV reports in HTML pages.
+Contains a tool dependency definition that downloads and installs version 0.10.5 of kraken.

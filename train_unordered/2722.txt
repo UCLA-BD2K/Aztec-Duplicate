@@ -1,1 +1,0 @@
-MPAgenomics is a package for multi-patients analysis of genomic markers. It is devoted to (i) efficient segmentation and (ii) genomic marker selection from multi-patient copy number and SNP data profiles.

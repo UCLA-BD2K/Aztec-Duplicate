@@ -1,1 +1,1 @@
-Convert biosequences between a selection of common biological sequence formats
+Mapsembler2 is a targeted assembly software

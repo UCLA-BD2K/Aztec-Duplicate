@@ -1,1 +1,1 @@
-Ultrafast memory-efficient short read aligner
+Convert profile HMM file to a HMMER format

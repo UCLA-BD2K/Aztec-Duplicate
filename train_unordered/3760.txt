@@ -1,1 +1,0 @@
-Enables querying of KEGG databases (pathway, ligand, disease, gene, drug etc).

@@ -1,1 +1,12 @@
-Selective Plane Illumination Microscopy (SPIM) allows to image developing organisms in 3D at unprecedented temporal resolution over long periods of time. The resulting massive amounts of raw image data requires extensive processing interactively via dedicated graphical user interface (GUI) applications. The consecutive processing steps can be easily automated and the individual time points can be processed independently, which lends itself to trivial paralleliza-tion on a high performance computing (HPC) cluster. Here, we introduce an automated workflow for processing large multiview, multichannel, multiillumination time-lapse SPIM data on a single workstation or in parallel on a HPC cluster. The pipeline relies on snakemake to resolve dependencies among consecutive processing steps and can be easily adapted to any cluster environment for processing SPIM data in a fraction of the time required to collect it. Availability and implementation: The code is distributed free and open source under the MIT license
+
+This is a Web service interface to the Jaspar database which contain profiles of transcription factor binding sites. 
+Profiles can be fetched as Position Frequency Matrices (PFM), Position Weight Matrices (PWM), or
+Information Content Matrices (ICM).
+
+
+				JASPAR: an open-access database for eukaryotic transcription factor binding profiles.
+Sandelin A, Alkema W, Engstrom P, Wasserman WW, Lenhard B. PMID: 14681366
+				http://jaspar.genereg.net/
+				0.2 (beta service)
+			
+		

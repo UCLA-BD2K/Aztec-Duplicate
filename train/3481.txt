@@ -1,1 +1,1 @@
-Neural network predictions of cleavage sites of picornaviral proteases
+Detecting all relevant variables from a data set is challenging, especially when only few samples are available and data is noisy. Stability ranking provides improved variable rankings of increased robustness using resampling or subsampling.

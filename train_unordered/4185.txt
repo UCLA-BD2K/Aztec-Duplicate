@@ -1,1 +1,0 @@
-Galaxy applicable data formats used by Emboss tools.

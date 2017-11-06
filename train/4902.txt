@@ -1,1 +1,1 @@
-RNA-Folding including predefined segments including K-turns
+abiview reads in an ABI sequence trace file and graphically displays the results.

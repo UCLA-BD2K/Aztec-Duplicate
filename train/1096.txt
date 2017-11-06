@@ -1,3 +1,1 @@
- 
-	The EasyGene 1.0 server produces a list of predicted genes given a sequence of prokaryotic 
-	DNA
+Polyfit is an add-on to the packages DESeq which ensures the p-value distribution is uniform over the interval [0, 1] for data satisfying the null hypothesis of no differential expression, and uses an adpated Storey-Tibshiran method to calculate q-values.

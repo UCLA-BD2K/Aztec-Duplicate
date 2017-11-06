@@ -1,1 +1,1 @@
-Contains a tool dependency definition that downloads and compiles version 0.13.x of the the scikit-learn package.
+Deformation energy and nucleosome-positioning score calculator

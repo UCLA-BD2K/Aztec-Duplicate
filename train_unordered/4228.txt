@@ -1,1 +1,0 @@
-Quality format converter (ASCII-Numeric)

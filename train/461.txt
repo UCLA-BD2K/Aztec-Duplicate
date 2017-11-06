@@ -1,1 +1,4 @@
-Takes UniProtKB:Swiss-Prot identifier and a BLAST E-value as input. Retrieves similar sequences from UniProtKB:Swiss-Prot and creates a protein family report.
+Summary: Arcadia translates text-based descriptions of biological networks (SBML files) into standardized diagrams (SBGN PD maps). Users can view the same model from different perspectives and easily alter the layout to emulate traditional textbook representations.
+        Availability and Implementation: Arcadia is written in C++. The source code is available (along with Mac OS and Windows binaries) under the GPL from http://arcadiapathways.sourceforge.net/
+        Contact: alice.villeger@manchester.ac.uk
+        Supplementary information: Supplementary data are available at Bioinformatics online.

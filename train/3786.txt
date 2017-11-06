@@ -1,1 +1,1 @@
-This service retrieves data per NIF source in xml.
+Fast trimming to filter out non-confident  nucleotides and alien oligo-nucleotide sequences (adaptors, primers) in both 5' and 3' read ends.

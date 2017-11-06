@@ -1,1 +1,0 @@
-Set of Web service (WS) operations prepared for use in the Taverna Workbench. Target application area is the System Biology field, in particular, analysis of the kinetic models of biological systems. Services support Systems Biology Markup Language (SBML)

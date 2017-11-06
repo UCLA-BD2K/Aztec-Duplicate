@@ -1,1 +1,0 @@
-Clips 3' adapters for small RNA sequencing reads.

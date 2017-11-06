@@ -1,1 +1,1 @@
-Memory efficient S4 classes for storing sequences "externally" (behind an R external pointer, or on disk).
+DbClustal is a ClustalW based alignment workflow for sequences identified by a protein BLAST (NCBI BLAST or WU-BLAST) search. Unlike MView (MView (REST) or MView (SOAP)) the multiple sequence alignment created by DbClustal has the complete sequence of the

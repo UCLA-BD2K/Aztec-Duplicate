@@ -1,1 +1,0 @@
-Lindenmayer ist ein Programm zur Visualisierung von L- bzw Lindenmayer-Systemen mittels hübscher Baumgrafiken. Die ausführbaren Dateien und Hinweise zum Quellcode finden Sie auf unserer Homepage unter

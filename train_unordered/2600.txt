@@ -1,1 +1,0 @@
-COMMET (â€œCOmpare Multiple METagenomesâ€x9d) provides a global similarity overview between all datasets of a large metagenomic project.

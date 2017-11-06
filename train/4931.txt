@@ -1,1 +1,1 @@
- Contains a tool dependency definition that downloads the binary version 22.4 of tbl2asn. 
+Authority: cnio.es  -  CExonic compares the conservation of exon structure between humans and other species. The method is applicable to any sequenced eukaryotic genome. At the moment, it details the human-mouse comparison.

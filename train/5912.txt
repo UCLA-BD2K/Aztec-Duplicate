@@ -1,1 +1,1 @@
-CellProfiler is free open-source software designed to enable biologists without training in computer vision or programming to quantitatively measure phenotypes from thousands of images automatically.
+A database of validation results for all residues and ligands from the Protein Data Bank. The database provides overview &amp; interactive table for each PDB entry and each residue and overall statistics for the whole validation.
